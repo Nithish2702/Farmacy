@@ -1,0 +1,44 @@
+############################
+# Root Git Ignore for Farmacy
+############################
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node / JS (extra safety at root)
+node_modules/
+*.tsbuildinfo
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Env / secrets at root (defense in depth)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+google-services.json
+FarmacyBackend-main/google-services.json
+FarmacyFrontend-main/FIREBASE_SETUP.md
+
+# Firebase / Google service account credentials
+farmacy-3e39b-firebase-adminsdk-fbsvc-e7fe7a6753.json
+farmacy_service_acc_googele_api.json
+

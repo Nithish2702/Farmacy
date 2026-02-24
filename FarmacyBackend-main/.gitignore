@@ -1,0 +1,15 @@
+venv
+siva/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+# Firebase / Google service account credentials
+farmacy-3e39b-firebase-adminsdk-fbsvc-e7fe7a6753.json
+farmacy_service_acc_googele_api.json
+google-services.json
+.expo
+ 

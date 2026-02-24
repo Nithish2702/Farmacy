@@ -1,0 +1,73 @@
+fastapi==0.115.12
+fastapi-cli==0.0.7
+uvicorn==0.34.2
+python-multipart
+
+redis==6.2.0
+requests==2.32.3
+aiohttp==3.12.6
+PyJWT==2.10.1
+cryptography==45.0.3
+aioredis==2.0.1
+asyncpg==0.29.0
+passlib==1.7.4
+bcrypt==4.3.0
+googletrans==4.0.2
+apscheduler==3.11.0
+apscheduler[postgresql]==3.11.0
+user-agents==2.2.0
+httpx==0.28.1
+groq==0.26.0
+pillow==11.2.1
+colorama==0.4.6
+colorlog==6.9.0
+contourpy==1.3.2
+pytz==2024.1
+
+# Pydantic & Settings
+pydantic==2.11.5
+pydantic-extra-types==2.10.4
+pydantic-settings==2.9.1
+pydantic_core==2.33.2
+typing_extensions==4.13.2
+dnspython==2.7.0
+email-validator==2.2.0
+
+# SQLAlchemy & Migrations
+SQLAlchemy==2.0.41
+alembic==1.16.1
+psycopg2-binary==2.9.10  # For PostgreSQL
+
+# Supabase & Tools
+supabase==2.15.2
+storage3==0.11.3
+postgrest==1.0.2
+realtime==2.4.3
+gotrue==2.12.0
+
+# Firebase Admin SDK
+firebase-admin==6.8.0
+
+# Google Cloud Services
+google-api-core==2.24.2
+google-api-python-client==2.170.0
+google-auth==2.40.2
+google-auth-httplib2==0.2.0
+google-cloud-core==2.4.3
+google-cloud-firestore==2.20.2
+google-cloud-storage==3.1.0
+google-cloud-translate==3.20.2
+google-crc32c==1.7.1
+google-resumable-media==2.7.2
+googleapis-common-protos==1.70.0
+google-ai-generativelanguage==0.6.15
+google-generativeai==0.8.5
+proto-plus==1.26.1
+protobuf==5.29.5
+httplib2==0.22.0
+uritemplate==4.1.1
+
+uvicorn==0.34.2
+gunicorn==23.0.0
+python-multipart==0.0.20
+python-dotenv==1.1.0

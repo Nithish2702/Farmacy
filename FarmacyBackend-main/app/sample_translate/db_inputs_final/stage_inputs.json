@@ -1,0 +1,3474 @@
+[
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and puddling.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, crop residues, and stones to ensure a clean seedbed. This step is crucial for uniform germination, strong seedling establishment, and reducing the risk of pests and diseases carried over from previous crops."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2–3 times to a depth of 10–15 cm. This breaks up compacted soil, improves aeration, and allows for the incorporation of organic matter (like compost or farmyard manure), which enhances soil fertility and root development."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after ploughing and before puddling. Uniform leveling ensures even water distribution, preventing waterlogging in low spots and drought stress in high spots, both of which can hurt crop establishment and yield."
+            },
+            "bunds": {
+              "title": "Bunds",
+              "description": "Construct or repair bunds (raised borders) around the field. Strong, intact bunds are essential for retaining irrigation water, preventing runoff, and facilitating water management throughout the crop cycle."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water and puddle (churn) the soil to create a soft, muddy bed. Puddling suppresses weeds, reduces water percolation losses, and prepares the soil for easy transplanting, standard practice for rice in Telangana's canal and tank-irrigated areas."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన క్లియరింగ్, దున్నడం, చదును చేయడం మరియు పుడ్లింగ్ ద్వారా సరైన వరి సాగుకు పొలాన్ని సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "ఫీల్డ్‌ను క్లియర్ చేయండి",
+              "description": "శుభ్రమైన విత్తన నేలను నిర్ధారించడానికి అన్ని కలుపు మొక్కలు, పంట అవశేషాలు మరియు రాళ్లను తొలగించండి. ఏకరీతి అంకురోత్పత్తి, బలమైన మొలకల స్థాపన మరియు మునుపటి పంటల నుండి వచ్చే తెగుళ్ళు మరియు వ్యాధుల ప్రమాదాన్ని తగ్గించడానికి ఈ దశ చాలా ముఖ్యమైనది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "పొలాన్ని 2-3 సార్లు 10-15 సెం.మీ లోతు వరకు దున్నండి. ఇది కుదించబడిన మట్టిని విచ్ఛిన్నం చేస్తుంది, గాలిని మెరుగుపరుస్తుంది మరియు సేంద్రీయ పదార్థాలను (కంపోస్ట్ లేదా పొల ఎరువు వంటివి) కలపడానికి అనుమతిస్తుంది, ఇది నేల సారాన్ని మరియు వేర్ల అభివృద్ధిని పెంచుతుంది."
+            },
+            "leveling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత మరియు పుడ్లింగ్ చేసే ముందు పొలాన్ని చదును చేయండి. ఏకరీతి లెవలింగ్ నీటి పంపిణీని నిర్ధారిస్తుంది, తక్కువ ప్రాంతాలలో నీరు నిలిచిపోకుండా మరియు ఎత్తైన ప్రదేశాలలో కరువు ఒత్తిడిని నివారిస్తుంది, ఈ రెండూ పంట స్థాపన మరియు దిగుబడిని దెబ్బతీస్తాయి."
+            },
+            "bunds": {
+              "title": "కట్టలు",
+              "description": "పొలం చుట్టూ కట్టలను (ఎత్తైన సరిహద్దులు) నిర్మించండి లేదా మరమ్మతు చేయండి. నీటిపారుదల నీటిని నిలుపుకోవడానికి, ప్రవాహాన్ని నివారించడానికి మరియు పంట చక్రం అంతటా నీటి నిర్వహణను సులభతరం చేయడానికి బలమైన, చెక్కుచెదరకుండా ఉండే కట్టలు అవసరం."
+            },
+            "flooding_and_puddling": {
+              "title": "వరదలు మరియు పుడ్లింగ్",
+              "description": "పొలాన్ని నీటితో నింపి, మట్టిని గుంతలుగా చేసి, మృదువైన, బురదగా ఉండేలా చేయండి. బురద కలుపు మొక్కలను అణిచివేస్తుంది, నీటి చొరబాటు నష్టాలను తగ్గిస్తుంది మరియు తెలంగాణలోని కాలువ మరియు చెరువుల ద్వారా సాగుచేసే ప్రాంతాలలో వరి కోసం ప్రామాణిక పద్ధతిలో సులభంగా నాటడానికి నేలను సిద్ధం చేస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "उचित सफाई, जुताई, समतलीकरण और पोखरीकरण के माध्यम से इष्टतम चावल की खेती के लिए खेत तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "फ़ील्ड साफ़ करें",
+              "description": "सभी खरपतवार, फसल अवशेष और पत्थरों को हटा दें ताकि बीज की क्यारी साफ हो जाए। यह कदम एक समान अंकुरण, मजबूत अंकुर स्थापना और पिछली फसलों से कीटों और बीमारियों के जोखिम को कम करने के लिए महत्वपूर्ण है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "खेत को 2-3 बार 10-15 सेमी की गहराई तक जोतें। इससे जमी हुई मिट्टी टूट जाती है, वायु संचार बेहतर होता है और जैविक पदार्थ (जैसे खाद या खेत की खाद) को शामिल करने की सुविधा मिलती है, जिससे मिट्टी की उर्वरता और जड़ विकास बढ़ता है।"
+            },
+            "leveling": {
+              "title": "लेवलिंग",
+              "description": "जुताई के बाद और पडलिंग से पहले खेत को समतल करें। एक समान समतलीकरण से पानी का समान वितरण सुनिश्चित होता है, जिससे निचले स्थानों पर जलभराव और ऊंचे स्थानों पर सूखे का तनाव नहीं होता, जो दोनों ही फसल की स्थापना और उपज को नुकसान पहुंचा सकते हैं।"
+            },
+            "bunds": {
+              "title": "मेढ़ों",
+              "description": "खेत के चारों ओर मेड़ (उभरी हुई सीमाएँ) बनाएँ या उनकी मरम्मत करें। सिंचाई के पानी को बनाए रखने, अपवाह को रोकने और पूरे फसल चक्र में जल प्रबंधन को सुविधाजनक बनाने के लिए मजबूत, बरकरार मेड़ आवश्यक हैं।"
+            },
+            "flooding_and_puddling": {
+              "title": "बाढ़ और जलभराव",
+              "description": "खेत में पानी भर दें और मिट्टी को गड्ढा (मथना) करके नरम, कीचड़दार बिस्तर बना लें। गड्ढा बनाने से खरपतवार दब जाते हैं, पानी का रिसाव कम होता है और मिट्टी आसानी से रोपाई के लिए तैयार हो जाती है, जो तेलंगाना के नहर और टैंक-सिंचित क्षेत्रों में चावल के लिए मानक अभ्यास है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and disease resistance.",
+          "sub_steps": {
+            "select_seeds": {
+              "title": "Select Seeds",
+              "description": "Use only healthy, certified Tella Hamsa seeds for high germination and genetic purity. Certified seeds reduce the risk of seed-borne diseases and ensure uniform crop stands."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Soak seeds in clean water for 24 hours, then wrap them in a wet cloth for 24–36 hours until they sprout. Treat sprouted seeds with a fungicide like carbendazim (2g/kg seed) to protect against seed-borne fungi and diseases."
+            },
+            "nursery_bed": {
+              "title": "Nursery Bed",
+              "description": "Prepare a raised nursery bed covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate. Sow sprouted seeds evenly and irrigate regularly to produce healthy, disease-free seedlings for transplanting."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "నాణ్యమైన విత్తనాలను ఎంచుకుని, వాటిని సరైన అంకురోత్పత్తి మరియు వ్యాధి నిరోధకత కోసం సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "select_seeds": {
+              "title": "విత్తనాలను ఎంచుకోండి",
+              "description": "అధిక అంకురోత్పత్తి మరియు జన్యు స్వచ్ఛత కోసం ఆరోగ్యకరమైన, ధృవీకరించబడిన తెల్ల హంస విత్తనాలను మాత్రమే ఉపయోగించండి. ధృవీకరించబడిన విత్తనాలు విత్తనం ద్వారా సంక్రమించే వ్యాధుల ప్రమాదాన్ని తగ్గిస్తాయి మరియు ఏకరీతి పంట నిలకడను నిర్ధారిస్తాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "విత్తనాలను శుభ్రమైన నీటిలో 24 గంటలు నానబెట్టి, ఆపై అవి మొలకెత్తే వరకు 24–36 గంటలు తడి గుడ్డలో చుట్టండి. విత్తనాల ద్వారా సంక్రమించే శిలీంధ్రాలు మరియు వ్యాధుల నుండి రక్షించడానికి కార్బెండజిమ్ (2 గ్రా/కిలో విత్తనం) వంటి శిలీంద్ర సంహారిణితో మొలకెత్తిన విత్తనాలను చికిత్స చేయండి."
+            },
+            "nursery_bed": {
+              "title": "నర్సరీ బెడ్",
+              "description": "ప్రధాన పొలంలో 1/20వ వంతు విస్తీర్ణంలో ఎత్తైన నర్సరీ బెడ్‌ను సిద్ధం చేయండి. బాగా కుళ్ళిన పొల ఎరువు (FYM) మరియు అవసరమైతే, జింక్ సల్ఫేట్ కలపండి. మొలకెత్తిన విత్తనాలను సమానంగా విత్తండి మరియు క్రమం తప్పకుండా నీళ్ళు పోసి నాటడానికి ఆరోగ్యకరమైన, వ్యాధి రహిత మొలకలను ఉత్పత్తి చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "गुणवत्ता वाले बीजों का चयन करें और उन्हें इष्टतम अंकुरण और रोग प्रतिरोधकता के लिए उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "select_seeds": {
+              "title": "बीज चुनें",
+              "description": "उच्च अंकुरण और आनुवंशिक शुद्धता के लिए केवल स्वस्थ, प्रमाणित टेला हम्सा बीजों का उपयोग करें। प्रमाणित बीज बीज जनित रोगों के जोखिम को कम करते हैं और एक समान फसल सुनिश्चित करते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "बीजों को 24 घंटे के लिए साफ पानी में भिगोएँ, फिर उन्हें 24-36 घंटे तक गीले कपड़े में लपेटकर रखें जब तक कि वे अंकुरित न हो जाएँ। अंकुरित बीजों को कार्बेन्डाजिम (2 ग्राम/किग्रा बीज) जैसे फफूंदनाशक से उपचारित करें ताकि बीज जनित फफूंद और बीमारियों से बचा जा सके।"
+            },
+            "nursery_bed": {
+              "title": "नर्सरी बिस्तर",
+              "description": "मुख्य खेत के लगभग 1/20 भाग को कवर करने वाली एक ऊँची नर्सरी क्यारी तैयार करें। इसमें अच्छी तरह से सड़ी हुई गोबर की खाद (FYM) और, यदि आवश्यक हो, तो जिंक सल्फेट मिलाएँ। अंकुरित बीजों को समान रूप से बोएँ और रोपाई के लिए स्वस्थ, रोग-मुक्त पौधे तैयार करने के लिए नियमित रूप से सिंचाई करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Transplanting",
+        "description": {
+          "overview": "Transplant healthy seedlings at the right age and spacing for optimal establishment and growth.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings when they are 15–25 days old. Younger seedlings (closer to 15 days) establish more vigorously, while older ones (up to 25 days) may be used if nursery growth is slow."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Plant seedlings at a close spacing of 15 x 15 cm. This denser spacing encourages more tillering (production of productive shoots) and rapid canopy closure, which suppresses weeds and can improve yields."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Place seedlings at a depth of 2–4 cm. Shallow planting ensures quick establishment and reduces transplant shock, promoting strong early growth."
+            },
+            "water_management": {
+              "title": "Water Management",
+              "description": "Maintain a shallow water layer (about 5 cm) in the field after transplanting. This supports seedling establishment, minimizes weed germination, and reduces the risk of transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "మార్పిడి",
+        "description": {
+          "overview": "సరైన పెరుగుదల మరియు స్థాపన కోసం ఆరోగ్యకరమైన మొలకలను సరైన వయస్సు మరియు అంతరంలో నాటండి.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "మొలక వయస్సు",
+              "description": "ఆరోగ్యకరమైన మొలకలను 15-25 రోజుల వయస్సు ఉన్నప్పుడు నాటుకోవాలి. చిన్న మొలకలు (15 రోజులకు దగ్గరగా) మరింత బలంగా మొలకెత్తుతాయి, నర్సరీ పెరుగుదల నెమ్మదిగా ఉంటే పెద్ద మొలకలను (25 రోజుల వరకు) ఉపయోగించవచ్చు."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "15 x 15 సెం.మీ. దగ్గరి అంతరంతో మొలకలను నాటండి. ఈ దట్టమైన అంతరం ఎక్కువ పిలకలు వేయడం (ఉత్పాదక రెమ్మల ఉత్పత్తి) మరియు త్వరితంగా కప్పడం మూసివేతను ప్రోత్సహిస్తుంది, ఇది కలుపు మొక్కలను అణిచివేస్తుంది మరియు దిగుబడిని మెరుగుపరుస్తుంది."
+            },
+            "planting_depth": {
+              "title": "నాటడం లోతు",
+              "description": "మొలకలను 2–4 సెం.మీ లోతులో ఉంచండి. లోతు తక్కువగా నాటడం వల్ల మొక్కలు త్వరగా స్థిరపడతాయి మరియు మార్పిడి షాక్‌ను తగ్గిస్తాయి, బలమైన ప్రారంభ పెరుగుదలను ప్రోత్సహిస్తాయి."
+            },
+            "water_management": {
+              "title": "నీటి నిర్వహణ",
+              "description": "నాట్లు వేసిన తర్వాత పొలంలో నిస్సారమైన నీటి పొరను (సుమారు 5 సెం.మీ.) ఉంచండి. ఇది మొలకల ఏర్పాటుకు తోడ్పడుతుంది, కలుపు అంకురోత్పత్తిని తగ్గిస్తుంది మరియు నాట్లు దెబ్బతినే ప్రమాదాన్ని తగ్గిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "प्रत्यारोपण",
+        "description": {
+          "overview": "इष्टतम स्थापना और विकास के लिए स्वस्थ पौधों को सही उम्र और अंतराल पर रोपें।",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "अंकुर की आयु",
+              "description": "स्वस्थ पौधों को तब रोपें जब वे 15-25 दिन के हो जाएं। छोटे पौधे (15 दिन के करीब) अधिक मजबूती से स्थापित होते हैं, जबकि अगर नर्सरी की वृद्धि धीमी है तो पुराने पौधे (25 दिन तक) का उपयोग किया जा सकता है।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "पौधों को 15 x 15 सेमी की दूरी पर लगाएं। यह सघन दूरी अधिक टिलरिंग (उत्पादक अंकुरों का उत्पादन) और तेजी से छत्र बंद होने को प्रोत्साहित करती है, जो खरपतवारों को दबाती है और उपज में सुधार कर सकती है।"
+            },
+            "planting_depth": {
+              "title": "रोपण गहराई",
+              "description": "पौधों को 2-4 सेमी की गहराई पर लगाएं। उथली रोपाई से शीघ्र स्थापना सुनिश्चित होती है और प्रत्यारोपण के झटके कम होते हैं, जिससे मजबूत शुरुआती विकास को बढ़ावा मिलता है।"
+            },
+            "water_management": {
+              "title": "जल प्रबंधन",
+              "description": "रोपाई के बाद खेत में उथली पानी की परत (लगभग 5 सेमी) बनाए रखें। इससे अंकुरों की स्थापना में मदद मिलती है, खरपतवार का अंकुरण कम होता है और रोपाई के झटके का जोखिम कम होता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Apply well-rotted farmyard manure or compost (5–10 tons/ha) during land preparation. This improves soil structure, water retention, and nutrient availability."
+            },
+            "fertilizer_dosages": {
+              "title": "Fertilizer Dosages",
+              "description": "Kharif Season - Nitrogen (N): 80 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 40 kg/ha. Rabi Season - Nitrogen (N): 120 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 40 kg/ha. Higher N in Rabi due to cooler conditions and longer crop duration."
+            },
+            "top_dressing": {
+              "title": "Top Dressing",
+              "description": "Apply nitrogen and potassium in two or three splits: Basal (at transplanting), At active tillering (25–30 days after transplanting), At panicle initiation (45–50 days after transplanting). This matches nutrient supply to crop demand and maximizes yield."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) if deficiency symptoms (bronzing, stunted growth) are observed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "సరైన పంట పెరుగుదల మరియు దిగుబడికి తోడ్పడటానికి తగిన ఎరువులు మరియు పోషకాలను వేయండి.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "సేంద్రియ ఎరువు",
+              "description": "భూమిని సిద్ధం చేసేటప్పుడు బాగా కుళ్ళిన పొల ఎరువు లేదా కంపోస్ట్ (5–10 టన్నులు/హెక్టారు) వేయండి. ఇది నేల నిర్మాణం, నీటి నిలుపుదల మరియు పోషకాల లభ్యతను మెరుగుపరుస్తుంది."
+            },
+            "fertilizer_dosages": {
+              "title": "ఎరువుల మోతాదులు",
+              "description": "ఖరీఫ్ సీజన్ - నత్రజని (ఉష్ణమండలం): 80 కిలోలు/హె, భాస్వరం (P₂O₅): 60 కిలోలు/హె, పొటాషియం (K₂O): 40 కిలోలు/హె. రబీ సీజన్ - నత్రజని (ఉష్ణమండలం): 120 కిలోలు/హె, భాస్వరం (P₂O₅): 60 కిలోలు/హె, పొటాషియం (K₂O): 40 కిలోలు/హె. రబీలో చల్లని పరిస్థితులు మరియు ఎక్కువ పంట వ్యవధి కారణంగా అధిక నత్రజని ఉంటుంది."
+            },
+            "top_dressing": {
+              "title": "టాప్ డ్రెస్సింగ్",
+              "description": "నత్రజని మరియు పొటాషియంను రెండు లేదా మూడు భాగాలుగా వేయండి: బేసల్ (నాటే సమయంలో), చురుకైన పిలకలు వేసేటప్పుడు (నాటే 25–30 రోజుల తర్వాత), కంకులు వేసేటప్పుడు (నాటే 45–50 రోజుల తర్వాత). ఇది పంట డిమాండ్‌కు పోషకాల సరఫరాను సరిపోల్చుతుంది మరియు దిగుబడిని పెంచుతుంది."
+            },
+            "micronutrients": {
+              "title": "సూక్ష్మపోషకాలు",
+              "description": "లోప లక్షణాలు (కాంస్య రంగు మారడం, పెరుగుదల మందగించడం) గమనించినట్లయితే జింక్ సల్ఫేట్ (హెక్టారుకు 25 కిలోలు) వేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "फसल की इष्टतम वृद्धि और उपज के लिए उपयुक्त उर्वरक और पोषक तत्वों का प्रयोग करें।",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "जैविक खाद",
+              "description": "भूमि की तैयारी के दौरान अच्छी तरह से सड़ी हुई गोबर की खाद या कम्पोस्ट (5-10 टन/हेक्टेयर) डालें। इससे मिट्टी की संरचना, जल धारण क्षमता और पोषक तत्वों की उपलब्धता में सुधार होता है।"
+            },
+            "fertilizer_dosages": {
+              "title": "उर्वरक खुराक",
+              "description": "खरीफ सीजन - नाइट्रोजन (N): 80 किग्रा/हेक्टेयर, फॉस्फोरस (P₂O₅): 60 किग्रा/हेक्टेयर, पोटेशियम (K₂O): 40 किग्रा/हेक्टेयर। रबी सीजन - नाइट्रोजन (N): 120 किग्रा/हेक्टेयर, फॉस्फोरस (P₂O₅): 60 किग्रा/हेक्टेयर, पोटेशियम (K₂O): 40 किग्रा/हेक्टेयर। ठंडी परिस्थितियों और लंबी फसल अवधि के कारण रबी में नाइट्रोजन की मात्रा अधिक होती है।"
+            },
+            "top_dressing": {
+              "title": "शीर्ष पेहनावा",
+              "description": "नाइट्रोजन और पोटेशियम को दो या तीन हिस्सों में डालें: बेसल (रोपाई के समय), सक्रिय टिलरिंग के समय (रोपाई के 25-30 दिन बाद), पैनिकल की शुरुआत के समय (रोपाई के 45-50 दिन बाद)। यह पोषक तत्वों की आपूर्ति को फसल की मांग से मेल खाता है और उपज को अधिकतम करता है।"
+            },
+            "micronutrients": {
+              "title": "सूक्ष्म पोषक",
+              "description": "यदि कमी के लक्षण (कांस्य रंग, अवरुद्ध विकास) दिखाई दें तो जिंक सल्फेट (25 किग्रा/हेक्टेयर) का प्रयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while conserving water resources.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a 5–7 cm water depth during key stages like tillering and flowering. Tella Hamsa is more water-efficient than traditional varieties, making it suitable for areas with limited irrigation."
+            },
+            "water_saving_methods": {
+              "title": "Water-Saving Methods",
+              "description": "Tella Hamsa adapts well to direct seeding, wet direct seeding, and drum seeding, which save water and labor compared to traditional transplanting."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Practice AWD by letting the field dry for a few days before re-irrigating, especially after the vegetative stage, to further save water without yield loss."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water from the field 7–10 days before harvest to allow the soil to dry, making harvesting easier and reducing grain moisture."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి వనరులను ఆదా చేస్తూ దిగుబడిని ఆప్టిమైజ్ చేయడానికి పంట చక్రం అంతటా నీటిని సమర్ధవంతంగా నిర్వహించండి.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "నీటిపారుదల",
+              "description": "పిలకలు వేయడం మరియు పుష్పించడం వంటి కీలక దశలలో 5–7 సెం.మీ నీటి లోతును నిర్వహించండి. తెల్ల హంస సాంప్రదాయ రకాల కంటే నీటి సామర్థ్యం ఎక్కువగా ఉంటుంది, ఇది పరిమిత నీటిపారుదల ఉన్న ప్రాంతాలకు అనుకూలంగా ఉంటుంది."
+            },
+            "water_saving_methods": {
+              "title": "నీటిని ఆదా చేసే పద్ధతులు",
+              "description": "తెల్ల హంస ప్రత్యక్ష విత్తనోత్పత్తి, తడి ప్రత్యక్ష విత్తనోత్పత్తి మరియు డ్రమ్ విత్తనోత్పత్తికి బాగా అనుగుణంగా ఉంటుంది, ఇవి సాంప్రదాయ మార్పిడితో పోలిస్తే నీరు మరియు శ్రమను ఆదా చేస్తాయి."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "ఆల్టర్నేట్ వెట్టింగ్ అండ్ డ్రైయింగ్ (AWD)",
+              "description": "దిగుబడి నష్టం జరగకుండా నీటిని మరింత ఆదా చేయడానికి, ముఖ్యంగా ఏపుగా పెరిగిన దశ తర్వాత, తిరిగి నీరు పెట్టే ముందు కొన్ని రోజులు పొలాన్ని ఆరనివ్వడం ద్వారా AWD సాధన చేయండి."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "కోతకు 7-10 రోజుల ముందు పొలం నుండి నీటిని తీసివేయండి, తద్వారా నేల ఎండిపోయేలా చేయండి, దీని వలన కోత సులభతరం అవుతుంది మరియు ధాన్యం తేమ తగ్గుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जल संसाधनों का संरक्षण करते हुए उपज को अधिकतम करने के लिए पूरे फसल चक्र में जल का कुशलतापूर्वक प्रबंधन करें।",
+          "sub_steps": {
+            "irrigation": {
+              "title": "सिंचाई",
+              "description": "टिलरिंग और फूल आने जैसी मुख्य अवस्थाओं के दौरान 5-7 सेमी पानी की गहराई बनाए रखें। टेला हम्सा पारंपरिक किस्मों की तुलना में अधिक पानी-कुशल है, जो इसे सीमित सिंचाई वाले क्षेत्रों के लिए उपयुक्त बनाता है।"
+            },
+            "water_saving_methods": {
+              "title": "जल-बचत के तरीके",
+              "description": "टेला हम्सा प्रत्यक्ष बीजारोपण, गीली प्रत्यक्ष बीजारोपण, तथा ड्रम बीजारोपण के लिए अच्छी तरह अनुकूल है, जिससे पारंपरिक रोपाई की तुलना में पानी और श्रम की बचत होती है।"
+            },
+            "alternate_wetting_and_drying": {
+              "title": "वैकल्पिक गीला करना और सुखाना (AWD)",
+              "description": "पुनः सिंचाई से पहले कुछ दिनों के लिए खेत को सूखने देकर AWD का अभ्यास करें, विशेष रूप से वनस्पति अवस्था के बाद, ताकि उपज की हानि के बिना पानी की और अधिक बचत हो सके।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "कटाई से 7-10 दिन पहले खेत से पानी निकाल दें ताकि मिट्टी सूख जाए, जिससे कटाई आसान हो जाएगी और अनाज की नमी कम हो जाएगी।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Control weeds, pests, and diseases to protect crop health and maximize yield potential.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "Manual/Mechanical Weed Control",
+              "description": "Perform early weeding (20–30 days after transplanting) by hand or with mechanical weeders (such as three-row power weeders) to minimize weed competition and labor."
+            },
+            "weed_control_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Apply pre- and post-emergence herbicides as needed: Pendimethalin 38.7% CS: 1000 g/ha (e.g., Dost Super, Panida Grande, Gadar Max, Nagastra Strong, Pandora Herbicide, Pendamil Super), Pyrazosulfuron-ethyl 10% WP: 20 g/ha (e.g., Multiplex Pyrosulf, TAG Vanish), Oxadiargyl 80% WP: 100 g/ha. Always follow recommended dosages and safety precautions."
+            },
+            "pest_and_disease_control": {
+              "title": "Pest and Disease Control",
+              "description": "Tella Hamsa is high-yielding but susceptible to bacterial blight and blast. Monitor the crop regularly for symptoms (yellowing, leaf lesions, wilting). Apply fungicides (e.g., tricyclazole for blast) and recommended insecticides if pest or disease thresholds are exceeded. Improved Tella Hamsa lines with resistance to these diseases are being developed through gene pyramiding."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యాన్ని కాపాడటానికి మరియు దిగుబడి సామర్థ్యాన్ని పెంచడానికి కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించండి.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "మాన్యువల్/యాంత్రిక కలుపు నియంత్రణ",
+              "description": "కలుపు మొక్కల పోటీ మరియు శ్రమను తగ్గించడానికి చేతితో లేదా యాంత్రిక కలుపు తీసే యంత్రాలతో (మూడు వరుసల పవర్ వీడర్లు వంటివి) ముందస్తు కలుపు తీయడం (నాటిన 20-30 రోజుల తర్వాత) చేయండి."
+            },
+            "weed_control_chemical": {
+              "title": "రసాయన కలుపు నియంత్రణ",
+              "description": "అవసరమైన విధంగా మొక్కలు మొలకెత్తడానికి ముందు మరియు తర్వాత కలుపు మందులను వాడండి: పెండిమెథాలిన్ 38.7% CS: 1000 గ్రా/హెక్టారు (ఉదా., దోస్త్ సూపర్, పానిడా గ్రాండే, గదర్ మాక్స్, నాగస్ట్రా స్ట్రాంగ్, పండోర హెర్బిసైడ్, పెండమిల్ సూపర్), పైరాజోసల్ఫ్యూరాన్-ఇథైల్ 10% WP: 20 గ్రా/హెక్టారు (ఉదా., మల్టీప్లెక్స్ పైరోసల్ఫ్, TAG వానిష్), ఆక్సాడియార్గైల్ 80% WP: 100 గ్రా/హెక్టారు. ఎల్లప్పుడూ సిఫార్సు చేయబడిన మోతాదులు మరియు భద్రతా జాగ్రత్తలను అనుసరించండి."
+            },
+            "pest_and_disease_control": {
+              "title": "తెగులు మరియు వ్యాధుల నియంత్రణ",
+              "description": "టెల్లా హంసా అధిక దిగుబడిని ఇస్తుంది కానీ బాక్టీరియల్ బ్లైట్ మరియు బ్లాస్ట్ కు గురవుతుంది. లక్షణాల కోసం (పసుపు, ఆకు గాయాలు, వాడిపోవడం) పంటను క్రమం తప్పకుండా పర్యవేక్షించండి. తెగులు లేదా వ్యాధి పరిమితులు మించి ఉంటే శిలీంద్రనాశకాలు (ఉదా. బ్లాస్ట్ కోసం ట్రైసైక్లాజోల్) మరియు సిఫార్సు చేసిన పురుగుమందులను వాడండి. ఈ వ్యాధులకు నిరోధకత కలిగిన మెరుగైన టెల్లా హంసా లైన్లను జన్యు పిరమిడింగ్ ద్వారా అభివృద్ధి చేస్తున్నారు."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य की रक्षा करने और उपज क्षमता को अधिकतम करने के लिए खरपतवारों, कीटों और रोगों पर नियंत्रण रखें।",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "मैनुअल/मैकेनिकल खरपतवार नियंत्रण",
+              "description": "खरपतवार प्रतिस्पर्धा और श्रम को न्यूनतम करने के लिए प्रारंभिक निराई (रोपण के 20-30 दिन बाद) हाथ से या यांत्रिक खरपतवारनाशकों (जैसे तीन-पंक्ति विद्युत खरपतवारनाशक) से करें।"
+            },
+            "weed_control_chemical": {
+              "title": "रासायनिक खरपतवार नियंत्रण",
+              "description": "आवश्यकतानुसार पूर्व और पश्च-उद्भव शाकनाशी का प्रयोग करें: पेंडीमेथालिन 38.7% सीएस: 1000 ग्राम/हेक्टेयर (उदाहरण के लिए, दोस्त सुपर, पैनिडा ग्रांडे, गदर मैक्स, नागास्ट्रा स्ट्रॉन्ग, पेंडोरा हर्बिसाइड, पेंडामिल सुपर), पाइराज़ोसल्फ्यूरॉन-एथिल 10% WP: 20 ग्राम/हेक्टेयर (उदाहरण के लिए, मल्टीप्लेक्स पायरोसल्फ, TAG वैनिश), ऑक्साडायर्जिल 80% WP: 100 ग्राम/हेक्टेयर। हमेशा अनुशंसित खुराक और सुरक्षा सावधानियों का पालन करें।"
+            },
+            "pest_and_disease_control": {
+              "title": "कीट एवं रोग नियंत्रण",
+              "description": "टेला हम्सा उच्च उपज देने वाला है, लेकिन बैक्टीरियल ब्लाइट और ब्लास्ट के प्रति संवेदनशील है। लक्षणों (पीलापन, पत्ती के घाव, मुरझाना) के लिए फसल की नियमित निगरानी करें। यदि कीट या रोग सीमा पार हो जाए तो फफूंदनाशक (जैसे, ब्लास्ट के लिए ट्राइसाइक्लाज़ोल) और अनुशंसित कीटनाशकों का प्रयोग करें। जीन पिरामिडिंग के माध्यम से इन रोगों के प्रति प्रतिरोधक क्षमता वाली बेहतर टेला हम्सा प्रजातियाँ विकसित की जा रही हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest the crop at the right time using appropriate methods to maximize grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Tella Hamsa matures in about 117–118 days after sowing, making it an early-maturing variety ideal for tight cropping schedules and water-saving strategies."
+            },
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Harvest when most grains on the panicle are golden yellow and hard, indicating physiological maturity and optimal grain quality."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Cut the plants close to the ground using a sickle for manual harvesting or a mechanical harvester for large fields. Stack bundles upright for a day or two to allow further field drying if needed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "ధాన్యం నాణ్యతను పెంచడానికి మరియు నష్టాలను తగ్గించడానికి తగిన పద్ధతులను ఉపయోగించి సరైన సమయంలో పంటను కోయండి.",
+          "sub_steps": {
+            "maturity": {
+              "title": "పరిపక్వత",
+              "description": "తెల్ల హంసా విత్తిన దాదాపు 117–118 రోజుల్లో పరిపక్వం చెందుతుంది, ఇది గట్టి పంట షెడ్యూల్‌లు మరియు నీటి పొదుపు వ్యూహాలకు అనువైన ప్రారంభ-పరిపక్వ రకంగా మారుతుంది."
+            },
+            "when_to_harvest": {
+              "title": "ఎప్పుడు పండించాలి",
+              "description": "కంకులపై ఉన్న చాలా ధాన్యాలు బంగారు పసుపు రంగులో మరియు గట్టిగా ఉన్నప్పుడు కోయండి, ఇది శారీరక పరిపక్వత మరియు సరైన ధాన్యం నాణ్యతను సూచిస్తుంది."
+            },
+            "how_to_harvest": {
+              "title": "ఎలా పండించాలి",
+              "description": "చేతితో కోసేందుకు కొడవలిని లేదా పెద్ద పొలాలకు యాంత్రిక హార్వెస్టర్‌ను ఉపయోగించి మొక్కలను నేలకు దగ్గరగా కత్తిరించండి. అవసరమైతే పొలం మరింత ఎండబెట్టడానికి ఒకటి లేదా రెండు రోజులు కట్టలను నిటారుగా పేర్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अनाज की गुणवत्ता को अधिकतम करने और नुकसान को न्यूनतम करने के लिए उचित तरीकों का उपयोग करते हुए सही समय पर फसल की कटाई करें।",
+          "sub_steps": {
+            "maturity": {
+              "title": "परिपक्वता",
+              "description": "टेला हम्सा बुवाई के लगभग 117-118 दिनों में परिपक्व हो जाती है, जिससे यह एक शीघ्र पकने वाली किस्म बन जाती है, जो सख्त फसल-अनुसूची और जल-बचत रणनीतियों के लिए आदर्श है।"
+            },
+            "when_to_harvest": {
+              "title": "कब कटाई करें",
+              "description": "कटाई तब करें जब पुष्पगुच्छ पर अधिकांश दाने सुनहरे पीले और कठोर हो जाएं, जो शारीरिक परिपक्वता और इष्टतम दाने की गुणवत्ता का संकेत है।"
+            },
+            "how_to_harvest": {
+              "title": "फसल कैसे काटें?",
+              "description": "मैन्युअल कटाई के लिए दरांती या बड़े खेतों के लिए मैकेनिकल हार्वेस्टर का उपयोग करके पौधों को ज़मीन के करीब से काटें। यदि आवश्यक हो तो खेत को और सुखाने के लिए बंडलों को एक या दो दिन के लिए सीधा रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate the grains from the stalks by beating or using a mechanical thresher soon after harvest to minimize losses."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff, straw, and debris using winnowing and sieving to ensure clean, market-ready grain."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains in the sunlight on a clean surface or use a mechanical dryer until the moisture content drops to about 14%. Proper drying is essential to prevent fungal growth and spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry bags or bins in a cool, ventilated place. Use airtight containers or gunny bags and keep them off the ground to avoid moisture absorption and pest infestation. Inspect storage regularly for pests or mold."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు నష్టాలను నివారించడానికి పండించిన ధాన్యాన్ని సరిగ్గా ప్రాసెస్ చేసి నిల్వ చేయండి.",
+          "sub_steps": {
+            "threshing": {
+              "title": "నూర్పిడి",
+              "description": "నష్టాలను తగ్గించడానికి పంట కోసిన వెంటనే కొట్టడం ద్వారా లేదా యాంత్రిక నూర్పిడి యంత్రాన్ని ఉపయోగించడం ద్వారా ధాన్యాలను కాండాల నుండి వేరు చేయండి."
+            },
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "శుభ్రంగా, మార్కెట్‌కు సిద్ధంగా ఉన్న ధాన్యాన్ని నిర్ధారించడానికి తూర్పారబట్టడం మరియు జల్లెడ పట్టడం ద్వారా పొట్టు, గడ్డి మరియు చెత్తను తొలగించండి."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "తేమ శాతం 14% కి తగ్గే వరకు గింజలను సూర్యకాంతిలో శుభ్రమైన ఉపరితలంపై ఆరబెట్టండి లేదా మెకానికల్ డ్రైయర్‌ని ఉపయోగించండి. శిలీంధ్రాల పెరుగుదల మరియు చెడిపోకుండా నిరోధించడానికి సరైన ఎండబెట్టడం అవసరం."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "ఎండిన బియ్యాన్ని శుభ్రమైన, పొడి సంచులలో లేదా డబ్బాలలో చల్లని, వెంటిలేషన్ ఉన్న ప్రదేశంలో నిల్వ చేయండి. గాలి చొరబడని కంటైనర్లు లేదా గోనె సంచులను ఉపయోగించండి మరియు తేమ శోషణ మరియు తెగుళ్ల దాడిని నివారించడానికి వాటిని నేల నుండి దూరంగా ఉంచండి. తెగుళ్లు లేదా బూజు కోసం నిల్వను క్రమం తప్పకుండా తనిఖీ చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और नुकसान को रोकने के लिए काटे गए अनाज को उचित तरीके से संसाधित और संग्रहीत करें।",
+          "sub_steps": {
+            "threshing": {
+              "title": "ताड़ना",
+              "description": "नुकसान को कम करने के लिए कटाई के तुरंत बाद, फसल को पीटकर या यांत्रिक थ्रेशर का उपयोग करके, अनाज को डंठलों से अलग कर लें।"
+            },
+            "cleaning": {
+              "title": "सफाई",
+              "description": "स्वच्छ, बाजार के लिए तैयार अनाज सुनिश्चित करने के लिए फटकने और छलनी की सहायता से भूसा, पुआल और मलबे को हटा दें।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "अनाज को धूप में साफ सतह पर सुखाएँ या फिर मैकेनिकल ड्रायर का इस्तेमाल करें जब तक कि नमी की मात्रा लगभग 14% तक कम न हो जाए। फफूंद की वृद्धि और खराब होने से बचाने के लिए उचित तरीके से सुखाना ज़रूरी है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "सूखे चावल को साफ, सूखे बैग या डिब्बे में ठंडी, हवादार जगह पर रखें। नमी सोखने और कीटों के संक्रमण से बचने के लिए एयरटाइट कंटेनर या बोरी का इस्तेमाल करें और उन्हें ज़मीन से दूर रखें। कीटों या फफूंद के लिए नियमित रूप से भंडारण का निरीक्षण करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field through proper clearing, ploughing, puddling, leveling, and infrastructure development for optimal rice cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, previous crop residues, and stones. This is crucial for preventing pest and disease carryover and ensuring a uniform seedbed for healthy seedling establishment."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the land 2–3 times to a depth of about 10 cm. This loosens the soil, improves aeration, and incorporates organic matter, which boosts soil fertility and structure."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water for a few days to soften the soil. Puddle (churn) the soil using a harrow or puddler to create a soft, muddy bed. Puddling suppresses weeds, reduces water percolation, and prepares the soil for easy transplanting."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after puddling to ensure uniform water distribution. Proper leveling prevents waterlogging and dry patches, both of which can affect crop establishment and growth."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) around the field to retain irrigation water and prevent runoff. Strong bunds are essential for maintaining flooded conditions required for rice."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Build channels for efficient water management, allowing for controlled irrigation and drainage throughout the crop cycle. This helps in timely water application and removal, especially during heavy rains or before harvest."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన వరి సాగు కోసం సరైన క్లియరింగ్, దున్నడం, పుడ్లింగ్, చదును చేయడం మరియు మౌలిక సదుపాయాల అభివృద్ధి ద్వారా పొలాన్ని సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "ఫీల్డ్‌ను క్లియర్ చేయండి",
+              "description": "కలుపు మొక్కలు, మునుపటి పంట అవశేషాలు మరియు రాళ్లను తొలగించండి. తెగుళ్ళు మరియు వ్యాధుల వ్యాప్తిని నివారించడానికి మరియు ఆరోగ్యకరమైన మొలకల స్థాపనకు ఏకరీతి విత్తన బెడ్‌ను నిర్ధారించడానికి ఇది చాలా ముఖ్యమైనది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "భూమిని 2-3 సార్లు దాదాపు 10 సెం.మీ లోతు వరకు దున్నండి. ఇది నేలను వదులుగా చేస్తుంది, గాలి ప్రసరణను మెరుగుపరుస్తుంది మరియు సేంద్రీయ పదార్థాన్ని కలుపుతుంది, ఇది నేల సారవంతం మరియు నిర్మాణాన్ని పెంచుతుంది."
+            },
+            "flooding_and_puddling": {
+              "title": "వరదలు మరియు పుడ్లింగ్",
+              "description": "మట్టిని మృదువుగా చేయడానికి పొలాన్ని కొన్ని రోజుల పాటు నీటితో నింపండి. మెత్తగా, బురదగా ఉండేలా చేయడానికి హారో లేదా పుడ్లర్‌ని ఉపయోగించి మట్టిని గుంత (చర్న్) చేయండి. పుడ్లింగ్ కలుపు మొక్కలను అణిచివేస్తుంది, నీటి చుక్కలను తగ్గిస్తుంది మరియు సులభంగా నాటడానికి నేలను సిద్ధం చేస్తుంది."
+            },
+            "leveling": {
+              "title": "లెవలింగ్",
+              "description": "నీటి పంపిణీ ఏకరీతిలో ఉండేలా పుడ్లింగ్ తర్వాత పొలాన్ని చదును చేయండి. సరైన లెవలింగ్ నీరు నిలిచిపోవడాన్ని మరియు పొడి ప్రాంతాలను నివారిస్తుంది, ఈ రెండూ పంట స్థాపన మరియు పెరుగుదలను ప్రభావితం చేస్తాయి."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "నీటిపారుదల నీటిని నిలుపుకోవడానికి మరియు ప్రవాహాన్ని నివారించడానికి పొలం చుట్టూ కట్టలను (ఎత్తైన సరిహద్దులు) నిర్మించి మరమ్మతు చేయండి. వరికి అవసరమైన వరద పరిస్థితులను నిర్వహించడానికి బలమైన కట్టలు అవసరం."
+            },
+            "field_channels": {
+              "title": "ఫీల్డ్ ఛానెల్‌లు",
+              "description": "సమర్థవంతమైన నీటి నిర్వహణ కోసం కాలువలను నిర్మించండి, పంట చక్రం అంతటా నియంత్రిత నీటిపారుదల మరియు పారుదలని అనుమతిస్తుంది. ఇది సకాలంలో నీటిని ఉపయోగించడం మరియు తొలగించడంలో సహాయపడుతుంది, ముఖ్యంగా భారీ వర్షాల సమయంలో లేదా పంటకోతకు ముందు."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "इष्टतम चावल की खेती के लिए उचित सफाई, जुताई, पोखर बनाना, समतलीकरण और बुनियादी ढांचे के विकास के माध्यम से खेत तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "फ़ील्ड साफ़ करें",
+              "description": "सभी खरपतवार, पिछली फसल के अवशेष और पत्थर हटा दें। कीट और बीमारी को फैलने से रोकने और स्वस्थ पौध की स्थापना के लिए एक समान बीज-बिस्तर सुनिश्चित करने के लिए यह महत्वपूर्ण है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "ज़मीन को 2-3 बार लगभग 10 सेमी की गहराई तक जोतें। इससे मिट्टी ढीली हो जाती है, हवा का संचार बेहतर होता है और कार्बनिक पदार्थ भी मिल जाते हैं, जिससे मिट्टी की उर्वरता और संरचना में सुधार होता है।"
+            },
+            "flooding_and_puddling": {
+              "title": "बाढ़ और पोखर",
+              "description": "मिट्टी को नरम करने के लिए खेत में कुछ दिनों तक पानी भरकर रखें। नरम, कीचड़दार बिस्तर बनाने के लिए हैरो या पडलर का उपयोग करके मिट्टी को मथें। मिट्टी को मथने से खरपतवार दब जाते हैं, पानी का रिसाव कम होता है और मिट्टी आसानी से रोपाई के लिए तैयार हो जाती है।"
+            },
+            "leveling": {
+              "title": "लेवलिंग",
+              "description": "पानी का एकसमान वितरण सुनिश्चित करने के लिए खेत को समतल करें। उचित समतलीकरण जलभराव और सूखे पैच को रोकता है, जो दोनों फसल की स्थापना और विकास को प्रभावित कर सकते हैं।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "सिंचाई के पानी को रोकने और अपवाह को रोकने के लिए खेत के चारों ओर बाँध (उभरे हुए किनारे) बनाएँ और उनकी मरम्मत करें। चावल के लिए आवश्यक बाढ़ की स्थिति बनाए रखने के लिए मज़बूत बाँध ज़रूरी हैं।"
+            },
+            "field_channels": {
+              "title": "फील्ड चैनल",
+              "description": "कुशल जल प्रबंधन के लिए चैनल बनाएं, जिससे फसल चक्र के दौरान नियंत्रित सिंचाई और जल निकासी हो सके। इससे समय पर पानी देने और निकालने में मदद मिलती है, खासकर भारी बारिश के दौरान या कटाई से पहले।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select high-quality certified seeds and prepare them properly for optimal germination and disease protection.",
+          "sub_steps": {
+            "select_quality_seeds": {
+              "title": "Select Quality Seeds",
+              "description": "Use certified Telangana Sona (RNR 15048) seeds that are mature, clean, and have a high germination rate. Certified seeds ensure varietal purity and vigor, leading to uniform crop stands."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Soak seeds in clean water for 24 hours, then incubate for 24–36 hours until sprouting. Treat the sprouted seeds with a fungicide like carbendazim (2g/kg seed) to protect against seed-borne diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate to promote healthy seedling growth. Sow sprouted seeds evenly and irrigate regularly to ensure strong, disease-free seedlings."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "అధిక-నాణ్యత గల ధృవీకరించబడిన విత్తనాలను ఎంచుకుని, సరైన అంకురోత్పత్తి మరియు వ్యాధి రక్షణ కోసం వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "select_quality_seeds": {
+              "title": "నాణ్యమైన విత్తనాలను ఎంచుకోండి",
+              "description": "పరిపక్వమైన, శుభ్రమైన మరియు అధిక అంకురోత్పత్తి రేటు కలిగిన ధృవీకరించబడిన తెలంగాణ సోనా (RNR 15048) విత్తనాలను ఉపయోగించండి. ధృవీకరించబడిన విత్తనాలు వైవిధ్య స్వచ్ఛత మరియు శక్తిని నిర్ధారిస్తాయి, దీనివల్ల ఏకరీతి పంట నిల్వలు ఉంటాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "విత్తనాలను శుభ్రమైన నీటిలో 24 గంటలు నానబెట్టి, ఆపై మొలకెత్తే వరకు 24–36 గంటలు పొదిగించండి. విత్తనాల ద్వారా సంక్రమించే వ్యాధుల నుండి రక్షించడానికి కార్బెండజిమ్ (2 గ్రా/కిలో విత్తనం) వంటి శిలీంద్ర సంహారిణితో మొలకెత్తిన విత్తనాలను చికిత్స చేయండి."
+            },
+            "nursery_bed_preparation": {
+              "title": "నర్సరీ బెడ్ తయారీ",
+              "description": "ప్రధాన పొలంలో 1/20వ వంతు విస్తీర్ణంలో ఎత్తైన నర్సరీ పడకలను సిద్ధం చేయండి. బాగా కుళ్ళిన పొల ఎరువు (FYM) మరియు అవసరమైతే, జింక్ సల్ఫేట్ కలపండి, తద్వారా ఆరోగ్యకరమైన మొలకల పెరుగుదలను ప్రోత్సహించవచ్చు. మొలకెత్తిన విత్తనాలను సమానంగా విత్తండి మరియు బలమైన, వ్యాధి రహిత మొలకల కోసం క్రమం తప్పకుండా నీరు పెట్టండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "उच्च गुणवत्ता वाले प्रमाणित बीजों का चयन करें और उन्हें इष्टतम अंकुरण और रोग सुरक्षा के लिए उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "select_quality_seeds": {
+              "title": "गुणवत्तायुक्त बीज चुनें",
+              "description": "प्रमाणित तेलंगाना सोना (RNR 15048) बीज का उपयोग करें जो परिपक्व, साफ और उच्च अंकुरण दर वाले हों। प्रमाणित बीज विविधता शुद्धता और शक्ति सुनिश्चित करते हैं, जिससे एक समान फसल पैदा होती है।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "बीजों को 24 घंटे के लिए साफ पानी में भिगोएँ, फिर अंकुरित होने तक 24-36 घंटे तक इनक्यूबेट करें। अंकुरित बीजों को बीज जनित रोगों से बचाने के लिए कार्बेन्डाजिम (2 ग्राम/किग्रा बीज) जैसे फफूंदनाशक से उपचारित करें।"
+            },
+            "nursery_bed_preparation": {
+              "title": "नर्सरी बेड की तैयारी",
+              "description": "मुख्य खेत के लगभग 1/20 भाग को कवर करने वाली उभरी हुई नर्सरी क्यारियाँ तैयार करें। स्वस्थ अंकुर विकास को बढ़ावा देने के लिए अच्छी तरह से सड़ी हुई गोबर की खाद (FYM) और, यदि आवश्यक हो, तो जिंक सल्फेट मिलाएँ। अंकुरित बीजों को समान रूप से बोएँ और मजबूत, रोग-मुक्त अंकुर सुनिश्चित करने के लिए नियमित रूप से सिंचाई करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Transplanting",
+        "description": {
+          "overview": "Transplant healthy seedlings at optimal age and spacing to ensure proper establishment and maximum yield potential.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings that are 21–25 days old. Younger seedlings establish quickly, tiller more, and produce higher yields."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 20 cm between seedlings. This ensures adequate sunlight, airflow, and nutrient access, reducing disease risk and promoting strong tillering."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Place seedlings at a depth of about 5 cm. Shallow planting encourages quick root establishment and robust early growth."
+            },
+            "water_management_during_transplanting": {
+              "title": "Water Management during Transplanting",
+              "description": "Maintain a shallow water layer (about 5 cm) in the field immediately after transplanting to support seedling establishment and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "మార్పిడి",
+        "description": {
+          "overview": "సరైన పెరుగుదల మరియు గరిష్ట దిగుబడి సామర్థ్యాన్ని నిర్ధారించడానికి ఆరోగ్యకరమైన మొలకలను సరైన వయస్సు మరియు అంతరం ప్రకారం నాటండి.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "మొలక వయస్సు",
+              "description": "21–25 రోజుల వయస్సు గల ఆరోగ్యకరమైన మొలకలను నాటండి. చిన్న మొలకలు త్వరగా మొలకెత్తుతాయి, ఎక్కువగా నాటుతాయి మరియు అధిక దిగుబడిని ఇస్తాయి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "మొలకల మధ్య 20 x 20 సెం.మీ. అంతరం నిర్వహించండి. ఇది తగినంత సూర్యకాంతి, గాలి ప్రవాహం మరియు పోషకాల ప్రాప్యతను నిర్ధారిస్తుంది, వ్యాధి ప్రమాదాన్ని తగ్గిస్తుంది మరియు బలమైన పిలకలను ప్రోత్సహిస్తుంది."
+            },
+            "planting_depth": {
+              "title": "నాటడం లోతు",
+              "description": "మొలకలను దాదాపు 5 సెం.మీ లోతులో ఉంచండి. లోతు తక్కువగా నాటడం వల్ల త్వరగా వేర్లు ఏర్పడతాయి మరియు బలమైన ప్రారంభ పెరుగుదల ఉంటుంది."
+            },
+            "water_management_during_transplanting": {
+              "title": "నాట్లు వేసే సమయంలో నీటి నిర్వహణ",
+              "description": "మొలకల ఏర్పాటుకు మద్దతు ఇవ్వడానికి మరియు మార్పిడి షాక్‌ను తగ్గించడానికి నాట్లు వేసిన వెంటనే పొలంలో నిస్సారమైన నీటి పొరను (సుమారు 5 సెం.మీ.) నిర్వహించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "प्रत्यारोपण",
+        "description": {
+          "overview": "उचित स्थापना और अधिकतम उपज क्षमता सुनिश्चित करने के लिए स्वस्थ पौधों को इष्टतम आयु और अंतराल पर रोपें।",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "अंकुर की आयु",
+              "description": "21-25 दिन पुराने स्वस्थ पौधों को रोपें। छोटे पौधे जल्दी उगते हैं, अधिक उपज देते हैं और अधिक उपज देते हैं।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "पौधों के बीच 20 x 20 सेमी की दूरी बनाए रखें। इससे पर्याप्त धूप, हवा का प्रवाह और पोषक तत्वों की उपलब्धता सुनिश्चित होती है, जिससे बीमारी का जोखिम कम होता है और मजबूत टिलरिंग को बढ़ावा मिलता है।"
+            },
+            "planting_depth": {
+              "title": "रोपण गहराई",
+              "description": "पौधों को लगभग 5 सेमी की गहराई पर लगाएं। उथली रोपाई से जड़ें जल्दी जमती हैं और शुरुआती विकास मजबूत होता है।"
+            },
+            "water_management_during_transplanting": {
+              "title": "रोपाई के दौरान जल प्रबंधन",
+              "description": "पौध की स्थापना को समर्थन देने और प्रत्यारोपण आघात को न्यूनतम करने के लिए रोपाई के तुरंत बाद खेत में उथली जल परत (लगभग 5 सेमी) बनाए रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply balanced fertilizers and nutrients in proper timing to support optimal crop growth and maximize yield potential.",
+          "sub_steps": {
+            "basal_dose": {
+              "title": "Basal Dose",
+              "description": "Incorporate organic manure or compost (5–10 tons/ha) during land preparation to enhance soil fertility and structure."
+            },
+            "standard_fertilizer_dosage": {
+              "title": "Standard Fertilizer Dosage (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 50 kg/ha"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and half of the potassium as basal before transplanting. Split nitrogen and the remaining potassium into two or three top dressings: at active tillering and panicle initiation stages, to match the crop's nutrient demand and maximize yield."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) if deficiency symptoms (bronzing, stunted growth) are observed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "పంటల సరైన పెరుగుదలకు మరియు దిగుబడి సామర్థ్యాన్ని పెంచడానికి సమతుల్య ఎరువులు మరియు పోషకాలను సరైన సమయంలో వేయండి.",
+          "sub_steps": {
+            "basal_dose": {
+              "title": "బేసల్ డోస్",
+              "description": "నేల సారవంతం మరియు నిర్మాణాన్ని పెంచడానికి భూమిని సిద్ధం చేసేటప్పుడు సేంద్రియ ఎరువు లేదా కంపోస్ట్ (5–10 టన్నులు/హెక్టారు) కలపండి."
+            },
+            "standard_fertilizer_dosage": {
+              "title": "ప్రామాణిక ఎరువుల మోతాదు (హెక్టారుకు)",
+              "description": "నైట్రోజన్ (N): 100–120 kg/ha, ఫాస్పరస్ (P₂O₅): 60 kg/ha, పొటాషియం (K₂O): 50 kg/ha"
+            },
+            "application_schedule": {
+              "title": "దరఖాస్తు షెడ్యూల్",
+              "description": "నాట్లు వేసే ముందు మొత్తం భాస్వరం మరియు సగం పొటాషియంను బేసల్‌గా వేయండి. నత్రజని మరియు మిగిలిన పొటాషియంను రెండు లేదా మూడు టాప్ డ్రెస్సింగ్‌లుగా విభజించండి: చురుకైన పిలకలు మరియు కంకుల ప్రారంభ దశలలో, పంట యొక్క పోషక డిమాండ్‌కు సరిపోయేలా మరియు దిగుబడిని పెంచడానికి."
+            },
+            "micronutrients": {
+              "title": "సూక్ష్మపోషకాలు",
+              "description": "లోప లక్షణాలు (కాంస్య రంగు మారడం, పెరుగుదల మందగించడం) గమనించినట్లయితే జింక్ సల్ఫేట్ (హెక్టారుకు 25 కిలోలు) వేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "फसल की इष्टतम वृद्धि और उपज क्षमता को अधिकतम करने के लिए संतुलित उर्वरकों और पोषक तत्वों का उचित समय पर प्रयोग करें।",
+          "sub_steps": {
+            "basal_dose": {
+              "title": "बेसल खुराक",
+              "description": "मिट्टी की उर्वरता और संरचना को बढ़ाने के लिए भूमि की तैयारी के दौरान जैविक खाद या कम्पोस्ट (5-10 टन/हेक्टेयर) डालें।"
+            },
+            "standard_fertilizer_dosage": {
+              "title": "मानक उर्वरक खुराक (प्रति हेक्टेयर)",
+              "description": "नाइट्रोजन (एन): 100-120 किग्रा/हेक्टेयर, फॉस्फोरस (पी₂O₅): 60 किग्रा/हेक्टेयर, पोटेशियम (K₂O): 50 किग्रा/हेक्टेयर"
+            },
+            "application_schedule": {
+              "title": "आवेदन अनुसूची",
+              "description": "रोपाई से पहले पूरा फॉस्फोरस और आधा पोटैशियम बेसल के रूप में डालें। नाइट्रोजन और बचे हुए पोटैशियम को दो या तीन टॉप ड्रेसिंग में विभाजित करें: सक्रिय टिलरिंग और पैनिकल आरंभिक अवस्थाओं में, फसल की पोषक तत्व की मांग को पूरा करने और उपज को अधिकतम करने के लिए।"
+            },
+            "micronutrients": {
+              "title": "सूक्ष्म पोषक",
+              "description": "यदि कमी के लक्षण (कांस्य रंग, अवरुद्ध विकास) दिखाई दें तो जिंक सल्फेट (25 किग्रा/हेक्टेयर) का प्रयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to maintain optimal growing conditions while conserving water resources.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Keep the field flooded with 5–7 cm of water during most of the crop period, especially during tillering and flowering, to support optimal growth and suppress weeds."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Where water is limited, practice AWD by allowing the field to dry for a few days before re-irrigating, which improves water use efficiency without reducing yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water from the field 7–10 days before harvesting to allow the soil to dry, which facilitates easy harvesting and threshing and reduces grain moisture content."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి వనరులను పరిరక్షిస్తూ సరైన పెరుగుదల పరిస్థితులను నిర్వహించడానికి పంట చక్రం అంతటా నీటిని సమర్ధవంతంగా నిర్వహించండి.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "నీటిపారుదల",
+              "description": "పంట కాలంలో ఎక్కువ భాగం, ముఖ్యంగా పైర్లు వేసే మరియు పుష్పించే సమయంలో, పొలాన్ని 5–7 సెం.మీ. నీటితో నింపండి, ఇది సరైన పెరుగుదలకు మరియు కలుపు మొక్కలను అణిచివేస్తుంది."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "ఆల్టర్నేట్ వెట్టింగ్ అండ్ డ్రైయింగ్ (AWD)",
+              "description": "నీరు పరిమితంగా ఉన్న చోట, తిరిగి నీరు పెట్టే ముందు పొలాన్ని కొన్ని రోజులు ఆరనివ్వడం ద్వారా AWDని సాధన చేయండి, ఇది దిగుబడిని తగ్గించకుండా నీటి వినియోగ సామర్థ్యాన్ని మెరుగుపరుస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "కోతకు 7-10 రోజుల ముందు పొలం నుండి నీటిని తీసివేయండి, తద్వారా నేల ఎండిపోయేలా చేయండి, ఇది సులభంగా కోయడానికి మరియు నూర్పిడి చేయడానికి వీలు కల్పిస్తుంది మరియు ధాన్యం తేమను తగ్గిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जल संसाधनों का संरक्षण करते हुए इष्टतम वृद्धि की स्थिति बनाए रखने के लिए पूरे फसल चक्र में जल का कुशलतापूर्वक प्रबंधन करें।",
+          "sub_steps": {
+            "irrigation": {
+              "title": "सिंचाई",
+              "description": "फसल की अधिकांश अवधि के दौरान, विशेष रूप से कल्ले निकलने और फूल आने के दौरान, खेत में 5-7 सेमी पानी भरा रखें, ताकि इष्टतम वृद्धि हो सके और खरपतवारों को नियंत्रित किया जा सके।"
+            },
+            "alternate_wetting_and_drying": {
+              "title": "वैकल्पिक गीला करना और सुखाना (AWD)",
+              "description": "जहां पानी सीमित है, वहां पुनः सिंचाई करने से पहले खेत को कुछ दिनों तक सूखने देकर AWD का अभ्यास करें, जिससे उपज में कमी किए बिना जल उपयोग दक्षता में सुधार होता है।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "कटाई से 7-10 दिन पहले खेत से पानी निकाल दें ताकि मिट्टी सूख जाए, जिससे कटाई और मड़ाई आसान हो जाती है और अनाज में नमी की मात्रा कम हो जाती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management approaches to protect crop health and maximize yield.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "Manual/Mechanical Weed Control",
+              "description": "Conduct early weeding (20–30 days after transplanting) by hand or with mechanical weeders to minimize competition for nutrients and water."
+            },
+            "weed_control_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Use pre- and post-emergence herbicides as needed, such as: Pendimethalin (e.g., Dost Super, Panida Grande, Gadar Max, Nagastra Strong, Pandora Herbicide, Pendamil Super), Pyrazosulfuron-ethyl (e.g., Multiplex Pyrosulf, TAG Vanish, Pyrazosulfuron Ethyl 10% WP), Oxadiargyl (80% WP, available from major agrochemical suppliers)"
+            },
+            "pest_and_disease_control": {
+              "title": "Pest and Disease Control",
+              "description": "Monitor the crop regularly for pests and diseases. Telangana Sona is resistant to blast and has a lower incidence of brown plant hopper (BPH) than older varieties, reducing the need for frequent pesticide use. If infestations occur, use appropriate pesticides or biocontrol methods as per agricultural extension recommendations."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యాన్ని కాపాడటానికి మరియు దిగుబడిని పెంచడానికి సమగ్ర నిర్వహణ విధానాల ద్వారా కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించండి.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "మాన్యువల్/యాంత్రిక కలుపు నియంత్రణ",
+              "description": "పోషకాలు మరియు నీటి కోసం పోటీని తగ్గించడానికి చేతితో లేదా యాంత్రిక కలుపు తీసే యంత్రాలతో ముందుగా కలుపు తీయడం (నాటిన 20-30 రోజుల తర్వాత) చేయండి."
+            },
+            "weed_control_chemical": {
+              "title": "రసాయన కలుపు నియంత్రణ",
+              "description": "అవసరమైనప్పుడు మొలకెత్తడానికి ముందు మరియు తర్వాత కలుపు మందులను వాడండి, అవి: పెండిమెథాలిన్ (ఉదా., దోస్ట్ సూపర్, పానిడా గ్రాండే, గదర్ మాక్స్, నాగస్ట్రా స్ట్రాంగ్, పండోర హెర్బిసైడ్, పెండమిల్ సూపర్), పైరాజోసల్ఫ్యూరాన్-ఇథైల్ (ఉదా., మల్టీప్లెక్స్ పైరోసల్ఫ్, TAG వానిష్, పైరాజోసల్ఫ్యూరాన్ ఇథైల్ 10% WP), ఆక్సాడియార్గైల్ (80% WP, ప్రధాన వ్యవసాయ రసాయన సరఫరాదారుల నుండి లభిస్తుంది)"
+            },
+            "pest_and_disease_control": {
+              "title": "తెగులు మరియు వ్యాధుల నియంత్రణ",
+              "description": "తెగుళ్ళు మరియు వ్యాధుల కోసం పంటను క్రమం తప్పకుండా పర్యవేక్షించండి. తెలంగాణ సోనా తెగులుకు నిరోధకతను కలిగి ఉంటుంది మరియు పాత రకాల కంటే బ్రౌన్ ప్లాంట్ హాప్పర్ (BPH) సంభవం తక్కువగా ఉంటుంది, తరచుగా పురుగుమందుల వాడకం అవసరాన్ని తగ్గిస్తుంది. ముట్టడి సంభవిస్తే, వ్యవసాయ విస్తరణ సిఫార్సుల ప్రకారం తగిన పురుగుమందులు లేదా జీవ నియంత్రణ పద్ధతులను ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य की रक्षा और उपज को अधिकतम करने के लिए एकीकृत प्रबंधन दृष्टिकोण के माध्यम से खरपतवारों, कीटों और रोगों को नियंत्रित करें।",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "मैनुअल/मैकेनिकल खरपतवार नियंत्रण",
+              "description": "पोषक तत्वों और पानी के लिए प्रतिस्पर्धा को कम करने के लिए प्रारंभिक निराई (रोपाई के 20-30 दिन बाद) हाथ से या यांत्रिक खरपतवारनाशक से करें।"
+            },
+            "weed_control_chemical": {
+              "title": "रासायनिक खरपतवार नियंत्रण",
+              "description": "आवश्यकतानुसार पूर्व एवं पश्च उद्भवन शाकनाशियों का प्रयोग करें, जैसे: पेंडीमेथालिन (उदाहरण के लिए, दोस्त सुपर, पनिडा ग्रांडे, गदर मैक्स, नागास्ट्रा स्ट्रांग, पेंडोरा हर्बिसाइड, पेंडामिल सुपर), पायराजोसल्फ्यूरॉन-इथाइल (उदाहरण के लिए, मल्टीप्लेक्स पायरोसल्फ, टैग वैनिश, पायराजोसल्फ्यूरॉन इथाइल 10% WP), ऑक्साडायर्जिल (80% WP, प्रमुख कृषि रसायन आपूर्तिकर्ताओं से उपलब्ध)"
+            },
+            "pest_and_disease_control": {
+              "title": "कीट एवं रोग नियंत्रण",
+              "description": "कीटों और बीमारियों के लिए फसल की नियमित निगरानी करें। तेलंगाना सोना ब्लास्ट के प्रति प्रतिरोधी है और पुरानी किस्मों की तुलना में इसमें ब्राउन प्लांट हॉपर (BPH) का प्रकोप कम है, जिससे बार-बार कीटनाशक के इस्तेमाल की ज़रूरत कम होती है। यदि संक्रमण होता है, तो कृषि विस्तार सिफारिशों के अनुसार उचित कीटनाशकों या जैव नियंत्रण विधियों का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest the crop at the right maturity stage using appropriate methods to ensure maximum grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Telangana Sona matures in about 120–125 days after sowing (or about 100–110 days after transplanting, depending on seedling age)."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when most grains are golden yellow and hard. Timely harvesting prevents grain shattering, quality loss, and pest or weather damage."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut the plants close to the ground using a sickle for manual harvesting or a mechanical harvester for large fields. Stack bundles upright for a day or two to allow further field drying if needed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "గరిష్ట ధాన్యం నాణ్యతను నిర్ధారించడానికి మరియు నష్టాలను తగ్గించడానికి తగిన పద్ధతులను ఉపయోగించి సరైన పరిపక్వ దశలో పంటను కోయండి.",
+          "sub_steps": {
+            "maturity": {
+              "title": "పరిపక్వత",
+              "description": "తెలంగాణ సోనా విత్తిన దాదాపు 120–125 రోజుల్లో (లేదా మొలక వయస్సును బట్టి నాటిన దాదాపు 100–110 రోజుల్లో) పరిపక్వం చెందుతుంది."
+            },
+            "harvest_timing": {
+              "title": "పంట సమయం",
+              "description": "చాలా ధాన్యాలు బంగారు పసుపు రంగులో మరియు గట్టిగా ఉన్నప్పుడు కోయండి. సకాలంలో కోయడం వలన ధాన్యం పగిలిపోవడం, నాణ్యత కోల్పోవడం మరియు తెగుళ్లు లేదా వాతావరణ నష్టం నివారిస్తుంది."
+            },
+            "harvest_method": {
+              "title": "పంట కోత పద్ధతి",
+              "description": "చేతితో కోసేందుకు కొడవలిని లేదా పెద్ద పొలాలకు యాంత్రిక హార్వెస్టర్‌ను ఉపయోగించి మొక్కలను నేలకు దగ్గరగా కత్తిరించండి. అవసరమైతే పొలం మరింత ఎండబెట్టడానికి ఒకటి లేదా రెండు రోజులు కట్టలను నిటారుగా పేర్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अधिकतम अनाज की गुणवत्ता सुनिश्चित करने और नुकसान को न्यूनतम करने के लिए उचित तरीकों का उपयोग करके फसल को सही परिपक्वता अवस्था पर काटें।",
+          "sub_steps": {
+            "maturity": {
+              "title": "परिपक्वता",
+              "description": "तेलंगाना सोना बुवाई के लगभग 120-125 दिनों के बाद (या रोपाई के लगभग 100-110 दिनों के बाद, जो कि पौध की आयु पर निर्भर करता है) परिपक्व हो जाता है।"
+            },
+            "harvest_timing": {
+              "title": "फसल कटाई का समय",
+              "description": "जब ज़्यादातर अनाज सुनहरे पीले और सख्त हो जाएं, तब कटाई करें। समय पर कटाई करने से अनाज टूटने, उसकी गुणवत्ता में कमी और कीटों या मौसम से होने वाले नुकसान से बचा जा सकता है।"
+            },
+            "harvest_method": {
+              "title": "फसल कटाई विधि",
+              "description": "मैन्युअल कटाई के लिए दरांती या बड़े खेतों के लिए मैकेनिकल हार्वेस्टर का उपयोग करके पौधों को ज़मीन के करीब से काटें। यदि आवश्यक हो तो खेत को और सुखाने के लिए बंडलों को एक या दो दिन के लिए सीधा रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality, prevent losses, and ensure long-term storage stability.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate the grains from the straw by beating or using a mechanical thresher. Thresh soon after harvest to minimize losses from shattering or rodents."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff, straw, and debris using winnowing and sieving to ensure clean grain for storage and milling."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying is essential to prevent fungal growth and spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, and pest-free containers or bags in a well-ventilated area. Use airtight containers or gunny bags and keep them off the floor to prevent moisture absorption and pest attacks. Regularly inspect storage for pests or mold."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి, నష్టాలను నివారించడానికి మరియు దీర్ఘకాలిక నిల్వ స్థిరత్వాన్ని నిర్ధారించడానికి పండించిన ధాన్యాన్ని సరిగ్గా ప్రాసెస్ చేసి నిల్వ చేయండి.",
+          "sub_steps": {
+            "threshing": {
+              "title": "నూర్పిడి",
+              "description": "కొట్టడం ద్వారా లేదా యాంత్రిక నూర్పిడి యంత్రాన్ని ఉపయోగించడం ద్వారా గడ్డి నుండి ధాన్యాలను వేరు చేయండి. పగిలిపోవడం లేదా ఎలుకల వల్ల కలిగే నష్టాలను తగ్గించడానికి పంట కోసిన వెంటనే నూర్పిడి చేయండి."
+            },
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "నిల్వ మరియు మిల్లింగ్ కోసం ధాన్యం శుభ్రంగా ఉండేలా చూసుకోవడానికి తూర్పారబట్టడం మరియు జల్లెడ పట్టడం ద్వారా పొట్టు, గడ్డి మరియు చెత్తను తొలగించండి."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "గింజలను సూర్యకాంతిలో లేదా యాంత్రిక ఆరబెట్టేదిలో ఆరబెట్టండి, తద్వారా తేమ శాతం 14% తగ్గుతుంది. శిలీంధ్రాల పెరుగుదల మరియు చెడిపోకుండా నిరోధించడానికి సరిగ్గా ఎండబెట్టడం చాలా అవసరం."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "ఎండిన బియ్యాన్ని శుభ్రమైన, పొడిగా మరియు తెగుళ్లు లేని కంటైనర్లు లేదా సంచులలో బాగా వెంటిలేషన్ ఉన్న ప్రదేశంలో నిల్వ చేయండి. గాలి చొరబడని కంటైనర్లు లేదా గోనె సంచులను ఉపయోగించండి మరియు తేమ శోషణ మరియు తెగుళ్ల దాడులను నివారించడానికి వాటిని నేల నుండి దూరంగా ఉంచండి. తెగుళ్లు లేదా బూజు కోసం నిల్వను క్రమం తప్పకుండా తనిఖీ చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने, नुकसान को रोकने और दीर्घकालिक भंडारण स्थिरता सुनिश्चित करने के लिए काटे गए अनाज को उचित तरीके से संसाधित और संग्रहीत करें।",
+          "sub_steps": {
+            "threshing": {
+              "title": "ताड़ना",
+              "description": "अनाज को भूसे से अलग करने के लिए उसे पीटें या यांत्रिक थ्रेशर का उपयोग करें। फसल कटने के तुरंत बाद थ्रेश करें ताकि टूटने या कृन्तकों से होने वाले नुकसान को कम किया जा सके।"
+            },
+            "cleaning": {
+              "title": "सफाई",
+              "description": "भंडारण और पिसाई के लिए स्वच्छ अनाज सुनिश्चित करने के लिए फटकने और छलनी का उपयोग करके भूसा, पुआल और मलबे को हटा दें।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "नमी की मात्रा को लगभग 14% तक कम करने के लिए अनाज को धूप में या मैकेनिकल ड्रायर में सुखाएँ। फफूंद की वृद्धि और खराब होने से बचाने के लिए उचित तरीके से सुखाना ज़रूरी है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "सूखे चावल को साफ, सूखे और कीट-मुक्त कंटेनर या बैग में अच्छी तरह हवादार जगह पर रखें। नमी को सोखने और कीटों के हमले को रोकने के लिए एयरटाइट कंटेनर या बोरी का इस्तेमाल करें और उन्हें फर्श से दूर रखें। कीटों या फफूंद के लिए नियमित रूप से भंडारण का निरीक्षण करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field through comprehensive cleaning, ploughing, puddling, leveling, and infrastructure development for optimal rice cultivation.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "Field Cleaning",
+              "description": "Begin by removing all weeds, crop residues, and stones from the field. This prevents competition for nutrients and reduces the risk of pests and diseases harboring in leftover debris."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the land 2–3 times to a depth of 10–15 cm. This breaks up compacted soil, improves aeration, and helps incorporate organic matter. Ploughing should be done when the soil has optimum moisture (not too wet or dry)."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water for a few days to soften the soil. Puddle the soil using a harrow or puddler to create a soft, muddy bed. Puddling helps control weeds, minimizes water percolation losses, and creates a uniform surface for transplanting."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "After puddling, level the field using a wooden or laser leveler. Uniform leveling ensures even water distribution, prevents waterlogging in low spots, and avoids dry patches that can hinder crop establishment."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) around the field to retain irrigation water and prevent runoff. Strong bunds are critical for maintaining the shallow flooded conditions rice requires."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Design and maintain field channels for efficient irrigation and drainage. Proper channels allow for controlled water movement, quick drainage during heavy rains, and easy management during the crop cycle."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సమగ్ర శుభ్రపరచడం, దున్నడం, కుంటలు వేయడం, చదును చేయడం మరియు మౌలిక సదుపాయాల అభివృద్ధి ద్వారా పొలాన్ని సిద్ధం చేసి, సరైన వరి సాగుకు వీలు కల్పించండి.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "ఫీల్డ్ క్లీనింగ్",
+              "description": "పొలం నుండి అన్ని కలుపు మొక్కలు, పంట అవశేషాలు మరియు రాళ్లను తొలగించడం ద్వారా ప్రారంభించండి. ఇది పోషకాల కోసం పోటీని నిరోధిస్తుంది మరియు మిగిలిపోయిన చెత్తలో తెగుళ్ళు మరియు వ్యాధులు పెరిగే ప్రమాదాన్ని తగ్గిస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "భూమిని 10–15 సెం.మీ లోతు వరకు 2–3 సార్లు దున్నండి. ఇది కుదించబడిన మట్టిని విచ్ఛిన్నం చేస్తుంది, గాలి ప్రసరణను మెరుగుపరుస్తుంది మరియు సేంద్రియ పదార్థాలను కలుపుకోవడానికి సహాయపడుతుంది. నేలలో సరైన తేమ ఉన్నప్పుడు (ఎక్కువగా తడిగా లేదా పొడిగా లేకుండా) దున్నాలి."
+            },
+            "flooding_and_puddling": {
+              "title": "వరదలు మరియు పుడ్లింగ్",
+              "description": "మట్టిని మృదువుగా చేయడానికి పొలాన్ని కొన్ని రోజుల పాటు నీటితో నింపండి. మెత్తగా, బురదగా ఉండేలా హారో లేదా పుడ్లర్‌ని ఉపయోగించి మట్టిని గుంతలో వేయండి. పుడ్లింగ్ కలుపు మొక్కలను నియంత్రించడంలో సహాయపడుతుంది, నీటి చొరబాటు నష్టాలను తగ్గిస్తుంది మరియు నాటడానికి ఏకరీతి ఉపరితలాన్ని సృష్టిస్తుంది."
+            },
+            "leveling": {
+              "title": "లెవలింగ్",
+              "description": "పుడ్లింగ్ తర్వాత, చెక్క లేదా లేజర్ లెవలర్ ఉపయోగించి పొలాన్ని చదును చేయండి. ఏకరీతి లెవలింగ్ నీటి పంపిణీని నిర్ధారిస్తుంది, తక్కువ ప్రదేశాలలో నీరు నిలిచిపోకుండా నిరోధిస్తుంది మరియు పంట స్థాపనకు ఆటంకం కలిగించే పొడి ప్రాంతాలను నివారిస్తుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "నీటిపారుదల నీటిని నిలుపుకోవడానికి మరియు ప్రవాహాన్ని నివారించడానికి పొలం చుట్టూ కట్టలను (ఎత్తైన సరిహద్దులు) నిర్మించి మరమ్మతు చేయండి. వరికి అవసరమైన నిస్సార వరద పరిస్థితులను నిర్వహించడానికి బలమైన కట్టలు చాలా కీలకం."
+            },
+            "field_channels": {
+              "title": "ఫీల్డ్ ఛానెల్‌లు",
+              "description": "సమర్థవంతమైన నీటిపారుదల మరియు పారుదల కోసం క్షేత్ర కాలువలను రూపొందించండి మరియు నిర్వహించండి. సరైన కాలువలు నియంత్రిత నీటి కదలికకు, భారీ వర్షాల సమయంలో త్వరిత పారుదలకు మరియు పంట చక్రంలో సులభమైన నిర్వహణకు అనుమతిస్తాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "इष्टतम चावल की खेती के लिए व्यापक सफाई, जुताई, पडलिंग, समतलीकरण और बुनियादी ढांचे के विकास के माध्यम से खेत तैयार करें।",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "क्षेत्र की सफाई",
+              "description": "खेत से सभी खरपतवार, फसल अवशेष और पत्थर हटाने से शुरुआत करें। इससे पोषक तत्वों के लिए प्रतिस्पर्धा रुक जाती है और बचे हुए मलबे में कीटों और बीमारियों के पनपने का जोखिम कम हो जाता है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "भूमि को 2-3 बार 10-15 सेमी की गहराई तक जोतें। इससे जमी हुई मिट्टी टूट जाती है, वायु संचार बेहतर होता है और कार्बनिक पदार्थ को मिलाने में मदद मिलती है। जुताई तब करनी चाहिए जब मिट्टी में पर्याप्त नमी हो (बहुत गीली या सूखी नहीं)।"
+            },
+            "flooding_and_puddling": {
+              "title": "बाढ़ और जलभराव",
+              "description": "मिट्टी को नरम करने के लिए खेत में कुछ दिनों तक पानी भरकर रखें। नरम, कीचड़दार बिस्तर बनाने के लिए हैरो या पडलर का उपयोग करके मिट्टी को समतल करें। पडलिंग खरपतवारों को नियंत्रित करने में मदद करती है, पानी के रिसाव को कम करती है, और रोपाई के लिए एक समान सतह बनाती है।"
+            },
+            "leveling": {
+              "title": "लेवलिंग",
+              "description": "खेत को समतल करने के बाद, लकड़ी या लेजर लेवलर का उपयोग करके खेत को समतल करें। एक समान समतलीकरण से पानी का समान वितरण सुनिश्चित होता है, निचले स्थानों पर जलभराव को रोकता है, और सूखे पैच से बचाता है जो फसल की स्थापना में बाधा डाल सकते हैं।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "सिंचाई के पानी को बनाए रखने और अपवाह को रोकने के लिए खेत के चारों ओर बाँध (उभरे हुए किनारे) बनाएँ और उनकी मरम्मत करें। चावल के लिए आवश्यक उथली जलमग्न परिस्थितियों को बनाए रखने के लिए मज़बूत बाँध बहुत ज़रूरी हैं।"
+            },
+            "field_channels": {
+              "title": "फील्ड चैनल",
+              "description": "कुशल सिंचाई और जल निकासी के लिए खेत की नहरों को डिजाइन और रखरखाव करें। उचित नहरों से पानी की नियंत्रित आवाजाही, भारी बारिश के दौरान त्वरित जल निकासी और फसल चक्र के दौरान आसान प्रबंधन संभव होता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select certified seeds and prepare them properly through soaking, sprouting, and treatment for optimal germination and disease protection.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "Certified Seed Selection",
+              "description": "Use certified, disease-free seeds of Samba Mahsuri or Improved Samba Mahsuri (ISM). Certified seeds ensure genetic purity, high germination rates, and vigor."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "For 1 hectare, use 30–40 kg of seed."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "Seed Soaking and Incubation",
+              "description": "Soak seeds in clean water for 24 hours. After soaking, drain and wrap the seeds in a wet cloth or gunny bag for 24–36 hours until they sprout."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Treat sprouted seeds with a recommended fungicide such as carbendazim (2g/kg seed) or tricyclazole to protect against seed-borne diseases like blast and seedling rot."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and 2.5 kg zinc sulphate per 1000 m². Sow sprouted seeds evenly and irrigate the nursery regularly to ensure uniform and healthy seedling growth."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "ధృవీకరించబడిన విత్తనాలను ఎంచుకుని, వాటిని నానబెట్టడం, మొలకెత్తడం మరియు చికిత్స ద్వారా సరిగ్గా సిద్ధం చేసి, ఉత్తమ అంకురోత్పత్తి మరియు వ్యాధి రక్షణ కోసం ప్రయత్నించండి.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "ధృవీకరించబడిన విత్తన ఎంపిక",
+              "description": "ధృవీకరించబడిన, వ్యాధి రహిత సాంబా మహసూరి లేదా ఇంప్రూవ్డ్ సాంబా మహసూరి (ISM) విత్తనాలను ఉపయోగించండి. ధృవీకరించబడిన విత్తనాలు జన్యు స్వచ్ఛత, అధిక అంకురోత్పత్తి రేట్లు మరియు శక్తిని అందిస్తాయి."
+            },
+            "seed_rate": {
+              "title": "విత్తన రేటు",
+              "description": "1 హెక్టారుకు, 30–40 కిలోల విత్తనాన్ని వాడండి."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "విత్తనాలను నానబెట్టడం మరియు పొదిగించడం",
+              "description": "విత్తనాలను శుభ్రమైన నీటిలో 24 గంటలు నానబెట్టండి. నానబెట్టిన తర్వాత, నీటిని వడకట్టి, తడి గుడ్డ లేదా గోనె సంచిలో 24–36 గంటలు అవి మొలకెత్తే వరకు చుట్టండి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "మొలకెత్తిన విత్తనాలను కార్బెండజిమ్ (2 గ్రా/కిలో విత్తనం) లేదా ట్రైసైక్లాజోల్ వంటి సిఫార్సు చేసిన శిలీంద్ర సంహారిణితో చికిత్స చేయండి, ఇది విత్తనం ద్వారా సంక్రమించే వ్యాధులైన బ్లాస్ట్ మరియు మొలక తెగులు నుండి రక్షించడానికి సహాయపడుతుంది."
+            },
+            "nursery_bed_preparation": {
+              "title": "నర్సరీ బెడ్ తయారీ",
+              "description": "ప్రధాన పొలంలో 1/20వ వంతు విస్తీర్ణంలో ఎత్తైన నర్సరీ పడకలను సిద్ధం చేయండి. బాగా కుళ్ళిన పొల ఎరువు (FYM) మరియు 1000 చదరపు మీటర్లకు 2.5 కిలోల జింక్ సల్ఫేట్ కలపండి. మొలకెత్తిన విత్తనాలను సమానంగా విత్తండి మరియు ఏకరీతి మరియు ఆరోగ్యకరమైన మొలకల పెరుగుదలను నిర్ధారించడానికి నర్సరీకి క్రమం తప్పకుండా నీరు పెట్టండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "प्रमाणित बीजों का चयन करें और उन्हें इष्टतम अंकुरण और रोग सुरक्षा के लिए भिगोने, अंकुरित करने और उपचार के माध्यम से ठीक से तैयार करें।",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "प्रमाणित बीज चयन",
+              "description": "सांबा महसूरी या इम्प्रूव्ड सांबा महसूरी (आईएसएम) के प्रमाणित, रोग-मुक्त बीजों का उपयोग करें। प्रमाणित बीज आनुवंशिक शुद्धता, उच्च अंकुरण दर और शक्ति सुनिश्चित करते हैं।"
+            },
+            "seed_rate": {
+              "title": "बीज दर",
+              "description": "1 हेक्टेयर के लिए 30-40 किलोग्राम बीज का उपयोग करें।"
+            },
+            "seed_soaking_and_incubation": {
+              "title": "बीज भिगोना और ऊष्मायन",
+              "description": "बीजों को 24 घंटे के लिए साफ पानी में भिगोएँ। भिगोने के बाद, बीजों को पानी से निकाल दें और उन्हें गीले कपड़े या बोरी में 24-36 घंटे तक लपेट कर रखें जब तक कि वे अंकुरित न हो जाएँ।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "अंकुरित बीजों को ब्लास्ट और पौध सड़न जैसे बीज जनित रोगों से बचाने के लिए कार्बेन्डाजिम (2 ग्राम/किलोग्राम बीज) या ट्राइसाइक्लाजोल जैसे अनुशंसित कवकनाशक से उपचारित करें।"
+            },
+            "nursery_bed_preparation": {
+              "title": "नर्सरी बेड की तैयारी",
+              "description": "मुख्य खेत के लगभग 1/20 भाग को कवर करने वाली उभरी हुई नर्सरी क्यारियाँ तैयार करें। अच्छी तरह से सड़ी हुई गोबर की खाद (FYM) और 2.5 किलोग्राम जिंक सल्फेट प्रति 1000 वर्ग मीटर में मिलाएँ। अंकुरित बीजों को समान रूप से बोएँ और समान और स्वस्थ अंकुर विकास सुनिश्चित करने के लिए नर्सरी को नियमित रूप से सिंचाई करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Transplanting",
+        "description": {
+          "overview": "Transplant healthy seedlings at optimal age and spacing with proper techniques to ensure good establishment and maximum yield potential.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant seedlings when they are 21–25 days old. Younger seedlings establish faster, tiller more, and produce higher yields."
+            },
+            "pulling_seedlings": {
+              "title": "Pulling Seedlings",
+              "description": "Uproot seedlings gently to avoid root damage. Bundle them in small bunches and keep the roots moist until transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 15 cm or 20 x 20 cm between seedlings. This provides enough room for tillering, reduces competition, and improves air circulation."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant each seedling at a depth of 3–5 cm. Shallow planting encourages quick root establishment and vigorous early growth."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "Number of Seedlings per Hill",
+              "description": "Place 2–3 seedlings per hill for optimal plant population and yield."
+            },
+            "water_layer": {
+              "title": "Water Layer",
+              "description": "Maintain a shallow water layer (about 5 cm) immediately after transplanting to help seedlings establish and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "మార్పిడి",
+        "description": {
+          "overview": "మంచి పెరుగుదల మరియు గరిష్ట దిగుబడి సామర్థ్యాన్ని నిర్ధారించడానికి సరైన వయస్సు మరియు అంతరం ఉన్న ఆరోగ్యకరమైన మొలకలను సరైన పద్ధతులతో నాటండి.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "మొలక వయస్సు",
+              "description": "మొలకలు 21–25 రోజుల వయస్సు వచ్చినప్పుడు నాటుకోవాలి. చిన్న మొలకలు వేగంగా మొలకెత్తుతాయి, ఎక్కువగా పైరు వేస్తాయి మరియు అధిక దిగుబడిని ఇస్తాయి."
+            },
+            "pulling_seedlings": {
+              "title": "మొలకల లాగడం",
+              "description": "వేర్లు దెబ్బతినకుండా ఉండటానికి మొలకలను జాగ్రత్తగా పెరికివేయండి. వాటిని చిన్న గుత్తులుగా కట్టి, నాట్లు వేసే వరకు వేర్లను తేమగా ఉంచండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "మొలకల మధ్య 20 x 15 సెం.మీ లేదా 20 x 20 సెం.మీ అంతరం నిర్వహించండి. ఇది పిలకలు వేయడానికి తగినంత స్థలాన్ని అందిస్తుంది, పోటీని తగ్గిస్తుంది మరియు గాలి ప్రసరణను మెరుగుపరుస్తుంది."
+            },
+            "planting_depth": {
+              "title": "నాటడం లోతు",
+              "description": "ప్రతి మొలకను 3–5 సెం.మీ లోతులో నాటండి. లోతు తక్కువగా నాటడం వల్ల త్వరగా వేర్లు ఏర్పడతాయి మరియు వేగంగా పెరుగుతాయి."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "కొండకు మొలకల సంఖ్య",
+              "description": "మొక్కల సంఖ్య మరియు దిగుబడి బాగా పెరగడానికి ప్రతి గుంటకు 2-3 మొలకలు నాటండి."
+            },
+            "water_layer": {
+              "title": "నీటి పొర",
+              "description": "మొలకల ఏర్పాటుకు మరియు మార్పిడి షాక్‌ను తగ్గించడానికి నాట్లు వేసిన వెంటనే నిస్సారమైన నీటి పొరను (సుమారు 5 సెం.మీ.) నిర్వహించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "प्रत्यारोपण",
+        "description": {
+          "overview": "अच्छी स्थापना और अधिकतम उपज क्षमता सुनिश्चित करने के लिए उचित तकनीकों के साथ इष्टतम उम्र और अंतराल पर स्वस्थ पौधों को रोपें।",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "अंकुर की आयु",
+              "description": "जब पौधे 21-25 दिन के हो जाएं तो उन्हें रोप दें। छोटे पौधे तेजी से बढ़ते हैं, अधिक अंकुर देते हैं और अधिक उपज देते हैं।"
+            },
+            "pulling_seedlings": {
+              "title": "पौधों को उखाड़ना",
+              "description": "जड़ों को नुकसान से बचाने के लिए पौधों को धीरे से उखाड़ें। उन्हें छोटे-छोटे गुच्छों में बांधें और रोपाई तक जड़ों को नम रखें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "पौधों के बीच 20 x 15 सेमी या 20 x 20 सेमी की दूरी बनाए रखें। इससे टिलरिंग के लिए पर्याप्त जगह मिलती है, प्रतिस्पर्धा कम होती है और हवा का संचार बेहतर होता है।"
+            },
+            "planting_depth": {
+              "title": "रोपण गहराई",
+              "description": "प्रत्येक पौधे को 3-5 सेमी की गहराई पर रोपें। उथली रोपाई से जड़ें जल्दी जमती हैं और शुरुआती विकास तेज़ होता है।"
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "प्रति टीले पर पौधों की संख्या",
+              "description": "इष्टतम पौध संख्या और उपज के लिए प्रति पहाड़ी 2-3 पौधे लगाएं।"
+            },
+            "water_layer": {
+              "title": "जल परत",
+              "description": "रोपाई के तुरंत बाद उथली जल परत (लगभग 5 सेमी) बनाए रखें, ताकि पौधों को स्थापित होने में मदद मिले और रोपाई के कारण होने वाले आघात को कम किया जा सके।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply balanced fertilizers and nutrients through proper timing and split applications to support optimal crop growth and yield.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "Basal Application",
+              "description": "Apply well-rotted FYM or compost (5–10 tons/ha) during final land preparation to improve soil structure and fertility."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "Recommended Fertilizer Dose (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg, Phosphorus (P₂O₅): 60 kg, Potassium (K₂O): 40–50 kg"
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply 1/3 of nitrogen, full phosphorus, and 1/2 potassium as basal at transplanting. Apply 1/3 nitrogen and 1/4 potassium at active tillering (25–30 DAT). Apply remaining nitrogen and potassium at panicle initiation (45–50 DAT)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) as basal if deficiency symptoms (bronzing, stunted growth) are observed. Foliar spray of iron or magnesium may be given if chlorosis appears."
+            },
+            "lime_application": {
+              "title": "Lime Application",
+              "description": "In acidic soils, apply lime as per soil test recommendations to correct pH and improve nutrient uptake."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "సరైన పంట పెరుగుదల మరియు దిగుబడికి తోడ్పడటానికి సమతుల్య ఎరువులు మరియు పోషకాలను సరైన సమయంలో మరియు విభజించి వాడండి.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "బేసల్ అప్లికేషన్",
+              "description": "నేల నిర్మాణం మరియు సారవంతమైన భూమిని చివరిగా తయారు చేసేటప్పుడు బాగా కుళ్ళిన ఎరువు లేదా కంపోస్ట్ (5–10 టన్నులు/హెక్టారు) వేయండి."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "సిఫార్సు చేసిన ఎరువుల మోతాదు (హెక్టారుకు)",
+              "description": "నత్రజని (N): 100–120 కిలోలు, భాస్వరం (P₂O₅): 60 కిలోలు, పొటాషియం (K₂O): 40–50 కిలోలు"
+            },
+            "split_application": {
+              "title": "అప్లికేషన్‌ను విభజించండి",
+              "description": "నాట్లు వేసేటప్పుడు 1/3 వంతు నత్రజని, పూర్తి భాస్వరం మరియు 1/2 వంతు పొటాషియం బేసల్‌గా వేయండి. చురుకైన పిలకలు వేసేటప్పుడు (25–30 DAT) 1/3 వంతు నత్రజని మరియు 1/4 వంతు పొటాషియం వేయండి. కంకి ప్రారంభ దశలో (45–50 DAT) మిగిలిన నత్రజని మరియు పొటాషియం వేయండి."
+            },
+            "micronutrients": {
+              "title": "సూక్ష్మపోషకాలు",
+              "description": "లోప లక్షణాలు (కాంస్య రంగు మారడం, పెరుగుదల మందగించడం) గమనించినట్లయితే జింక్ సల్ఫేట్ (25 కిలోలు/హెక్టారు) బేసల్‌గా వేయండి. క్లోరోసిస్ కనిపిస్తే ఇనుము లేదా మెగ్నీషియంను ఆకులపై పిచికారీ చేయవచ్చు."
+            },
+            "lime_application": {
+              "title": "సున్నం అప్లికేషన్",
+              "description": "ఆమ్ల నేలల్లో, pH ని సరిచేయడానికి మరియు పోషకాల శోషణను మెరుగుపరచడానికి నేల పరీక్ష సిఫార్సుల ప్రకారం సున్నం వేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "इष्टतम फसल वृद्धि और उपज के लिए संतुलित उर्वरकों और पोषक तत्वों का उचित समय पर और विभाजित अनुप्रयोग के साथ प्रयोग करें।",
+          "sub_steps": {
+            "basal_application": {
+              "title": "बेसल अनुप्रयोग",
+              "description": "मिट्टी की संरचना और उर्वरता में सुधार के लिए अंतिम भूमि तैयारी के दौरान अच्छी तरह सड़ी हुई गोबर की खाद या कम्पोस्ट (5-10 टन/हेक्टेयर) डालें।"
+            },
+            "recommended_fertilizer_dose": {
+              "title": "अनुशंसित उर्वरक खुराक (प्रति हेक्टेयर)",
+              "description": "नाइट्रोजन (N): 100–120 किग्रा, फॉस्फोरस (P₂O₅): 60 किग्रा, पोटैशियम (K₂O): 40–50 किग्रा"
+            },
+            "split_application": {
+              "title": "विभाजित आवेदन",
+              "description": "रोपाई के समय 1/3 नाइट्रोजन, पूरा फॉस्फोरस और 1/2 पोटैशियम बेसल के रूप में डालें। सक्रिय टिलरिंग (25-30 DAT) पर 1/3 नाइट्रोजन और 1/4 पोटैशियम डालें। शेष नाइट्रोजन और पोटैशियम को पैनिकल आरंभ (45-50 DAT) पर डालें।"
+            },
+            "micronutrients": {
+              "title": "सूक्ष्म पोषक",
+              "description": "यदि कमी के लक्षण (कांस्य रंग, विकास अवरुद्ध) दिखाई दें तो जिंक सल्फेट (25 किग्रा/हेक्टेयर) का बेसल छिड़काव करें। यदि क्लोरोसिस दिखाई दे तो आयरन या मैग्नीशियम का पत्तियों पर छिड़काव किया जा सकता है।"
+            },
+            "lime_application": {
+              "title": "चूने का प्रयोग",
+              "description": "अम्लीय मिट्टी में, pH को सही करने और पोषक तत्वों के अवशोषण में सुधार करने के लिए मिट्टी परीक्षण की सिफारिशों के अनुसार चूना डालें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Maintain proper water levels throughout the crop cycle, ensuring adequate supply during critical stages while practicing water conservation where needed.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a standing water depth of 5–7 cm throughout the crop period, especially during tillering and flowering. Avoid deep water (>10 cm), which can suppress tillering."
+            },
+            "critical_stages": {
+              "title": "Critical Stages",
+              "description": "Ensure adequate water at active tillering, panicle initiation, and flowering stages, as water stress during these periods can severely reduce yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to allow the field to dry, which eases harvesting, reduces lodging, and helps grains mature uniformly."
+            },
+            "water_saving": {
+              "title": "Water Saving",
+              "description": "In areas with water scarcity, alternate wetting and drying (AWD) can be practiced to save water without yield loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "పంట చక్రం అంతటా సరైన నీటి మట్టాలను నిర్వహించండి, అవసరమైన చోట నీటి సంరక్షణను పాటిస్తూ క్లిష్టమైన దశలలో తగినంత సరఫరాను నిర్ధారించండి.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "నీటిపారుదల",
+              "description": "పంట కాలం అంతా, ముఖ్యంగా పిలకలు వేసే సమయంలో మరియు పుష్పించే సమయంలో 5–7 సెం.మీ.ల లోతు వరకు నీటి నిలువ ఉండేలా చూసుకోండి. పిలకలను అణిచివేసే లోతైన నీటిని (&gt;10 సెం.మీ.) నివారించండి."
+            },
+            "critical_stages": {
+              "title": "క్లిష్టమైన దశలు",
+              "description": "చురుకైన పిలకలు వేయడం, కంకులు వేయడం మరియు పుష్పించే దశలలో తగినంత నీరు అందించాలని నిర్ధారించుకోండి, ఎందుకంటే ఈ కాలాల్లో నీటి కొరత దిగుబడిని తీవ్రంగా తగ్గిస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "పంట కోతకు 7-10 రోజుల ముందు నీటిని తీసివేయండి, తద్వారా పొలం ఎండిపోయేలా చేయవచ్చు, ఇది కోతను సులభతరం చేస్తుంది, గుంటలు పడిపోవడాన్ని తగ్గిస్తుంది మరియు ధాన్యాలు సమానంగా పరిపక్వం చెందడానికి సహాయపడుతుంది."
+            },
+            "water_saving": {
+              "title": "నీటి పొదుపు",
+              "description": "నీటి కొరత ఉన్న ప్రాంతాల్లో, దిగుబడి నష్టం లేకుండా నీటిని ఆదా చేయడానికి ప్రత్యామ్నాయ తడి మరియు ఎండబెట్టడం (AWD) సాధన చేయవచ్చు."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "पूरे फसल चक्र में उचित जल स्तर बनाए रखें, महत्वपूर्ण चरणों के दौरान पर्याप्त आपूर्ति सुनिश्चित करें तथा जहां आवश्यक हो वहां जल संरक्षण करें।",
+          "sub_steps": {
+            "irrigation": {
+              "title": "सिंचाई",
+              "description": "फसल की पूरी अवधि के दौरान, खास तौर पर कलियाँ निकलने और फूल आने के दौरान, 5-7 सेमी की गहराई पर पानी जमा रहने दें। गहरे पानी (&gt;10 सेमी) से बचें, जो कलियाँ निकलने की प्रक्रिया को रोक सकता है।"
+            },
+            "critical_stages": {
+              "title": "महत्वपूर्ण चरण",
+              "description": "सक्रिय कल्ले निकलने, पुष्पगुच्छ बनने की शुरुआत और पुष्पन अवस्था के दौरान पर्याप्त पानी सुनिश्चित करें, क्योंकि इन अवधियों के दौरान पानी की कमी से उपज में गंभीर कमी आ सकती है।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "फसल कटाई से 7-10 दिन पहले पानी निकाल दें ताकि खेत सूख जाए, जिससे कटाई आसान हो जाती है, फसल का नीचे गिरना कम हो जाता है, तथा अनाज को समान रूप से पकने में मदद मिलती है।"
+            },
+            "water_saving": {
+              "title": "पानी की बचत",
+              "description": "जल की कमी वाले क्षेत्रों में, बिना उपज की हानि के जल बचाने के लिए बारी-बारी से गीला करने और सुखाने (AWD) का प्रयोग किया जा सकता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Implement integrated management strategies for weeds, pests, and diseases to protect crop health and maximize yield potential.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "Manual/Mechanical Weed Management",
+              "description": "Hand weeding or using cono weeders at 20–30 days after transplanting (DAT) and again at 40–45 DAT."
+            },
+            "weed_management_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Pre-emergence: Pendimethalin (1.0–1.5 kg a.i./ha) within 3 days after transplanting. Post-emergence: Pyrazosulfuron-ethyl (15–20 g a.i./ha) at 15–20 DAT if weeds persist."
+            },
+            "integrated_weed_management": {
+              "title": "Integrated Weed Management",
+              "description": "Combine manual, mechanical, and chemical methods for best results."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Major pests include yellow stem borer, leaf folder, brown plant hopper, and gall midge. Regularly inspect fields for pest incidence and natural enemies. Use recommended insecticides only when pest populations exceed economic threshold levels. Rotate chemicals to avoid resistance."
+            },
+            "disease_management": {
+              "title": "Disease Management",
+              "description": "Traditional Samba Mahsuri is susceptible to bacterial blight, blast, and sheath blight. Improved Samba Mahsuri (ISM) is highly resistant to bacterial blight (Xa21, xa13, xa5 genes). Avoid excessive nitrogen to reduce disease risk. Practice clean cultivation and remove infected plant debris. Use fungicides (e.g., tricyclazole for blast) as needed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యాన్ని కాపాడటానికి మరియు దిగుబడి సామర్థ్యాన్ని పెంచడానికి కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధుల కోసం సమగ్ర నిర్వహణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "మాన్యువల్/యాంత్రిక కలుపు నిర్వహణ",
+              "description": "నాట్లు వేసిన 20–30 రోజుల తర్వాత (DAT) మరియు మళ్ళీ 40–45 DAT తర్వాత చేతితో కలుపు తీయడం లేదా కోనో వీడర్లను ఉపయోగించడం."
+            },
+            "weed_management_chemical": {
+              "title": "రసాయన కలుపు నియంత్రణ",
+              "description": "మొలకెత్తే ముందు: నాట్లు వేసిన 3 రోజుల్లోపు పెండిమెథాలిన్ (1.0–1.5 కిలోల ai/హెక్టారు). మొలకెత్తిన తర్వాత: కలుపు మొక్కలు కొనసాగితే 15–20 రోజుల తర్వాత పైరాజోసల్ఫ్యూరాన్-ఇథైల్ (15–20 గ్రా ai/హెక్టారు)."
+            },
+            "integrated_weed_management": {
+              "title": "సమగ్ర కలుపు నిర్వహణ",
+              "description": "ఉత్తమ ఫలితాల కోసం మాన్యువల్, మెకానికల్ మరియు కెమికల్ పద్ధతులను కలపండి."
+            },
+            "pest_management": {
+              "title": "తెగులు నిర్వహణ",
+              "description": "ప్రధాన తెగుళ్లలో పసుపు కాండం తొలుచు పురుగు, ఆకు ముడత పురుగు, గోధుమ రంగు మొక్కల తొలుచు పురుగు మరియు గాల్ మిడ్జ్ ఉన్నాయి. తెగుళ్ల సంభవం మరియు సహజ శత్రువుల కోసం పొలాన్ని క్రమం తప్పకుండా తనిఖీ చేయండి. తెగుళ్ల జనాభా ఆర్థిక పరిమితి స్థాయిలను మించిపోయినప్పుడు మాత్రమే సిఫార్సు చేసిన పురుగుమందులను వాడండి. నిరోధకతను నివారించడానికి రసాయనాలను తిప్పండి."
+            },
+            "disease_management": {
+              "title": "వ్యాధి నిర్వహణ",
+              "description": "సాంప్రదాయ సాంబా మహసూరి బాక్టీరియల్ బ్లైట్, బ్లాస్ట్ బ్లైట్ మరియు షీట్ బ్లైట్ కు గురవుతుంది. మెరుగైన సాంబా మహసూరి (ISM) బాక్టీరియల్ బ్లైట్ (Xa21, xa13, xa5 జన్యువులు) కు అధిక నిరోధకతను కలిగి ఉంటుంది. వ్యాధి ప్రమాదాన్ని తగ్గించడానికి అధిక నత్రజనిని నివారించండి. శుభ్రమైన సాగును అభ్యసించండి మరియు సోకిన మొక్కల శిధిలాలను తొలగించండి. అవసరమైన విధంగా శిలీంద్రనాశకాలను (ఉదా., బ్లాస్ట్ కోసం ట్రైసైక్లాజోల్) ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य की रक्षा और उपज क्षमता को अधिकतम करने के लिए खरपतवारों, कीटों और रोगों के लिए एकीकृत प्रबंधन रणनीतियों को लागू करें।",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "मैनुअल/मैकेनिकल खरपतवार प्रबंधन",
+              "description": "रोपाई के 20-30 दिन बाद (DAT) तथा पुनः 40-45 DAT पर हाथ से निराई करें या कोनो वीडर का उपयोग करें।"
+            },
+            "weed_management_chemical": {
+              "title": "रासायनिक खरपतवार नियंत्रण",
+              "description": "पूर्व-उद्भव: रोपाई के 3 दिन के भीतर पेंडीमेथालिन (1.0-1.5 किग्रा ए.आई./हेक्टेयर)। पश्चात-उद्भव: यदि खरपतवार बने रहते हैं तो 15-20 दिन पर पाइराज़ोसल्फ्यूरॉन-इथाइल (15-20 ग्राम ए.आई./हेक्टेयर)।"
+            },
+            "integrated_weed_management": {
+              "title": "एकीकृत खरपतवार प्रबंधन",
+              "description": "सर्वोत्तम परिणामों के लिए मैनुअल, मैकेनिकल और रासायनिक विधियों को संयोजित करें।"
+            },
+            "pest_management": {
+              "title": "कीट प्रबंधन",
+              "description": "प्रमुख कीटों में पीला तना छेदक, पत्ती मोड़क, भूरा पौधा हॉपर और पित्त मिज शामिल हैं। कीटों के प्रकोप और प्राकृतिक शत्रुओं के लिए नियमित रूप से खेतों का निरीक्षण करें। अनुशंसित कीटनाशकों का उपयोग केवल तभी करें जब कीटों की आबादी आर्थिक सीमा स्तर से अधिक हो। प्रतिरोध से बचने के लिए रसायनों को घुमाएँ।"
+            },
+            "disease_management": {
+              "title": "रोग प्रबंधन",
+              "description": "पारंपरिक सांबा महसूरी बैक्टीरियल ब्लाइट, ब्लास्ट और शीथ ब्लाइट के प्रति संवेदनशील है। उन्नत सांबा महसूरी (ISM) बैक्टीरियल ब्लाइट (Xa21, xa13, xa5 जीन) के प्रति अत्यधिक प्रतिरोधी है। रोग के जोखिम को कम करने के लिए अत्यधिक नाइट्रोजन से बचें। स्वच्छ खेती करें और संक्रमित पौधे के मलबे को हटा दें। आवश्यकतानुसार कवकनाशी (जैसे, ब्लास्ट के लिए ट्राइसाइक्लाज़ोल) का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest the crop at optimal maturity using appropriate methods to ensure maximum grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Samba Mahsuri matures in 135–140 days after sowing."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when about 80–85% of the grains on the panicle are golden yellow and hard. Delayed harvesting can lead to grain shattering and quality loss."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut plants close to the ground using a sickle for manual harvesting or a combine harvester for large fields."
+            },
+            "post_harvest_handling": {
+              "title": "Post-Harvest Handling",
+              "description": "Bundle and stack harvested plants upright in the field for 1–2 days to allow further drying and uniform ripening."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "గరిష్ట ధాన్యం నాణ్యతను నిర్ధారించడానికి మరియు నష్టాలను తగ్గించడానికి తగిన పద్ధతులను ఉపయోగించి సరైన పరిపక్వత వద్ద పంటను కోయండి.",
+          "sub_steps": {
+            "maturity": {
+              "title": "పరిపక్వత",
+              "description": "సాంబా మహసూరి విత్తిన 135-140 రోజుల్లో పరిపక్వం చెందుతుంది."
+            },
+            "harvest_timing": {
+              "title": "పంట సమయం",
+              "description": "కంకులపై 80–85% ధాన్యాలు బంగారు పసుపు రంగులో మరియు గట్టిగా ఉన్నప్పుడు కోయండి. ఆలస్యంగా కోయడం వల్ల ధాన్యం పగిలిపోయి నాణ్యత కోల్పోతారు."
+            },
+            "harvest_method": {
+              "title": "పంట కోత పద్ధతి",
+              "description": "చేతితో కోసేందుకు కొడవలిని లేదా పెద్ద పొలాలకు కంబైన్ హార్వెస్టర్‌ను ఉపయోగించి నేలకు దగ్గరగా మొక్కలను కత్తిరించండి."
+            },
+            "post_harvest_handling": {
+              "title": "పంటకోత తర్వాత నిర్వహణ",
+              "description": "పండించిన మొక్కలను కట్టగా కట్టి, 1-2 రోజులు పొలంలో నిటారుగా ఉంచండి, తద్వారా అవి మరింత ఎండబెట్టి, ఏకరీతిలో పండుతాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अधिकतम अनाज की गुणवत्ता सुनिश्चित करने और नुकसान को न्यूनतम करने के लिए उचित तरीकों का उपयोग करके इष्टतम परिपक्वता पर फसल की कटाई करें।",
+          "sub_steps": {
+            "maturity": {
+              "title": "परिपक्वता",
+              "description": "सांबा महसूरी बुवाई के 135-140 दिनों के बाद पक जाती है।"
+            },
+            "harvest_timing": {
+              "title": "फसल कटाई का समय",
+              "description": "जब पुष्पगुच्छ पर लगभग 80-85% दाने सुनहरे पीले और सख्त हो जाएं, तब कटाई करें। देरी से कटाई करने से दाने बिखर सकते हैं और गुणवत्ता में कमी आ सकती है।"
+            },
+            "harvest_method": {
+              "title": "फसल कटाई विधि",
+              "description": "जमीन के निकट लगे पौधों को हाथ से कटाई के लिए दरांती या बड़े खेतों के लिए कंबाइन हार्वेस्टर से काटें।"
+            },
+            "post_harvest_handling": {
+              "title": "कटाई के बाद की देखभाल",
+              "description": "काटे गए पौधों को खेत में 1-2 दिनों के लिए सीधा खड़ा करके बंडलों में बांध दें, ताकि वे और अधिक सूख सकें और एक समान रूप से पक सकें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality, prevent losses, and ensure long-term storage stability.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from straw by beating bundles on a hard surface or using a mechanical thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Winnow and sieve to remove chaff, straw, and debris, ensuring only clean grain is stored."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying prevents fungal growth and grain spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, pest-free bags or bins. Use gunny bags or airtight containers and keep them in a well-ventilated, cool, and dry place. Fumigate or use natural repellents if necessary to prevent pest infestation."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి, నష్టాలను నివారించడానికి మరియు దీర్ఘకాలిక నిల్వ స్థిరత్వాన్ని నిర్ధారించడానికి పండించిన ధాన్యాన్ని సరిగ్గా ప్రాసెస్ చేసి నిల్వ చేయండి.",
+          "sub_steps": {
+            "threshing": {
+              "title": "నూర్పిడి",
+              "description": "గట్టి ఉపరితలంపై కట్టలను కొట్టడం ద్వారా లేదా యాంత్రిక థ్రెషర్‌ని ఉపయోగించడం ద్వారా గడ్డి నుండి ధాన్యాలను వేరు చేయండి."
+            },
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "శుభ్రమైన ధాన్యం మాత్రమే నిల్వ ఉండేలా చూసుకోవడానికి, పొట్టు, గడ్డి మరియు చెత్తను తొలగించడానికి తూర్పారబట్టండి మరియు జల్లెడ పట్టండి."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "గింజలను సూర్యకాంతిలో లేదా యాంత్రిక ఆరబెట్టేదిలో ఆరబెట్టి, తేమ శాతాన్ని 14% తగ్గించండి. సరిగ్గా ఎండబెట్టడం వల్ల శిలీంధ్రాల పెరుగుదల మరియు ధాన్యం చెడిపోకుండా నిరోధించవచ్చు."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "ఎండిన బియ్యాన్ని శుభ్రమైన, పొడి, తెగుళ్లు లేని సంచులు లేదా డబ్బాల్లో నిల్వ చేయండి. గోనె సంచులు లేదా గాలి చొరబడని కంటైనర్లను ఉపయోగించండి మరియు వాటిని బాగా వెంటిలేషన్ చేసిన, చల్లని మరియు పొడి ప్రదేశంలో ఉంచండి. తెగుళ్లు రాకుండా నిరోధించడానికి అవసరమైతే ధూమపానం చేయండి లేదా సహజ వికర్షకాలను ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने, नुकसान को रोकने और दीर्घकालिक भंडारण स्थिरता सुनिश्चित करने के लिए काटे गए अनाज को उचित तरीके से संसाधित और संग्रहीत करें।",
+          "sub_steps": {
+            "threshing": {
+              "title": "ताड़ना",
+              "description": "किसी कठोर सतह पर बंडलों को पीटकर या यांत्रिक थ्रेशर का उपयोग करके अनाज को भूसे से अलग करें।"
+            },
+            "cleaning": {
+              "title": "सफाई",
+              "description": "भूसा, पुआल और मलबे को हटाने के लिए छलनी से छान लें, तथा सुनिश्चित करें कि केवल स्वच्छ अनाज ही भंडारित किया जाए।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "नमी की मात्रा को लगभग 14% तक कम करने के लिए अनाज को धूप में या मैकेनिकल ड्रायर में सुखाएँ। उचित सुखाने से फफूंद की वृद्धि और अनाज खराब होने से बचा जा सकता है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "सूखे चावल को साफ, सूखे, कीट-मुक्त बैग या डिब्बे में रखें। बोरियों या एयरटाइट कंटेनर का उपयोग करें और उन्हें अच्छी तरह हवादार, ठंडी और सूखी जगह पर रखें। कीटों के संक्रमण को रोकने के लिए यदि आवश्यक हो तो धुआँ या प्राकृतिक विकर्षक का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and infrastructure development.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "Field Cleaning",
+              "description": "Remove all weeds, crop residues, and stones to ensure a clean seedbed. This reduces pest and disease risk and supports uniform crop establishment."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2–3 times to a depth of 10–15 cm. The first ploughing is done dry, and the second with water to identify and level high and low spots. This loosens the soil, improves aeration, and incorporates organic matter."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after ploughing and puddling. Uneven fields consume more water and can cause patchy growth. Use a wooden or laser level for uniformity."
+            },
+            "filling_cracks": {
+              "title": "Filling Cracks",
+              "description": "In soils with cracks, do shallow tillage before soaking to prevent water loss below the root zone. For clayey soils, puddling creates a hard pan that helps retain water."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) to retain irrigation water and prevent runoff. Bunds should be compact and high enough to avoid overflow during rain. Seal rat holes and cracks to minimize water loss."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Build channels for efficient irrigation and drainage. This ensures nutrients are not lost and water can be delivered or drained as needed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన క్లియరింగ్, దున్నడం, చదును చేయడం మరియు మౌలిక సదుపాయాల అభివృద్ధి ద్వారా సరైన వరి సాగుకు పొలాన్ని సిద్ధం చేయండి.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "ఫీల్డ్ క్లీనింగ్",
+              "description": "శుభ్రమైన విత్తన నేలను నిర్ధారించడానికి అన్ని కలుపు మొక్కలు, పంట అవశేషాలు మరియు రాళ్లను తొలగించండి. ఇది తెగుళ్ళు మరియు వ్యాధుల ప్రమాదాన్ని తగ్గిస్తుంది మరియు ఏకరీతి పంట స్థాపనకు మద్దతు ఇస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "పొలాన్ని 2-3 సార్లు 10–15 సెం.మీ లోతుకు దున్నండి. మొదటి దున్నడం పొడిగా ఉంటుంది, రెండవ దున్నడం నీటితో ఎత్తైన మరియు తక్కువ ఎత్తు ఉన్న ప్రదేశాలను గుర్తించి సమం చేస్తుంది. ఇది నేలను వదులుతుంది, గాలి ప్రసరణను మెరుగుపరుస్తుంది మరియు సేంద్రియ పదార్థాన్ని కలుపుతుంది."
+            },
+            "leveling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత, బురదను తీసిన తర్వాత పొలాన్ని చదును చేయండి. అసమాన పొలాలు ఎక్కువ నీటిని తీసుకుంటాయి మరియు అవి మచ్చల పెరుగుదలకు కారణమవుతాయి. ఏకరూపత కోసం చెక్క లేదా లేజర్ లెవల్‌ని ఉపయోగించండి."
+            },
+            "filling_cracks": {
+              "title": "పగుళ్లను పూరించడం",
+              "description": "పగుళ్లు ఉన్న నేలల్లో, నానబెట్టడానికి ముందు నిస్సారంగా దున్నండి, తద్వారా వేర్ల జోన్ క్రింద నీటి నష్టాన్ని నివారించవచ్చు. బంకమట్టి నేలల్లో, పుడ్లింగ్ నీటిని నిలుపుకోవడంలో సహాయపడే గట్టి పాన్‌ను సృష్టిస్తుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "నీటిపారుదల నీటిని నిలుపుకోవడానికి మరియు ప్రవాహాన్ని నివారించడానికి కట్టలను (ఎత్తైన సరిహద్దులు) నిర్మించి మరమ్మతు చేయండి. వర్షం సమయంలో పొంగిపోకుండా ఉండటానికి కట్టలు కాంపాక్ట్‌గా మరియు ఎత్తుగా ఉండాలి. నీటి నష్టాన్ని తగ్గించడానికి ఎలుకల రంధ్రాలు మరియు పగుళ్లను మూసివేయండి."
+            },
+            "field_channels": {
+              "title": "ఫీల్డ్ ఛానెల్‌లు",
+              "description": "సమర్థవంతమైన నీటిపారుదల మరియు పారుదల కోసం కాలువలను నిర్మించండి. ఇది పోషకాలను కోల్పోకుండా మరియు అవసరమైన విధంగా నీటిని సరఫరా చేయగలదు లేదా పారుదల చేయగలదు."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "उचित सफाई, जुताई, समतलीकरण और बुनियादी ढांचे के विकास के माध्यम से इष्टतम चावल की खेती के लिए खेत तैयार करें।",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "क्षेत्र की सफाई",
+              "description": "सभी खरपतवार, फसल अवशेष और पत्थरों को हटा दें ताकि बीज की क्यारी साफ रहे। इससे कीट और बीमारी का खतरा कम होता है और फसल की एक समान स्थापना होती है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "खेत को 2-3 बार 10-15 सेमी की गहराई तक जोतें। पहली जुताई सूखी की जाती है, और दूसरी पानी से की जाती है ताकि ऊंचे और निचले स्थानों की पहचान की जा सके और उन्हें समतल किया जा सके। इससे मिट्टी ढीली हो जाती है, वायु संचार बेहतर होता है और कार्बनिक पदार्थ भी मिल जाते हैं।"
+            },
+            "leveling": {
+              "title": "लेवलिंग",
+              "description": "जुताई और पडलिंग के बाद खेत को समतल करें। असमान खेत अधिक पानी की खपत करते हैं और इससे असमान वृद्धि हो सकती है। एकरूपता के लिए लकड़ी या लेजर लेवल का उपयोग करें।"
+            },
+            "filling_cracks": {
+              "title": "दरारें भरना",
+              "description": "दरारों वाली मिट्टी में, जड़ों के नीचे पानी की कमी को रोकने के लिए भिगोने से पहले उथली जुताई करें। चिकनी मिट्टी के लिए, पोखर बनाने से एक सख्त परत बनती है जो पानी को बनाए रखने में मदद करती है।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "सिंचाई के पानी को बनाए रखने और अपवाह को रोकने के लिए बांध (उभरे हुए किनारे) का निर्माण और मरम्मत करें। बांध सघन और पर्याप्त ऊंचे होने चाहिए ताकि बारिश के दौरान पानी का बहाव न हो। पानी की हानि को कम करने के लिए चूहे के बिल और दरारें बंद करें।"
+            },
+            "field_channels": {
+              "title": "फील्ड चैनल",
+              "description": "कुशल सिंचाई और जल निकासी के लिए चैनल बनाएं। इससे यह सुनिश्चित होता है कि पोषक तत्व नष्ट न हों और आवश्यकतानुसार पानी पहुंचाया या निकाला जा सके।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and disease resistance through proper treatment and nursery management.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "Certified Seed Selection",
+              "description": "Use certified, disease-free HMT seeds for genetic purity and high germination rates."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 30–40 kg of seed per hectare for nursery sowing."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "Seed Soaking and Incubation",
+              "description": "Soak seeds in clean water for 24 hours, then drain and wrap in a wet cloth or gunny bag for 24–36 hours until sprouting."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Treat sprouted seeds with a fungicide such as carbendazim (2g/kg seed) to protect against seed-borne diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate. Sow sprouted seeds evenly and irrigate regularly to ensure healthy seedling growth."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "నాణ్యమైన విత్తనాలను ఎంచుకుని, సరైన చికిత్స మరియు నర్సరీ నిర్వహణ ద్వారా సరైన అంకురోత్పత్తి మరియు వ్యాధి నిరోధకత కోసం వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "ధృవీకరించబడిన విత్తన ఎంపిక",
+              "description": "జన్యు స్వచ్ఛత మరియు అధిక అంకురోత్పత్తి రేటు కోసం ధృవీకరించబడిన, వ్యాధి రహిత HMT విత్తనాలను ఉపయోగించండి."
+            },
+            "seed_rate": {
+              "title": "విత్తన రేటు",
+              "description": "నర్సరీలో నాటడానికి హెక్టారుకు 30–40 కిలోల విత్తనాన్ని ఉపయోగించండి."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "విత్తనాలను నానబెట్టడం మరియు పొదిగించడం",
+              "description": "విత్తనాలను శుభ్రమైన నీటిలో 24 గంటలు నానబెట్టి, తరువాత నీటిని తీసివేసి, తడి గుడ్డ లేదా గోనె సంచిలో చుట్టి 24–36 గంటలు మొలకెత్తే వరకు ఉంచండి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "విత్తనాల ద్వారా సంక్రమించే వ్యాధుల నుండి రక్షించడానికి మొలకెత్తిన విత్తనాలను కార్బెండజిమ్ (2 గ్రా/కిలో విత్తనం) వంటి శిలీంద్ర సంహారిణితో శుద్ధి చేయండి."
+            },
+            "nursery_bed_preparation": {
+              "title": "నర్సరీ బెడ్ తయారీ",
+              "description": "ప్రధాన పొలంలో 1/20వ వంతు విస్తీర్ణంలో ఎత్తైన నర్సరీ పడకలను సిద్ధం చేయండి. బాగా కుళ్ళిన పొల ఎరువు (FYM) మరియు అవసరమైతే, జింక్ సల్ఫేట్ కలపండి. మొలకెత్తిన విత్తనాలను సమానంగా విత్తండి మరియు ఆరోగ్యకరమైన మొలకల పెరుగుదలను నిర్ధారించడానికి క్రమం తప్పకుండా నీరు పెట్టండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "गुणवत्ता वाले बीजों का चयन करें और उचित उपचार और नर्सरी प्रबंधन के माध्यम से इष्टतम अंकुरण और रोग प्रतिरोध के लिए उन्हें ठीक से तैयार करें।",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "प्रमाणित बीज चयन",
+              "description": "आनुवंशिक शुद्धता और उच्च अंकुरण दर के लिए प्रमाणित, रोगमुक्त एचएमटी बीजों का उपयोग करें।"
+            },
+            "seed_rate": {
+              "title": "बीज दर",
+              "description": "नर्सरी बुवाई के लिए प्रति हेक्टेयर 30-40 किलोग्राम बीज का प्रयोग करें।"
+            },
+            "seed_soaking_and_incubation": {
+              "title": "बीज भिगोना और ऊष्मायन",
+              "description": "बीजों को 24 घंटे तक साफ पानी में भिगोएं, फिर पानी निकाल दें और अंकुरित होने तक 24-36 घंटे तक गीले कपड़े या बोरी में लपेट कर रखें।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "बीज जनित रोगों से बचाने के लिए अंकुरित बीजों को कार्बेन्डाजिम (2 ग्राम/किलोग्राम बीज) जैसे कवकनाशक से उपचारित करें।"
+            },
+            "nursery_bed_preparation": {
+              "title": "नर्सरी बेड की तैयारी",
+              "description": "मुख्य खेत के लगभग 1/20 भाग को कवर करने वाली उभरी हुई नर्सरी क्यारियाँ तैयार करें। अच्छी तरह से सड़ी हुई गोबर की खाद (FYM) और, यदि आवश्यक हो, तो जिंक सल्फेट मिलाएँ। अंकुरित बीजों को समान रूप से बोएँ और स्वस्थ अंकुर विकास सुनिश्चित करने के लिए नियमित रूप से सिंचाई करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Transplanting",
+        "description": {
+          "overview": "Transplant healthy seedlings at the optimal age with proper spacing and depth to ensure good establishment and yield.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings at 21–25 days old for best establishment and yield."
+            },
+            "pulling_seedlings": {
+              "title": "Pulling Seedlings",
+              "description": "Uproot seedlings gently to avoid root damage. Bundle in small bunches and keep roots moist until transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 15 cm or 20 x 20 cm between seedlings. This promotes tillering and reduces competition."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant seedlings at a depth of 3–5 cm. Shallow planting encourages quick root establishment and vigorous early growth."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "Number of Seedlings per Hill",
+              "description": "Place 2–3 seedlings per hill for optimal plant population and yield."
+            },
+            "water_layer": {
+              "title": "Water Layer",
+              "description": "Maintain a shallow water layer (about 5 cm) immediately after transplanting to help seedlings establish and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "మార్పిడి",
+        "description": {
+          "overview": "ఆరోగ్యకరమైన మొలకలను సరైన వయస్సులో సరైన స్థలం మరియు లోతుతో నాటండి, తద్వారా మంచి పెరుగుదల మరియు దిగుబడి నిర్ధారించడానికి వీలుగా ఉంటుంది.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "మొలక వయస్సు",
+              "description": "ఉత్తమ పెరుగుదల మరియు దిగుబడి కోసం 21-25 రోజుల వయస్సు గల ఆరోగ్యకరమైన మొలకలను నాటండి."
+            },
+            "pulling_seedlings": {
+              "title": "మొలకల లాగడం",
+              "description": "వేర్లు దెబ్బతినకుండా ఉండటానికి మొలకలను జాగ్రత్తగా పెరికివేయండి. చిన్న గుత్తులుగా కట్టి, నాట్లు వేసే వరకు వేర్లను తేమగా ఉంచండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "మొలకల మధ్య 20 x 15 సెం.మీ లేదా 20 x 20 సెం.మీ అంతరం నిర్వహించండి. ఇది పిలకలను ప్రోత్సహిస్తుంది మరియు పోటీని తగ్గిస్తుంది."
+            },
+            "planting_depth": {
+              "title": "నాటడం లోతు",
+              "description": "3–5 సెం.మీ లోతులో మొలకలను నాటండి. లోతు తక్కువగా నాటడం వల్ల త్వరగా వేర్లు ఏర్పడతాయి మరియు త్వరగా పెరుగుతాయి."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "ప్రతి కొండకు మొలకల సంఖ్య",
+              "description": "మొక్కల సంఖ్య మరియు దిగుబడి బాగా పెరగడానికి ప్రతి గుంటకు 2-3 మొలకలు నాటండి."
+            },
+            "water_layer": {
+              "title": "నీటి పొర",
+              "description": "మొలకల ఏర్పాటుకు మరియు మార్పిడి షాక్‌ను తగ్గించడానికి నాట్లు వేసిన వెంటనే నిస్సారమైన నీటి పొరను (సుమారు 5 సెం.మీ.) నిర్వహించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "प्रत्यारोपण",
+        "description": {
+          "overview": "अच्छी स्थापना और उपज सुनिश्चित करने के लिए स्वस्थ पौधों को उचित अंतराल और गहराई के साथ इष्टतम उम्र में रोपें।",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "अंकुर की आयु",
+              "description": "सर्वोत्तम स्थापना और उपज के लिए स्वस्थ पौधों को 21-25 दिन की उम्र में रोपें।"
+            },
+            "pulling_seedlings": {
+              "title": "पौधों को उखाड़ना",
+              "description": "जड़ों को नुकसान से बचाने के लिए पौधों को धीरे से उखाड़ें। छोटे-छोटे गुच्छों में बांधें और रोपाई तक जड़ों को नम रखें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "पौधों के बीच 20 x 15 सेमी या 20 x 20 सेमी की दूरी बनाए रखें। इससे टिलरिंग को बढ़ावा मिलता है और प्रतिस्पर्धा कम होती है।"
+            },
+            "planting_depth": {
+              "title": "रोपण गहराई",
+              "description": "पौधों को 3-5 सेमी की गहराई पर रोपें। उथली रोपाई से जड़ें जल्दी जमती हैं और शुरुआती विकास तेज़ होता है।"
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "प्रति टीले पर पौधों की संख्या",
+              "description": "इष्टतम पौध संख्या और उपज के लिए प्रति पहाड़ी 2-3 पौधे लगाएं।"
+            },
+            "water_layer": {
+              "title": "जल परत",
+              "description": "रोपाई के तुरंत बाद उथली जल परत (लगभग 5 सेमी) बनाए रखें, ताकि पौधों को स्थापित होने में मदद मिले और रोपाई के कारण होने वाले आघात को कम किया जा सके।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply balanced nutrition through organic and inorganic fertilizers with proper timing to maximize yield and maintain soil health.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "Basal Application",
+              "description": "Apply well-rotted FYM or compost (5–10 t/ha) during land preparation to improve soil structure and fertility."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "Recommended Fertilizer Dose (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg, Phosphorus (P₂O₅): 60 kg, Potassium (K₂O): 40–50 kg"
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply 1/3 of nitrogen, full phosphorus, and 1/2 potassium as basal at transplanting. Apply 1/3 nitrogen and 1/4 potassium at active tillering (25–30 DAT). Apply remaining nitrogen and potassium at panicle initiation (45–50 DAT)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) as basal if deficiency symptoms are observed (bronzing, stunted growth)."
+            },
+            "integrated_nutrient_management": {
+              "title": "Integrated Nutrient Management",
+              "description": "Combine organic (FYM, vermicomposting) and inorganic fertilizers for higher yield and soil health. Substituting 25–50% N with FYM in Kharif and applying full NPK in Rabi gives the best results."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "దిగుబడిని పెంచడానికి మరియు నేల ఆరోగ్యాన్ని కాపాడుకోవడానికి సేంద్రియ మరియు అకర్బన ఎరువుల ద్వారా సమతుల్య పోషణను సరైన సమయంలో ఇవ్వండి.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "బేసల్ అప్లికేషన్",
+              "description": "నేల నిర్మాణం మరియు సారవంతమైన భూమిని తయారు చేసేటప్పుడు బాగా కుళ్ళిన ఎరువు లేదా కంపోస్ట్ (హెక్టారుకు 5–10 టన్నులు) వేయండి."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "సిఫార్సు చేసిన ఎరువుల మోతాదు (హెక్టారుకు)",
+              "description": "నత్రజని (N): 100–120 కిలోలు, భాస్వరం (P₂O₅): 60 కిలోలు, పొటాషియం (K₂O): 40–50 కిలోలు"
+            },
+            "split_application": {
+              "title": "అప్లికేషన్‌ను విభజించండి",
+              "description": "నాట్లు వేసేటప్పుడు 1/3 వంతు నత్రజని, పూర్తి భాస్వరం మరియు 1/2 వంతు పొటాషియం బేసల్‌గా వేయండి. చురుకైన పిలకలు వేసేటప్పుడు (25–30 DAT) 1/3 వంతు నత్రజని మరియు 1/4 వంతు పొటాషియం వేయండి. కంకి ప్రారంభ దశలో (45–50 DAT) మిగిలిన నత్రజని మరియు పొటాషియం వేయండి."
+            },
+            "micronutrients": {
+              "title": "సూక్ష్మపోషకాలు",
+              "description": "లోప లక్షణాలు (కాంస్య రంగు మారడం, పెరుగుదల కుంగిపోవడం) గమనించినట్లయితే జింక్ సల్ఫేట్ (25 కిలోలు/హెక్టారు) బేసల్ ఎరువుగా వేయండి."
+            },
+            "integrated_nutrient_management": {
+              "title": "సమగ్ర పోషక నిర్వహణ",
+              "description": "అధిక దిగుబడి మరియు నేల ఆరోగ్యం కోసం సేంద్రీయ (FYM, వర్మీకంపోస్టింగ్) మరియు అకర్బన ఎరువులను కలపండి. ఖరీఫ్‌లో 25-50% N ను FYM తో ప్రత్యామ్నాయం చేయడం మరియు రబీలో పూర్తి NPK ని ఉపయోగించడం ఉత్తమ ఫలితాలను ఇస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "उपज को अधिकतम करने और मृदा स्वास्थ्य को बनाए रखने के लिए उचित समय पर जैविक और अकार्बनिक उर्वरकों के माध्यम से संतुलित पोषण लागू करें।",
+          "sub_steps": {
+            "basal_application": {
+              "title": "बेसल अनुप्रयोग",
+              "description": "मिट्टी की संरचना और उर्वरता में सुधार के लिए भूमि की तैयारी के दौरान अच्छी तरह सड़ी हुई गोबर की खाद या कम्पोस्ट (5-10 टन/हेक्टेयर) डालें।"
+            },
+            "recommended_fertilizer_dose": {
+              "title": "अनुशंसित उर्वरक खुराक (प्रति हेक्टेयर)",
+              "description": "नाइट्रोजन (N): 100–120 किग्रा, फॉस्फोरस (P₂O₅): 60 किग्रा, पोटैशियम (K₂O): 40–50 किग्रा"
+            },
+            "split_application": {
+              "title": "विभाजित आवेदन",
+              "description": "रोपाई के समय 1/3 नाइट्रोजन, पूरा फॉस्फोरस और 1/2 पोटैशियम बेसल के रूप में डालें। सक्रिय टिलरिंग (25-30 DAT) पर 1/3 नाइट्रोजन और 1/4 पोटैशियम डालें। शेष नाइट्रोजन और पोटैशियम को पैनिकल आरंभ (45-50 DAT) पर डालें।"
+            },
+            "micronutrients": {
+              "title": "सूक्ष्म पोषक",
+              "description": "यदि कमी के लक्षण (कांस्य रंग, अवरुद्ध विकास) दिखाई दें तो जिंक सल्फेट (25 किग्रा/हेक्टेयर) का आधार रूप में प्रयोग करें।"
+            },
+            "integrated_nutrient_management": {
+              "title": "एकीकृत पोषक तत्व प्रबंधन",
+              "description": "अधिक उपज और मृदा स्वास्थ्य के लिए जैविक (FYM, वर्मीकंपोस्टिंग) और अकार्बनिक उर्वरकों को मिलाएं। खरीफ में FYM के साथ 25-50% N और रबी में पूर्ण NPK का प्रयोग करने से सर्वोत्तम परिणाम मिलते हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Maintain optimal water levels throughout the crop cycle with special attention to critical growth stages.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a standing water depth of 5–7 cm throughout the crop period, especially during tillering and flowering. Avoid deep water (>10 cm), which can suppress tillering."
+            },
+            "critical_stages": {
+              "title": "Critical Stages",
+              "description": "Ensure adequate water at active tillering, panicle initiation, and flowering stages, as water stress during these periods can severely reduce yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to allow the field to dry, which eases harvesting, reduces lodging, and helps grains mature uniformly."
+            },
+            "water_saving": {
+              "title": "Water Saving",
+              "description": "In water-scarce areas, practice alternate wetting and drying (AWD) to save water without yield loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "పంట చక్రం అంతటా సరైన నీటి మట్టాలను నిర్వహించండి, కీలక పెరుగుదల దశలపై ప్రత్యేక శ్రద్ధ వహించండి.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "నీటిపారుదల",
+              "description": "పంట కాలం అంతా, ముఖ్యంగా పిలకలు వేసే సమయంలో మరియు పుష్పించే సమయంలో 5–7 సెం.మీ.ల లోతు వరకు నీటి నిలువ ఉండేలా చూసుకోండి. పిలకలు వేసే సమయంలో (&gt;10 సెం.మీ.) లోతైన నీటిని నివారించండి, ఎందుకంటే ఇది పిలకలను అణిచివేస్తుంది."
+            },
+            "critical_stages": {
+              "title": "క్లిష్టమైన దశలు",
+              "description": "చురుకైన పిలకలు వేయడం, కంకులు వేయడం మరియు పుష్పించే దశలలో తగినంత నీరు అందించాలని నిర్ధారించుకోండి, ఎందుకంటే ఈ కాలాల్లో నీటి కొరత దిగుబడిని తీవ్రంగా తగ్గిస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "పంట కోతకు 7-10 రోజుల ముందు నీటిని తీసివేయండి, తద్వారా పొలం ఎండిపోయేలా చేయవచ్చు, ఇది కోతను సులభతరం చేస్తుంది, గుంటలు పడిపోవడాన్ని తగ్గిస్తుంది మరియు ధాన్యాలు సమానంగా పరిపక్వం చెందడానికి సహాయపడుతుంది."
+            },
+            "water_saving": {
+              "title": "నీటి పొదుపు",
+              "description": "నీటి కొరత ఉన్న ప్రాంతాల్లో, దిగుబడి నష్టం లేకుండా నీటిని ఆదా చేయడానికి ప్రత్యామ్నాయ తడి మరియు ఎండబెట్టడం (AWD) పద్ధతులను పాటించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "फसल चक्र के दौरान इष्टतम जल स्तर बनाए रखें तथा महत्वपूर्ण विकास चरणों पर विशेष ध्यान दें।",
+          "sub_steps": {
+            "irrigation": {
+              "title": "सिंचाई",
+              "description": "फसल की पूरी अवधि के दौरान, खास तौर पर कलियाँ निकलने और फूल आने के दौरान, 5-7 सेमी की गहराई पर पानी जमा रहने दें। गहरे पानी (&gt;10 सेमी) से बचें, जो कलियाँ निकलने की प्रक्रिया को रोक सकता है।"
+            },
+            "critical_stages": {
+              "title": "महत्वपूर्ण चरण",
+              "description": "सक्रिय कल्ले निकलने, पुष्पगुच्छ बनने की शुरुआत और पुष्पन अवस्था के दौरान पर्याप्त पानी सुनिश्चित करें, क्योंकि इन अवधियों के दौरान पानी की कमी से उपज में गंभीर कमी आ सकती है।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "फसल कटाई से 7-10 दिन पहले पानी निकाल दें ताकि खेत सूख जाए, जिससे कटाई आसान हो जाती है, फसल का नीचे गिरना कम हो जाता है, तथा अनाज को समान रूप से पकने में मदद मिलती है।"
+            },
+            "water_saving": {
+              "title": "पानी की बचत",
+              "description": "जल की कमी वाले क्षेत्रों में, उपज की हानि के बिना पानी बचाने के लिए बारी-बारी से गीला करने और सुखाने (AWD) का प्रयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Implement integrated management strategies to control weeds, pests, and diseases for optimal crop health and yield.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "Weed Management - Manual/Mechanical",
+              "description": "Hand weeding or using cono weeders at 20–30 days after transplanting (DAT) and again at 40–45 DAT is effective."
+            },
+            "weed_management_chemical": {
+              "title": "Weed Management - Chemical Control",
+              "description": "Pre-emergence: Pendimethalin (1.0–1.5 kg a.i./ha) within 3 days after transplanting. Post-emergence: Pyrazosulfuron-ethyl (15–20 g a.i./ha) at 15–20 DAT if weeds persist."
+            },
+            "integrated_weed_management": {
+              "title": "Integrated Weed Management",
+              "description": "Combine manual, mechanical, and chemical methods for best results."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Major Pests: Yellow stem borer, leaf folder, brown planthopper, and gall midge. Regularly inspect fields for pest incidence and natural enemies. Use recommended insecticides only when pest populations exceed threshold levels. Rotate chemicals to avoid resistance."
+            },
+            "disease_management": {
+              "title": "Disease Management",
+              "description": "Common Diseases: HMT rice is moderately susceptible to blast, bacterial blight, and sheath blight. Avoid excessive nitrogen to reduce disease risk. Practice clean cultivation and remove infected plant debris. Use fungicides (e.g., tricyclazole for blast) as needed."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యం మరియు దిగుబడి కోసం కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించడానికి సమగ్ర నిర్వహణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "కలుపు నిర్వహణ - మాన్యువల్/మెకానికల్",
+              "description": "నాట్లు వేసిన 20–30 రోజుల తర్వాత (DAT) మరియు మళ్ళీ 40–45 DAT తర్వాత చేతితో కలుపు తీయడం లేదా కోనో వీడర్లను ఉపయోగించడం ప్రభావవంతంగా ఉంటుంది."
+            },
+            "weed_management_chemical": {
+              "title": "కలుపు నిర్వహణ - రసాయన నియంత్రణ",
+              "description": "మొక్కలు నాటడానికి ముందు: నాట్లు వేసిన 3 రోజుల్లోపు పెండిమెథాలిన్ (1.0–1.5 కిలోల ai/హెక్టారు). మొక్కలు నాటిన 3 రోజుల్లోపు. మొక్కలు నాటిన తర్వాత: కలుపు మొక్కలు కొనసాగితే 15–20 రోజుల తర్వాత పైరాజోసల్ఫ్యూరాన్-ఇథైల్ (15–20 గ్రా ai/హెక్టారు)."
+            },
+            "integrated_weed_management": {
+              "title": "సమగ్ర కలుపు నిర్వహణ",
+              "description": "ఉత్తమ ఫలితాల కోసం మాన్యువల్, మెకానికల్ మరియు కెమికల్ పద్ధతులను కలపండి."
+            },
+            "pest_management": {
+              "title": "తెగులు నిర్వహణ",
+              "description": "ప్రధాన తెగుళ్లు: పసుపు కాండం తొలుచు పురుగు, ఆకు ముడత పురుగు, గోధుమ రంగు సుడిదోమ మరియు గాల్ మిడ్జ్. తెగుళ్ల సంభవం మరియు సహజ శత్రువుల కోసం పొలాన్ని క్రమం తప్పకుండా తనిఖీ చేయండి. తెగులు జనాభా పరిమితి స్థాయిలను మించిపోయినప్పుడు మాత్రమే సిఫార్సు చేసిన పురుగుమందులను వాడండి. నిరోధకతను నివారించడానికి రసాయనాలను తిప్పండి."
+            },
+            "disease_management": {
+              "title": "వ్యాధి నిర్వహణ",
+              "description": "సాధారణ వ్యాధులు: HMT వరి బ్లాస్ట్, బాక్టీరియల్ బ్లైట్ మరియు షీట్ బ్లైట్ కు మధ్యస్తంగా గురవుతుంది. వ్యాధి ప్రమాదాన్ని తగ్గించడానికి అధిక నత్రజనిని నివారించండి. శుభ్రమైన సాగును పాటించండి మరియు సోకిన మొక్కల శిధిలాలను తొలగించండి. అవసరమైతే శిలీంద్రనాశకాలను (ఉదా. బ్లాస్ట్ కోసం ట్రైసైక్లాజోల్) ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के सर्वोत्तम स्वास्थ्य और उपज के लिए खरपतवारों, कीटों और रोगों को नियंत्रित करने के लिए एकीकृत प्रबंधन रणनीतियों को लागू करें।",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "खरपतवार प्रबंधन - मैनुअल/मैकेनिकल",
+              "description": "रोपाई के 20-30 दिन बाद (DAT) तथा पुनः 40-45 DAT पर हाथ से निराई करना या कोनो वीडर का प्रयोग करना प्रभावी होता है।"
+            },
+            "weed_management_chemical": {
+              "title": "खरपतवार प्रबंधन - रासायनिक नियंत्रण",
+              "description": "पूर्व-उद्भव: रोपाई के 3 दिन के भीतर पेंडीमेथालिन (1.0-1.5 किग्रा ए.आई./हेक्टेयर)। पश्च-उद्भव: यदि खरपतवार बने रहते हैं तो 15-20 दिन पर पाइराज़ोसल्फ्यूरॉन-इथाइल (15-20 ग्राम ए.आई./हेक्टेयर)।"
+            },
+            "integrated_weed_management": {
+              "title": "एकीकृत खरपतवार प्रबंधन",
+              "description": "सर्वोत्तम परिणामों के लिए मैनुअल, मैकेनिकल और रासायनिक विधियों को संयोजित करें।"
+            },
+            "pest_management": {
+              "title": "कीट प्रबंधन",
+              "description": "प्रमुख कीट: पीला तना छेदक, पत्ती मोड़क, भूरा पादप फुदका और पित्त मिज। कीटों के प्रकोप और प्राकृतिक शत्रुओं के लिए नियमित रूप से खेतों का निरीक्षण करें। अनुशंसित कीटनाशकों का उपयोग केवल तभी करें जब कीटों की आबादी सीमा से अधिक हो। प्रतिरोध से बचने के लिए रसायनों को घुमाएँ।"
+            },
+            "disease_management": {
+              "title": "रोग प्रबंधन",
+              "description": "आम बीमारियाँ: एचएमटी चावल ब्लास्ट, बैक्टीरियल ब्लाइट और शीथ ब्लाइट के प्रति मध्यम रूप से संवेदनशील है। रोग के जोखिम को कम करने के लिए अत्यधिक नाइट्रोजन से बचें। स्वच्छ खेती करें और संक्रमित पौधों के मलबे को हटा दें। आवश्यकतानुसार फफूंदनाशकों (जैसे, ब्लास्ट के लिए ट्राइसाइक्लाज़ोल) का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest at the right time using proper methods to ensure maximum yield and grain quality.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "HMT rice matures in about 130–135 days after sowing."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when about 80–85% of the grains on the panicle are golden yellow and hard. Delayed harvesting can lead to grain shattering and quality loss."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut plants close to the ground using a sickle for manual harvesting or a combine harvester for large fields."
+            },
+            "post_harvest_handling": {
+              "title": "Post-Harvest Handling",
+              "description": "Bundle and stack harvested plants upright in the field for 1–2 days to allow further drying and uniform ripening."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "గరిష్ట దిగుబడి మరియు ధాన్యం నాణ్యతను నిర్ధారించడానికి సరైన పద్ధతులను ఉపయోగించి సరైన సమయంలో పంట కోయండి.",
+          "sub_steps": {
+            "maturity": {
+              "title": "పరిపక్వత",
+              "description": "HMT వరి విత్తిన దాదాపు 130–135 రోజుల్లో పరిపక్వం చెందుతుంది."
+            },
+            "harvest_timing": {
+              "title": "పంట సమయం",
+              "description": "కంకులపై 80–85% ధాన్యాలు బంగారు పసుపు రంగులో మరియు గట్టిగా ఉన్నప్పుడు కోయండి. ఆలస్యంగా కోయడం వల్ల ధాన్యం పగిలిపోయి నాణ్యత కోల్పోతారు."
+            },
+            "harvest_method": {
+              "title": "పంట కోత పద్ధతి",
+              "description": "చేతితో కోసేందుకు కొడవలిని లేదా పెద్ద పొలాలకు కంబైన్ హార్వెస్టర్‌ను ఉపయోగించి నేలకు దగ్గరగా మొక్కలను కత్తిరించండి."
+            },
+            "post_harvest_handling": {
+              "title": "పంటకోత తర్వాత నిర్వహణ",
+              "description": "పండించిన మొక్కలను కట్టగా కట్టి, 1-2 రోజులు పొలంలో నిటారుగా ఉంచండి, తద్వారా అవి మరింత ఎండబెట్టి, ఏకరీతిలో పండుతాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अधिकतम उपज और अनाज की गुणवत्ता सुनिश्चित करने के लिए उचित तरीकों का उपयोग करके सही समय पर फसल काटें।",
+          "sub_steps": {
+            "maturity": {
+              "title": "परिपक्वता",
+              "description": "एचएमटी चावल बुवाई के लगभग 130-135 दिनों में पक जाता है।"
+            },
+            "harvest_timing": {
+              "title": "फसल कटाई का समय",
+              "description": "जब पुष्पगुच्छ पर लगभग 80-85% दाने सुनहरे पीले और सख्त हो जाएं, तब कटाई करें। देरी से कटाई करने से दाने बिखर सकते हैं और गुणवत्ता में कमी आ सकती है।"
+            },
+            "harvest_method": {
+              "title": "फसल कटाई विधि",
+              "description": "जमीन के निकट लगे पौधों को हाथ से कटाई के लिए दरांती या बड़े खेतों के लिए कंबाइन हार्वेस्टर का उपयोग करके काटें।"
+            },
+            "post_harvest_handling": {
+              "title": "कटाई के बाद की देखभाल",
+              "description": "काटे गए पौधों को खेत में 1-2 दिनों के लिए सीधा खड़ा करके बंडलों में बांध दें, ताकि वे और अधिक सूख सकें और एक समान रूप से पक सकें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Properly process and store the harvested rice to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from straw by beating bundles on a hard surface or using a mechanical thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Winnow and sieve to remove chaff, straw, and debris, ensuring only clean grain is stored."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying prevents fungal growth and grain spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, pest-free bags or bins. Use gunny bags or airtight containers and keep them in a well-ventilated, cool, and dry place. Fumigate or use natural repellents if necessary to prevent pest infestation."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు నష్టాలను నివారించడానికి పండించిన బియ్యాన్ని సరిగ్గా ప్రాసెస్ చేసి నిల్వ చేయండి.",
+          "sub_steps": {
+            "threshing": {
+              "title": "నూర్పిడి",
+              "description": "గట్టి ఉపరితలంపై కట్టలను కొట్టడం ద్వారా లేదా యాంత్రిక థ్రెషర్‌ని ఉపయోగించడం ద్వారా గడ్డి నుండి ధాన్యాలను వేరు చేయండి."
+            },
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "శుభ్రమైన ధాన్యం మాత్రమే నిల్వ ఉండేలా చూసుకోవడానికి, పొట్టు, గడ్డి మరియు చెత్తను తొలగించడానికి తూర్పారబట్టండి మరియు జల్లెడ పట్టండి."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "గింజలను సూర్యకాంతిలో లేదా యాంత్రిక ఆరబెట్టేదిలో ఆరబెట్టి, తేమ శాతాన్ని 14% తగ్గించండి. సరిగ్గా ఎండబెట్టడం వల్ల శిలీంధ్రాల పెరుగుదల మరియు ధాన్యం చెడిపోకుండా నిరోధించవచ్చు."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "ఎండిన బియ్యాన్ని శుభ్రమైన, పొడి, తెగుళ్లు లేని సంచులు లేదా డబ్బాల్లో నిల్వ చేయండి. గోనె సంచులు లేదా గాలి చొరబడని కంటైనర్లను ఉపయోగించండి మరియు వాటిని బాగా వెంటిలేషన్ చేసిన, చల్లని మరియు పొడి ప్రదేశంలో ఉంచండి. తెగుళ్లు రాకుండా నిరోధించడానికి అవసరమైతే ధూమపానం చేయండి లేదా సహజ వికర్షకాలను ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और नुकसान को रोकने के लिए काटे गए चावल को उचित तरीके से संसाधित और संग्रहीत करें।",
+          "sub_steps": {
+            "threshing": {
+              "title": "ताड़ना",
+              "description": "किसी कठोर सतह पर बंडलों को पीटकर या यांत्रिक थ्रेशर का उपयोग करके अनाज को भूसे से अलग करें।"
+            },
+            "cleaning": {
+              "title": "सफाई",
+              "description": "भूसा, पुआल और मलबे को हटाने के लिए छलनी से छान लें, तथा सुनिश्चित करें कि केवल स्वच्छ अनाज ही भंडारित किया जाए।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "नमी की मात्रा को लगभग 14% तक कम करने के लिए अनाज को धूप में या मैकेनिकल ड्रायर में सुखाएँ। उचित सुखाने से फफूंद की वृद्धि और अनाज खराब होने से बचा जा सकता है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "सूखे चावल को साफ, सूखे, कीट-मुक्त बैग या डिब्बे में रखें। बोरियों या एयरटाइट कंटेनर का उपयोग करें और उन्हें अच्छी तरह हवादार, ठंडी और सूखी जगह पर रखें। कीटों के संक्रमण को रोकने के लिए यदि आवश्यक हो तो धुआँ या प्राकृतिक विकर्षक का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and infrastructure development.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all leftover plants, weeds, stones, and trash. This prevents pests and diseases from last crop affecting the new crop."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2 or 3 times to loosen the soil about 10–15 cm deep. This helps roots grow well and improves soil air and water movement."
+            },
+            "add_organic_matter": {
+              "title": "Add Organic Matter",
+              "description": "Mix in well-rotted farmyard manure (FYM) or compost during ploughing. This enriches the soil with nutrients and improves soil texture."
+            },
+            "level_the_field": {
+              "title": "Level the Field",
+              "description": "After ploughing, level the land so water spreads evenly. Uneven land causes water to pool in some places and dry in others, harming plants."
+            },
+            "build_or_repair_bunds": {
+              "title": "Build or Repair Bunds",
+              "description": "Make sure the field borders (bunds) are strong to hold water in the field and prevent soil erosion."
+            },
+            "flood_and_puddle": {
+              "title": "Flood and Puddle",
+              "description": "Fill the field with water and churn the soil to make it soft and muddy. Puddling helps kill weeds and makes transplanting easier."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన క్లియరింగ్, దున్నడం, చదును చేయడం మరియు మౌలిక సదుపాయాల అభివృద్ధి ద్వారా సరైన వరి సాగుకు పొలాన్ని సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "ఫీల్డ్‌ను క్లియర్ చేయండి",
+              "description": "మిగిలిపోయిన మొక్కలు, కలుపు మొక్కలు, రాళ్ళు మరియు చెత్తను తొలగించండి. ఇది చివరి పంట నుండి తెగుళ్ళు మరియు వ్యాధులు కొత్త పంటను ప్రభావితం చేయకుండా నిరోధిస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "పొలాన్ని 2 లేదా 3 సార్లు దున్నండి, తద్వారా నేలను 10–15 సెం.మీ లోతు వరకు వదులుతారు. ఇది వేర్లు బాగా పెరగడానికి మరియు నేల గాలి మరియు నీటి కదలికను మెరుగుపరుస్తుంది."
+            },
+            "add_organic_matter": {
+              "title": "సేంద్రీయ పదార్థాన్ని జోడించండి",
+              "description": "దున్నేటప్పుడు బాగా కుళ్ళిన పొల ఎరువు (FYM) లేదా కంపోస్ట్ కలపండి. ఇది నేలను పోషకాలతో సమృద్ధి చేస్తుంది మరియు నేల ఆకృతిని మెరుగుపరుస్తుంది."
+            },
+            "level_the_field": {
+              "title": "ఫీల్డ్‌ను సమం చేయండి",
+              "description": "దున్నిన తర్వాత, నీరు సమానంగా వ్యాపించేలా భూమిని చదును చేయండి. అసమాన నేల కొన్ని చోట్ల నీరు నిలిచిపోతుంది మరియు మరికొన్ని చోట్ల ఎండిపోతుంది, దీనివల్ల మొక్కలకు హాని కలుగుతుంది."
+            },
+            "build_or_repair_bunds": {
+              "title": "కట్టలను నిర్మించండి లేదా మరమ్మతు చేయండి",
+              "description": "పొలంలో నీటిని నిలుపుకోవడానికి మరియు నేల కోతను నివారించడానికి పొల సరిహద్దులు (కట్టలు) బలంగా ఉన్నాయని నిర్ధారించుకోండి."
+            },
+            "flood_and_puddle": {
+              "title": "వరద మరియు నీటి కుంట",
+              "description": "పొలాన్ని నీటితో నింపి, మట్టిని బాగా గిలకొట్టి, మెత్తగా, బురదగా చేయండి. బురదను తవ్వడం వల్ల కలుపు మొక్కలు నశించి, నాట్లు వేయడం సులభం అవుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "उचित सफाई, जुताई, समतलीकरण और बुनियादी ढांचे के विकास के माध्यम से इष्टतम चावल की खेती के लिए खेत तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "फ़ील्ड साफ़ करें",
+              "description": "सभी बचे हुए पौधे, खरपतवार, पत्थर और कचरा हटा दें। इससे पिछली फसल के कीट और रोग नई फसल को प्रभावित नहीं कर पाएंगे।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "खेत की 2 या 3 बार जुताई करके मिट्टी को लगभग 10-15 सेमी गहरा ढीला करें। इससे जड़ों को अच्छी तरह से बढ़ने में मदद मिलती है और मिट्टी में हवा और पानी की आवाजाही बेहतर होती है।"
+            },
+            "add_organic_matter": {
+              "title": "कार्बनिक पदार्थ जोड़ें",
+              "description": "जुताई के दौरान अच्छी तरह से सड़ी हुई गोबर की खाद (FYM) या कम्पोस्ट मिलाएँ। इससे मिट्टी पोषक तत्वों से समृद्ध होती है और मिट्टी की बनावट में सुधार होता है।"
+            },
+            "level_the_field": {
+              "title": "मैदान को समतल करें",
+              "description": "जुताई के बाद, ज़मीन को समतल करें ताकि पानी समान रूप से फैल जाए। असमान ज़मीन के कारण कुछ जगहों पर पानी जमा हो जाता है और कुछ जगहों पर सूख जाता है, जिससे पौधों को नुकसान पहुँचता है।"
+            },
+            "build_or_repair_bunds": {
+              "title": "बाँध का निर्माण या मरम्मत",
+              "description": "सुनिश्चित करें कि खेत की सीमाएँ (मेड़) मजबूत हों ताकि खेत में पानी रुक सके और मिट्टी का कटाव रोका जा सके।"
+            },
+            "flood_and_puddle": {
+              "title": "बाढ़ और पोखर",
+              "description": "खेत में पानी भरें और मिट्टी को मथकर उसे नरम और दलदली बना लें। मिट्टी को समतल करने से खरपतवार नष्ट हो जाते हैं और रोपाई आसान हो जाती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and nursery management.",
+          "sub_steps": {
+            "select_good_seeds": {
+              "title": "Select Good Seeds",
+              "description": "Use healthy, certified Sannalu (KNM) seeds. Good seeds give strong, uniform plants."
+            },
+            "seed_soaking": {
+              "title": "Seed Soaking",
+              "description": "Soak seeds in clean water for 24 hours to soften them."
+            },
+            "seed_sprouting": {
+              "title": "Seed Sprouting",
+              "description": "After soaking, drain water and keep seeds wrapped in a wet cloth or bag for 24–36 hours until they sprout tiny shoots."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Mix sprouted seeds with a fungicide like carbendazim (2 grams per kg of seed) to protect against fungal diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare a small raised bed (about 1/20th of the main field size). Mix in some well-decomposed FYM or compost."
+            },
+            "sowing_in_nursery": {
+              "title": "Sowing in Nursery",
+              "description": "Spread sprouted seeds evenly in the nursery bed. Water regularly to keep soil moist but not flooded."
+            },
+            "nursery_care": {
+              "title": "Nursery Care",
+              "description": "Protect nursery from pests and diseases. Remove weeds and maintain good moisture."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "సరైన అంకురోత్పత్తి మరియు నర్సరీ నిర్వహణ కోసం నాణ్యమైన విత్తనాలను ఎంచుకుని వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "select_good_seeds": {
+              "title": "మంచి విత్తనాలను ఎంచుకోండి",
+              "description": "ఆరోగ్యకరమైన, ధృవీకరించబడిన సన్నాలు (KNM) విత్తనాలను ఉపయోగించండి. మంచి విత్తనాలు బలమైన, ఏకరీతి మొక్కలను ఇస్తాయి."
+            },
+            "seed_soaking": {
+              "title": "విత్తనాలను నానబెట్టడం",
+              "description": "విత్తనాలను మృదువుగా చేయడానికి శుభ్రమైన నీటిలో 24 గంటలు నానబెట్టండి."
+            },
+            "seed_sprouting": {
+              "title": "విత్తనాలు మొలకెత్తడం",
+              "description": "నానబెట్టిన తర్వాత, నీటిని తీసివేసి, విత్తనాలను తడి గుడ్డ లేదా సంచిలో చుట్టి 24–36 గంటలు అవి చిన్న మొలకలు మొలకెత్తే వరకు ఉంచండి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "శిలీంధ్ర వ్యాధుల నుండి రక్షించడానికి మొలకెత్తిన విత్తనాలను కార్బెండజిమ్ (కిలో విత్తనానికి 2 గ్రాములు) వంటి శిలీంద్ర సంహారిణితో కలపండి."
+            },
+            "nursery_bed_preparation": {
+              "title": "నర్సరీ బెడ్ తయారీ",
+              "description": "ఒక చిన్న ఎత్తైన మడిని సిద్ధం చేయండి (ప్రధాన పొలం పరిమాణంలో దాదాపు 1/20వ వంతు). బాగా కుళ్ళిన ఎరువు లేదా కంపోస్ట్ కలపండి."
+            },
+            "sowing_in_nursery": {
+              "title": "నర్సరీలో విత్తడం",
+              "description": "మొలకెత్తిన విత్తనాలను నర్సరీ బెడ్‌లో సమానంగా చల్లండి. నేల తేమగా ఉండేలా క్రమం తప్పకుండా నీరు పెట్టండి కానీ వరదలు రాకుండా ఉండండి."
+            },
+            "nursery_care": {
+              "title": "నర్సరీ సంరక్షణ",
+              "description": "నర్సరీని తెగుళ్ళు మరియు వ్యాధుల నుండి రక్షించండి. కలుపు మొక్కలను తొలగించి మంచి తేమను నిర్వహించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "सर्वोत्तम अंकुरण और नर्सरी प्रबंधन के लिए गुणवत्ता वाले बीजों का चयन करें और उन्हें उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "select_good_seeds": {
+              "title": "अच्छे बीज चुनें",
+              "description": "स्वस्थ, प्रमाणित सन्नालू (केएनएम) बीजों का उपयोग करें। अच्छे बीज मजबूत, एकसमान पौधे देते हैं।"
+            },
+            "seed_soaking": {
+              "title": "बीज भिगोना",
+              "description": "बीजों को नरम करने के लिए उन्हें 24 घंटे तक साफ पानी में भिगोएं।"
+            },
+            "seed_sprouting": {
+              "title": "बीज अंकुरण",
+              "description": "भिगोने के बाद, पानी निकाल दें और बीजों को गीले कपड़े या थैले में लपेटकर 24-36 घंटे तक रखें, जब तक कि उनमें छोटे-छोटे अंकुर न निकल आएं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "फफूंद जनित रोगों से बचाव के लिए अंकुरित बीजों को कार्बेन्डाजिम (2 ग्राम प्रति किलोग्राम बीज) जैसे फफूंदनाशक के साथ मिलाएं।"
+            },
+            "nursery_bed_preparation": {
+              "title": "नर्सरी बेड की तैयारी",
+              "description": "एक छोटा सा उठा हुआ बिस्तर तैयार करें (मुख्य खेत के आकार का लगभग 1/20वां हिस्सा)। इसमें कुछ अच्छी तरह से सड़ी हुई FYM या खाद मिलाएं।"
+            },
+            "sowing_in_nursery": {
+              "title": "नर्सरी में बुवाई",
+              "description": "अंकुरित बीजों को नर्सरी बेड में समान रूप से फैलाएँ। मिट्टी को नम रखने के लिए नियमित रूप से पानी दें, लेकिन पानी भरने न दें।"
+            },
+            "nursery_care": {
+              "title": "नर्सरी देखभाल",
+              "description": "नर्सरी को कीटों और बीमारियों से बचाएं। खरपतवार निकालें और अच्छी नमी बनाए रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Transplanting",
+        "description": {
+          "overview": "Transplant healthy seedlings at the optimal age with proper spacing and depth to ensure good establishment and yield.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant seedlings when they are 18–25 days old. Younger seedlings grow faster and recover better after transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Plant seedlings in the main field at 20 cm x 20 cm spacing or closer (15 cm x 15 cm) for higher yield."
+            },
+            "seedlings_per_hill": {
+              "title": "Seedlings per Hill",
+              "description": "Place 2–3 seedlings per planting spot."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant seedlings about 2–4 cm deep so roots can grow well and plants stand straight."
+            },
+            "water_after_transplanting": {
+              "title": "Water After Transplanting",
+              "description": "Keep a thin layer of water (about 5 cm) in the field to help seedlings settle and grow."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "మార్పిడి",
+        "description": {
+          "overview": "ఆరోగ్యకరమైన మొలకలను సరైన వయస్సులో సరైన స్థలం మరియు లోతుతో నాటండి, తద్వారా మంచి పెరుగుదల మరియు దిగుబడి నిర్ధారించడానికి వీలుగా ఉంటుంది.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "మొలక వయస్సు",
+              "description": "18–25 రోజుల వయస్సు వచ్చినప్పుడు మొలకలను నాటండి. చిన్న మొలకలు వేగంగా పెరుగుతాయి మరియు నాటిన తర్వాత బాగా కోలుకుంటాయి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "అధిక దిగుబడి కోసం ప్రధాన పొలంలో 20 సెం.మీ x 20 సెం.మీ లేదా అంతకంటే దగ్గరగా (15 సెం.మీ x 15 సెం.మీ) మొలకలను నాటండి."
+            },
+            "seedlings_per_hill": {
+              "title": "కొండకు మొలకలు",
+              "description": "ప్రతి నాటడం ప్రదేశంలో 2-3 మొలకలను ఉంచండి."
+            },
+            "planting_depth": {
+              "title": "నాటడం లోతు",
+              "description": "మొలకలను 2–4 సెం.మీ లోతులో నాటండి, తద్వారా వేర్లు బాగా పెరుగుతాయి మరియు మొక్కలు నిటారుగా ఉంటాయి."
+            },
+            "water_after_transplanting": {
+              "title": "మార్పిడి తర్వాత నీరు",
+              "description": "మొలకల స్థిరపడి పెరగడానికి సహాయపడటానికి పొలంలో పలుచని నీటిని (సుమారు 5 సెం.మీ.) ఉంచండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "प्रत्यारोपण",
+        "description": {
+          "overview": "अच्छी स्थापना और उपज सुनिश्चित करने के लिए स्वस्थ पौधों को उचित अंतराल और गहराई के साथ इष्टतम उम्र में रोपें।",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "अंकुर की आयु",
+              "description": "जब पौधे 18-25 दिन के हो जाएं, तो उन्हें रोप दें। छोटे पौधे तेजी से बढ़ते हैं और रोपने के बाद बेहतर तरीके से ठीक होते हैं।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "अधिक उपज के लिए पौधों को मुख्य खेत में 20 सेमी x 20 सेमी की दूरी पर या उससे कम दूरी पर (15 सेमी x 15 सेमी) रोपें।"
+            },
+            "seedlings_per_hill": {
+              "title": "प्रति पहाड़ी पौधे",
+              "description": "प्रत्येक रोपण स्थान पर 2-3 पौधे लगाएं।"
+            },
+            "planting_depth": {
+              "title": "रोपण गहराई",
+              "description": "पौधों को लगभग 2-4 सेमी गहराई पर रोपें ताकि जड़ें अच्छी तरह विकसित हो सकें और पौधे सीधे खड़े रहें।"
+            },
+            "water_after_transplanting": {
+              "title": "रोपाई के बाद पानी दें",
+              "description": "पौधों को बढ़ने में मदद करने के लिए खेत में पानी की एक पतली परत (लगभग 5 सेमी) रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply balanced nutrition through organic and inorganic fertilizers with proper timing based on season to maximize yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Apply 5–10 tons per hectare of well-rotted FYM or compost during land preparation."
+            },
+            "chemical_fertilizers_kharif": {
+              "title": "Chemical Fertilizers - Kharif Season",
+              "description": "For Kharif season: 80 kg Nitrogen (N), 60 kg Phosphorus (P₂O₅), 40 kg Potassium (K₂O) per hectare."
+            },
+            "chemical_fertilizers_rabi": {
+              "title": "Chemical Fertilizers - Rabi Season",
+              "description": "For Rabi season: 120 kg N, 60 kg P₂O₅, 40 kg K₂O per hectare (more nitrogen due to longer crop duration)."
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply half of nitrogen and all phosphorus and potassium as basal fertilizer at transplanting. Apply remaining nitrogen and potassium in two splits: at tillering (25–30 days after transplanting) and panicle initiation (45–50 days after transplanting)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "If leaves show yellowing or stunted growth, apply zinc sulphate (25 kg/ha)."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "దిగుబడిని పెంచడానికి సీజన్ ఆధారంగా సరైన సమయంలో సేంద్రీయ మరియు అకర్బన ఎరువుల ద్వారా సమతుల్య పోషణను వర్తించండి.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "సేంద్రియ ఎరువు",
+              "description": "భూమిని సిద్ధం చేసేటప్పుడు హెక్టారుకు 5-10 టన్నుల బాగా కుళ్ళిన ఎరువు లేదా కంపోస్ట్ వేయండి."
+            },
+            "chemical_fertilizers_kharif": {
+              "title": "రసాయన ఎరువులు - ఖరీఫ్ సీజన్",
+              "description": "ఖరీఫ్ సీజన్ కోసం: హెక్టారుకు 80 కిలోల నత్రజని (N), 60 కిలోల భాస్వరం (P₂O₅), 40 కిలోల పొటాషియం (K₂O)."
+            },
+            "chemical_fertilizers_rabi": {
+              "title": "రసాయన ఎరువులు - రబీ సీజన్",
+              "description": "రబీ సీజన్ కోసం: హెక్టారుకు 120 కిలోల నత్రజని, 60 కిలోల P₂O₅, 40 కిలోల K₂O (పంట వ్యవధి ఎక్కువ కావడం వల్ల నత్రజని ఎక్కువగా ఉంటుంది)."
+            },
+            "split_application": {
+              "title": "అప్లికేషన్‌ను విభజించండి",
+              "description": "నాట్లు వేసేటప్పుడు సగం నత్రజని మరియు మొత్తం భాస్వరం మరియు పొటాషియంను మూల ఎరువుగా వేయండి. మిగిలిన నత్రజని మరియు పొటాషియంను రెండు భాగాలుగా వేయండి: పిలకలు వేసేటప్పుడు (నాట్లు వేసిన 25-30 రోజుల తర్వాత) మరియు కంకులు వేసేటప్పుడు (నాట్లు వేసిన 45-50 రోజుల తర్వాత)."
+            },
+            "micronutrients": {
+              "title": "సూక్ష్మపోషకాలు",
+              "description": "ఆకులు పసుపు రంగులోకి మారితే లేదా పెరుగుదల తగ్గిపోతే, జింక్ సల్ఫేట్ (హెక్టారుకు 25 కిలోలు) వేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "उपज को अधिकतम करने के लिए मौसम के आधार पर उचित समय पर जैविक और अकार्बनिक उर्वरकों के माध्यम से संतुलित पोषण लागू करें।",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "जैविक खाद",
+              "description": "भूमि की तैयारी के दौरान प्रति हेक्टेयर 5-10 टन अच्छी तरह सड़ी हुई गोबर की खाद या कम्पोस्ट डालें।"
+            },
+            "chemical_fertilizers_kharif": {
+              "title": "रासायनिक उर्वरक - खरीफ मौसम",
+              "description": "खरीफ मौसम के लिए: 80 किलोग्राम नाइट्रोजन (N), 60 किलोग्राम फास्फोरस (P₂O₅), 40 किलोग्राम पोटेशियम (K₂O) प्रति हेक्टेयर।"
+            },
+            "chemical_fertilizers_rabi": {
+              "title": "रासायनिक उर्वरक - रबी मौसम",
+              "description": "रबी मौसम के लिए: 120 किग्रा नाइट्रोजन, 60 किग्रा P₂O₅, 40 किग्रा K₂O प्रति हेक्टेयर (फसल की लंबी अवधि के कारण अधिक नाइट्रोजन)।"
+            },
+            "split_application": {
+              "title": "विभाजित आवेदन",
+              "description": "रोपाई के समय नाइट्रोजन का आधा भाग तथा फास्फोरस और पोटेशियम का पूरा भाग मूल उर्वरक के रूप में डालें। शेष नाइट्रोजन और पोटेशियम को दो भागों में डालें: टिलरिंग के समय (रोपाई के 25-30 दिन बाद) और पैनिकल की शुरुआत के समय (रोपाई के 45-50 दिन बाद)।"
+            },
+            "micronutrients": {
+              "title": "सूक्ष्म पोषक",
+              "description": "यदि पत्तियां पीली पड़ जाएं या विकास अवरुद्ध हो जाए तो जिंक सल्फेट (25 किग्रा/हेक्टेयर) का प्रयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Maintain optimal water levels throughout the crop cycle with water-saving techniques and proper drainage.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain 5–7 cm water depth during critical stages like tillering and flowering."
+            },
+            "water_saving_methods": {
+              "title": "Water-Saving Methods",
+              "description": "Sannalu (KNM) can be grown by direct seeding or wet direct seeding to save water and labor."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Allow the field to dry for a few days after water disappears before irrigating again, especially after the vegetative stage."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to dry the soil and make harvesting easier."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి పొదుపు పద్ధతులు మరియు సరైన నీటి పారుదల వ్యవస్థలతో పంట చక్రం అంతటా సరైన నీటి మట్టాలను నిర్వహించండి.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "నీటిపారుదల",
+              "description": "పిలకలు వేయడం మరియు పుష్పించడం వంటి కీలక దశలలో 5–7 సెం.మీ. నీటి లోతును నిర్వహించండి."
+            },
+            "water_saving_methods": {
+              "title": "నీటిని ఆదా చేసే పద్ధతులు",
+              "description": "నీరు మరియు శ్రమను ఆదా చేయడానికి సన్నాలు (KNM) ను ప్రత్యక్ష విత్తనాలు లేదా తడి ప్రత్యక్ష విత్తనాలు వేయడం ద్వారా పెంచవచ్చు."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "ఆల్టర్నేట్ వెట్టింగ్ అండ్ డ్రైయింగ్ (AWD)",
+              "description": "నీరు మాయమైన తర్వాత, ముఖ్యంగా ఏపుగా పెరిగిన తర్వాత, మళ్ళీ నీరు పెట్టే ముందు పొలాన్ని కొన్ని రోజులు ఆరనివ్వండి."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "నేల ఎండిపోయి పంట కోత సులభతరం కావడానికి కోతకు 7-10 రోజుల ముందు నీటిని తీసివేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जल-बचत तकनीकों और उचित जल निकासी के साथ पूरे फसल चक्र में इष्टतम जल स्तर बनाए रखें।",
+          "sub_steps": {
+            "irrigation": {
+              "title": "सिंचाई",
+              "description": "कल्ले निकलने और फूल आने जैसी महत्वपूर्ण अवस्थाओं के दौरान 5-7 सेमी पानी की गहराई बनाए रखें।"
+            },
+            "water_saving_methods": {
+              "title": "जल-बचत के तरीके",
+              "description": "सन्नालू (केएनएम) को पानी और श्रम बचाने के लिए प्रत्यक्ष बीजारोपण या गीली प्रत्यक्ष बीजारोपण द्वारा उगाया जा सकता है।"
+            },
+            "alternate_wetting_and_drying": {
+              "title": "वैकल्पिक गीला करना और सुखाना (AWD)",
+              "description": "पानी खत्म होने के बाद खेत को कुछ दिनों तक सूखने दें, उसके बाद पुनः सिंचाई करें, विशेष रूप से वनस्पति अवस्था के बाद।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "मिट्टी को सुखाने और कटाई को आसान बनाने के लिए कटाई से 7-10 दिन पहले पानी निकाल दें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Implement integrated management strategies to control weeds, pests, and diseases using resistant varieties and targeted treatments.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "Hand weed or use mechanical weeders 20–30 days after transplanting. Use herbicides like pendimethalin or pyrazosulfuron-ethyl if weeds are heavy."
+            },
+            "pests_and_diseases": {
+              "title": "Pests and Diseases",
+              "description": "Monitor regularly for pests like brown planthopper and diseases such as blast and bacterial blight. Apply fungicides (e.g., tricyclazole for blast) or insecticides only if needed."
+            },
+            "resistant_varieties": {
+              "title": "Use Resistant Varieties",
+              "description": "Use resistant varieties or improved lines if available which means choosing crop types that are specially bred to withstand certain pests, diseases, or harsh conditions, so your plants stay healthier and give better yields."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "నిరోధక రకాలు మరియు లక్ష్య చికిత్సలను ఉపయోగించి కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించడానికి సమగ్ర నిర్వహణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "నాట్లు వేసిన 20-30 రోజుల తర్వాత చేతితో కలుపు తీయండి లేదా యాంత్రిక కలుపు తీసే మందులను ఉపయోగించండి. కలుపు మొక్కలు ఎక్కువగా ఉంటే పెండిమెథాలిన్ లేదా పైరాజోసల్ఫ్యూరాన్-ఇథైల్ వంటి కలుపు మందులను వాడండి."
+            },
+            "pests_and_diseases": {
+              "title": "తెగుళ్ళు మరియు వ్యాధులు",
+              "description": "బ్రౌన్ ప్లాంట్‌హాపర్ వంటి తెగుళ్లు మరియు బ్లాస్ట్ మరియు బాక్టీరియల్ బ్లైట్ వంటి వ్యాధుల కోసం క్రమం తప్పకుండా పర్యవేక్షించండి. అవసరమైతే మాత్రమే శిలీంద్రనాశకాలు (ఉదా. బ్లాస్ట్ కోసం ట్రైసైక్లాజోల్) లేదా పురుగుమందులను వాడండి."
+            },
+            "resistant_varieties": {
+              "title": "నిరోధక రకాలను ఉపయోగించండి",
+              "description": "నిరోధక రకాలు లేదా అందుబాటులో ఉంటే మెరుగైన రకాలను ఉపయోగించండి, అంటే కొన్ని తెగుళ్ళు, వ్యాధులు లేదా కఠినమైన పరిస్థితులను తట్టుకునేలా ప్రత్యేకంగా పెంచబడిన పంట రకాలను ఎంచుకోండి, తద్వారా మీ మొక్కలు ఆరోగ్యంగా ఉంటాయి మరియు మంచి దిగుబడిని ఇస్తాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "प्रतिरोधी किस्मों और लक्षित उपचारों का उपयोग करके खरपतवारों, कीटों और रोगों को नियंत्रित करने के लिए एकीकृत प्रबंधन रणनीतियों को लागू करना।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "रोपाई के 20-30 दिन बाद हाथ से खरपतवार निकालें या यांत्रिक खरपतवारनाशक का उपयोग करें। यदि खरपतवार भारी हैं तो पेन्डीमेथालिन या पाइराज़ोसल्फ्यूरॉन-एथिल जैसे शाकनाशी का उपयोग करें।"
+            },
+            "pests_and_diseases": {
+              "title": "कीट और रोग",
+              "description": "ब्राउन प्लांटहॉपर जैसे कीटों और ब्लास्ट और बैक्टीरियल ब्लाइट जैसी बीमारियों के लिए नियमित रूप से निगरानी करें। फफूंदनाशक (जैसे, ब्लास्ट के लिए ट्राइसाइक्लाज़ोल) या कीटनाशकों का इस्तेमाल केवल तभी करें जब ज़रूरत हो।"
+            },
+            "resistant_varieties": {
+              "title": "प्रतिरोधी किस्मों का उपयोग करें",
+              "description": "यदि उपलब्ध हो तो प्रतिरोधी किस्मों या उन्नत प्रजातियों का उपयोग करें, जिसका अर्थ है कि ऐसी फसल किस्मों का चयन करना जो विशेष रूप से कुछ कीटों, बीमारियों या कठोर परिस्थितियों का सामना करने के लिए विकसित की गई हों, ताकि आपके पौधे स्वस्थ रहें और बेहतर उपज दें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest at the right time using proper methods to ensure maximum yield and grain quality.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Sannalu (KNM) matures in about 120–125 days."
+            },
+            "harvest_time": {
+              "title": "Harvest Time",
+              "description": "Harvest when grains are golden yellow and hard."
+            },
+            "harvesting_method": {
+              "title": "Harvesting Method",
+              "description": "Cut plants close to the ground with sickle or machine."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Stack bundles upright for 1–2 days to dry before threshing."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "గరిష్ట దిగుబడి మరియు ధాన్యం నాణ్యతను నిర్ధారించడానికి సరైన పద్ధతులను ఉపయోగించి సరైన సమయంలో పంట కోయండి.",
+          "sub_steps": {
+            "maturity": {
+              "title": "పరిపక్వత",
+              "description": "సన్నాలు (KNM) దాదాపు 120–125 రోజుల్లో పరిపక్వం చెందుతుంది."
+            },
+            "harvest_time": {
+              "title": "పంటకోత సమయం",
+              "description": "ధాన్యాలు బంగారు పసుపు రంగులోకి మారి గట్టిగా ఉన్నప్పుడు కోయండి."
+            },
+            "harvesting_method": {
+              "title": "పంట కోత పద్ధతి",
+              "description": "కొడవలి లేదా యంత్రంతో నేలకు దగ్గరగా మొక్కలను కత్తిరించండి."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "నూర్పిడి చేసే ముందు ఆరబెట్టడానికి కట్టలను 1-2 రోజులు నిటారుగా పేర్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अधिकतम उपज और अनाज की गुणवत्ता सुनिश्चित करने के लिए उचित तरीकों का उपयोग करके सही समय पर फसल काटें।",
+          "sub_steps": {
+            "maturity": {
+              "title": "परिपक्वता",
+              "description": "सन्नालू (केएनएम) लगभग 120-125 दिनों में परिपक्व हो जाता है।"
+            },
+            "harvest_time": {
+              "title": "फसल कटाई का समय",
+              "description": "जब अनाज सुनहरा पीला और कठोर हो जाए तब कटाई करें।"
+            },
+            "harvesting_method": {
+              "title": "कटाई विधि",
+              "description": "जमीन के निकट लगे पौधों को दरांती या मशीन से काटें।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "गहाई से पहले बंडलों को 1-2 दिनों तक सीधा खड़ा करके सूखने के लिए रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Properly process and store the harvested rice to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from stalks by beating or using a thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff and dust by winnowing. Chaff is the dry, inedible outer covering or husk of rice grains that is separated and removed during processing."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry grains in the sun until moisture is about 14% to prevent spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried grains in clean, dry, and ventilated places. Use bags or bins off the ground to avoid moisture and pests."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు నష్టాలను నివారించడానికి పండించిన బియ్యాన్ని సరిగ్గా ప్రాసెస్ చేసి నిల్వ చేయండి.",
+          "sub_steps": {
+            "threshing": {
+              "title": "నూర్పిడి",
+              "description": "కొట్టడం ద్వారా లేదా నూర్పిడి యంత్రాన్ని ఉపయోగించి కాండాల నుండి ధాన్యాలను వేరు చేయండి."
+            },
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "వరి గింజలను తూర్పారబట్టడం ద్వారా పొట్టు మరియు దుమ్మును తొలగించండి. పొట్టు అనేది వరి గింజల పొడి, తినకూడని బయటి పొర లేదా పొట్టు, దీనిని ప్రాసెసింగ్ సమయంలో వేరు చేసి తొలగిస్తారు."
+            },
+            "drying": {
+              "title": "ఎండబెట్టడం",
+              "description": "ధాన్యాలు చెడిపోకుండా ఉండటానికి తేమ 14% వచ్చే వరకు ఎండలో ఆరబెట్టండి."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "ఎండిన ధాన్యాలను శుభ్రమైన, పొడి మరియు వెంటిలేషన్ ఉన్న ప్రదేశాలలో నిల్వ చేయండి. తేమ మరియు తెగుళ్ళను నివారించడానికి నేల నుండి సంచులు లేదా డబ్బాలను ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और नुकसान को रोकने के लिए काटे गए चावल को उचित तरीके से संसाधित और संग्रहीत करें।",
+          "sub_steps": {
+            "threshing": {
+              "title": "ताड़ना",
+              "description": "अनाज को डंठलों से पीटकर या थ्रेसर का उपयोग करके अलग करें।"
+            },
+            "cleaning": {
+              "title": "सफाई",
+              "description": "भूसा और धूल को फटककर हटाएँ। भूसा चावल के दानों का सूखा, अखाद्य बाहरी आवरण या भूसी है जिसे प्रसंस्करण के दौरान अलग किया जाता है।"
+            },
+            "drying": {
+              "title": "सुखाने",
+              "description": "खराब होने से बचाने के लिए अनाज को धूप में तब तक सुखाएं जब तक नमी लगभग 14% न हो जाए।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "सूखे अनाज को साफ, सूखे और हवादार स्थानों पर रखें। नमी और कीटों से बचने के लिए जमीन से ऊपर बैग या डिब्बे का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  }
+]

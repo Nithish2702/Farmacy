@@ -1,0 +1,228 @@
+{
+    "NA1325": {
+        "crop_name": "Cotton",
+        "crop_variety": "Narasimha",
+        "crop_code": "NA1325",
+        "cultivated_in": "Telangana",
+        "crop_desc": "Narasimha (NA1325) is a non-Bt cotton variety that is well-suited for farmers in Telangana, especially those with black or red soils and good drainage. It's a reliable, medium-duration variety that gives stable yields, is naturally tolerant to some pests, and is a good choice for farmers who want to avoid genetically modified (Bt) cotton.",
+        "cultivation_overview": "Narasimha (NA1325) is a reliable, non-Bt cotton variety perfect for Telangana farmers. It's easy to grow, gives stable yields, and fits well in local conditions. The variety has good yield potential, superior fibre quality, and value as a parent line in breeding programs. It's also recognized as an elite variety that can be used by breeders to introduce desirable traits into other cotton lines.",
+        "unique_characteristics": [
+            "Good for both rainfed and irrigated fields",
+            "Gives stable yields even in tough weather",
+            "Naturally tougher against some pests and diseases",
+            "Suitable for high-density planting to get more yield per acre",
+            "Good choice for farmers who want to avoid Bt cotton"
+        ],
+        "soil_type": "Black or red soils with good drainage",
+        "season": "Kharif (Monsoon)",
+        "duration": "Medium-duration variety",
+        "planting_time": "June 1st–15th (with start of monsoon)",
+        "spacing": {
+            "normal": "90 x 60 cm or 105 x 60 cm",
+            "high_density": "80 x 20 cm or 60 x 30 cm"
+        },
+        "seed_rate": {
+            "normal": "2.5–3.5 kg/acre",
+            "high_density": "4–5 kg/acre"
+        },
+        "fertilizer_requirement": {
+            "nitrogen": "90 kg/ha",
+            "phosphorus": "45 kg/ha",
+            "potassium": "45 kg/ha",
+            "organic_manure": "5–10 tons/ha"
+        }
+    },
+    "NDLH1755": {
+        "crop_name": "Cotton",
+        "crop_variety": "Shivanandi",
+        "crop_code": "NDLH-1755",
+        "cultivated_in": "Telangana",
+        "crop_desc": "Shivanandi (NDLH-1755) is a non-Bt cotton variety developed to give farmers a reliable and high-yielding option for their fields. This variety is especially suitable for areas that depend on rainfall, as it can produce stable yields even when irrigation is limited. It is an improved American cotton (Gossypium hirsutum) developed for rainfed conditions in India.",
+        "cultivation_overview": "Shivanandi cotton gives good-quality fibre, which is important for getting better prices from traders and the textile industry. The plants grow uniformly and are healthy when you use certified seeds and follow proper spacing, making them easier to manage and harvest. The crop typically matures in about 150–180 days after sowing, with harvesting done in 3–4 rounds as bolls open.",
+        "unique_characteristics": [
+            "Suitable for rainfed conditions",
+            "Produces stable yields with limited irrigation",
+            "Good-quality fibre for better market prices",
+            "Natural tolerance to common pests and soil diseases",
+            "Suitable for intercropping with pulses",
+            "Non-GM variety allowing seed saving",
+            "Uniform plant growth and health"
+        ],
+        "soil_type": "Suitable for various soil types with good drainage",
+        "season": "Kharif (Monsoon)",
+        "duration": "150-180 days",
+        "planting_time": "June 1st–15th (with start of monsoon)",
+        "spacing": {
+            "normal": "90 x 60 cm or 105 x 60 cm",
+            "high_density": "80 x 20 cm or 60 x 30 cm"
+        },
+        "seed_rate": {
+            "normal": "2.5–3.5 kg/acre",
+            "high_density": "4–5 kg/acre"
+        },
+        "fertilizer_requirement": {
+            "nitrogen": "90 kg/ha",
+            "phosphorus": "45 kg/ha",
+            "potassium": "45 kg/ha",
+            "organic_manure": "5–10 tons/ha"
+        },
+        "storage_guidelines": {
+            "picking": "Harvest only dry, open bolls; avoid picking during or after rain",
+            "cleaning": "Remove leaves, stems, and debris; keep different pickings separate",
+            "drying": "Spread in thin layer in shade, ensure complete drying",
+            "storage_conditions": "Clean, dry, well-ventilated rooms; use wooden pallets or tarpaulin",
+            "packing": "Avoid tight compression; store loosely for air circulation",
+            "protection": "Guard against pests, rodents, and dampness; use clean gunny bags",
+            "segregation": "Store separately from other varieties"
+        }
+    },
+    "NDLH1938": {
+        "crop_name": "Cotton",
+        "crop_variety": "Sri Rama",
+        "crop_code": "NDLH-1938",
+        "cultivated_in": "Southern and Central India",
+        "crop_desc": "Sri Rama (NDLH-1938) is a non-Bt American cotton (Gossypium hirsutum) variety developed by Acharya N.G. Ranga Agricultural University, Nandyal, and released in 2016. It is the result of a cross between NDLH-1797 and NDLH-1325. This variety matures in about 160 days and is suitable for both rainfed and irrigated conditions in southern and central India.",
+        "cultivation_overview": "Sri Rama is known for its medium plant height and spreading growth habit. It produces good quality fibre with a ginning outturn of around 33.4%, a fibre length of approximately 28 mm, and strong bundle strength, making it suitable for spinning and textile use. The average seed cotton yield is about 19.2 quintals per hectare under recommended management.",
+        "unique_characteristics": [
+            "Medium plant height with spreading growth habit",
+            "Good for both rainfed and irrigated conditions",
+            "Ginning outturn of 33.4%",
+            "Fibre length of 28 mm",
+            "Average yield of 19.2 quintals per hectare",
+            "Moderate tolerance to pests and diseases",
+            "Suitable for intercropping",
+            "Natural weed suppression due to spreading habit"
+        ],
+        "soil_type": "Suitable for various soil types",
+        "season": "Kharif (Monsoon)",
+        "duration": "160 days (5 to 5½ months)",
+        "planting_time": "June 15th–July 15th",
+        "spacing": {
+            "normal": "105 x 60 cm or 90 x 60 cm",
+            "high_density": "80 x 20 cm or 90 x 15 cm or 60 x 30 cm"
+        },
+        "seed_rate": {
+            "normal": "5 kg/ha",
+            "high_density": "10-12 kg/ha"
+        },
+        "fertilizer_requirement": {
+            "nitrogen": "90 kg/ha",
+            "phosphorus": "45 kg/ha",
+            "potassium": "45 kg/ha",
+            "organic_manure": "5–10 tons/ha"
+        },
+        "fiber_quality": {
+            "ginning_outturn": "33.4%",
+            "fiber_length": "28 mm",
+            "bundle_strength": "Strong"
+        },
+        "parentage": {
+            "parent1": "NDLH-1797",
+            "parent2": "NDLH-1325",
+            "developer": "Acharya N.G. Ranga Agricultural University, Nandyal",
+            "release_year": "2016"
+        }
+    },
+    "ADB542": {
+        "crop_name": "Cotton",
+        "crop_variety": "Adilabad Kapas-1",
+        "crop_code": "ADB-542",
+        "cultivated_in": "Telangana",
+        "crop_desc": "Adilabad Kapas-1 (ADB-542) is a non-Bt cotton variety developed by the Agricultural Research Station in Adilabad, Telangana. It is particularly suited for rainfed conditions and is known for its compact plant type, large bolls, and resistance to major diseases and pests.",
+        "cultivation_overview": "This medium-duration variety takes 150-170 days to mature and produces large bolls weighing 4.1-6.0 grams each. It offers excellent fiber quality with a staple length of 27.3-32 mm and fiber strength of 20.6 g/tex, making it highly suitable for spinning and textile use.",
+        "unique_characteristics": [
+            "Compact plant type",
+            "Large bolls (4.1-6.0 grams)",
+            "High ginning percentage (35%)",
+            "Good fiber quality (27.3-32 mm staple length)",
+            "Strong fiber (20.6 g/tex strength)",
+            "Disease resistant (bacterial leaf blight, tobacco streak virus)",
+            "Pest tolerant (leaf hoppers, bollworms)",
+            "High yield potential (20-26 quintals/hectare)"
+        ],
+        "soil_type": "Deep black soils with good drainage, also suitable for red loamy soils",
+        "season": "Kharif (Monsoon)",
+        "duration": "150-170 days",
+        "planting_time": "June 15th–July 15th",
+        "spacing": {
+            "normal": "105 x 60 cm or 90 x 60 cm",
+            "high_density": "80 x 20 cm or 90 x 15 cm or 60 x 30 cm"
+        },
+        "seed_rate": {
+            "normal": "5 kg/ha",
+            "high_density": "10-12 kg/ha"
+        },
+        "fertilizer_requirement": {
+            "nitrogen": "90 kg/ha",
+            "phosphorus": "45 kg/ha",
+            "potassium": "45 kg/ha",
+            "organic_manure": "5–10 tons/ha"
+        },
+        "fiber_quality": {
+            "ginning_outturn": "35%",
+            "fiber_length": "27.3-32 mm",
+            "fiber_strength": "20.6 g/tex",
+            "boll_weight": "4.1-6.0 g"
+        },
+        "disease_resistance": {
+            "bacterial_leaf_blight": "Resistant",
+            "tobacco_streak_virus": "Resistant",
+            "leaf_hoppers": "Tolerant",
+            "bollworms": "Tolerant"
+        },
+        "yield_potential": {
+            "normal": "20-26 quintals/ha",
+            "favorable_conditions": "up to 30 quintals/ha"
+        },
+        "developer": "Agricultural Research Station, Adilabad, Telangana"
+    },
+    "WGCV48": {
+        "crop_name": "Cotton",
+        "crop_variety": "Warangal Cotton Variety-48",
+        "crop_code": "WGCV-48",
+        "cultivated_in": "Telangana",
+        "crop_desc": "WGCV-48 (Warangal Cotton Variety-48) is a non-Bt cotton variety developed for rainfed and irrigated conditions in Telangana. It is particularly known for its early maturity and high yield potential, making it a reliable choice for farmers seeking an early, high-yielding, non-Bt cotton option.",
+        "cultivation_overview": "This variety stands out for its early square initiation (41 days), early flowering (66 days), and early boll bursting (93 days), which helps farmers harvest sooner and reduce risks from late-season pests or weather. It performs exceptionally well under high-density planting systems.",
+        "unique_characteristics": [
+            "Early square initiation (41 days)",
+            "Early flowering (66 days)",
+            "Early boll bursting (93 days)",
+            "Excellent for high-density planting",
+            "Bold seeds (8.3-8.7g per 100 seeds)",
+            "Good boll weight (2.9g per boll)",
+            "High number of bolls per plant (6-7)",
+            "Suitable for both rainfed and irrigated conditions"
+        ],
+        "soil_type": "Deep black soils and red loamy soils with good drainage",
+        "season": "Kharif (Monsoon)",
+        "duration": "140-160 days",
+        "planting_time": "June 15th–July 15th",
+        "spacing": {
+            "normal": "105 x 60 cm or 90 x 60 cm",
+            "high_density": "45 x 10 cm"
+        },
+        "seed_rate": {
+            "normal": "5 kg/ha",
+            "high_density": "10-12 kg/ha"
+        },
+        "fertilizer_requirement": {
+            "nitrogen": "90 kg/ha",
+            "phosphorus": "45 kg/ha",
+            "potassium": "45 kg/ha",
+            "organic_manure": "5–10 tons/ha"
+        },
+        "yield_potential": {
+            "lint_yield": "up to 737 kg/ha",
+            "seed_cotton": "up to 1908 kg/ha"
+        },
+        "technical_specs": {
+            "boll_weight": "2.9 g",
+            "bolls_per_plant": "6-7",
+            "hundred_seed_weight": "8.3-8.7 g",
+            "days_to_square": "41",
+            "days_to_flower": "66",
+            "days_to_boll_burst": "93"
+        },
+        "developer": "Warangal Agricultural Research Station, Telangana"
+    }
+} 

@@ -1,0 +1,58 @@
+WEEKLY CROPS DATA-
+   Telangana Sona , RNR 15048 *
+   Sannalu (KNM), KNM 118 *
+   Veyyipadhi, MTU 1010 *
+
+STAGE WISE CROPS DATA-
+    0. Tella Hamsa Rice (Tellahamsa (8619)) *
+    1. Telangana Sona (RNR 15048) *
+    2. Samba Mahsuri (BPT 5204/Improved Samba Mahsuri) *
+    3. HMT RICE *
+    4. Sannalu (KNM), KNM 118 *
+
+DONE-
+   Telangana Sona
+   Sannalu (KNM), KNM 118
+   Veyyipadhi, MTU 1010
+
+
+STAGES- 
+   1. Land Preparation
+   2. Seed Selection and Preparation
+   3. Transplanting
+   4. Fertilizer and Nutrient Management
+   5. Water Management
+   6. Weed, Pest, and Disease Management
+   7. Harvesting
+   8. Post-Harvest Operations
+   
+
+DISEASES-
+
+RICE-
+   Rice Blast
+   Sheath Blight
+   Brown Spot
+   False Smut
+   Sheath Rot
+   Bacterial Leaf Blight
+   Bacterial Leaf Streak
+   Tungro Disease
+   Rice Ragged Stunt Virus
+   Rice Dwarf Virus
+   Root-Knot Nematode
+   White Tip Nematode
+
+COTTON-
+   Fusarium Wilt
+   Root Rot
+   Anthracnose
+   Grey Mildew
+   Bacterial Blight
+   Gummosis
+   Cotton Leaf Curl Virus
+   Tobacco Streak Virus
+   Root-Knot Nematode
+   Reniform Nematode
+
+now i need to add table for user personalization, like before that need to add route to predict crop disease using the crop image input, name and text query using form query, and keep the logic empty. And then create a table for user personalization to store prediction history. like on user_id store user imput image query and prediction response as json. And another user personalisation is hand holding feature. User selects the crop and start date of farm. and we daily give updates to the farmer so, each weeks users current day is stored in bakend to track the user current day crop data and notification to user is to be made everyday. SO, add these 2 user personalizations-one is crop disease predictions and other is current days crop info of crop and notification. And next 

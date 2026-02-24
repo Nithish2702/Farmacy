@@ -1,0 +1,982 @@
+[
+  {
+    "crop_code": "Tandur Red Gram",
+    "cultivation_stages": [
+        {
+            "stage_number": 1,
+            "title": "Land Preparation",
+            "image_urls": [],
+            "description": {
+                "overview": "Prepare the field for optimal Tandur Red Gram cultivation through proper ploughing, incorporation of organic matter, and leveling to ensure uniform water distribution in rainfed conditions.",
+                "sub_steps": {
+                    "soil_type": {
+                        "title": "Soil Type",
+                        "description": "Tandur Red Gram thrives in fertile, deep black soils with high potassium, calcium, and attapulgite clay content, as found in Tandur and surrounding areas. It can also grow in loamy or sandy loam soils with good drainage."
+                    },
+                    "ploughing": {
+                        "title": "Ploughing",
+                        "description": "Plough the land 2–3 times to achieve a fine tilth, removing stubbles and weeds. This typically costs around Rs. 1,400 per acre for tractor use."
+                    },
+                    "organic_manure": {
+                        "title": "Organic Manure",
+                        "description": "Incorporate 10 tons of farmyard manure (FYM) per acre during the final ploughing to enhance soil fertility."
+                    },
+                    "leveling": {
+                        "title": "Leveling",
+                        "description": "Level the field to ensure uniform water distribution, especially in rainfed conditions, to prevent waterlogging."
+                    },
+                    "timing": {
+                        "title": "Timing",
+                        "description": "Land preparation is usually done before the Kharif season (June–July) to coincide with monsoon rains, as Tandur Red Gram is predominantly rainfed."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 2,
+            "title": "Seed Selection and Preparation",
+            "image_urls": [],
+            "description": {
+                "overview": "Select high-quality seeds and prepare them for direct sowing or nursery establishment to ensure robust germination and disease resistance.",
+                "sub_steps": {
+                    "seed_selection": {
+                        "title": "Seed Selection",
+                        "description": "Choose high-quality, certified seeds of the Tandur Red Gram variety, known for its native traits like better taste, faster cooking, and longer shelf life. Seed requirement is 2–3 kg per acre for Kharif and 6–8 kg per acre for Rabi due to differences in crop duration. Treat seeds with fungicides like carbendazim or bio agents like Trichoderma to prevent seed-borne diseases."
+                    },
+                    "nursery_preparation": {
+                        "title": "Nursery Preparation",
+                        "description": "Tandur Red Gram is typically sown directly, but if a nursery is used, prepare raised beds (40 m² per acre) with a mix of soil and compost. Sow treated seeds in lines 5 cm apart, cover with sand or compost, and mulch with paddy straw to retain moisture. Water daily and drench with copper oxychloride to prevent damping-off. Seedlings are ready for transplanting in 25–30 days."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 3,
+            "title": "Transplanting",
+            "image_urls": [],
+            "description": {
+                "overview": "Transplant seedlings or sow seeds directly at optimal spacing and timing to ensure strong establishment in rainfed or irrigated fields.",
+                "sub_steps": {
+                    "method": {
+                        "title": "Method",
+                        "description": "If using seedlings, transplant 25–30-day-old seedlings to the main field at a spacing of 60 cm x 30 cm for Kharif or 45 cm x 20 cm for Rabi to ensure optimal plant density."
+                    },
+                    "timing": {
+                        "title": "Timing",
+                        "description": "Transplanting occurs in July–August for Kharif, aligning with monsoon rains, or October–November for Rabi in irrigated areas."
+                    },
+                    "practices": {
+                        "title": "Practices",
+                        "description": "Ensure the field is moist but not waterlogged during transplanting. Perform earthing up 30 days after transplanting to strengthen root systems and improve soil aeration. Tandur Red Gram is often grown as an intercrop with cotton, sorghum, or green gram, which requires adjusted spacing."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 4,
+            "title": "Fertilizer and Nutrient Management",
+            "image_urls": [],
+            "description": {
+                "overview": "Apply organic and chemical fertilizers strategically to meet the nutrient demands of Tandur Red Gram while maintaining sustainable practices.",
+                "sub_steps": {
+                    "basal_application": {
+                        "title": "Basal Application",
+                        "description": "Apply 10 tons of FYM per acre during land preparation, supplemented with 20–25 kg nitrogen, 40–50 kg phosphorus, and 20 kg potassium per acre at sowing."
+                    },
+                    "top_dressing": {
+                        "title": "Top Dressing",
+                        "description": "Apply 10–15 kg nitrogen per acre 30–40 days after sowing to support vegetative growth."
+                    },
+                    "micronutrients": {
+                        "title": "Micronutrients",
+                        "description": "Use foliar sprays of zinc and boron if deficiencies are observed, especially in rainfed conditions."
+                    },
+                    "organic_practices": {
+                        "title": "Organic Practices",
+                        "description": "Many Tandur farmers use minimal chemical fertilizers, relying on organic matter and natural soil fertility for nutrient supply, aligning with sustainable practices."
+                    },
+                    "cost": {
+                        "title": "Cost",
+                        "description": "Fertilizer costs average Rs. 1,600–2,800 per acre, depending on soil tests and recommendations."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 5,
+            "title": "Water Management",
+            "image_urls": [],
+            "description": {
+                "overview": "Manage water efficiently to support Tandur Red Gram’s growth, leveraging its drought tolerance in rainfed systems and supplementing with irrigation when necessary.",
+                "sub_steps": {
+                    "rainfed_cultivation": {
+                        "title": "Rainfed Cultivation",
+                        "description": "Tandur Red Gram is primarily rainfed, relying on monsoon rains (June–September). The crop is drought-tolerant, making it ideal for Tandur’s rainfed tracts."
+                    },
+                    "irrigation": {
+                        "title": "Irrigation (if needed)",
+                        "description": "In Rabi or low-rainfall years, provide 2–3 irrigations at critical stages: pre-flowering (30–40 days), pod formation (60–80 days), and pod filling (90–110 days). Use drip irrigation where available, as promoted by government schemes in Telangana, to optimize water use."
+                    },
+                    "moisture_conservation": {
+                        "title": "Moisture Conservation",
+                        "description": "Mulch with paddy straw or dried leaves after transplanting to conserve soil moisture and reduce evaporation."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 6,
+            "title": "Weed, Pest, and Disease Management",
+            "image_urls": [],
+            "description": {
+                "overview": "Control weeds, pests, and diseases through integrated management practices to protect Tandur Red Gram’s yield and quality.",
+                "sub_steps": {
+                    "weed_management": {
+                        "title": "Weed Management",
+                        "description": "Apply pre-emergence herbicide like pendimethalin within 2–3 days of sowing, followed by two hand weedings at 30 and 60 days. Costs average Rs. 620–1,050 per acre. Intercropping with coriander, onion, or groundnut helps suppress weeds and improve soil fertility."
+                    },
+                    "pest_management": {
+                        "title": "Pest Management",
+                        "description": "Major pests include pod fly, plume moth, spotted pod borer, leaf hoppers, and leaf webber. Use neem-based biopesticides or chemical sprays like monocrotophos or dimethoate at recommended doses. Costs average Rs. 1,585 per acre."
+                    },
+                    "disease_management": {
+                        "title": "Disease Management",
+                        "description": "Common diseases include powdery mildew, wilt, and dry root rot. Apply fungicides like carbendazim or use biocontrol agents like Trichoderma. Practice crop rotation and avoid waterlogging to reduce disease incidence."
+                    },
+                    "cultural_practices": {
+                        "title": "Cultural Practices",
+                        "description": "Minimal use of chemical herbicides is noted in Tandur, preserving the crop’s organic qualities."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 7,
+            "title": "Harvesting",
+            "image_urls": [],
+            "description": {
+                "overview": "Harvest Tandur Red Gram at the right stage to maximize yield and grain quality, typically between January and February.",
+                "sub_steps": {
+                    "timing": {
+                        "title": "Timing",
+                        "description": "Harvesting occurs between January and February for Kharif crops, 45–60 days after flowering, when pods turn brown and dry. Rabi crops may be harvested earlier."
+                    },
+                    "method": {
+                        "title": "Method",
+                        "description": "Hand-pick mature pods or cut plants at the base and dry them in the field for 5–7 days. Thresh manually or mechanically to separate seeds. Harvesting costs average Rs. 600 per acre."
+                    },
+                    "yield": {
+                        "title": "Yield",
+                        "description": "Average yield is 8–10 quintals per acre, with Tandur Red Gram fetching Rs. 4,500–10,449 per quintal depending on quality and market demand."
+                    }
+                }
+            }
+        },
+        {
+            "stage_number": 8,
+            "title": "Post-Harvest Operations",
+            "image_urls": [],
+            "description": {
+                "overview": "Process, store, and market Tandur Red Gram carefully to maintain its quality, leverage its GI tag, and maximize economic returns.",
+                "sub_steps": {
+                    "processing": {
+                        "title": "Processing",
+                        "description": "Dry seeds to 8–10% moisture content to prevent spoilage. Dehusk and split seeds in dal mills, which process 10–15 tones daily in Tandur. Clean and grade seeds to meet GI tag standards for branding and marketing."
+                    },
+                    "storage": {
+                        "title": "Storage",
+                        "description": "Store in moisture-proof bags in well-ventilated godowns to maintain the crop’s enhanced keeping quality."
+                    },
+                    "marketing": {
+                        "title": "Marketing",
+                        "description": "Register as authorized users to brand Tandur Red Gram with the GI tag for premium pricing (Rs. 300–500 more per quintal). The crop has strong demand in Delhi, Mumbai, Kolkata, and international markets due to its unique flavor and high protein content."
+                    },
+                    "challenges": {
+                        "title": "Challenges",
+                        "description": "Limited awareness of the GI tag among farmers and lack of a Red Gram Board hinder optimal branding and market access."
+                    },
+                    "drying_and_cleaning": {
+                        "title": "Drying and Cleaning",
+                        "description": "After harvesting and threshing Tandur Red Gram, ensure the grains are dried thoroughly under sunlight until the moisture content reaches 10% or below. This is crucial because storing even slightly moist grains can lead to fungal growth or insect infestation. Drying should be done on clean tarpaulins or mats, not directly on the soil, to avoid contamination. Once the grains are dry and hard, winnow them properly to remove chaff, pod husks, and broken seeds. Only clean, mature, uniform grains should be packed for storage or marketing."
+                    },
+                    "storage_practices": {
+                        "title": "Storage Practices",
+                        "description": "For storage, use clean, dry gunny bags or plastic bins. If storing for more than a month, treat the storage area with insecticide sprays beforehand, and place dry neem leaves or pest repellent tablets (like aluminium phosphide or celphos) inside the storage containers. Always store the bags on wooden pallets, away from walls and damp corners, to prevent moisture absorption and rodent access. Periodically (every 15–20 days), check stored grains for any foul smell, discoloration, or insect activity. If you notice clumping, heating, or live pests, immediately spread and sun-dry the grains again."
+                    },
+                    "seed_saving": {
+                        "title": "Seed Saving",
+                        "description": "For those planning to sell the produce, sorting the grains based on size and cleanliness increases the price. In some regions, polishing or branding the red gram (especially Tandur variety) fetches a better market rate in urban markets or export hubs. Additionally, if interested in seed saving for next season, pick healthy, disease-free, bold seeds during threshing. Dry them well, treat with biofungicide like Trichoderma or carbendazim, and store in airtight containers in a cool, dry place."
+                    },
+                    "monitoring": {
+                        "title": "Monitoring",
+                        "description": "Once the Tandur Red Gram grains are cleaned, dried, and stored, monitor stored grain regularly. Even after treatment and proper drying, moisture from air or hidden pests can still invade the storage containers. Open and inspect bags or bins every 2 to 3 weeks, checking for any musty odor, fungal spots, or live insects. If any issues are found, the affected portion should be immediately removed and re-dried under sunlight."
+                    },
+                    "seed_treatment": {
+                        "title": "Seed Treatment and Preservation",
+                        "description": "For farmers who plan to use part of the produce as seed for the next season, select the healthiest, bold, and uniform seeds during threshing. After final drying, treat these seeds with Trichoderma viride (5 g/kg) or carbendazim (2 g/kg) to prevent fungal diseases during storage. Coat them lightly with Neem oil (5 ml/kg of seed) for pest resistance. Store these seeds separately in airtight containers or seed bags, clearly labeled with date and variety name, in a dry, cool place away from direct sunlight."
+                    },
+                    "grading_and_value_addition": {
+                        "title": "Grading and Value Addition",
+                        "description": "Clean and sort grains based on size and color to improve visual quality. Explore small-scale dehusking and polishing units to produce split red gram (tur dal), which has a higher market value compared to raw whole grain. If access to dal mills is possible, convert produce into dal and sell it locally or in urban markets for better profits."
+                    },
+                    "branding_and_packaging": {
+                        "title": "Branding and Packaging",
+                        "description": "Branding and packaging of red gram as a specialty Tandur variety (known for its cooking quality and taste) can fetch premium prices, especially if marketed to health-conscious consumers, organic stores, or export traders. Techniques such as vacuum packing or airtight packaging in small quantities (1–5 kg packs) improve shelf life and market appeal."
+                    },
+                    "storage_maintenance": {
+                        "title": "Storage Maintenance",
+                        "description": "Prepare storage structures for next season by cleaning and disinfecting them now. Record all post-harvest actions in a notebook — including pest attacks, treatment used, and grain quantity — to help with future decision-making and financial planning."
+                    }
+                }
+            }
+        }
+    ]
+},
+{
+  "crop_code": "ICPH 2740 (Mannem Konda Kandi)",
+  "cultivation_stages": [
+      {
+          "stage_number": 1,
+          "title": "Land Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Create a fine, well-drained seedbed to support root development and nutrient uptake for ICPH 2740, a high-yielding pigeonpea hybrid suited for deep black soils in Telangana.",
+              "sub_steps": {
+                  "ploughing": {
+                      "title": "Ploughing",
+                      "description": "Plough the field 2–3 times using a tractor-drawn mouldboard or disc plough to a depth of 15–20 cm. Follow with harrowing to break clods and level the soil."
+                  },
+                  "organic_manure": {
+                      "title": "Organic Manure",
+                      "description": "Incorporate 5–10 tons/ha of well-decomposed farmyard manure (FYM) during the last ploughing to improve soil fertility."
+                  },
+                  "drainage": {
+                      "title": "Drainage",
+                      "description": "Ensure proper drainage, as pigeonpea is sensitive to waterlogging. For rainfed conditions, form ridges and furrows to conserve moisture; for irrigated fields, prepare flatbeds."
+                  },
+                  "soil_type": {
+                      "title": "Soil Type",
+                      "description": "Prefers deep, well-drained loamy or sandy loam soils with a pH of 6.0–7.5, particularly deep black soils of Telangana."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 2,
+          "title": "Seed Selection and Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Select certified ICPH 2740 hybrid seeds and prepare a nursery to ensure robust seedlings for transplanting, enhancing yield potential through proper seed treatment.",
+              "sub_steps": {
+                  "seed_selection": {
+                      "title": "Seed Selection",
+                      "description": "Use certified, high-quality hybrid seeds of ICPH 2740 from reliable sources with high germination rates (>85%) and free from physical damage or disease. Treat seeds with Rhizobium culture (5 g/kg seed) to enhance nitrogen fixation and fungicides like Carbendazim (2 g/kg seed) to prevent seed-borne diseases."
+                  },
+                  "nursery_preparation": {
+                      "title": "Nursery Preparation",
+                      "description": "Prepare a raised nursery bed (15–20 cm high) in a well-drained area with fertile soil. Mix FYM or compost (1 kg/m²) into the soil to improve nutrient content. Sow seeds at a depth of 2–3 cm, spacing 10 cm between rows, and cover lightly with soil. Irrigate gently to maintain moisture without waterlogging. Seedlings are ready for transplanting in 25–30 days when they reach 15–20 cm in height."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 3,
+          "title": "Transplanting",
+          "image_urls": [],
+          "description": {
+              "overview": "Transplant ICPH 2740 seedlings at the optimal time and spacing to promote branching and maximize yield potential in rainfed or irrigated systems.",
+              "sub_steps": {
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Transplant during the onset of the monsoon (June–July) for rainfed crops or as per irrigation availability."
+                  },
+                  "method": {
+                      "title": "Method",
+                      "description": "Adopt a square planting system (equal row and plant spacing) to promote branching, pod, and seed set. Recommended spacing: 100 × 100 cm (10,000 plants/ha) or 120 × 120 cm (6,944 plants/ha) for optimal yields. Alternatively, use 150 × 60 cm for normal transplanting (11,111 plants/ha). Dig small pits, place seedlings with soil intact, and firm the soil around roots. Irrigate immediately after transplanting to establish seedlings."
+                  },
+                  "advantages": {
+                      "title": "Advantages",
+                      "description": "Transplanting enhances branching, leading to higher yields compared to direct dibbling."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 4,
+          "title": "Fertilizer and Nutrient Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Apply balanced fertilizers and organic inputs to meet the nutrient demands of ICPH 2740, leveraging its responsiveness to enhance yield potential.",
+              "sub_steps": {
+                  "soil_testing": {
+                      "title": "Soil Testing",
+                      "description": "Conduct soil tests to determine nutrient status and tailor fertilizer application."
+                  },
+                  "basal_application": {
+                      "title": "Basal Application",
+                      "description": "Apply 25 kg N, 37.5 kg P₂O₅, and 8.5 kg K₂O per hectare at sowing, based on soil test recommendations. Use fertilizers like DAP and MOP to meet phosphorus and potassium needs."
+                  },
+                  "organic_inputs": {
+                      "title": "Organic Inputs",
+                      "description": "Apply 2–3 tons/ha vermicompost or FYM along with phosphate-solubilizing bacteria (PSB) to improve nutrient availability."
+                  },
+                  "top_dressing": {
+                      "title": "Top-Dressing",
+                      "description": "Split nitrogen application, applying half at 30–40 days after transplanting to support vegetative growth."
+                  },
+                  "micronutrients": {
+                      "title": "Micronutrients",
+                      "description": "Foliar spray of zinc sulfate (0.5%) or boron (0.2%) if deficiencies are observed."
+                  },
+                  "rhizobium_inoculation": {
+                      "title": "Rhizobium Inoculation",
+                      "description": "Enhances biological nitrogen fixation, reducing synthetic nitrogen needs."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 5,
+          "title": "Water Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Manage water efficiently to support ICPH 2740’s growth, leveraging its drought tolerance in rainfed systems and supplementing with irrigation when needed.",
+              "sub_steps": {
+                  "irrigation": {
+                      "title": "Irrigation",
+                      "description": "Pigeonpea is primarily rainfed but benefits from supplemental irrigation in dry spells. Provide 1–2 irrigations during critical stages: flowering and pod formation (60–90 days after transplanting). Use drip irrigation for efficient water use, maintaining soil moisture at 60–70% field capacity."
+                  },
+                  "rainfed_conditions": {
+                      "title": "Rainfed Conditions",
+                      "description": "Form ridges and furrows or use mulching to conserve soil moisture."
+                  },
+                  "drainage": {
+                      "title": "Drainage",
+                      "description": "Ensure fields are well-drained to prevent waterlogging, which can cause root rot."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 6,
+          "title": "Weed, Pest, and Disease Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Implement integrated pest and disease management to protect ICPH 2740’s yield potential, leveraging its inherent resistance to Fusarium wilt and sterility mosaic disease.",
+              "sub_steps": {
+                  "weed_management": {
+                      "title": "Weed Management",
+                      "description": "Perform 1–2 hand weedings or hoeing at 20–30 and 40–50 days after transplanting. Apply pre-emergence herbicide like Pendimethalin (1 kg a.i./ha) within 2 days of sowing, followed by one hand weeding at 20 days. Use mulching or intercropping with short-duration crops to suppress weeds."
+                  },
+                  "pest_management": {
+                      "title": "Pest Management",
+                      "description": "For Pod Borer (Helicoverpa armigera), spray Indoxacarb (0.5 ml/L) or Spinosad (0.3 ml/L) at flowering. For Maruca Pod Borer, use Flubendiamide (0.2 ml/L) during pod formation. Install pheromone traps (5/ha) and encourage natural predators like Trichogramma."
+                  },
+                  "disease_management": {
+                      "title": "Disease Management",
+                      "description": "ICPH 2740 is resistant to Fusarium wilt and sterility mosaic disease; remove infected plants to prevent spread. Apply neem-based formulations or fungicides like Mancozeb (2 g/L) for minor foliar diseases."
+                  },
+                  "integrated_pest_management": {
+                      "title": "Integrated Pest Management (IPM)",
+                      "description": "Integrate biological controls (e.g., NPV, neem oil) and cultural practices (e.g., timely weeding, crop rotation)."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 7,
+          "title": "Harvesting",
+          "image_urls": [],
+          "description": {
+              "overview": "Harvest ICPH 2740 at the right stage to maximize yield and seed quality, typically 150–180 days after transplanting.",
+              "sub_steps": {
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Harvest when 70–80% of pods turn brown and dry (150–180 days after transplanting, depending on season)."
+                  },
+                  "method": {
+                      "title": "Method",
+                      "description": "Cut plants at ground level manually or using sickles. For seed production, harvest when pods are fully mature to ensure high seed quality. Avoid harvesting during wet weather to prevent fungal growth."
+                  },
+                  "yield_potential": {
+                      "title": "Yield Potential",
+                      "description": "2407–3652 kg/ha under optimal conditions."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 8,
+          "title": "Post-Harvest Operations",
+          "image_urls": [],
+          "description": {
+              "overview": "Carefully handle, dry, and store ICPH 2740 seeds to maintain quality, minimize losses, and ensure market value and seed viability.",
+              "sub_steps": {
+                  "drying": {
+                      "title": "Drying",
+                      "description": "Dry harvested plants in the field for 3–5 days under sunlight, stacking them in small bundles to avoid pod shattering. Thresh pods manually or using mechanical threshers to separate seeds. Dry seeds to a moisture content of 8–10% for safe storage."
+                  },
+                  "cleaning_and_grading": {
+                      "title": "Cleaning and Grading",
+                      "description": "Remove broken seeds, debris, and immature grains using sieves or winnowing. Grade seeds for uniformity to enhance market value."
+                  },
+                  "storage": {
+                      "title": "Storage",
+                      "description": "Store seeds in moisture-proof bags or containers in a cool, dry, and well-ventilated area. Use fumigants like aluminum phosphide (as per guidelines) to protect against storage pests like bruchids. For seed purposes, maintain purity by storing separately from other varieties."
+                  },
+                  "marketing": {
+                      "title": "Marketing",
+                      "description": "Sell as grain for consumption or certified seed for planting, ensuring compliance with seed standards."
+                  },
+                  "post_harvest_management": {
+                      "title": "Post-Harvest Management",
+                      "description": "After harvesting, thresh pods to separate grains, followed by winnowing or mechanical cleaning to remove debris, dust, and damaged seeds. Dry seeds to 8–10% moisture content using sun-drying on clean surfaces or mechanical dryers in humid conditions, avoiding overheating to preserve seed viability. Grade seeds by size and quality using sieves or air-screen cleaners. Store in moisture-proof bags or hermetic storage systems like sealed drums, regularly inspecting for insect infestation (e.g., pulse beetles) and using fumigation or neem leaves if needed. For seed production, maintain genetic purity by storing separately and testing for quality."
+                  },
+                  "loss_prevention": {
+                      "title": "Loss Prevention",
+                      "description": "Harvest when 75–80% of pods reach physiological maturity and turn light brown to reduce shattering or pest infestation. Tie plants in bundles and sun-dry for several days to lower moisture content. Thresh carefully using mechanical threshers to minimize physical damage. Dry seeds to 9–10% moisture for storage. Use clean, dry, pest-free containers like jute or HDPE bags, and store in well-ventilated areas. Monitor for pest infestation and use safe pest control measures like neem leaf powder to prevent losses during storage. Avoid sharp hooks during handling to reduce mechanical damage."
+                  },
+                  "seed_storage": {
+                      "title": "Seed Storage",
+                      "description": "Thoroughly clean and sun-dry seeds for 3–4 days until moisture content drops to 9–12%. Pack in clean, dry containers like metal bins, polyethylene bags, or gunny sacks, preferably airtight to limit moisture absorption and pest entry. Store in a cool, dry, well-ventilated place, off the ground and away from walls. Mix inert materials like ash or neem leaves, or use desiccants like silica gel or calcium chloride for pest protection. Maintain storage temperatures just above or below 0°C for long-term viability, or keep dry at room temperature. Regularly monitor for moisture and pest activity."
+                  },
+                  "moisture_content": {
+                      "title": "Moisture Content",
+                      "description": "Maintain seed moisture content at 9–12% for ordinary storage, with 10% being ideal. For long-term storage or sealed containers, dry to 5–8% to maximize longevity and minimize fungal growth or pest infestation."
+                  }
+              }
+          }
+      }
+  ]
+},
+{
+  "crop_code": "ICPL 14003 (PRG 176, Ujwala)",
+  "cultivation_stages": [
+      {
+          "stage_number": 1,
+          "title": "Land Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Prepare a well-tilled, weed-free, and fertile seedbed to support the deep-rooted nature of ICPL 14003, ensuring proper root development and drainage.",
+              "sub_steps": {
+                  "clear_field": {
+                      "title": "Clear the Field",
+                      "description": "Remove weeds, crop residues, and stones to reduce competition and pest habitats."
+                  },
+                  "deep_ploughing": {
+                      "title": "Deep Ploughing",
+                      "description": "Use a soil-turning plough to till the soil to a depth of 15–20 cm. This helps loosen the soil, improves aeration, and allows the deep roots of red gram to penetrate easily."
+                  },
+                  "harrowing": {
+                      "title": "Harrowing",
+                      "description": "Perform 2–3 discings or harrowing to break soil clods and create a fine tilth (smooth, crumbly soil texture)."
+                  },
+                  "levelling": {
+                      "title": "Levelling",
+                      "description": "Level the field using a plank or leveller to ensure uniform irrigation and prevent water stagnation, as red gram is sensitive to waterlogging."
+                  },
+                  "soil_type": {
+                      "title": "Soil Type",
+                      "description": "ICPL 14003 thrives in well-drained, fertile loamy soils (sandy loam to clay loam) with a pH of 6.5–7.5. Avoid heavy, waterlogged soils."
+                  },
+                  "organic_matter": {
+                      "title": "Organic Matter",
+                      "description": "Incorporate 5–10 tons/ha of well-decomposed farmyard manure (FYM) or compost during the last ploughing to enhance soil fertility and structure."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Start land preparation 2–3 weeks before sowing, ideally in early June for the kharif season (June–July sowing)."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 2,
+          "title": "Seed Selection and Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Select high-quality, disease-free seeds and prepare them for sowing to ensure good germination and vigorous growth, with nursery preparation used in specific cases for controlled germination.",
+              "sub_steps": {
+                  "seed_selection": {
+                      "title": "Seed Selection",
+                      "description": "Obtain ICPL 14003 seeds from certified sources like agricultural research stations, universities, Krishi Vigyan Kendras (KVKs), or registered seed companies. Seeds should be genetically pure, free from pests, diseases, and inert matter (e.g., dust, weed seeds). ICPL 14003 is known for its medium-duration (150–180 days) and resistance to sterility mosaic and wilt. Use 12–15 kg/ha for line sowing, depending on soil fertility and spacing."
+                  },
+                  "seed_treatment": {
+                      "title": "Seed Treatment",
+                      "description": "Treat seeds with fungicides like Carbendazim or Thiram at 2 g/kg of seed to protect against seed-borne diseases like wilt. Inoculate seeds with Rhizobium (25 g/kg seed) to enhance nitrogen fixation, a key trait of red gram, and Phosphorus Solubilizing Bacteria (PSB) to improve nutrient availability. Mix seeds with biofertilizers just before sowing to ensure viability. Dry treated seeds in shade to avoid damage."
+                  },
+                  "nursery_preparation": {
+                      "title": "Nursery Preparation",
+                      "description": "ICPL 14003 is typically sown directly in the main field, but in rare cases, a nursery may be used for controlled germination. Prepare a raised nursery bed (3 m x 1 m x 15 cm) in well-drained, loamy soil. Sterilize the bed by burning crop residues or solarization to kill pathogens. Add 15 kg compost, 5 g urea, 15 g Triple Super Phosphate (TSP), and 10 g Muriate of Potash (MOP) per nursery plot before sowing. Sow seeds thinly at a depth of 2–3 cm, with 10–15 cm spacing, and cover lightly with soil. Water gently to maintain moisture."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Treat and sow seeds during the second fortnight of June (15–30 June) for kharif, or February–April for summer crops."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 3,
+          "title": "Transplanting",
+          "image_urls": [],
+          "description": {
+              "overview": "Establish healthy seedlings in the main field with proper spacing to optimize growth and yield, particularly when nursery-grown seedlings are used.",
+              "sub_steps": {
+                  "transplant": {
+                      "title": "Transplant",
+                      "description": "If a nursery is used, transplant seedlings when they are 18–21 days old or have 3–4 true leaves. Transplant late in the evening or on a cloudy day to reduce transplant shock."
+                  },
+                  "nursery_watering": {
+                      "title": "Nursery Watering",
+                      "description": "Water the nursery bed thoroughly before lifting seedlings to keep a lump of soil around the roots, minimizing root damage."
+                  },
+                  "seedling_selection": {
+                      "title": "Seedling Selection",
+                      "description": "Choose healthy, vigorous seedlings free from pests and diseases."
+                  },
+                  "field_preparation": {
+                      "title": "Field Preparation",
+                      "description": "Ensure the main field is prepared with proper spacing marked."
+                  },
+                  "spacing": {
+                      "title": "Spacing",
+                      "description": "For ICPL 14003, use a spacing of 60 cm x 30 cm (row-to-row x plant-to-plant) for sole cropping, or 90 cm x 30 cm for intercropping. This ensures adequate light and nutrient availability."
+                  },
+                  "planting": {
+                      "title": "Planting",
+                      "description": "Dig small holes at the marked spacing, place one seedling per hole at the same depth as in the nursery, and firm the soil around the base. Water immediately after transplanting."
+                  },
+                  "gapping": {
+                      "title": "Gapping",
+                      "description": "Check the field 5–7 days after transplanting and replace dead seedlings to maintain the desired plant population."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 4,
+          "title": "Fertilizer and Nutrient Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Provide balanced nutrients to support vegetative growth, flowering, and pod development while leveraging ICPL 14003’s nitrogen-fixing ability to minimize fertilizer use.",
+              "sub_steps": {
+                  "basal_application": {
+                      "title": "Basal Application",
+                      "description": "Apply 25 kg N/ha (e.g., 54 kg urea/ha) to support early growth, 40–50 kg P₂O₅/ha (e.g., 250–312 kg Single Super Phosphate/ha) to promote root development and flowering, and 10–20 kg S/ha (e.g., through gypsum) to enhance protein synthesis in pulses. Incorporate 5 tons/ha of well-decomposed FYM or compost during land preparation to improve soil fertility. Use a ferti-cum-seed drill to place fertilizers 5–6 cm deep, ensuring nutrients are accessible to roots without burning seeds."
+                  },
+                  "top_dressing": {
+                      "title": "Top-Dressing",
+                      "description": "Apply 20 kg N/ha (e.g., 43 kg urea/ha or 100 kg Calcium Ammonium Nitrate/ha) as a top-dressing when plants are 25–30 cm tall (30–40 days after sowing) to support vegetative growth. Repeat top-dressing with 20 kg N/ha 3–4 weeks later if growth is poor or soil is nutrient-deficient."
+                  },
+                  "foliar_application": {
+                      "title": "Foliar Application",
+                      "description": "Spray 0.5% Potassium Chloride (KCl) during the vegetative stage under moisture stress to improve drought tolerance. Apply micronutrients like zinc (0.5% ZnSO₄) or boron (0.2% borax) if deficiency symptoms (e.g., yellowing leaves, poor flowering) appear."
+                  },
+                  "biofertilizers": {
+                      "title": "Biofertilizers",
+                      "description": "Reinforce Rhizobium and PSB application by mixing with FYM and applying to the soil during sowing."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Avoid excessive nitrogen, as it can delay maturity, promote vegetative growth, and reduce pod formation. Monitor soil health regularly to adjust fertilizer doses based on soil test results."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 5,
+          "title": "Water Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Maintain consistent soil moisture without waterlogging to support growth, flowering, and pod development, leveraging ICPL 14003’s drought tolerance.",
+              "sub_steps": {
+                  "irrigation_requirements": {
+                      "title": "Irrigation Requirements",
+                      "description": "Kharif Crop: Red gram is primarily rainfed during the kharif season (June–October). Supplemental irrigation is needed only during prolonged dry spells (e.g., 15–20 days without rain). Summer Crop: Requires regular irrigation due to higher temperatures and lower rainfall. Irrigate every 8–10 days in summer, depending on soil type (sandy soils need more frequent irrigation). Provide 4–6 irrigations throughout the crop cycle. Ensure adequate moisture during germination (0–10 days after sowing), flowering (60–80 days after sowing), and pod formation (80–100 days after sowing)."
+                  },
+                  "methods": {
+                      "title": "Methods",
+                      "description": "Furrow Irrigation: Create furrows between rows to deliver water efficiently, avoiding waterlogging. Drip Irrigation: Preferred for summer crops, as it conserves water and provides uniform moisture (ideal for sandy soils). Sprinkler Irrigation: Suitable for light, frequent watering in early stages or during dry spells."
+                  },
+                  "drainage": {
+                      "title": "Drainage",
+                      "description": "Ensure proper field drainage to prevent waterlogging, especially in heavy soils or during heavy rains, as it can cause root rot."
+                  },
+                  "water_conservation": {
+                      "title": "Water Conservation",
+                      "description": "Mulch with crop residues or organic materials to retain soil moisture and reduce evaporation. Stop irrigation 2 weeks before harvesting to promote pod ripening."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 6,
+          "title": "Weed, Pest, and Disease Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Minimize competition from weeds and damage from pests and diseases to ensure healthy crop growth, leveraging ICPL 14003’s resistance to sterility mosaic and Fusarium wilt.",
+              "sub_steps": {
+                  "weed_management": {
+                      "title": "Weed Management",
+                      "description": "Keep the field weed-free for the first 30–45 days after sowing, as weeds compete for nutrients, water, and light. Perform hand weeding or hoeing at 20–25 days and 40–45 days after sowing. Apply pre-emergence herbicides like Pendimethalin (1 kg a.i./ha) within 2 days of sowing to control grassy and broadleaf weeds. Follow with one hand weeding at 30 days if needed. Use organic mulch to suppress weed growth and retain soil moisture. Intercrop with cowpea or horse gram to outcompete weeds and improve soil fertility."
+                  },
+                  "pest_management": {
+                      "title": "Pest Management",
+                      "description": "For Pod Borer: Spray Endosulfan (0.05%) or Dimethoate (0.03%) at flowering and pod formation stages. For Aphids: Control with Dimethoate (0.03%) or Methyl Demeton (0.02%) sprays. For Whiteflies: Use sticky traps or spray Imidacloprid (0.05%) if infestation is severe. Monitor fields weekly for pest activity, use pheromone traps for pod borers, and encourage natural predators like ladybugs for aphids. Avoid excessive pesticide use to protect beneficial insects."
+                  },
+                  "disease_management": {
+                      "title": "Disease Management",
+                      "description": "Sterility Mosaic: ICPL 14003 is resistant, but monitor for yellowing or mottled leaves and remove and destroy affected plants. Wilt (Fusarium udum): ICPL 14003 is resistant, but ensure proper drainage and crop rotation to prevent buildup. Powdery Mildew: Spray 1% Bavistin solution if white powdery patches appear on leaves. Leaf Spot: Apply Mancozeb (0.2%) at early stages. Use resistant variety (ICPL 14003) and treated seeds. Practice crop rotation with cereals or non-legumes to break disease cycles. Remove and destroy infected plant debris after harvest."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 7,
+          "title": "Harvesting",
+          "image_urls": [],
+          "description": {
+              "overview": "Harvest mature pods to maximize yield and seed quality, ensuring timely harvesting to prevent losses due to pod shattering or pest damage.",
+              "sub_steps": {
+                  "maturity_indices": {
+                      "title": "Maturity Indices",
+                      "description": "ICPL 14003 is a medium-duration variety, maturing in 150–180 days (5–6 months) after sowing. Pods turn brown or yellowish-brown, and seeds inside are hard and fully developed. Leaves may start yellowing, and plants may show signs of drying."
+                  },
+                  "harvesting_time": {
+                      "title": "Harvesting Time",
+                      "description": "Harvest in November–December for kharif crops or July–August for summer crops. Harvest early in the morning to reduce pod shattering due to heat."
+                  },
+                  "methods": {
+                      "title": "Methods",
+                      "description": "Manual Harvesting: Cut plants at the base using a sickle or uproot them gently. Stack plants in the field for 2–3 days to dry. Mechanical Harvesting: Use a combine harvester for large fields, ensuring pods are dry to avoid seed damage. Pod Picking: For staggered maturity, pick mature pods by hand and allow remaining pods to ripen."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Avoid harvesting during wet conditions to prevent fungal growth on pods. Handle plants gently to minimize seed loss from shattering."
+                  },
+                  "expected_yield": {
+                      "title": "Expected Yield",
+                      "description": "ICPL 14003 can yield 1.5–2.5 tons/ha under optimal conditions, depending on soil, climate, and management."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 8,
+          "title": "Post-Harvest Operations",
+          "image_urls": [],
+          "description": {
+              "overview": "Process, store, and market ICPL 14003 seeds to retain quality, minimize losses, and maximize value for consumption, sowing, or sale.",
+              "sub_steps": {
+                  "drying": {
+                      "title": "Drying",
+                      "description": "Sun-dry harvested plants or pods for 4–7 days until moisture content is 10–12%. Spread pods thinly on tarpaulin or clean surfaces to avoid contamination. Harvest when about 75–80% of the pods have matured and turned brown. Cut plants with a sickle, leaving about 7.5–25 cm of stem above ground, and stack in a cubical shape to facilitate air circulation and prevent mold or fungal growth."
+                  },
+                  "threshing": {
+                      "title": "Threshing",
+                      "description": "Separate seeds from pods manually (by beating with sticks) or using a mechanical thresher. Ensure seeds are not damaged during threshing."
+                  },
+                  "cleaning_and_grading": {
+                      "title": "Cleaning and Grading",
+                      "description": "Remove chaff, broken seeds, and debris using winnowing or sieves. Grade seeds based on size and quality for better market value. After threshing, clean grains by winnowing to remove chaff and debris. Grade grains based on size, color, and quality to meet market standards and remove any damaged or infested seeds."
+                  },
+                  "storage": {
+                      "title": "Storage",
+                      "description": "Store seeds in moisture-proof bags (e.g., gunny bags lined with polythene) or airtight containers to prevent pest and fungal damage. Maintain storage areas at low humidity (<50%) and temperatures (<25°C). Use neem leaves or chemical fumigants like Aluminium Phosphide (as per guidelines) to protect against storage pests like bruchids. Keep dried and cleaned red gram in well-ventilated, moisture-free storage structures such as metal bins, gunny bags lined with polythene, or traditional rural godowns. Periodically inspect and consider using safe pest control measures like neem leaves or approved fumigants if necessary."
+                  },
+                  "packaging": {
+                      "title": "Packaging",
+                      "description": "Pack seeds in labeled bags (indicating variety, weight, and date) for sale or distribution. Use eco-friendly packaging for organic produce. Use clean, dry bags or containers that protect grains from moisture and pests during transportation and storage."
+                  },
+                  "marketing": {
+                      "title": "Marketing",
+                      "description": "Sell to local markets, cooperatives, or processors. Highlight ICPL 14003’s disease resistance and high protein content (20–25%) for better pricing. For organic produce, certify and market through premium channels to fetch higher prices."
+                  },
+                  "quality_checks": {
+                      "title": "Quality Checks",
+                      "description": "Ensure seeds are free from pest damage, discoloration, or fungal growth. Test germination rate (>85%) if seeds are intended for sowing."
+                  },
+                  "post_harvest_procedures": {
+                      "title": "Post-Harvest Procedures",
+                      "description": "Thresh dried pods manually by beating with sticks or using mechanical threshers to extract seeds efficiently. Clean seeds by winnowing or using sieves to remove debris, dust, broken seeds, and other impurities. Dry seeds in a thin layer under the sun or in a well-ventilated area to reduce moisture content to 8–10%, preventing mold growth and ensuring safe storage. Treat seeds with neem oil or approved chemical seed treatments to prevent pest infestation, as red gram is susceptible to storage pests like pulse beetles. Store in airtight containers or moisture-proof bags in a cool, dry, and well-ventilated place. Grade seeds by size and quality for market standards. Pack in clean, pest-free bags with proper labeling for commercial sale. Regularly inspect during storage for pest damage or moisture buildup, and fumigate if infestations are detected."
+                  },
+                  "advanced_techniques": {
+                      "title": "Advanced Techniques",
+                      "description": "Use mechanical sorting with gravity separators or color sorters to remove defective seeds (discolored, shriveled, or damaged ones) for higher purity. For seeds intended for planting, apply seed priming by soaking in water or nutrient solutions for a few hours before drying to improve germination rates and seedling vigor. Treat seeds with biofungicides like Trichoderma viride or chemical fungicides (following local guidelines) to prevent diseases like seed rot. Use hermetic storage systems, such as triple-layer PICS bags, to create an oxygen-deprived environment for pest control without chemicals. Monitor moisture with hygrometers, keeping relative humidity below 65%. For commercial purposes, de-hull to produce split dal or mill into flour to increase marketability, avoiding overheating during milling. Certify for quality standards (e.g., organic or non-GMO) for export or premium markets. Use pheromone traps for IPM during storage to monitor and control pest populations."
+                  }
+              }
+          }
+      }
+  ]
+},
+{
+  "crop_code": "ICPL 332 WR (TDRG 4, Hanuma)",
+  "cultivation_stages": [
+      {
+          "stage_number": 1,
+          "title": "Land Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Prepare a loose, fertile, and weed-free seedbed to support the deep-rooted growth of ICPL 332 WR, ensuring optimal root development and drainage.",
+              "sub_steps": {
+                  "clear_field": {
+                      "title": "Clear the Field",
+                      "description": "Remove all weeds, old crop residues, stones, or debris to prevent pest and disease carryover. Use hand pulling or a hoe for small fields."
+                  },
+                  "plowing": {
+                      "title": "Plowing the Land",
+                      "description": "Use a tractor or bullock-drawn plow to till the soil to a depth of 15–20 cm. Plow 1–2 times to loosen soil, improve aeration, and facilitate deep root growth."
+                  },
+                  "harrowing": {
+                      "title": "Harrowing",
+                      "description": "Break soil clumps using a harrow or rake 1–2 times to create a smooth, fine tilth suitable for seed germination."
+                  },
+                  "leveling": {
+                      "title": "Leveling the Field",
+                      "description": "Use a wooden plank or leveling board to flatten the field, ensuring even water distribution and preventing waterlogging."
+                  },
+                  "organic_matter": {
+                      "title": "Adding Organic Matter",
+                      "description": "Incorporate 5–10 tons/ha of well-rotted farmyard manure (FYM) or compost during plowing to enhance soil fertility and structure."
+                  },
+                  "soil_type_and_testing": {
+                      "title": "Soil Type and Testing",
+                      "description": "ICPL 332 WR thrives in well-drained loamy or sandy loam soils with a pH of 6.0–7.5. Test soil at a local agricultural office to assess nutrient levels and pH. Apply lime (1–2 tons/ha) a month before sowing if pH is below 6."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Prepare land in May or early June for kharif sowing (June–July) or September for rabi sowing in irrigated areas."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Avoid waterlogged or heavy clay soils. Plow when soil is slightly moist. On sloping land, create ridges or bunds to prevent erosion."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 2,
+          "title": "Seed Selection and Preparation",
+          "image_urls": [],
+          "description": {
+              "overview": "Select high-quality, disease-free seeds and prepare them for sowing, with nursery preparation used in specific cases for stronger seedlings.",
+              "sub_steps": {
+                  "seed_selection": {
+                      "title": "Seed Selection",
+                      "description": "Obtain certified ICPL 332 WR seeds from trusted sources like agricultural universities, ICAR institutes, or government seed agencies. Ensure seeds are clean, uniform, free from cracks or insect damage, and have a germination rate of at least 85%. ICPL 332 WR is medium-duration (140–160 days), wilt-resistant, and yields 1.5–2 tons/ha."
+                  },
+                  "seed_treatment": {
+                      "title": "Seed Treatment",
+                      "description": "Soak seeds in a fungicide solution like Carbendazim + Thiram (1 g each per kg seed) for 30 minutes to protect against fungal diseases. Coat with Rhizobium (10 g/kg seed) to enhance nitrogen fixation and optionally with Trichoderma viride (4 g/kg seed) for extra fungal protection. Dry treated seeds in shade."
+                  },
+                  "nursery_preparation": {
+                      "title": "Nursery Preparation",
+                      "description": "Direct sowing is common, but for late sowing or stronger seedlings, prepare raised nursery beds (1 m wide, 15 cm high) in a shaded, well-drained area. Mix soil with equal parts compost or FYM. Sow seeds 2–3 cm deep, 10 cm apart in rows, cover with straw or leaves, and water gently every 2–3 days. Seedlings sprout in 7–10 days."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Treat seeds just before sowing. Prepare nursery 25–30 days before transplanting if used."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Store seeds in a cool, dry place in airtight bags. Test germination by soaking a few seeds for 24 hours in a moist cloth. Avoid mixing treated and untreated seeds."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 3,
+          "title": "Transplanting",
+          "image_urls": [],
+          "description": {
+              "overview": "Establish plants in the main field through direct sowing or transplanting, ensuring proper spacing for optimal growth and pod production.",
+              "sub_steps": {
+                  "direct_sowing": {
+                      "title": "Direct Sowing",
+                      "description": "Sow seeds directly in June–July (kharif) or October–November (rabi). Create rows 60 cm apart with 10–15 cm between plants for sole cropping, or 90 cm rows with 20 cm between plants for intercropping. Place seeds 4–5 cm deep, cover lightly, and press soil gently. Use 10–12 kg/ha seeds for sole cropping or 5–7 kg/ha for intercropping."
+                  },
+                  "transplanting": {
+                      "title": "Transplanting",
+                      "description": "Transplant 25–30-day-old seedlings (15–20 cm tall, 3–4 leaves) from nursery. Water nursery bed before lifting seedlings to retain soil around roots. Dig holes (15 cm deep) in the main field at 60 cm x 15 cm spacing, place one seedling per hole, cover with soil, and water immediately. Transplant in the evening or on cloudy days."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Sow or transplant at the start of monsoon (June–July) for kharif or October for rabi. Ensure soil is moist but not waterlogged."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Check field 7–10 days after sowing or transplanting for gapping. Mark rows for even spacing. Avoid sowing too deep or shallow."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 4,
+          "title": "Fertilizer and Nutrient Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Provide balanced nutrients to support growth, flowering, and pod development while leveraging ICPL 332 WR’s nitrogen-fixing ability.",
+              "sub_steps": {
+                  "soil_testing": {
+                      "title": "Soil Testing",
+                      "description": "Test soil to determine nutrient deficiencies and adjust fertilizer application accordingly."
+                  },
+                  "basal_application": {
+                      "title": "Basal Application",
+                      "description": "Apply 20–25 kg N, 40–50 kg P₂O₅, and 20–30 kg K₂O per hectare at sowing. Use 50 kg DAP and 20 kg MOP, placing 5–10 cm from seeds. Add 5–10 tons/ha FYM before plowing."
+                  },
+                  "top_dressing": {
+                      "title": "Top-Dressing",
+                      "description": "Apply 20 kg N/ha (50 kg urea) 25–30 days after sowing along rows, mix into soil, and water. Spray zinc (25 kg ZnSO₄/ha) or boron (1 kg/ha) if deficiencies appear during flowering or pod formation."
+                  },
+                  "biofertilizers": {
+                      "title": "Biofertilizers",
+                      "description": "Apply Rhizobium (10 g/kg seed or 2 kg/ha), PSB, or Azotobacter (2 kg/ha) near roots during sowing to enhance nitrogen and phosphorus availability."
+                  },
+                  "integrated_nutrient_management": {
+                      "title": "Integrated Nutrient Management",
+                      "description": "Combine organic (5 tons/ha compost) and chemical fertilizers to sustain soil fertility."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Apply basal fertilizers at sowing. Top-dress nitrogen at 25–30 days. Spray micronutrients at flowering (60–70 days)."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Avoid excess nitrogen to prevent excessive vegetative growth. Place fertilizers away from plants to avoid root damage. Store fertilizers in a dry place."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 5,
+          "title": "Water Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Ensure adequate moisture during critical growth stages while preventing waterlogging to support healthy development of ICPL 332 WR.",
+              "sub_steps": {
+                  "irrigated_crops": {
+                      "title": "Irrigated Crops",
+                      "description": "Provide 3–5 irrigations for rabi or summer crops at vegetative stage (20–30 days), flowering (60–70 days), and pod formation (90–100 days). Apply 5–6 cm water per irrigation via furrows or drip irrigation."
+                  },
+                  "rainfed_crops": {
+                      "title": "Rainfed Crops",
+                      "description": "Rely on monsoon rains (500–800 mm) for kharif crops. Use mulch (straw or crop residues) to conserve moisture during dry spells."
+                  },
+                  "drainage": {
+                      "title": "Drainage",
+                      "description": "Create channels or slopes to drain excess water during heavy rains to prevent root rot or fungal diseases."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Irrigate at sowing and critical stages. For rainfed crops, sow at monsoon onset (June–July)."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Check soil moisture to avoid overwatering. Avoid irrigation during heavy rain. Clean drip systems regularly."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 6,
+          "title": "Weed, Pest, and Disease Management",
+          "image_urls": [],
+          "description": {
+              "overview": "Control weeds, pests, and diseases to protect ICPL 332 WR’s yield potential, leveraging its resistance to Fusarium wilt and pod borer tolerance.",
+              "sub_steps": {
+                  "weed_management": {
+                      "title": "Weed Management",
+                      "description": "Remove weeds by hand or hoe at 20–25 and 40–45 days after sowing. Apply Pendimethalin (1 kg a.i./ha) within 2–3 days of sowing. Intercrop with sorghum, pearl millet, or groundnut to suppress weeds."
+                  },
+                  "pest_management": {
+                      "title": "Pest Management",
+                      "description": "For Pod Borer (Helicoverpa armigera), spray neem oil (5 ml/L) or Chlorpyrifos (2 ml/L) at flowering and pod formation. For Maruca, use Spinosad (0.5 ml/L) or pheromone traps (5–10/ha). For Blister Beetle, handpick or spray Malathion (1 ml/L). Use IPM with crop rotation, bird perches (10–15/ha), and trap crops like marigold."
+                  },
+                  "disease_management": {
+                      "title": "Disease Management",
+                      "description": "ICPL 332 WR is resistant to Fusarium wilt; treat seeds and avoid waterlogging. For Sterility Mosaic Disease, spray Dicofol (2 ml/L) to control mites. For Phytophthora Blight, improve drainage and spray Metalaxyl (2 g/L). Remove and burn infected plants."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Weed at 20–25 and 40–45 days. Monitor pests and diseases weekly, especially at flowering (60–70 days) and pod formation (90–100 days)."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Spot pests early through weekly checks. Use organic sprays like neem oil to protect pollinators. Avoid spraying during windy or rainy days."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 7,
+          "title": "Harvesting",
+          "image_urls": [],
+          "description": {
+              "overview": "Harvest mature pods to maximize seed quality and yield, preventing losses from shattering or pest damage.",
+              "sub_steps": {
+                  "harvest_time": {
+                      "title": "Harvest Time",
+                      "description": "Harvest at 140–160 days when 70–80% of pods are brown and dry, with seed moisture at 12–15%. For green pods, harvest at 60–70 days when tender."
+                  },
+                  "harvest_process": {
+                      "title": "Harvest Process",
+                      "description": "Pick mature pods by hand or cut plants at the base with a sickle. Use mechanical harvesters for large fields. Dry plants or pods on a clean surface for 3–5 days."
+                  },
+                  "timing": {
+                      "title": "Timing",
+                      "description": "Harvest in November–December for kharif or March–April for rabi on dry, sunny days."
+                  },
+                  "precautions": {
+                      "title": "Precautions",
+                      "description": "Harvest in early morning to reduce shattering. Handle pods gently. Pick unevenly mature pods in stages."
+                  }
+              }
+          }
+      },
+      {
+          "stage_number": 8,
+          "title": "Post-Harvest Operations",
+          "image_urls": [],
+          "description": {
+              "overview": "Process, clean, and store seeds to maintain quality for consumption, planting, or sale, minimizing losses and ensuring market readiness.",
+              "sub_steps": {
+                  "threshing": {
+                      "title": "Threshing",
+                      "description": "Dry plants or pods for 4–5 days until seed moisture is below 10%. Thresh manually by beating with sticks or use mechanical threshers, avoiding seed breakage. Winnow to remove dust and chaff."
+                  },
+                  "cleaning_and_grading": {
+                      "title": "Cleaning and Grading",
+                      "description": "Clean seeds with sieves or by hand to remove dirt, broken seeds, or stones. Sort by size and quality, discarding damaged or discolored seeds. Grade for uniformity to improve market value."
+                  },
+                  "drying": {
+                      "title": "Drying",
+                      "description": "Dry cleaned grains under the sun for 2–3 days to reach 10% moisture or less, using a grain moisture meter or bite test (seeds break cleanly). Spread thinly on clean tarps to avoid contamination."
+                  },
+                  "storage": {
+                      "title": "Storage",
+                      "description": "Store in moisture-proof gunny bags lined with polythene, plastic drums, or metal bins at 10–12% moisture, 20–25°C, and low humidity. Place on pallets to avoid ground moisture. Use neem leaves (1 kg/100 kg seeds) or Aluminium Phosphide (per guidelines) to prevent pests like bruchids. Store in well-ventilated, dry areas."
+                  },
+                  "seed_selection_and_treatment": {
+                      "title": "Seed Selection and Treatment",
+                      "description": "Select healthy, disease-free seeds from early-maturing, high-yielding plants for next season. Treat with Thiram or Bavistin (2–3 g/kg seed) or a fungicide-insecticide mix for long-term storage. Dry treated seeds in shade and pack in breathable cloth or paper bags, labeled with variety, date, and season."
+                  },
+                  "advanced_storage": {
+                      "title": "Advanced Storage",
+                      "description": "Use air-tight Super Grain Bags or HDPE drums to prevent pest entry. Mix grains with neem leaves or castor oil-treated sand for natural pest control. Check every 15–30 days for pests, mold, or discoloration, and fumigate if needed."
+                  },
+                  "marketing": {
+                      "title": "Marketing",
+                      "description": "Grade, weigh, and pack in 50 kg gunny bags with tight stitching and labeling. Sell to local markets, cooperatives, dal mills, or via eNAM for better prices. Wait 1–2 months post-harvest for improved prices. Highlight uniform, golden-yellow seeds for higher value."
+                  },
+                  "post_harvest_maintenance": {
+                      "title": "Post-Harvest Maintenance",
+                      "description": "Clean and store tools like tarps, threshers, and sieves to avoid contamination. Clear threshing floors of leftover seeds to deter rodents. Evaluate yield and pest issues for next season’s planning. Implement rodent control by sealing holes and setting traps."
+                  }
+              }
+          }
+      }
+  ]
+}
+]

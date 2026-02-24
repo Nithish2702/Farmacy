@@ -1,0 +1,2784 @@
+[
+  {
+    "crop_code": "MTU 1010",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Nursery Sowing & Main Field Preparation",
+        "day_range": "Days 1–7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select certified MTU 1010 seeds.",
+              "Soak seeds in clean water for 24 hours."
+            ],
+            "notes": null
+          },
+          "day_2": {
+            "tasks": [
+              "Incubate soaked seeds in a wet cloth/gunny bag for 24–36 hours until sprouting."
+            ],
+            "notes": null
+          },
+          "day_3": {
+            "tasks": [
+              "Treat sprouted seeds with fungicide (e.g., carbendazim 2g/kg).",
+              "Prepare nursery beds (1/20th of the main field area) with FYM and level."
+            ],
+            "notes": null
+          },
+          "day_4": {
+            "tasks": [
+              "Sow sprouted seeds evenly in nursery beds.",
+              "Irrigate the nursery lightly."
+            ],
+            "notes": null
+          },
+          "day_5": {
+            "tasks": [
+              "Continue nursery irrigation as needed (keep moist, not waterlogged).",
+              "Begin the first ploughing of the main field, mixing well-rotted cow dung (FYM) or compost into the soil before planting to make the soil more fertile and help crops grow better."
+            ],
+            "notes": [
+              "FYM – Farm yard manure",
+              "First Ploughing is done before any fertilizers or water are added."
+            ]
+          },
+          "day_6": {
+            "tasks": [
+              "Continue nursery irrigation as needed (keep moist, not waterlogged).",
+              "Begin the first ploughing of the main field, mixing well-rotted cow dung (FYM) or compost into the soil before planting to make the soil more fertile and help crops grow better."
+            ],
+            "notes": [
+              "FYM – Farm yard manure",
+              "First Ploughing is done before any fertilizers or water are added."
+            ]
+          },
+          "day_7": {
+            "tasks": [
+              "Continue nursery irrigation as needed (keep moist, not waterlogged).",
+              "Begin the first ploughing of the main field, mixing well-rotted cow dung (FYM) or compost into the soil before planting to make the soil more fertile and help crops grow better."
+            ],
+            "notes": [
+              "FYM – Farm yard manure",
+              "First Ploughing is done before any fertilizers or water are added."
+            ]
+          }
+        },
+        "stage_number": 2
+      },
+      "week_2": {
+        "title": "Nursery Care & Field Prep",
+        "day_range": "Days 8–14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Monitor the nursery for pests/diseases.",
+              "Second ploughing of the main field."
+            ],
+            "notes": [
+              "Second ploughing is done after applying water (puddling) or after adding manure or fertilizers."
+            ]
+          },
+          "day_9": {
+            "tasks": [
+              "Monitor the nursery for pests/diseases.",
+              "Second ploughing of the main field."
+            ],
+            "notes": [
+              "Second ploughing is done after applying water (puddling) or after adding manure or fertilizers."
+            ]
+          },
+          "day_10": {
+            "tasks": [
+              "Monitor the nursery for pests/diseases.",
+              "Second ploughing of the main field."
+            ],
+            "notes": [
+              "Second ploughing is done after applying water (puddling) or after adding manure or fertilizers."
+            ]
+          },
+          "day_11": {
+            "tasks": [
+              "Remove weeds from the nursery if present.",
+              "Level the main field after ploughing."
+            ],
+            "notes": null
+          },
+          "day_12": {
+            "tasks": [
+              "Remove weeds from the nursery if present.",
+              "Level the main field after ploughing."
+            ],
+            "notes": null
+          },
+          "day_13": {
+            "tasks": [
+              "Repair bunds and field channels for irrigation/drainage.",
+              "Maintain nursery moisture."
+            ],
+            "notes": [
+              "Check and fix the soil walls (bunds) and water paths (channels) in the field so that water stays where needed and drains out properly when required. This helps in better irrigation and prevents water loss or flooding.",
+              "Bunds are soil walls to hold water in the field, and channels are small paths to bring water in or drain it out."
+            ]
+          },
+          "day_14": {
+            "tasks": [
+              "Repair bunds and field channels for irrigation/drainage.",
+              "Maintain nursery moisture."
+            ],
+            "notes": [
+              "Check and fix the soil walls (bunds) and water paths (channels) in the field so that water stays where needed and drains out properly when required. This helps in better irrigation and prevents water loss or flooding.",
+              "Bunds are soil walls to hold water in the field, and channels are small paths to bring water in or drain it out."
+            ]
+          }
+        },
+        "stage_number": 1
+      },
+      "week_3": {
+        "title": "Nursery Care & Field Puddling",
+        "day_range": "Days 15–21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Continue nursery care (irrigation, pest check).",
+              "Flood the main field, begin puddling (churn soil for transplanting)."
+            ],
+            "notes": [
+              "Puddling: Puddling is a special method used mostly in rice farming to prepare the soil before planting seedlings, mixing soil and water to make a soft, muddy, and smooth layer in the field.",
+              "Churning of soil: Churning of soil means mixing and turning the soil thoroughly, usually with water, using tools like ploughs, rotavators, or even by hand (in small beds)."
+            ]
+          },
+          "day_16": {
+            "tasks": [
+              "Continue nursery care (irrigation, pest check).",
+              "Flood the main field, begin puddling (churn soil for transplanting)."
+            ],
+            "notes": [
+              "Puddling: Puddling is a special method used mostly in rice farming to prepare the soil before planting seedlings, mixing soil and water to make a soft, muddy, and smooth layer in the field.",
+              "Churning of soil: Churning of soil means mixing and turning the soil thoroughly, usually with water, using tools like ploughs, rotavators, or even by hand (in small beds)."
+            ]
+          },
+          "day_17": {
+            "tasks": [
+              "Continue nursery care (irrigation, pest check).",
+              "Flood the main field, begin puddling (churn soil for transplanting)."
+            ],
+            "notes": [
+              "Puddling: Puddling is a special method used mostly in rice farming to prepare the soil before planting seedlings, mixing soil and water to make a soft, muddy, and smooth layer in the field.",
+              "Churning of soil: Churning of soil means mixing and turning the soil thoroughly, usually with water, using tools like ploughs, rotavators, or even by hand (in small beds)."
+            ]
+          },
+          "day_18": {
+            "tasks": [
+              "Level the puddled field for even water distribution."
+            ],
+            "notes": null
+          },
+          "day_19": {
+            "tasks": [
+              "Level the puddled field for even water distribution."
+            ],
+            "notes": null
+          },
+          "day_20": {
+            "tasks": [
+              "Allow the field to settle.",
+              "Final nursery irrigation before pulling seedlings."
+            ],
+            "notes": null
+          },
+          "day_21": {
+            "tasks": [
+              "Allow the field to settle.",
+              "Final nursery irrigation before pulling seedlings."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 1
+      },
+      "week_4": {
+        "title": "Transplanting & Establishment",
+        "day_range": "Days 22–28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Pull 20–25 day-old seedlings from the nursery, bundle, and keep roots moist."
+            ],
+            "notes": null
+          },
+          "day_23": {
+            "tasks": [
+              "Transplant seedlings at 20 x 15 cm or 20 x 20 cm spacing, 3–5 cm deep, 2–3 seedlings/hill."
+            ],
+            "notes": null
+          },
+          "day_24": {
+            "tasks": [
+              "Transplant seedlings at 20 x 15 cm or 20 x 20 cm spacing, 3–5 cm deep, 2–3 seedlings/hill."
+            ],
+            "notes": null
+          },
+          "day_25": {
+            "tasks": [
+              "Apply basal fertilizer (full P, half K, 1/3 N) during/after transplanting."
+            ],
+            "notes": null
+          },
+          "day_26": {
+            "tasks": [
+              "Apply basal fertilizer (full P, half K, 1/3 N) during/after transplanting."
+            ],
+            "notes": null
+          },
+          "day_27": {
+            "tasks": [
+              "Maintain shallow water (5 cm) for seedling establishment."
+            ],
+            "notes": [
+              "After planting the seedlings in the main field, keep checking if they look healthy. If they seem dry, weak, or yellow, they may be struggling. Give enough water and care to help them grow well.",
+              "Transplant shock happens when young plants (like rice seedlings) are moved from one place (nursery) to another (main field), and they struggle to adjust."
+            ]
+          },
+          "day_28": {
+            "tasks": [
+              "Maintain shallow water (5 cm) for seedling establishment."
+            ],
+            "notes": [
+              "After planting the seedlings in the main field, keep checking if they look healthy. If they seem dry, weak, or yellow, they may be struggling. Give enough water and care to help them grow well.",
+              "Transplant shock happens when young plants (like rice seedlings) are moved from one place (nursery) to another (main field), and they struggle to adjust."
+            ]
+          }
+        },
+        "stage_number": 3
+      },
+      "week_5": {
+        "title": "Early Growth & First Weeding",
+        "day_range": "Days 29–35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_30": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_31": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_32": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_33": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_34": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_35": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_6": {
+        "title": "Early Growth & First Weeding",
+        "day_range": "Days 36–42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_37": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_38": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_39": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_40": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_41": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_42": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_7": {
+        "title": "Tillering, Fertilizer, Weed/Pest Checks",
+        "day_range": "Days 43–49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_44": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_45": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_46": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_47": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_48": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_49": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_8": {
+        "title": "Tillering, Fertilizer, Weed/Pest Checks",
+        "day_range": "Days 50–56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_51": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_52": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_53": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_54": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_55": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          },
+          "day_56": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_9": {
+        "title": "Panicle Initiation, Fertilizer, and Irrigation",
+        "day_range": "Days 57–63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Check for micronutrient deficiencies (zinc, iron) and correct if needed."
+            ],
+            "notes": [
+              "Micronutrients: Micronutrients are essential nutrients that rice plants need in very small amounts, but they are very important for healthy growth and grain production."
+            ]
+          },
+          "day_58": {
+            "tasks": [
+              "Check for micronutrient deficiencies (zinc, iron) and correct if needed."
+            ],
+            "notes": [
+              "Micronutrients: Micronutrients are essential nutrients that rice plants need in very small amounts, but they are very important for healthy growth and grain production."
+            ]
+          },
+          "day_59": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_60": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_61": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_62": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_63": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_10": {
+        "title": "Panicle Initiation, Fertilizer, and Irrigation",
+        "day_range": "Days 64–70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Check for micronutrient deficiencies (zinc, iron) and correct if needed."
+            ],
+            "notes": [
+              "Micronutrients: Micronutrients are essential nutrients that rice plants need in very small amounts, but they are very important for healthy growth and grain production."
+            ]
+          },
+          "day_65": {
+            "tasks": [
+              "Check for micronutrient deficiencies (zinc, iron) and correct if needed."
+            ],
+            "notes": [
+              "Micronutrients: Micronutrients are essential nutrients that rice plants need in very small amounts, but they are very important for healthy growth and grain production."
+            ]
+          },
+          "day_66": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_67": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_68": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_69": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          },
+          "day_70": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_11": {
+        "title": "Flowering, Grain Filling, and Pest/Disease Vigilance",
+        "day_range": "Days 71–77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_72": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_73": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_74": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_75": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_76": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_77": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_12": {
+        "title": "Flowering, Grain Filling, and Pest/Disease Vigilance",
+        "day_range": "Days 78–84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_79": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_80": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_81": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_82": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_83": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_84": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_13": {
+        "title": "Flowering, Grain Filling, and Pest/Disease Vigilance",
+        "day_range": "Days 85–91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_86": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_87": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_88": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_89": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_90": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          },
+          "day_91": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_14": {
+        "title": "Ripening, Water Management, Harvest Prep",
+        "day_range": "Days 92–98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_93": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_94": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_95": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_96": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_97": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_98": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_15": {
+        "title": "Ripening, Water Management, Harvest Prep",
+        "day_range": "Days 99–105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_100": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_101": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_102": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_103": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_104": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_105": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_16": {
+        "title": "Ripening, Water Management, Harvest Prep",
+        "day_range": "Days 106–112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_107": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_108": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_109": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_110": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_111": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          },
+          "day_112": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_17": {
+        "title": "Harvest & Post-Harvest",
+        "day_range": "Days 113–119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Sun-dry grains to 14% moisture and store in clean, dry, pest-free containers."
+            ],
+            "notes": [
+              "14% moisture means that out of the total weight of the grain, 14% is water and the rest is the dry matter of the rice."
+            ]
+          },
+          "day_114": {
+            "tasks": [
+              "Cut the crop early in the morning when it's cool, so the rice grains don't fall off the plant and get wasted."
+            ],
+            "notes": null
+          },
+          "day_115": {
+            "tasks": [
+              "Cut the crop early in the morning when it's cool, so the rice grains don't fall off the plant and get wasted."
+            ],
+            "notes": null
+          },
+          "day_116": {
+            "tasks": [
+              "Stack cut plants for 1–2 days for uniform drying."
+            ],
+            "notes": null
+          },
+          "day_117": {
+            "tasks": [
+              "Stack cut plants for 1–2 days for uniform drying."
+            ],
+            "notes": null
+          },
+          "day_118": {
+            "tasks": [
+              "After cutting the crop, separate the grains from the plants (threshing) and remove dust, husk, or stones to keep the grains clean and ready for storage or sale."
+            ],
+            "notes": null
+          },
+          "day_119": {
+            "tasks": [
+              "After cutting the crop, separate the grains from the plants (threshing) and remove dust, husk, or stones to keep the grains clean and ready for storage or sale."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 8
+      }
+    }
+  },
+  {
+    "crop_code": "KNM 118",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Seed Selection, Soaking, and Nursery Preparation",
+        "day_range": "Days 1–7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select high-quality, certified Sannalu (KNM) seeds.",
+              "Soak seeds in clean water for 24 hours."
+            ],
+            "notes": [
+              "Sannalu (KNM) seeds are good quality if, select clean, uniform, plump seeds without damage or discoloration, and test their germination by soaking a sample in water then good seeds will mostly sink and sprout well."
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Drain and incubate seeds in a moist cloth or bag for 1–2 days to encourage sprouting."
+            ],
+            "notes": null
+          },
+          "day_3": {
+            "tasks": [
+              "Treat sprouted seeds with recommended fungicide to prevent nursery diseases."
+            ],
+            "notes": null
+          },
+          "day_4": {
+            "tasks": [
+              "Prepare nursery beds (about 1/20th of main field area).",
+              "Incorporate well-rotted farmyard manure (FYM) or compost.",
+              "Sow sprouted seeds evenly and water lightly."
+            ],
+            "notes": null
+          },
+          "day_5": {
+            "tasks": [
+              "Maintain nursery moisture (not flooded).",
+              "Begin first ploughing of the main field."
+            ],
+            "notes": null
+          },
+          "day_6": {
+            "tasks": [
+              "Maintain nursery moisture (not flooded).",
+              "Begin first ploughing of the main field."
+            ],
+            "notes": null
+          },
+          "day_7": {
+            "tasks": [
+              "Maintain nursery moisture (not flooded).",
+              "Begin first ploughing of the main field."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 2
+      },
+      "week_2": {
+        "title": "Nursery Management and Field Preparation",
+        "day_range": "Days 8–14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Monitor nursery for pests and diseases.",
+              "Conduct second ploughing of the main field."
+            ],
+            "notes": null
+          },
+          "day_9": {
+            "tasks": [
+              "Monitor nursery for pests and diseases.",
+              "Conduct second ploughing of the main field."
+            ],
+            "notes": null
+          },
+          "day_10": {
+            "tasks": [
+              "Monitor nursery for pests and diseases.",
+              "Conduct second ploughing of the main field."
+            ],
+            "notes": null
+          },
+          "day_11": {
+            "tasks": [
+              "Remove weeds from nursery.",
+              "Level the main field."
+            ],
+            "notes": null
+          },
+          "day_12": {
+            "tasks": [
+              "Remove weeds from nursery.",
+              "Level the main field."
+            ],
+            "notes": null
+          },
+          "day_13": {
+            "tasks": [
+              "Repair bunds and create water channels.",
+              "Keep nursery beds moist."
+            ],
+            "notes": null
+          },
+          "day_14": {
+            "tasks": [
+              "Repair bunds and create water channels.",
+              "Keep nursery beds moist."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 1
+      },
+      "week_3": {
+        "title": "Nursery Care and Field Puddling",
+        "day_range": "Days 15–21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Continue nursery care.",
+              "Flood and puddle the main field to soften soil."
+            ],
+            "notes": null
+          },
+          "day_16": {
+            "tasks": [
+              "Continue nursery care.",
+              "Flood and puddle the main field to soften soil."
+            ],
+            "notes": null
+          },
+          "day_17": {
+            "tasks": [
+              "Continue nursery care.",
+              "Flood and puddle the main field to soften soil."
+            ],
+            "notes": null
+          },
+          "day_18": {
+            "tasks": [
+              "Level the puddled field for uniform water distribution."
+            ],
+            "notes": null
+          },
+          "day_19": {
+            "tasks": [
+              "Level the puddled field for uniform water distribution."
+            ],
+            "notes": null
+          },
+          "day_20": {
+            "tasks": [
+              "Allow field to settle.",
+              "Give final watering to nursery before transplanting."
+            ],
+            "notes": null
+          },
+          "day_21": {
+            "tasks": [
+              "Allow field to settle.",
+              "Give final watering to nursery before transplanting."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 1
+      },
+      "week_4": {
+        "title": "Transplanting",
+        "day_range": "Days 22–28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Uproot 21–25-day-old seedlings from nursery.",
+              "Bundle and keep roots moist."
+            ],
+            "notes": null
+          },
+          "day_23": {
+            "tasks": [
+              "Transplant seedlings at 20 x 20 cm spacing, 2–3 seedlings per hill, 5 cm deep."
+            ],
+            "notes": null
+          },
+          "day_24": {
+            "tasks": [
+              "Transplant seedlings at 20 x 20 cm spacing, 2–3 seedlings per hill, 5 cm deep."
+            ],
+            "notes": null
+          },
+          "day_25": {
+            "tasks": [
+              "Apply half of the potassium and all phosphorus as basal fertilizer.",
+              "Add organic manure if not already done."
+            ],
+            "notes": null
+          },
+          "day_26": {
+            "tasks": [
+              "Apply half of the potassium and all phosphorus as basal fertilizer.",
+              "Add organic manure if not already done."
+            ],
+            "notes": null
+          },
+          "day_27": {
+            "tasks": [
+              "Maintain a shallow water layer (5 cm) in the field to help seedlings establish."
+            ],
+            "notes": null
+          },
+          "day_28": {
+            "tasks": [
+              "Maintain a shallow water layer (5 cm) in the field to help seedlings establish."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 3
+      },
+      "week_5": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 29–35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_30": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_31": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_32": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_33": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_34": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_35": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_6": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 36–42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_37": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_38": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_39": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_40": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_41": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_42": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_7": {
+        "title": "Tillering and Fertilizer Application",
+        "day_range": "Days 43–49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_44": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_45": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_46": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_47": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_48": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_49": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_8": {
+        "title": "Tillering and Fertilizer Application",
+        "day_range": "Days 50–56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_51": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_52": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_53": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_54": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_55": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          },
+          "day_56": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_9": {
+        "title": "Panicle Initiation and Nutrient Management",
+        "day_range": "Days 57–63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Check for nutrient deficiencies (e.g., zinc)."
+            ],
+            "notes": null
+          },
+          "day_58": {
+            "tasks": [
+              "Check for nutrient deficiencies (e.g., zinc)."
+            ],
+            "notes": null
+          },
+          "day_59": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_60": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_61": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_62": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_63": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_10": {
+        "title": "Panicle Initiation and Nutrient Management",
+        "day_range": "Days 64–70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Check for nutrient deficiencies (e.g., zinc)."
+            ],
+            "notes": null
+          },
+          "day_65": {
+            "tasks": [
+              "Check for nutrient deficiencies (e.g., zinc)."
+            ],
+            "notes": null
+          },
+          "day_66": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_67": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_68": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_69": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          },
+          "day_70": {
+            "tasks": [
+              "Continue regular irrigation."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_11": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 71–77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_72": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_73": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_74": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_75": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_76": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_77": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_12": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 78–84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_79": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_80": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_81": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_82": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_83": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_84": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_13": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 85–91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_86": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_87": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_88": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_89": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_90": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          },
+          "day_91": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_14": {
+        "title": "Ripening and Harvest Preparation",
+        "day_range": "Days 92–98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_93": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_94": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_95": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_96": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_97": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_98": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_15": {
+        "title": "Ripening and Harvest Preparation",
+        "day_range": "Days 99–105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_100": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_101": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_102": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_103": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_104": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_105": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_16": {
+        "title": "Ripening and Harvest Preparation",
+        "day_range": "Days 106–112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_107": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_108": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_109": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_110": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_111": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          },
+          "day_112": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_17": {
+        "title": "Harvest and Post-Harvest",
+        "day_range": "Days 113–119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Sun-dry grains to about 14% moisture.",
+              "Store in clean, dry, pest-free containers."
+            ],
+            "notes": null
+          },
+          "day_114": {
+            "tasks": [
+              "Harvest by cutting plants close to the ground."
+            ],
+            "notes": null
+          },
+          "day_115": {
+            "tasks": [
+              "Harvest by cutting plants close to the ground."
+            ],
+            "notes": null
+          },
+          "day_116": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry."
+            ],
+            "notes": null
+          },
+          "day_117": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry."
+            ],
+            "notes": null
+          },
+          "day_118": {
+            "tasks": [
+              "Thresh to separate grains from straw."
+            ],
+            "notes": null
+          },
+          "day_119": {
+            "tasks": [
+              "Thresh to separate grains from straw."
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 8
+      }
+    }
+  },
+  {
+    "crop_code": "RNR 15048",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Nursery Sowing and Main Field Preparation",
+        "day_range": "Days 1–7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select good Telangana Sona seeds",
+              "Soak seeds in clean water for 24 hours"
+            ],
+            "notes": [
+              "Good Telangana Sona seeds are clean, healthy, certified seeds of the RNR 15048 variety that give strong and uniform crop growth"
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Drain water and keep seeds in a wet cloth or bag for 1–2 days to sprout"
+            ],
+            "notes": null
+          },
+          "day_3": {
+            "tasks": [
+              "Mix sprouted seeds with a little fungicide to protect from diseases"
+            ],
+            "notes": [
+              "If there is blast disease, spray tricyclazole at 200 grams per acre (or 1 gram per liter of water) on the affected crop and repeat after 10–15 days if needed. Always follow label instructions and use clean water for spraying"
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Prepare nursery beds (about 1/20th of your main field)",
+              "Mix in well-rotted cow dung (FYM) or compost",
+              "Sow the sprouted seeds evenly",
+              "Water the nursery lightly"
+            ],
+            "notes": [
+              "FYM – farm yard manure"
+            ]
+          },
+          "day_5": {
+            "tasks": [
+              "Water nursery as needed (keep moist, not flooded)",
+              "Start the first ploughing of the main field"
+            ],
+            "notes": null
+          },
+          "day_6": {
+            "tasks": [
+              "Water nursery as needed (keep moist, not flooded)",
+              "Start the first ploughing of the main field"
+            ],
+            "notes": null
+          },
+          "day_7": {
+            "tasks": [
+              "Water nursery as needed (keep moist, not flooded)",
+              "Start the first ploughing of the main field"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 2
+      },
+      "week_2": {
+        "title": "Nursery and Field Preparation",
+        "day_range": "Days 8–14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Check the nursery for pests or diseases",
+              "Do the second ploughing of the main field"
+            ],
+            "notes": null
+          },
+          "day_9": {
+            "tasks": [
+              "Check the nursery for pests or diseases",
+              "Do the second ploughing of the main field"
+            ],
+            "notes": null
+          },
+          "day_10": {
+            "tasks": [
+              "Check the nursery for pests or diseases",
+              "Do the second ploughing of the main field"
+            ],
+            "notes": null
+          },
+          "day_11": {
+            "tasks": [
+              "Remove weeds from the nursery, if present",
+              "Level the main field after ploughing"
+            ],
+            "notes": null
+          },
+          "day_12": {
+            "tasks": [
+              "Remove weeds from the nursery, if present",
+              "Level the main field after ploughing"
+            ],
+            "notes": null
+          },
+          "day_13": {
+            "tasks": [
+              "Repair bunds (field borders) and make water channels",
+              "Keep the nursery moist"
+            ],
+            "notes": null
+          },
+          "day_14": {
+            "tasks": [
+              "Repair bunds (field borders) and make water channels",
+              "Keep the nursery moist"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 1
+      },
+      "week_3": {
+        "title": "Nursery Care and Field Puddling",
+        "day_range": "Days 15–21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Continue nursery care",
+              "Flood the main field and puddle (churn) the soil to make it soft"
+            ],
+            "notes": null
+          },
+          "day_16": {
+            "tasks": [
+              "Continue nursery care",
+              "Flood the main field and puddle (churn) the soil to make it soft"
+            ],
+            "notes": null
+          },
+          "day_17": {
+            "tasks": [
+              "Continue nursery care",
+              "Flood the main field and puddle (churn) the soil to make it soft"
+            ],
+            "notes": null
+          },
+          "day_18": {
+            "tasks": [
+              "Level the puddled field for even water"
+            ],
+            "notes": null
+          },
+          "day_19": {
+            "tasks": [
+              "Level the puddled field for even water"
+            ],
+            "notes": null
+          },
+          "day_20": {
+            "tasks": [
+              "Let the field settle",
+              "Give the last watering to the nursery before pulling the seedlings"
+            ],
+            "notes": null
+          },
+          "day_21": {
+            "tasks": [
+              "Let the field settle",
+              "Give the last watering to the nursery before pulling the seedlings"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 1
+      },
+      "week_4": {
+        "title": "Transplanting",
+        "day_range": "Days 22–28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Carefully pull 21–25 day-old seedlings from the nursery",
+              "Bundle and keep roots moist"
+            ],
+            "notes": null
+          },
+          "day_23": {
+            "tasks": [
+              "Transplant seedlings in the main field at 20 x 20 cm spacing, 2–3 seedlings per spot, 5 cm deep"
+            ],
+            "notes": null
+          },
+          "day_24": {
+            "tasks": [
+              "Transplant seedlings in the main field at 20 x 20 cm spacing, 2–3 seedlings per spot, 5 cm deep"
+            ],
+            "notes": null
+          },
+          "day_25": {
+            "tasks": [
+              "Apply half potassium and all phosphorus as basal fertilizer",
+              "Add organic manure or compost if not already done"
+            ],
+            "notes": [
+              "Basal fertilizer is the nutrient applied to the soil before or at planting to help young plants grow strong from the start"
+            ]
+          },
+          "day_26": {
+            "tasks": [
+              "Apply half potassium and all phosphorus as basal fertilizer",
+              "Add organic manure or compost if not already done"
+            ],
+            "notes": [
+              "Basal fertilizer is the nutrient applied to the soil before or at planting to help young plants grow strong from the start"
+            ]
+          },
+          "day_27": {
+            "tasks": [
+              "After planting, keep a thin layer of water (about ankle deep) about 5 cm in the field so the seedlings can stand and grow well"
+            ],
+            "notes": null
+          },
+          "day_28": {
+            "tasks": [
+              "After planting, keep a thin layer of water (about ankle deep) about 5 cm in the field so the seedlings can stand and grow well"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 3
+      },
+      "week_5": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 29–35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_30": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_31": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_32": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_33": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_34": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_35": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_6": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 36–42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_37": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_38": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_39": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_40": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_41": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          },
+          "day_42": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 6
+      },
+      "week_7": {
+        "title": "Tillering and Fertilizer",
+        "day_range": "Days 43–49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_44": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_45": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_46": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_47": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_48": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_49": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_8": {
+        "title": "Tillering and Fertilizer",
+        "day_range": "Days 50–56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_51": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_52": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_53": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_54": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_55": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          },
+          "day_56": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_9": {
+        "title": "Panicle Initiation and Nutrient Check",
+        "day_range": "Days 57–63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Check for yellowing or stunted growth (zinc deficiency) and apply zinc if needed"
+            ],
+            "notes": null
+          },
+          "day_58": {
+            "tasks": [
+              "Check for yellowing or stunted growth (zinc deficiency) and apply zinc if needed"
+            ],
+            "notes": null
+          },
+          "day_59": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_60": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_61": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_62": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_63": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_10": {
+        "title": "Panicle Initiation and Nutrient Check",
+        "day_range": "Days 64–70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Check for yellowing or stunted growth (zinc deficiency) and apply zinc if needed"
+            ],
+            "notes": null
+          },
+          "day_65": {
+            "tasks": [
+              "Check for yellowing or stunted growth (zinc deficiency) and apply zinc if needed"
+            ],
+            "notes": null
+          },
+          "day_66": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_67": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_68": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_69": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          },
+          "day_70": {
+            "tasks": [
+              "Continue regular irrigation"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 4
+      },
+      "week_11": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 71–77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_72": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_73": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_74": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_75": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_76": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_77": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_12": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 78–84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_79": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_80": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_81": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_82": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_83": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_84": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_13": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 85–91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_86": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_87": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_88": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_89": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_90": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          },
+          "day_91": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 5
+      },
+      "week_14": {
+        "title": "Ripening and Harvest Prep",
+        "day_range": "Days 92–98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_93": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_94": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_95": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_96": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_97": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_98": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_15": {
+        "title": "Ripening and Harvest Prep",
+        "day_range": "Days 99–105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_100": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_101": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_102": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_103": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_104": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_105": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_16": {
+        "title": "Ripening and Harvest Prep",
+        "day_range": "Days 106–112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_107": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_108": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_109": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_110": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_111": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          },
+          "day_112": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 7
+      },
+      "week_17": {
+        "title": "Harvest and Post-Harvest",
+        "day_range": "Days 113–119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Sun-dry grains until hard and dry (about 14% moisture-hard to bite, not soft)",
+              "Store in clean, dry, pest-free bags or bins"
+            ],
+            "notes": null
+          },
+          "day_114": {
+            "tasks": [
+              "Harvest crop by cutting plants close to ground"
+            ],
+            "notes": null
+          },
+          "day_115": {
+            "tasks": [
+              "Harvest crop by cutting plants close to ground"
+            ],
+            "notes": null
+          },
+          "day_116": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry"
+            ],
+            "notes": null
+          },
+          "day_117": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry"
+            ],
+            "notes": null
+          },
+          "day_118": {
+            "tasks": [
+              "Thresh (separate grains from straw) using a thresher or by beating"
+            ],
+            "notes": null
+          },
+          "day_119": {
+            "tasks": [
+              "Thresh (separate grains from straw) using a thresher or by beating"
+            ],
+            "notes": null
+          }
+        },
+        "stage_number": 8
+      }
+    }
+  }
+]

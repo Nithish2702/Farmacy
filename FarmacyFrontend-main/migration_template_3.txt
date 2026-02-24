@@ -1,0 +1,40 @@
+// Migration template for app\history\index.tsx
+// Replace the existing component with this structure:
+
+import { useGlobalSafeArea } from '@/hooks/useGlobalSafeArea';
+import { useEffect } from 'react';
+
+export default function Index() {
+  const { configureSafeArea } = useGlobalSafeArea();
+
+  useEffect(() => {
+    // Configure safe area when component mounts
+    configureSafeArea({
+      // Add your background configuration here:
+      // backgroundImage: require('@/assets/background.jpg'),
+      // gradient: {
+      //   colors: ['rgba(0,0,0,0.3)', 'rgba(0,0,0,0.7)'],
+      //   locations: [0, 1]
+      // },
+      // statusBarStyle: 'light-content',
+      // edges: ['top', 'left', 'right', 'bottom']
+    });
+
+    // Cleanup when component unmounts
+    return () => {
+      configureSafeArea({});
+    };
+  }, []);
+
+  return (
+    <View style={styles.container}>
+      {/* Your existing content here - remove SafeAreaView, ImageBackground, LinearGradient wrappers */}
+    </View>
+  );
+}
+
+// Remove these imports if they're no longer needed:
+// - SafeAreaView from react-native-safe-area-context
+// - ImageBackground from react-native  
+// - LinearGradient from expo-linear-gradient
+// - StatusBar from react-native (if only used for styling)

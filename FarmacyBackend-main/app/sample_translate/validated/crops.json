@@ -1,0 +1,50 @@
+{
+  "TellaHamsa": {
+    "crop_name": "Rice",
+    "crop_variety": "Tellahamsa",
+    "crop_code": "Tellahamsa (8619)",
+    "cultivated_in": "Telangana",
+    "crop_desc": "Popular, high-yielding rice variety widely grown in Telangana, India. Known for saving water, maturing quickly, and being suitable for various modern cultivation methods.",
+    "cultivation_overview": ""
+  },
+  "Telangana Sona": {
+    "crop_name": "Rice",
+    "crop_variety": "Telangana Sona",
+    "crop_code": "RNR 15048",
+    "cultivated_in": "Telangana",
+    "crop_desc": "Telangana's most popular rice variety known for its short duration, blast resistance, high yield, and premium grain quality, making it the preferred choice for farmers and consumers in Telangana and beyond.",
+    "cultivation_overview": ""
+  },
+  "Samba Mahsuri": {
+    "crop_name": "Rice",
+    "crop_variety": "Samba Mahsuri",
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "cultivated_in": "Telangana",
+    "crop_desc": "Fine-grain quality rice variety cultivated in Telangana, prized for its market value. The improved variety (ISM) offers enhanced resistance to bacterial blight, making it especially valuable in disease-prone areas.",
+    "cultivation_overview": ""
+  },
+  "HMT Rice": {
+    "crop_name": "Rice",
+    "crop_code": "HMT Rice",
+    "crop_variety": "HMT Rice",
+    "cultivated_in": "Telangana",
+    "crop_desc": "HMT rice is a popular medium-grain rice variety grown in several Indian states, including Telangana. It was originally developed by farmer-innovator Dadaji Ramaji Khobragade in Maharashtra, who selected it from the conventional 'Patel 3' variety. HMT rice is a medium-grain, aromatic, and high-yielding variety known for its soft, fluffy texture and excellent cooking quality. It is grown in Telangana and other states, making it a preferred choice for both farmers and consumers seeking quality and taste in their rice.",
+    "cultivation_overview": ""
+  },
+  "Sannalu (KNM)": {
+    "crop_name": "Rice",
+    "crop_variety": "Sannalu (KNM)",
+    "crop_code": "KNM 118",
+    "cultivated_in": "Telangana",
+    "crop_desc": "Sannalu (KNM), officially known as Kunaram Sannalu (KNM 118), is a high-yielding, long slender grain rice variety developed by the Agricultural Research Station, Kunaram, and released in Telangana in 2015. It was specifically bred as an alternative to the widely grown MTU 1010, addressing issues such as susceptibility to pests, diseases, and grain shattering that affected the older variety. Kunaram Sannalu is well-suited for both kharif and rabi seasons, with a crop duration of about 120–125 days in kharif and 125–130 days in rabi. The plants reach a height of 100–106 cm and are less prone to lodging and grain shattering at harvest compared to MTU 1010, making them easier to manage and harvest.",
+    "cultivation_overview": "This variety stands out for its high yield potential, producing 7–8 tonnes per hectare under good management, and has good test weight and grain quality. The grains are translucent, long, and slender, with excellent head rice recovery and cooking quality, fetching premium prices in both government procurement and private markets. Sannalu (KNM 118) is also tolerant to leaf and neck blast diseases, making it more resilient and reducing the need for chemical controls. It is widely accepted by farmers, millers, traders, and consumers in Telangana due to its reliable yield, grain quality, and market demand. The variety adapts well to late sowing in kharif and is suitable for direct seeding methods, providing flexibility for farmers in different agro-climatic conditions. Overall, Sannalu (KNM) is a profitable and sustainable choice for rice cultivation in Telangana, contributing to increased productivity and farmer income."
+  },
+  "Veyyipadhi": {
+    "crop_name": "Rice",
+    "crop_variety": "Veyyipadhi",
+    "crop_code": "MTU 1010",
+    "cultivated_in": "Telangana",
+    "crop_desc": "MTU 1010, also known as Cottondora Sannalu, is a medium-duration (115–120 days) rice variety widely cultivated in Telangana during both Kharif and Rabi seasons. It is well-suited for rainfed upland and irrigated ecosystems, offering an average yield of 22–24 quintals per acre under Kharif conditions.",
+    "cultivation_overview": "The cultivation process begins with land preparation, involving deep ploughing and leveling to ensure uniform water distribution. Certified seeds are soaked and incubated before sowing in well-prepared nursery beds. After 20–25 days, healthy seedlings are transplanted into the main field at a spacing of 20 cm x 15 cm, with 2–3 seedlings per hill. Basal fertilizers, including nitrogen, phosphorus, and potassium, are applied during field preparation. Subsequent fertilizer applications are scheduled at tillering and panicle initiation stages. Regular irrigation, weed management, and pest control are essential throughout the growth period. As the crop approaches maturity, irrigation is reduced to facilitate drying. Harvesting is done when 80–85% of the grains turn golden yellow. Post-harvest practices include threshing, cleaning, drying to a moisture content of 14%, and storage in clean, dry, and pest-free facilities. Regular monitoring of stored grains is recommended to prevent infestations. MTU 1010's adaptability and stable yields make it a preferred choice among farmers in Telangana. However, it's important to note that in certain regions, such as the East Godavari district in Andhra Pradesh, the cultivation of MTU 1010 has been discouraged due to market preferences and grain quality considerations."
+  }
+}

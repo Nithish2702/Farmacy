@@ -1,0 +1,4646 @@
+[
+  {
+    "crop_code": "ICPL-14003-PRG-176-Ujwala",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Land Selection and Initial Preparation",
+        "day_range": "Days 1-7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select field with well-drained loamy soil (pH 6.0–7.5), full sunlight, no waterlogging"
+            ],
+            "notes": [
+              "Ensures optimal growth for ICPL 14003"
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Clear weeds, crop residues, stones using hoe or tractor; compost or burn debris"
+            ],
+            "notes": [
+              "Prevents pest carryover"
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Plough field to 15–20 cm depth with tractor or bullock plough; break clods"
+            ],
+            "notes": [
+              "Improves aeration"
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Plough again to ensure loose soil; remove remaining debris"
+            ],
+            "notes": [
+              "Creates fine tilth"
+            ]
+          },
+          "day_5": {
+            "tasks": [
+              "Level field with plank or tractor leveller for even surface"
+            ],
+            "notes": [
+              "Prevents water pooling"
+            ]
+          },
+          "day_6": {
+            "tasks": [
+              "Check field for low spots, fill them; smooth surface"
+            ],
+            "notes": [
+              "Ensures uniform sowing"
+            ]
+          },
+          "day_7": {
+            "tasks": [
+              "Let field rest to settle soil; check pre-monsoon moisture"
+            ],
+            "notes": [
+              "Prepares for sowing"
+            ]
+          }
+        },
+        "stage_number": 1
+      },
+      "week_2": {
+        "title": "Soil Testing and Nutrient Management",
+        "day_range": "Days 8-14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Collect 10–15 soil samples (15 cm depth) for nutrient and pH testing; send to lab"
+            ],
+            "notes": [
+              "Guides fertilizer application"
+            ]
+          },
+          "day_9": {
+            "tasks": [
+              "Apply lime (1–2 tons/ha) if acidic or gypsum (500 kg/ha) if alkaline; mix into soil"
+            ],
+            "notes": [
+              "Corrects soil pH"
+            ]
+          },
+          "day_10": {
+            "tasks": [
+              "Spread 4–5 tons/ha decomposed farmyard manure (FYM)"
+            ],
+            "notes": [
+              "Boosts soil fertility"
+            ]
+          },
+          "day_11": {
+            "tasks": [
+              "Incorporate manure into soil with light harrowing"
+            ],
+            "notes": [
+              "Ensures even distribution"
+            ]
+          },
+          "day_12": {
+            "tasks": [
+              "Apply basal fertilizers: 20–25 kg/ha N, 40–50 kg/ha P, 20 kg/ha K"
+            ],
+            "notes": [
+              "Supports early growth"
+            ]
+          },
+          "day_13": {
+            "tasks": [
+              "Mix fertilizers into top 5–10 cm soil; avoid seed contact"
+            ],
+            "notes": [
+              "Prevents seed burn"
+            ]
+          },
+          "day_14": {
+            "tasks": [
+              "Harrow lightly to create fine seedbed; remove clods"
+            ],
+            "notes": [
+              "Readies for sowing"
+            ]
+          }
+        },
+        "stage_number": 1
+      },
+      "week_3": {
+        "title": "Seed Selection and Sowing",
+        "day_range": "Days 15-21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Buy 12–15 kg/ha certified Ujwala seeds; check germination (>85%)"
+            ],
+            "notes": [
+              "Ensures high-quality seeds"
+            ]
+          },
+          "day_16": {
+            "tasks": [
+              "Treat seeds with Rhizobium (200 g/10 kg) and Carbendazim (2 g/kg); dry in shade"
+            ],
+            "notes": [
+              "Enhances nitrogen fixation, prevents fungal diseases"
+            ]
+          },
+          "day_17": {
+            "tasks": [
+              "Mark rows 60 cm apart using rope or plough; create 5–7 cm deep furrows"
+            ],
+            "notes": [
+              "Ensures proper spacing"
+            ]
+          },
+          "day_18": {
+            "tasks": [
+              "Prepare seed drill or plan manual sowing; clean tools"
+            ],
+            "notes": [
+              "Avoids contamination"
+            ]
+          },
+          "day_19": {
+            "tasks": [
+              "Sow seeds 15–20 cm apart in rows, 5–7 cm deep; place 2–3 seeds per hill"
+            ],
+            "notes": [
+              "Promotes uniform germination"
+            ]
+          },
+          "day_20": {
+            "tasks": [
+              "Cover seeds lightly with soil; protect from birds with scarecrows"
+            ],
+            "notes": [
+              "Prevents seed loss"
+            ]
+          },
+          "day_21": {
+            "tasks": [
+              "Irrigate lightly (20 mm) if no rain; maintain 50–60% soil moisture"
+            ],
+            "notes": [
+              "Supports germination"
+            ]
+          }
+        },
+        "stage_number": 2
+      },
+      "week_4": {
+        "title": "Germination and Seedling Establishment",
+        "day_range": "Days 22-28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Check for germination (starts in 5–7 days); look for uniform emergence"
+            ],
+            "notes": [
+              "Confirms sowing success"
+            ]
+          },
+          "day_23": {
+            "tasks": [
+              "Monitor for patchy germination; re-sow gaps if needed"
+            ],
+            "notes": [
+              "Ensures uniform stand"
+            ]
+          },
+          "day_24": {
+            "tasks": [
+              "Ensure soil remains moist but not waterlogged; irrigate (20 mm) if dry"
+            ],
+            "notes": [
+              "Prevents seedling stress"
+            ]
+          },
+          "day_25": {
+            "tasks": [
+              "Thin weak seedlings; keep one healthy plant per hill (55,000–60,000 plants/ha)"
+            ],
+            "notes": [
+              "Reduces competition"
+            ]
+          },
+          "day_26": {
+            "tasks": [
+              "Remove thinned seedlings and weeds; dispose away from field"
+            ],
+            "notes": [
+              "Prevents pest buildup"
+            ]
+          },
+          "day_27": {
+            "tasks": [
+              "Irrigate lightly (20 mm) if rainfall low; check drainage"
+            ],
+            "notes": [
+              "Avoids root rot"
+            ]
+          },
+          "day_28": {
+            "tasks": [
+              "Observe seedling growth; ensure plants are 10–15 cm tall"
+            ],
+            "notes": [
+              "Confirms healthy establishment"
+            ]
+          }
+        },
+        "stage_number": 3
+      },
+      "week_5": {
+        "title": "Early Vegetative Growth and Weed Control",
+        "day_range": "Days 29-35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Weed manually with hoe around plants; remove all visible weeds"
+            ],
+            "notes": [
+              "Reduces nutrient competition"
+            ]
+          },
+          "day_30": {
+            "tasks": [
+              "Apply Pendimethalin (1 kg/ha) if weeds heavy; spray within 2–3 days of sowing"
+            ],
+            "notes": [
+              "Controls early weeds"
+            ]
+          },
+          "day_31": {
+            "tasks": [
+              "Check for weed regrowth; pull out missed weeds"
+            ],
+            "notes": [
+              "Ensures clean field"
+            ]
+          },
+          "day_32": {
+            "tasks": [
+              "Inspect seedlings for yellowing or stunting; remove unhealthy plants"
+            ],
+            "notes": [
+              "Prevents disease spread"
+            ]
+          },
+          "day_33": {
+            "tasks": [
+              "Irrigate (25 mm) if soil dry; use furrow irrigation"
+            ],
+            "notes": [
+              "Supports growth"
+            ]
+          },
+          "day_34": {
+            "tasks": [
+              "Monitor soil moisture with squeeze test; soil should form loose ball"
+            ],
+            "notes": [
+              "Guides irrigation"
+            ]
+          },
+          "day_35": {
+            "tasks": [
+              "Observe plant health; look for 4–6 leaves per plant"
+            ],
+            "notes": [
+              "Confirms vegetative progress"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_6": {
+        "title": "Nutrient Top-Dressing",
+        "day_range": "Days 36-42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Apply 10–15 kg/ha nitrogen (25–30 kg urea); place 5–10 cm from plants"
+            ],
+            "notes": [
+              "Boosts vegetative growth"
+            ]
+          },
+          "day_37": {
+            "tasks": [
+              "Incorporate urea into soil; irrigate lightly"
+            ],
+            "notes": [
+              "Avoids leaf burn"
+            ]
+          },
+          "day_38": {
+            "tasks": [
+              "Scout for aphids or jassids; spray neem oil (5 ml/L) if seen"
+            ],
+            "notes": [
+              "Controls early pests"
+            ]
+          },
+          "day_39": {
+            "tasks": [
+              "Check for pod borer eggs on leaves; remove manually if low"
+            ],
+            "notes": [
+              "Prevents larval damage"
+            ]
+          },
+          "day_40": {
+            "tasks": [
+              "Irrigate (25 mm) if no rain; ensure even distribution"
+            ],
+            "notes": [
+              "Supports nutrient uptake"
+            ]
+          },
+          "day_41": {
+            "tasks": [
+              "Monitor plant growth; plants should be 30–40 cm tall"
+            ],
+            "notes": [
+              "Confirms healthy growth"
+            ]
+          },
+          "day_42": {
+            "tasks": [
+              "Rest fields; check for uniform vegetative growth"
+            ],
+            "notes": [
+              "Prepares for branching"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_7": {
+        "title": "Continued Vegetative Growth",
+        "day_range": "Days 43-49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Weed manually or with hoe; keep rows clean"
+            ],
+            "notes": [
+              "Reduces competition"
+            ]
+          },
+          "day_44": {
+            "tasks": [
+              "Check for weed regrowth; remove new sprouts"
+            ],
+            "notes": [
+              "Ensures clean field"
+            ]
+          },
+          "day_45": {
+            "tasks": [
+              "Scout for pod borer larvae or wilt symptoms; remove affected plants"
+            ],
+            "notes": [
+              "ICPL 14003 resists wilt"
+            ]
+          },
+          "day_46": {
+            "tasks": [
+              "Spray Monocrotophos (0.04%) if pests exceed 2–3 per plant; use safety gear"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_47": {
+            "tasks": [
+              "Irrigate (25 mm) if rainfall low; avoid waterlogging"
+            ],
+            "notes": [
+              "Supports growth"
+            ]
+          },
+          "day_48": {
+            "tasks": [
+              "Check soil moisture and drainage; ensure no waterlogging"
+            ],
+            "notes": [
+              "Prevents root rot"
+            ]
+          },
+          "day_49": {
+            "tasks": [
+              "Observe branching; plants should have 3–5 branches"
+            ],
+            "notes": [
+              "Prepares for flowering"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_8": {
+        "title": "Interculture and Plant Support",
+        "day_range": "Days 50-56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Earth up soil around plant bases with hoe; strengthen roots"
+            ],
+            "notes": [
+              "Improves stability"
+            ]
+          },
+          "day_51": {
+            "tasks": [
+              "Continue earthing up; cover lower stems"
+            ],
+            "notes": [
+              "Supports root growth"
+            ]
+          },
+          "day_52": {
+            "tasks": [
+              "Weed to remove late-emerging weeds; keep field clean"
+            ],
+            "notes": [
+              "Reduces pest habitats"
+            ]
+          },
+          "day_53": {
+            "tasks": [
+              "Check for missed weeds; pull out manually"
+            ],
+            "notes": [
+              "Ensures clean rows"
+            ]
+          },
+          "day_54": {
+            "tasks": [
+              "Irrigate (25 mm) if dry; support flower bud formation"
+            ],
+            "notes": [
+              "Prepares for flowering"
+            ]
+          },
+          "day_55": {
+            "tasks": [
+              "Monitor plant height (50–70 cm); check for leaning"
+            ],
+            "notes": [
+              "Assesses stability"
+            ]
+          },
+          "day_56": {
+            "tasks": [
+              "Stake weak plants with bamboo if needed"
+            ],
+            "notes": [
+              "Prevents lodging"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_9": {
+        "title": "Flowering Initiation",
+        "day_range": "Days 57-63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Spray 2% DAP (20 g/L) on leaves in morning"
+            ],
+            "notes": [
+              "Boosts flower retention"
+            ]
+          },
+          "day_58": {
+            "tasks": [
+              "Check spray coverage; ensure all plants treated"
+            ],
+            "notes": [
+              "Maximizes efficacy"
+            ]
+          },
+          "day_59": {
+            "tasks": [
+              "Irrigate (30 mm) to support flower bud formation"
+            ],
+            "notes": [
+              "Avoids overwatering"
+            ]
+          },
+          "day_60": {
+            "tasks": [
+              "Monitor early flower buds; look for pest damage"
+            ],
+            "notes": [
+              "Protects buds"
+            ]
+          },
+          "day_61": {
+            "tasks": [
+              "Scout for pod borer on buds; use pheromone traps (5/ha)"
+            ],
+            "notes": [
+              "Reduces pest load"
+            ]
+          },
+          "day_62": {
+            "tasks": [
+              "Spray neem oil if pests seen; avoid spraying during flowering"
+            ],
+            "notes": [
+              "Safe pest control"
+            ]
+          },
+          "day_63": {
+            "tasks": [
+              "Observe plant health; ensure no water stress"
+            ],
+            "notes": [
+              "Supports flowering"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_10": {
+        "title": "Early Flowering",
+        "day_range": "Days 64-70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Check for yellow flowers (start 60–70 days after sowing)"
+            ],
+            "notes": [
+              "Confirms flowering"
+            ]
+          },
+          "day_65": {
+            "tasks": [
+              "Irrigate (30 mm) if rainfall low; support pollination"
+            ],
+            "notes": [
+              "Enhances pod set"
+            ]
+          },
+          "day_66": {
+            "tasks": [
+              "Monitor flower drop; check for stress"
+            ],
+            "notes": [
+              "Identifies issues"
+            ]
+          },
+          "day_67": {
+            "tasks": [
+              "Scout for pod borer on flowers; spray Spinosad (0.02%) if needed"
+            ],
+            "notes": [
+              "Protects flowers"
+            ]
+          },
+          "day_68": {
+            "tasks": [
+              "Check pheromone traps for pest activity; replace if full"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_69": {
+            "tasks": [
+              "Irrigate (25 mm) if dry; maintain consistent moisture"
+            ],
+            "notes": [
+              "Supports pollination"
+            ]
+          },
+          "day_70": {
+            "tasks": [
+              "Remove dropped flowers to reduce pests"
+            ],
+            "notes": [
+              "Improves hygiene"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_11": {
+        "title": "Peak Flowering",
+        "day_range": "Days 71-77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Spray 2% DAP to support pod setting; apply in morning"
+            ],
+            "notes": [
+              "Enhances pod formation"
+            ]
+          },
+          "day_72": {
+            "tasks": [
+              "Check for powdery mildew; spray Mancozeb (2 g/L) if seen"
+            ],
+            "notes": [
+              "Controls fungal disease"
+            ]
+          },
+          "day_73": {
+            "tasks": [
+              "Scout for pod fly on flowers; use sticky traps"
+            ],
+            "notes": [
+              "Reduces pest damage"
+            ]
+          },
+          "day_74": {
+            "tasks": [
+              "Irrigate (30 mm) to support pod formation"
+            ],
+            "notes": [
+              "Avoids waterlogging"
+            ]
+          },
+          "day_75": {
+            "tasks": [
+              "Spray Indoxacarb (0.03%) for pod fly"
+            ],
+            "notes": [
+              "Protects pods"
+            ]
+          },
+          "day_76": {
+            "tasks": [
+              "Check flower-to-pod conversion; look for green pods"
+            ],
+            "notes": [
+              "Assesses progress"
+            ]
+          },
+          "day_77": {
+            "tasks": [
+              "Remove weeds to reduce pest habitats"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_12": {
+        "title": "Pod Formation",
+        "day_range": "Days 78-84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Check pod formation (7–10 days after flowering); count pods per plant"
+            ],
+            "notes": [
+              "Confirms successful pollination"
+            ]
+          },
+          "day_79": {
+            "tasks": [
+              "Irrigate (25 mm) to support pod growth"
+            ],
+            "notes": [
+              "Ensures even watering"
+            ]
+          },
+          "day_80": {
+            "tasks": [
+              "Scout for pod borer and pod fly; spray Chlorpyrifos (0.05%) if needed"
+            ],
+            "notes": [
+              "Protects pods"
+            ]
+          },
+          "day_81": {
+            "tasks": [
+              "Check traps for pest activity; remove damaged pods"
+            ],
+            "notes": [
+              "Reduces losses"
+            ]
+          },
+          "day_82": {
+            "tasks": [
+              "Weed manually in inter-row areas"
+            ],
+            "notes": [
+              "Reduces competition"
+            ]
+          },
+          "day_83": {
+            "tasks": [
+              "Irrigate (25 mm) if dry; support seed development"
+            ],
+            "notes": [
+              "Aids pod filling"
+            ]
+          },
+          "day_84": {
+            "tasks": [
+              "Observe pod health; ensure no fungal spots"
+            ],
+            "notes": [
+              "Confirms pod quality"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_13": {
+        "title": "Pod Development",
+        "day_range": "Days 85-91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Irrigate (25 mm) to support pod filling"
+            ],
+            "notes": [
+              "Avoids excess water"
+            ]
+          },
+          "day_86": {
+            "tasks": [
+              "Check for pod fly damage; spray if larvae seen"
+            ],
+            "notes": [
+              "Protects seed quality"
+            ]
+          },
+          "day_87": {
+            "tasks": [
+              "Monitor pod growth; pods should be green, firm"
+            ],
+            "notes": [
+              "Assesses development"
+            ]
+          },
+          "day_88": {
+            "tasks": [
+              "Stake leaning plants with bamboo"
+            ],
+            "notes": [
+              "Prevents lodging"
+            ]
+          },
+          "day_89": {
+            "tasks": [
+              "Check for pod bugs; use sticky traps"
+            ],
+            "notes": [
+              "Reduces sap loss"
+            ]
+          },
+          "day_90": {
+            "tasks": [
+              "Irrigate (20 mm) if needed; reduce frequency"
+            ],
+            "notes": [
+              "Prepares for maturation"
+            ]
+          },
+          "day_91": {
+            "tasks": [
+              "Observe plant health; remove diseased pods"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_14": {
+        "title": "Pod Growth and Maturation",
+        "day_range": "Days 92-98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Reduce irrigation (20 mm); check soil moisture"
+            ],
+            "notes": [
+              "Encourages pod drying"
+            ]
+          },
+          "day_93": {
+            "tasks": [
+              "Scout for late pod fly; spray if damage >5%"
+            ],
+            "notes": [
+              "Protects yield"
+            ]
+          },
+          "day_94": {
+            "tasks": [
+              "Check pods for browning; seeds start hardening"
+            ],
+            "notes": [
+              "Signals maturation"
+            ]
+          },
+          "day_95": {
+            "tasks": [
+              "Monitor weather for rain; plan harvest"
+            ],
+            "notes": [
+              "Ensures dry harvest"
+            ]
+          },
+          "day_96": {
+            "tasks": [
+              "Continue pest scouting; remove affected pods"
+            ],
+            "notes": [
+              "Maintains quality"
+            ]
+          },
+          "day_97": {
+            "tasks": [
+              "Check pod maturity (80% brown); shake for seed rattle"
+            ],
+            "notes": [
+              "Confirms readiness"
+            ]
+          },
+          "day_98": {
+            "tasks": [
+              "Stop irrigation if pods browning"
+            ],
+            "notes": [
+              "Promotes drying"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_15": {
+        "title": "Early Pod Maturation",
+        "day_range": "Days 99-105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Cease irrigation; ensure good drainage"
+            ],
+            "notes": [
+              "Aids pod drying"
+            ]
+          },
+          "day_100": {
+            "tasks": [
+              "Check pod color (brown, hard); test a few pods"
+            ],
+            "notes": [
+              "Confirms maturity"
+            ]
+          },
+          "day_101": {
+            "tasks": [
+              "Scout for final pests; remove damaged pods"
+            ],
+            "notes": [
+              "Protects yield"
+            ]
+          },
+          "day_102": {
+            "tasks": [
+              "Monitor weather for harvest planning"
+            ],
+            "notes": [
+              "Avoids rainy days"
+            ]
+          },
+          "day_103": {
+            "tasks": [
+              "Check pod moisture (10–12%); crack pods to test"
+            ],
+            "notes": [
+              "Ensures drying"
+            ]
+          },
+          "day_104": {
+            "tasks": [
+              "Prepare harvesting tools (sickles, tarps); clean thoroughly"
+            ],
+            "notes": [
+              "Prevents contamination"
+            ]
+          },
+          "day_105": {
+            "tasks": [
+              "Observe field for uniform maturity; note green pods"
+            ],
+            "notes": [
+              "Plans harvest"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_16": {
+        "title": "Pod Maturation and Pre-Harvest",
+        "day_range": "Days 106-112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Confirm 80–90% pods brown; check seed rattle"
+            ],
+            "notes": [
+              "Readies for harvest"
+            ]
+          },
+          "day_107": {
+            "tasks": [
+              "Stop all sprays to avoid residue"
+            ],
+            "notes": [
+              "Ensures market safety"
+            ]
+          },
+          "day_108": {
+            "tasks": [
+              "Plan harvest schedule; arrange labor or machinery"
+            ],
+            "notes": [
+              "Streamlines process"
+            ]
+          },
+          "day_109": {
+            "tasks": [
+              "Check weather for dry conditions; avoid dew-heavy mornings"
+            ],
+            "notes": [
+              "Prevents moisture issues"
+            ]
+          },
+          "day_110": {
+            "tasks": [
+              "Clean sacks or baskets for pod collection"
+            ],
+            "notes": [
+              "Avoids contamination"
+            ]
+          },
+          "day_111": {
+            "tasks": [
+              "Walk field to confirm maturity; mark staggered harvest areas"
+            ],
+            "notes": [
+              "Optimizes timing"
+            ]
+          },
+          "day_112": {
+            "tasks": [
+              "Rest plants for natural drying; monitor pests"
+            ],
+            "notes": [
+              "Finalizes maturation"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_17": {
+        "title": "Harvest Preparation",
+        "day_range": "Days 113-119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Stop all water inputs; allow pods to dry fully"
+            ],
+            "notes": [
+              "Prevents mold"
+            ]
+          },
+          "day_114": {
+            "tasks": [
+              "Check pod readiness (90% brown); test pods"
+            ],
+            "notes": [
+              "Confirms harvest timing"
+            ]
+          },
+          "day_115": {
+            "tasks": [
+              "Arrange workers for harvesting; plan for early morning"
+            ],
+            "notes": [
+              "Reduces heat stress"
+            ]
+          },
+          "day_116": {
+            "tasks": [
+              "Prepare clean tarps for pod collection; check equipment"
+            ],
+            "notes": [
+              "Ensures hygiene"
+            ]
+          },
+          "day_117": {
+            "tasks": [
+              "Monitor weather for dry days; avoid rain"
+            ],
+            "notes": [
+              "Protects pods"
+            ]
+          },
+          "day_118": {
+            "tasks": [
+              "Sharpen sickles for clean cuts; ensure safety"
+            ],
+            "notes": [
+              "Improves efficiency"
+            ]
+          },
+          "day_119": {
+            "tasks": [
+              "Confirm field readiness; remove green pods for later"
+            ],
+            "notes": [
+              "Prevents mixing"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_18": {
+        "title": "Harvesting",
+        "day_range": "Days 120-126",
+        "days": {
+          "day_120": {
+            "tasks": [
+              "Harvest in morning using sickles; cut plants at base (7.5–25 cm stem)"
+            ],
+            "notes": [
+              "Harvest at 75–80% pod maturity"
+            ]
+          },
+          "day_121": {
+            "tasks": [
+              "Pick mature pods or cut whole plants; work carefully"
+            ],
+            "notes": [
+              "Minimizes shattering"
+            ]
+          },
+          "day_122": {
+            "tasks": [
+              "Collect pods in clean sacks; avoid soil mixing"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          },
+          "day_123": {
+            "tasks": [
+              "Continue harvesting mature pods; check uniformity"
+            ],
+            "notes": [
+              "Completes harvest"
+            ]
+          },
+          "day_124": {
+            "tasks": [
+              "Stack plants in cubical shape for drying; spread on tarps"
+            ],
+            "notes": [
+              "Promotes air circulation"
+            ]
+          },
+          "day_125": {
+            "tasks": [
+              "Transport pods to dry, clean area; protect from rain"
+            ],
+            "notes": [
+              "Prevents spoilage"
+            ]
+          },
+          "day_126": {
+            "tasks": [
+              "Monitor drying pods; ensure even sun exposure"
+            ],
+            "notes": [
+              "Reduces moisture"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_19": {
+        "title": "Post-Harvest Drying",
+        "day_range": "Days 127-133",
+        "days": {
+          "day_127": {
+            "tasks": [
+              "Dry pods in sun for 3–5 days; target 10–12% moisture"
+            ],
+            "notes": [
+              "Prevents fungal growth"
+            ]
+          },
+          "day_128": {
+            "tasks": [
+              "Turn pods daily for even drying; check for mold"
+            ],
+            "notes": [
+              "Ensures uniform drying"
+            ]
+          },
+          "day_129": {
+            "tasks": [
+              "Test pod moisture by cracking; seeds should be hard"
+            ],
+            "notes": [
+              "Confirms readiness"
+            ]
+          },
+          "day_130": {
+            "tasks": [
+              "Continue drying if needed; cover at night"
+            ],
+            "notes": [
+              "Protects from dew"
+            ]
+          },
+          "day_131": {
+            "tasks": [
+              "Check for pest damage on pods; discard affected ones"
+            ],
+            "notes": [
+              "Maintains quality"
+            ]
+          },
+          "day_132": {
+            "tasks": [
+              "Prepare threshing area; clean tarps or floors"
+            ],
+            "notes": [
+              "Prevents contamination"
+            ]
+          },
+          "day_133": {
+            "tasks": [
+              "Protect pods from rain; use tarps during showers"
+            ],
+            "notes": [
+              "Avoids spoilage"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_20": {
+        "title": "Threshing and Cleaning",
+        "day_range": "Days 134-140",
+        "days": {
+          "day_134": {
+            "tasks": [
+              "Thresh pods using sticks or thresher; work gently"
+            ],
+            "notes": [
+              "Minimizes grain loss"
+            ]
+          },
+          "day_135": {
+            "tasks": [
+              "Continue threshing; collect seeds in clean containers"
+            ],
+            "notes": [
+              "Ensures hygiene"
+            ]
+          },
+          "day_136": {
+            "tasks": [
+              "Winnow seeds to remove chaff; use wind or fans"
+            ],
+            "notes": [
+              "Cleans grains"
+            ]
+          },
+          "day_137": {
+            "tasks": [
+              "Clean seeds by sieving; remove small or damaged seeds"
+            ],
+            "notes": [
+              "Improves quality"
+            ]
+          },
+          "day_138": {
+            "tasks": [
+              "Grade seeds for size, color, quality; discard defects"
+            ],
+            "notes": [
+              "Meets market standards"
+            ]
+          },
+          "day_139": {
+            "tasks": [
+              "Dry seeds to 8–10% moisture; spread thinly"
+            ],
+            "notes": [
+              "Ensures safe storage"
+            ]
+          },
+          "day_140": {
+            "tasks": [
+              "Check seed hardness; ensure no soft seeds"
+            ],
+            "notes": [
+              "Confirms quality"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_21": {
+        "title": "Seed Treatment and Storage",
+        "day_range": "Days 141-147",
+        "days": {
+          "day_141": {
+            "tasks": [
+              "Dry seeds to 8% moisture; turn frequently in sun"
+            ],
+            "notes": [
+              "Optimizes long-term storage"
+            ]
+          },
+          "day_142": {
+            "tasks": [
+              "Treat seeds with neem leaves (1 kg/100 kg) or neem oil"
+            ],
+            "notes": [
+              "Prevents pulse beetles"
+            ]
+          },
+          "day_143": {
+            "tasks": [
+              "Alternatively, use Aluminium Phosphide safely; follow guidelines"
+            ],
+            "notes": [
+              "Controls storage pests"
+            ]
+          },
+          "day_144": {
+            "tasks": [
+              "Pack seeds in airtight gunny bags or PICS bags; label"
+            ],
+            "notes": [
+              "Maintains viability"
+            ]
+          },
+          "day_145": {
+            "tasks": [
+              "Store in cool, dry, ventilated area; elevate containers"
+            ],
+            "notes": [
+              "Prevents moisture buildup"
+            ]
+          },
+          "day_146": {
+            "tasks": [
+              "Check storage humidity (<50%); inspect for pests"
+            ],
+            "notes": [
+              "Ensures seed safety"
+            ]
+          },
+          "day_147": {
+            "tasks": [
+              "Re-treat with neem oil if pests appear"
+            ],
+            "notes": [
+              "Maintains quality"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_22": {
+        "title": "Storage and Quality Check",
+        "day_range": "Days 148-154",
+        "days": {
+          "day_148": {
+            "tasks": [
+              "Inspect seeds for bruchids; remove infested seeds"
+            ],
+            "notes": [
+              "Prevents losses"
+            ]
+          },
+          "day_149": {
+            "tasks": [
+              "Ensure storage is dry, cool (<30°C); ventilate well"
+            ],
+            "notes": [
+              "Maintains viability"
+            ]
+          },
+          "day_150": {
+            "tasks": [
+              "Check seed quality; test germination"
+            ],
+            "notes": [
+              "Confirms planting potential"
+            ]
+          },
+          "day_151": {
+            "tasks": [
+              "Re-fumigate if pests detected; use safe methods"
+            ],
+            "notes": [
+              "Protects seeds"
+            ]
+          },
+          "day_152": {
+            "tasks": [
+              "Weigh seeds for market; use 50 kg bags"
+            ],
+            "notes": [
+              "Prepares for sale"
+            ]
+          },
+          "day_153": {
+            "tasks": [
+              "Prepare for sale; contact markets or cooperatives"
+            ],
+            "notes": [
+              "Maximizes returns"
+            ]
+          },
+          "day_154": {
+            "tasks": [
+              "Ensure bags sealed tightly; check for leaks"
+            ],
+            "notes": [
+              "Prevents pest entry"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_23": {
+        "title": "Marketing and Field Cleanup",
+        "day_range": "Days 155-161",
+        "days": {
+          "day_155": {
+            "tasks": [
+              "Sell seeds to markets or agencies; highlight Ujwala’s quality"
+            ],
+            "notes": [
+              "Yields 1.5–2.5 tons/ha"
+            ]
+          },
+          "day_156": {
+            "tasks": [
+              "Negotiate prices based on yield; check market rates"
+            ],
+            "notes": [
+              "Maximizes income"
+            ]
+          },
+          "day_157": {
+            "tasks": [
+              "Clear field of crop residues; compost or burn safely"
+            ],
+            "notes": [
+              "Prevents pest carryover"
+            ]
+          },
+          "day_158": {
+            "tasks": [
+              "Plough field lightly for next crop; plan rotation (e.g., wheat)"
+            ],
+            "notes": [
+              "Breaks pest cycles"
+            ]
+          },
+          "day_159": {
+            "tasks": [
+              "Collect remaining debris; avoid pest carryover"
+            ],
+            "notes": [
+              "Ensures clean field"
+            ]
+          },
+          "day_160": {
+            "tasks": [
+              "Test soil for next season; plan nutrient management"
+            ],
+            "notes": [
+              "Guides crop planning"
+            ]
+          },
+          "day_161": {
+            "tasks": [
+              "Rest field or sow next crop; consult local experts"
+            ],
+            "notes": [
+              "Supports sustainability"
+            ]
+          }
+        },
+        "stage_number": 8
+      }
+    },
+    "additional_notes": [
+      "ICPL 14003 is resistant to sterility mosaic and Fusarium wilt, thrives in chalka soils, and fixes 40–60 kg/ha nitrogen",
+      "Seed priming (soaking in water/nutrients) can enhance germination in rainfed conditions",
+      "Use gravity separators or color sorters for precise seed grading",
+      "Apply Trichoderma viride or fungicides to prevent seed rot",
+      "Monitor storage with hygrometers; maintain <65% relative humidity",
+      "Value addition (de-hulling, milling) increases marketability; avoid overheating",
+      "Certify for organic/non-GMO standards for premium markets",
+      "Use pheromone traps for IPM during storage"
+    ]
+  },
+  {
+    "crop_code": "ICPH-2740-Mannem-Konda-Kandi",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Land Preparation & Seed Selection",
+        "day_range": "Days 1-7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Plough soil 15–20 cm deep with tractor or traditional plough to loosen it, improve water flow, kill pests"
+            ],
+            "notes": [
+              "Prepares soil for sowing"
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Clear old roots, stones, weeds by hand or machine to ensure clean field"
+            ],
+            "notes": [
+              "Reduces pest habitats"
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Plough again and level field with leveler for even water spread"
+            ],
+            "notes": [
+              "Ensures uniform irrigation"
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Spread 10–15 tons/acre well-rotted manure; mix into soil"
+            ],
+            "notes": [
+              "Boosts soil fertility"
+            ]
+          },
+          "day_5": {
+            "tasks": [
+              "Pick clean, healthy ICPH 2740 seeds from trusted supplier"
+            ],
+            "notes": [
+              "Ensures better germination"
+            ]
+          },
+          "day_6": {
+            "tasks": [
+              "Treat seeds with 2 g/kg Carbendazim or Thiram fungicide; dry in shade"
+            ],
+            "notes": [
+              "Protects against fungal diseases"
+            ]
+          },
+          "day_7": {
+            "tasks": [
+              "Coat seeds with Rhizobium and PSB biofertilizers"
+            ],
+            "notes": [
+              "Enhances nitrogen, phosphorus uptake"
+            ]
+          }
+        },
+        "stage_number": 1
+      },
+      "week_2": {
+        "title": "Sowing & Early Germination Care",
+        "day_range": "Days 8-14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Sow treated seeds 3–5 cm deep, 60 cm between rows, 20 cm between plants using seed drill or hand dibbling"
+            ],
+            "notes": [
+              "Ensures proper spacing"
+            ]
+          },
+          "day_9": {
+            "tasks": [
+              "Finish sowing entire field, keeping spacing and depth consistent"
+            ],
+            "notes": [
+              "Avoids overcrowding"
+            ]
+          },
+          "day_10": {
+            "tasks": [
+              "Cover seeds lightly with soil using rake"
+            ],
+            "notes": [
+              "Protects from birds, retains moisture"
+            ]
+          },
+          "day_11": {
+            "tasks": [
+              "If soil dry and no rain, give light irrigation through furrows or sprinklers"
+            ],
+            "notes": [
+              "Avoids flooding"
+            ]
+          },
+          "day_12": {
+            "tasks": [
+              "Set up bird scarers like shiny CDs or scarecrows"
+            ],
+            "notes": [
+              "Prevents seed loss"
+            ]
+          },
+          "day_13": {
+            "tasks": [
+              "Check for sprouting by gently scraping soil in random spots"
+            ],
+            "notes": [
+              "Confirms germination"
+            ]
+          },
+          "day_14": {
+            "tasks": [
+              "Walk field to spot areas with no sprouts; mark for re-sowing"
+            ],
+            "notes": [
+              "Prepares for gap filling"
+            ]
+          }
+        },
+        "stage_number": 2
+      },
+      "week_3": {
+        "title": "Germination Completion & Early Weed Control",
+        "day_range": "Days 15-21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Count seedlings in 1 m² plots to check 80–90% germination"
+            ],
+            "notes": [
+              "Assesses sowing success"
+            ]
+          },
+          "day_16": {
+            "tasks": [
+              "Mark spots with no seedlings using sticks or flags"
+            ],
+            "notes": [
+              "Readies for re-sowing"
+            ]
+          },
+          "day_17": {
+            "tasks": [
+              "Re-sow fresh seeds in marked gaps at 3–5 cm depth; water lightly"
+            ],
+            "notes": [
+              "Ensures uniform stand"
+            ]
+          },
+          "day_18": {
+            "tasks": [
+              "Remove weeds between plants with hand hoe, avoiding seedling damage"
+            ],
+            "notes": [
+              "Reduces competition"
+            ]
+          },
+          "day_19": {
+            "tasks": [
+              "If soil dry, give light irrigation to support new seedlings"
+            ],
+            "notes": [
+              "Avoids overwatering"
+            ]
+          },
+          "day_20": {
+            "tasks": [
+              "Check seedlings for yellowing or pests; ensure green, steady growth"
+            ],
+            "notes": [
+              "Monitors health"
+            ]
+          },
+          "day_21": {
+            "tasks": [
+              "(Optional) Spray 5% neem extract (50 ml neem oil + 1 tsp soap in 1 L water)"
+            ],
+            "notes": [
+              "Controls aphids"
+            ]
+          }
+        },
+        "stage_number": 3
+      },
+      "week_4": {
+        "title": "Seedling Establishment & First Nutrients",
+        "day_range": "Days 22-28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Check if seedlings are 4–6 inches tall and green"
+            ],
+            "notes": [
+              "Confirms growth"
+            ]
+          },
+          "day_23": {
+            "tasks": [
+              "Lightly hoe between rows to loosen soil, remove small weeds"
+            ],
+            "notes": [
+              "Aids root growth"
+            ]
+          },
+          "day_24": {
+            "tasks": [
+              "Apply 100 kg DAP, 25 kg Urea, 20 kg Potash per acre, 3–5 cm from plants; cover with soil"
+            ],
+            "notes": [
+              "Boosts early nutrition"
+            ]
+          },
+          "day_25": {
+            "tasks": [
+              "If dry, give light irrigation to aid nutrient absorption"
+            ],
+            "notes": [
+              "Avoids waterlogging"
+            ]
+          },
+          "day_26": {
+            "tasks": [
+              "Look for leaf curl, insects, or rotting stems"
+            ],
+            "notes": [
+              "Catches pest/disease early"
+            ]
+          },
+          "day_27": {
+            "tasks": [
+              "If pests seen, spray neem oil (5 ml/L water)"
+            ],
+            "notes": [
+              "Safe pest control"
+            ]
+          },
+          "day_28": {
+            "tasks": [
+              "Remove big weeds; check plants are 15–20 cm tall with 5–6 leaves"
+            ],
+            "notes": [
+              "Ensures establishment"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_5": {
+        "title": "Vegetative Growth & Weed Management",
+        "day_range": "Days 29-35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Ensure plants are 20–30 cm tall with 6–8 green leaves, no pest damage"
+            ],
+            "notes": [
+              "Confirms healthy growth"
+            ]
+          },
+          "day_30": {
+            "tasks": [
+              "Use cultivator to loosen soil between rows when slightly moist"
+            ],
+            "notes": [
+              "Improves aeration"
+            ]
+          },
+          "day_31": {
+            "tasks": [
+              "Hand-remove weeds near plant bases"
+            ],
+            "notes": [
+              "Reduces nutrient competition"
+            ]
+          },
+          "day_32": {
+            "tasks": [
+              "Check for whiteflies, aphids under leaves, or curled leaves"
+            ],
+            "notes": [
+              "Monitors pest/virus"
+            ]
+          },
+          "day_33": {
+            "tasks": [
+              "If pests high, spray neem oil (5 ml/L) or Imidacloprid (0.3 ml/L)"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_34": {
+            "tasks": [
+              "(Optional) Spray micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Boosts leaf health"
+            ]
+          },
+          "day_35": {
+            "tasks": [
+              "Clear fallen leaves; irrigate lightly if dry"
+            ],
+            "notes": [
+              "Maintains hygiene, moisture"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_6": {
+        "title": "Advanced Growth & Branching Support",
+        "day_range": "Days 36-42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Check if plants are 30–40 cm tall, forming side branches"
+            ],
+            "notes": [
+              "Prepares for flowering"
+            ]
+          },
+          "day_37": {
+            "tasks": [
+              "Gently hoe near plants to remove small weeds, improve aeration"
+            ],
+            "notes": [
+              "Avoids root damage"
+            ]
+          },
+          "day_38": {
+            "tasks": [
+              "Look for aphids, mites, or sticky spots on plants"
+            ],
+            "notes": [
+              "Monitors pest issues"
+            ]
+          },
+          "day_39": {
+            "tasks": [
+              "If pests present, spray neem oil (5 ml/L) or Thiamethoxam (0.3 g/L)"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_40": {
+            "tasks": [
+              "Spot wilting or yellow plants; uproot, destroy if wilt disease"
+            ],
+            "notes": [
+              "ICPH 2740 resists wilt"
+            ]
+          },
+          "day_41": {
+            "tasks": [
+              "Check soil moisture 5–10 cm deep; irrigate lightly if dry"
+            ],
+            "notes": [
+              "Supports growth"
+            ]
+          },
+          "day_42": {
+            "tasks": [
+              "Loosen soil between rows; add 10–15 kg/acre Urea if pale"
+            ],
+            "notes": [
+              "Enhances nutrition"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_7": {
+        "title": "Pre-Flowering & Plant Strengthening",
+        "day_range": "Days 43-49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Look for small buds, plants ~45–60 cm tall, green leaves"
+            ],
+            "notes": [
+              "Signals pre-flowering"
+            ]
+          },
+          "day_44": {
+            "tasks": [
+              "Spray DAP (20 g/L) + micronutrients (10 g/L) in morning"
+            ],
+            "notes": [
+              "Strengthens plants"
+            ]
+          },
+          "day_45": {
+            "tasks": [
+              "Pull weeds near plant stems"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          },
+          "day_46": {
+            "tasks": [
+              "Check buds for caterpillars or beetles"
+            ],
+            "notes": [
+              "Prevents flower damage"
+            ]
+          },
+          "day_47": {
+            "tasks": [
+              "If pests seen, spray neem oil (5 ml/L) or Spinosad (2.5 ml/L)"
+            ],
+            "notes": [
+              "Safe pest control"
+            ]
+          },
+          "day_48": {
+            "tasks": [
+              "Check for yellowing or wilting; add Urea (10 kg/acre), irrigate"
+            ],
+            "notes": [
+              "Addresses deficiencies"
+            ]
+          },
+          "day_49": {
+            "tasks": [
+              "Ensure no pests/diseases, clean field, strong plants"
+            ],
+            "notes": [
+              "Readies for flowering"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_8": {
+        "title": "Flowering Begins & Pollination Support",
+        "day_range": "Days 50-56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Check for small yellow/white flowers on branches"
+            ],
+            "notes": [
+              "Confirms flowering"
+            ]
+          },
+          "day_51": {
+            "tasks": [
+              "Spray 2% jaggery solution (20 g/L water) to attract bees"
+            ],
+            "notes": [
+              "Enhances pollination"
+            ]
+          },
+          "day_52": {
+            "tasks": [
+              "Look for holes or caterpillars in flowers (pod borers)"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_53": {
+            "tasks": [
+              "If pests found, spray Helicoverpa NPV (250 LE/acre) or Spinosad (2.5 ml/L)"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_54": {
+            "tasks": [
+              "Check if flowers dropping; note if dry or pest-damaged"
+            ],
+            "notes": [
+              "Assesses flower health"
+            ]
+          },
+          "day_55": {
+            "tasks": [
+              "Spray NAA (40 mg/L) or Planofix (1 ml/L) to reduce flower drop"
+            ],
+            "notes": [
+              "Improves pod set"
+            ]
+          },
+          "day_56": {
+            "tasks": [
+              "If soil dry, give light irrigation, avoiding water on flowers"
+            ],
+            "notes": [
+              "Supports flowering"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_9": {
+        "title": "Full Bloom & Early Pod Formation",
+        "day_range": "Days 57-63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Ensure most plants have open flowers, tiny green pods forming"
+            ],
+            "notes": [
+              "Confirms pod set"
+            ]
+          },
+          "day_58": {
+            "tasks": [
+              "Spray Boron (1 g/L) to improve pod setting, seed growth"
+            ],
+            "notes": [
+              "Enhances pod quality"
+            ]
+          },
+          "day_59": {
+            "tasks": [
+              "Check for caterpillars, webbing in flowers/pods (pod borers)"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_60": {
+            "tasks": [
+              "If borers seen, spray Flubendiamide (0.3 ml/L) or Spinosad (2.5 ml/L)"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_61": {
+            "tasks": [
+              "Look for wilting or black stems; spray Copper Oxychloride (3 g/L) if fungal"
+            ],
+            "notes": [
+              "Controls fungal issues"
+            ]
+          },
+          "day_62": {
+            "tasks": [
+              "(Optional) Spray 19:19:19 NPK (10 g/L) + micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Supports pod health"
+            ]
+          },
+          "day_63": {
+            "tasks": [
+              "Irrigate lightly if soil dry, avoiding overwatering"
+            ],
+            "notes": [
+              "Maintains moisture"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_10": {
+        "title": "Pod Development & Seed Filling",
+        "day_range": "Days 64-70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Check if pods are 2–3 cm long, seeds firm when pressed"
+            ],
+            "notes": [
+              "Confirms pod growth"
+            ]
+          },
+          "day_65": {
+            "tasks": [
+              "Irrigate lightly if dry, keeping water away from foliage"
+            ],
+            "notes": [
+              "Supports seed filling"
+            ]
+          },
+          "day_66": {
+            "tasks": [
+              "Spray 19:19:19 NPK (10 g/L) + micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Boosts seed growth"
+            ]
+          },
+          "day_67": {
+            "tasks": [
+              "Look for holes in pods or caterpillars eating seeds"
+            ],
+            "notes": [
+              "Monitors pod borers"
+            ]
+          },
+          "day_68": {
+            "tasks": [
+              "If pests found, spray Emamectin Benzoate (0.4 g/L) or Chlorantraniliprole (0.3 ml/L)"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_69": {
+            "tasks": [
+              "Check if pods maturing evenly; mark slow-growing plants"
+            ],
+            "notes": [
+              "Assesses uniformity"
+            ]
+          },
+          "day_70": {
+            "tasks": [
+              "Look for white powder or dark spots; spray Carbendazim + Mancozeb (2 g/L)"
+            ],
+            "notes": [
+              "Controls fungal diseases"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_11": {
+        "title": "Pod Maturity & Pre-Harvest Care",
+        "day_range": "Days 71-77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Check if 70–80% pods are yellowish-green or brown, seeds hard"
+            ],
+            "notes": [
+              "Signals maturity"
+            ]
+          },
+          "day_72": {
+            "tasks": [
+              "Stop all irrigation to avoid shattering or fungal issues"
+            ],
+            "notes": [
+              "Prepares for harvest"
+            ]
+          },
+          "day_73": {
+            "tasks": [
+              "(Optional) Spray DAP (20 g/L) + micronutrients (10 g/L)"
+            ],
+            "notes": [
+              "Promotes even ripening"
+            ]
+          },
+          "day_74": {
+            "tasks": [
+              "Squeeze mature pods to see if they split easily"
+            ],
+            "notes": [
+              "Confirms readiness"
+            ]
+          },
+          "day_75": {
+            "tasks": [
+              "Clear weeds; ensure good airflow"
+            ],
+            "notes": [
+              "Reduces fungal risks"
+            ]
+          },
+          "day_76": {
+            "tasks": [
+              "Check for powdery mildew or dark spots; spray Carbendazim + Mancozeb (2 g/L)"
+            ],
+            "notes": [
+              "Controls fungal issues"
+            ]
+          },
+          "day_77": {
+            "tasks": [
+              "Pick sample pods, shell, check seeds for hardness, brown color"
+            ],
+            "notes": [
+              "Plans harvest"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_12": {
+        "title": "Harvesting & Initial Processing",
+        "day_range": "Days 78-84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Confirm 85–90% pods brown, dry; seeds hard when bitten"
+            ],
+            "notes": [
+              "Ensures harvest readiness"
+            ]
+          },
+          "day_79": {
+            "tasks": [
+              "Harvest in morning by cutting plants at base, bundling, sun-drying 1–2 days"
+            ],
+            "notes": [
+              "Reduces shattering"
+            ]
+          },
+          "day_80": {
+            "tasks": [
+              "Finish harvesting remaining plots; collect dried bundles"
+            ],
+            "notes": [
+              "Completes harvest"
+            ]
+          },
+          "day_81": {
+            "tasks": [
+              "Beat bundles with sticks or use threshing drum; collect on clean sheet"
+            ],
+            "notes": [
+              "Separates pods"
+            ]
+          },
+          "day_82": {
+            "tasks": [
+              "Winnow pods using wind or fan to remove chaff, damaged seeds"
+            ],
+            "notes": [
+              "Cleans seeds"
+            ]
+          },
+          "day_83": {
+            "tasks": [
+              "Spread seeds in thin layer, dry in sun 2–3 hours, stir every 30 minutes to 10–12% moisture"
+            ],
+            "notes": [
+              "Prevents mold"
+            ]
+          },
+          "day_84": {
+            "tasks": [
+              "Pack dried seeds in gunny/HDPE bags with neem leaves; store on pallets in cool, dry place"
+            ],
+            "notes": [
+              "Ensures safe storage"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_13": {
+        "title": "Secondary Flowering & Late Pod Care",
+        "day_range": "Days 85-91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Check for new flowers or pods on side branches; monitor pests"
+            ],
+            "notes": [
+              "Manages late pods"
+            ]
+          },
+          "day_86": {
+            "tasks": [
+              "If soil dry, give light irrigation to support late pods"
+            ],
+            "notes": [
+              "Aids pod growth"
+            ]
+          },
+          "day_87": {
+            "tasks": [
+              "(Optional) Spray 19:19:19 NPK (10 g/L) + micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Supports late pods"
+            ]
+          },
+          "day_88": {
+            "tasks": [
+              "Look for pod borers or aphids on new pods or leaves"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_89": {
+            "tasks": [
+              "If pests seen, spray Flubendiamide (0.3 ml/L) for borers or Imidacloprid (0.3 ml/L) for aphids"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_90": {
+            "tasks": [
+              "Remove weeds; loosen soil between rows"
+            ],
+            "notes": [
+              "Supports roots"
+            ]
+          },
+          "day_91": {
+            "tasks": [
+              "Check pod maturity, leaf yellowing; note deficiencies"
+            ],
+            "notes": [
+              "Assesses late pods"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_14": {
+        "title": "Final Pod Development & Disease Control",
+        "day_range": "Days 92-98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Open a few pods to check if seeds are plump, green"
+            ],
+            "notes": [
+              "Confirms seed filling"
+            ]
+          },
+          "day_93": {
+            "tasks": [
+              "(Optional) Spray DAP (20 g/L) + micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Supports seed filling"
+            ]
+          },
+          "day_94": {
+            "tasks": [
+              "Check for pod borer holes or caterpillars on leaves/pods"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_95": {
+            "tasks": [
+              "If borers high, spray Emamectin Benzoate (0.4 g/L) or Spinosad (0.3 ml/L)"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_96": {
+            "tasks": [
+              "Look for wilting plants or white powder (powdery mildew)"
+            ],
+            "notes": [
+              "Monitors diseases"
+            ]
+          },
+          "day_97": {
+            "tasks": [
+              "Spray Sulphur (2 g/L) for mildew or burn wilted plants"
+            ],
+            "notes": [
+              "Controls diseases"
+            ]
+          },
+          "day_98": {
+            "tasks": [
+              "Irrigate lightly if dry; clear weeds"
+            ],
+            "notes": [
+              "Reduces pest habitats"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_15": {
+        "title": "Pod Maturation & Pre-Harvest Prep",
+        "day_range": "Days 99-105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Check 10–15 pods; seeds should be firm, yellowish"
+            ],
+            "notes": [
+              "Confirms maturation"
+            ]
+          },
+          "day_100": {
+            "tasks": [
+              "(Optional) Spray DAP (5 g/L) + micronutrients (5 g/L)"
+            ],
+            "notes": [
+              "Promotes uniform ripening"
+            ]
+          },
+          "day_101": {
+            "tasks": [
+              "Look for sticky or curled leaves from aphids or whiteflies"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_102": {
+            "tasks": [
+              "If pests seen, spray Thiamethoxam (0.3 g/L) or Imidacloprid (0.3 ml/L)"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_103": {
+            "tasks": [
+              "Uproot, burn severely wilted or yellow plants"
+            ],
+            "notes": [
+              "Stops disease spread"
+            ]
+          },
+          "day_104": {
+            "tasks": [
+              "Clear weeds, fallen leaves"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          },
+          "day_105": {
+            "tasks": [
+              "Irrigate lightly if late pods green, soil dry"
+            ],
+            "notes": [
+              "Supports late pods"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_16": {
+        "title": "Drying Phase & Harvest Planning",
+        "day_range": "Days 106-112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Check if pods on all branches drying, leaves yellowing"
+            ],
+            "notes": [
+              "Signals drying phase"
+            ]
+          },
+          "day_107": {
+            "tasks": [
+              "Stop all irrigation to speed drying, avoid fungal issues"
+            ],
+            "notes": [
+              "Prepares for harvest"
+            ]
+          },
+          "day_108": {
+            "tasks": [
+              "Look for black or damaged pods (late pod borers)"
+            ],
+            "notes": [
+              "Monitors pests"
+            ]
+          },
+          "day_109": {
+            "tasks": [
+              "If pests high, spray Spinosad (0.3 ml/L) or Chlorantraniliprole (0.4 ml/L)"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_110": {
+            "tasks": [
+              "Remove weeds, especially around field edges"
+            ],
+            "notes": [
+              "Reduces pest shelters"
+            ]
+          },
+          "day_111": {
+            "tasks": [
+              "(Optional) Harvest 2–3 plants, dry seeds, check hardness"
+            ],
+            "notes": [
+              "Times harvest"
+            ]
+          },
+          "day_112": {
+            "tasks": [
+              "Clean sickles, tarpaulins, threshing area"
+            ],
+            "notes": [
+              "Prepares for harvest"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_17": {
+        "title": "Selective Harvesting & Drying",
+        "day_range": "Days 113-119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Check field; mark areas with fully dry, half-dry, or green pods"
+            ],
+            "notes": [
+              "Plans selective harvest"
+            ]
+          },
+          "day_114": {
+            "tasks": [
+              "Harvest areas with 85–90% dry pods, cutting plants, bundling"
+            ],
+            "notes": [
+              "Targets mature pods"
+            ]
+          },
+          "day_115": {
+            "tasks": [
+              "Continue harvesting dry patches; keep bundles separate"
+            ],
+            "notes": [
+              "Ensures uniformity"
+            ]
+          },
+          "day_116": {
+            "tasks": [
+              "Sun-dry harvested bundles 1–2 days, turning every few hours"
+            ],
+            "notes": [
+              "Reduces moisture"
+            ]
+          },
+          "day_117": {
+            "tasks": [
+              "Clean, level threshing floor; spread tarpaulins"
+            ],
+            "notes": [
+              "Prevents seed loss"
+            ]
+          },
+          "day_118": {
+            "tasks": [
+              "(Optional) Winnow some threshed pods to check seed quality, moisture"
+            ],
+            "notes": [
+              "Assesses readiness"
+            ]
+          },
+          "day_119": {
+            "tasks": [
+              "Check green pods in field to plan second harvest"
+            ],
+            "notes": [
+              "Manages late pods"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_18": {
+        "title": "Main Harvesting & Seed Processing",
+        "day_range": "Days 120-126",
+        "days": {
+          "day_120": {
+            "tasks": [
+              "Harvest remaining mature plants when 75–80% pods light brown, cutting and bundling"
+            ],
+            "notes": [
+              "Minimizes shattering, pest infestation"
+            ]
+          },
+          "day_121": {
+            "tasks": [
+              "Spread bundles in sun 1–2 days, turning every 3–4 hours to dry fully"
+            ],
+            "notes": [
+              "Lowers moisture to prevent mold"
+            ]
+          },
+          "day_122": {
+            "tasks": [
+              "Thresh pods by beating or using mechanical thresher; collect on clean sheet"
+            ],
+            "notes": [
+              "Minimizes physical damage"
+            ]
+          },
+          "day_123": {
+            "tasks": [
+              "Winnow seeds to remove chaff, dirt using wind or fan"
+            ],
+            "notes": [
+              "Ensures clean seeds"
+            ]
+          },
+          "day_124": {
+            "tasks": [
+              "Dry seeds in thin layer for 3–4 hours, stirring every 30 minutes, to 10–12% moisture"
+            ],
+            "notes": [
+              "Prevents fungal growth"
+            ]
+          },
+          "day_125": {
+            "tasks": [
+              "Sort seeds using sieves or air-screen cleaners; remove small, damaged ones"
+            ],
+            "notes": [
+              "Ensures uniformity, quality"
+            ]
+          },
+          "day_126": {
+            "tasks": [
+              "Pack seeds in jute/HDPE bags with neem leaves; store on pallets in cool, dry room"
+            ],
+            "notes": [
+              "Protects against pests, humidity"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_19": {
+        "title": "Storage Monitoring & Marketing Prep",
+        "day_range": "Days 127-133",
+        "days": {
+          "day_127": {
+            "tasks": [
+              "Check storage room for dryness, ventilation, no rodents"
+            ],
+            "notes": [
+              "Prevents spoilage"
+            ]
+          },
+          "day_128": {
+            "tasks": [
+              "Inspect seed bags for moisture, mold, insect holes; restack if needed"
+            ],
+            "notes": [
+              "Ensures seed quality"
+            ]
+          },
+          "day_129": {
+            "tasks": [
+              "(Optional) Test seed moisture by biting or weighing; aim for 10–12%"
+            ],
+            "notes": [
+              "Confirms storage readiness"
+            ]
+          },
+          "day_130": {
+            "tasks": [
+              "Treat seeds with neem oil (5 ml/kg), Malathion dust, or mix with ash"
+            ],
+            "notes": [
+              "Prevents bruchids"
+            ]
+          },
+          "day_131": {
+            "tasks": [
+              "Label bags with variety, harvest date, weight; keep record"
+            ],
+            "notes": [
+              "Ensures traceability"
+            ]
+          },
+          "day_132": {
+            "tasks": [
+              "Check market prices; contact buyers or cooperatives"
+            ],
+            "notes": [
+              "Prepares for sale"
+            ]
+          },
+          "day_133": {
+            "tasks": [
+              "Prepare 1–2 kg sample bags for buyers or seed certification"
+            ],
+            "notes": [
+              "Facilitates marketing"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_20": {
+        "title": "Seed Preservation & Market Readiness",
+        "day_range": "Days 134-140",
+        "days": {
+          "day_134": {
+            "tasks": [
+              "Store seeds for next season in airtight drums or triple-layer bags with neem"
+            ],
+            "notes": [
+              "Maintains genetic purity"
+            ]
+          },
+          "day_135": {
+            "tasks": [
+              "Test germination by sprouting 100 seeds on moist cloth; aim for >85%"
+            ],
+            "notes": [
+              "Confirms seed quality"
+            ]
+          },
+          "day_136": {
+            "tasks": [
+              "Check bags for beetles, larvae; re-treat with neem oil or fumigate if needed"
+            ],
+            "notes": [
+              "Prevents pest losses"
+            ]
+          },
+          "day_137": {
+            "tasks": [
+              "Fix torn bags; ensure stacks low (7–8 bags) for airflow"
+            ],
+            "notes": [
+              "Maintains ventilation"
+            ]
+          },
+          "day_138": {
+            "tasks": [
+              "Pack seeds for sale in 50 kg jute/polypropylene bags with labels"
+            ],
+            "notes": [
+              "Readies for market"
+            ]
+          },
+          "day_139": {
+            "tasks": [
+              "Arrange transport for buyers or share seeds with farmers"
+            ],
+            "notes": [
+              "Supports distribution"
+            ]
+          },
+          "day_140": {
+            "tasks": [
+              "Record yield, costs, seed stock for planning"
+            ],
+            "notes": [
+              "Aids future planning"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_21": {
+        "title": "Field Cleanup & Soil Restoration",
+        "day_range": "Days 141-147",
+        "days": {
+          "day_141": {
+            "tasks": [
+              "Check field for leftover stalks, roots, pods"
+            ],
+            "notes": [
+              "Assesses cleanup needs"
+            ]
+          },
+          "day_142": {
+            "tasks": [
+              "Remove thick residues; stack for compost or fuel"
+            ],
+            "notes": [
+              "Reduces pest carryover"
+            ]
+          },
+          "day_143": {
+            "tasks": [
+              "Plough lightly to mix small residues into soil"
+            ],
+            "notes": [
+              "Improves soil structure"
+            ]
+          },
+          "day_144": {
+            "tasks": [
+              "Spread 5–10 tons/acre manure or compost"
+            ],
+            "notes": [
+              "Enriches soil"
+            ]
+          },
+          "day_145": {
+            "tasks": [
+              "(Optional) Add gypsum (250 kg/acre) or Trichoderma"
+            ],
+            "notes": [
+              "Enhances soil health"
+            ]
+          },
+          "day_146": {
+            "tasks": [
+              "Sow green manure (e.g., sun hemp) or spread mulch"
+            ],
+            "notes": [
+              "Retains moisture"
+            ]
+          },
+          "day_147": {
+            "tasks": [
+              "Inspect field for debris, waterlogging; note soil condition"
+            ],
+            "notes": [
+              "Guides planning"
+            ]
+          }
+        },
+        "stage_number": 9
+      },
+      "week_22": {
+        "title": "Off-Season Planning & Crop Rotation Prep",
+        "day_range": "Days 148-154",
+        "days": {
+          "day_148": {
+            "tasks": [
+              "Remove regrowth or weeds to prevent pest buildup"
+            ],
+            "notes": [
+              "Maintains hygiene"
+            ]
+          },
+          "day_149": {
+            "tasks": [
+              "Check soil for moisture, texture, earthworms"
+            ],
+            "notes": [
+              "Assesses soil health"
+            ]
+          },
+          "day_150": {
+            "tasks": [
+              "(Optional) Sow green manure like dhaincha (5–7 kg/acre)"
+            ],
+            "notes": [
+              "Improves fertility"
+            ]
+          },
+          "day_151": {
+            "tasks": [
+              "Inspect seed bags for pests, mold; dry or re-treat"
+            ],
+            "notes": [
+              "Ensures seed safety"
+            ]
+          },
+          "day_152": {
+            "tasks": [
+              "Check market rates; share seeds with farmers"
+            ],
+            "notes": [
+              "Supports community"
+            ]
+          },
+          "day_153": {
+            "tasks": [
+              "Note field condition, pests, seed stock"
+            ],
+            "notes": [
+              "Aids record-keeping"
+            ]
+          },
+          "day_154": {
+            "tasks": [
+              "Plan crop rotation (e.g., maize, groundnut)"
+            ],
+            "notes": [
+              "Improves soil health"
+            ]
+          }
+        },
+        "stage_number": 9
+      },
+      "week_23": {
+        "title": "Soil Enrichment & Intercrop Planning",
+        "day_range": "Days 155-161",
+        "days": {
+          "day_155": {
+            "tasks": [
+              "Plan lime, gypsum, or vermicompost based on soil needs"
+            ],
+            "notes": [
+              "Corrects soil pH"
+            ]
+          },
+          "day_156": {
+            "tasks": [
+              "Plough in 25–30-day-old green manure or sow new"
+            ],
+            "notes": [
+              "Enriches soil"
+            ]
+          },
+          "day_157": {
+            "tasks": [
+              "Plan biofertilizers (Azospirillum, Rhizobium) for next crop"
+            ],
+            "notes": [
+              "Enhances nutrition"
+            ]
+          },
+          "day_158": {
+            "tasks": [
+              "Plan intercrops (e.g., maize + cowpea), row spacing"
+            ],
+            "notes": [
+              "Maximizes land use"
+            ]
+          },
+          "day_159": {
+            "tasks": [
+              "(Optional) Collect soil samples for lab testing"
+            ],
+            "notes": [
+              "Guides nutrient plan"
+            ]
+          },
+          "day_160": {
+            "tasks": [
+              "Start fermenting Jeevamrut or Panchagavya"
+            ],
+            "notes": [
+              "Prepares biofertilizer"
+            ]
+          },
+          "day_161": {
+            "tasks": [
+              "Check field for waterlogging, weeds; review crop plans"
+            ],
+            "notes": [
+              "Finalizes planning"
+            ]
+          }
+        },
+        "stage_number": 9
+      },
+      "week_24": {
+        "title": "Final Prep for Next Crop",
+        "day_range": "Days 162-168",
+        "days": {
+          "day_162": {
+            "tasks": [
+              "Remove new weeds or volunteer plants with hoe"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          },
+          "day_163": {
+            "tasks": [
+              "Plough in 30-day-old green manure 6–8 inches deep"
+            ],
+            "notes": [
+              "Improves fertility"
+            ]
+          },
+          "day_164": {
+            "tasks": [
+              "Check soil moisture; plough when it crumbles"
+            ],
+            "notes": [
+              "Ensures proper tilth"
+            ]
+          },
+          "day_165": {
+            "tasks": [
+              "Buy seeds, biofertilizers, manure for next crop"
+            ],
+            "notes": [
+              "Prepares inputs"
+            ]
+          },
+          "day_166": {
+            "tasks": [
+              "Stir, store Jeevamrut/Panchagavya or start now"
+            ],
+            "notes": [
+              "Readies biofertilizer"
+            ]
+          },
+          "day_167": {
+            "tasks": [
+              "Fix bunds or irrigation channels"
+            ],
+            "notes": [
+              "Improves water management"
+            ]
+          },
+          "day_168": {
+            "tasks": [
+              "Make calendar for next crop’s sowing, inputs, intercrop layout"
+            ],
+            "notes": [
+              "Plans cultivation"
+            ]
+          }
+        },
+        "stage_number": 9
+      }
+    },
+    "additional_notes": [
+      "ICPH 2740 yields 2407–3652 kg/ha, 40.7% higher than Asha, with resistance to Fusarium wilt, sterility mosaic",
+      "CMS-based seed production uses 500 m isolation, SSR markers for genetic purity",
+      "Rhizobium treatment enhances nitrogen fixation, reducing fertilizer needs",
+      "Suitable for deep black soils, rainfed/irrigated systems in Telangana",
+      "Post-harvest losses (15–20%) minimized by careful threshing, drying to 8–12% moisture",
+      "Hermetic storage (e.g., sealed drums) with desiccants (silica gel, calcium chloride) prevents pest infestation",
+      "Economic benefits from high yield, disease resistance reduce input costs",
+      "Seeds similar in size, color, taste to local varieties, accepted by consumers, millers"
+    ]
+  },
+  {
+    "crop_code": "ICPL-332-WR-TDRG4-Hanuma",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Pre-Sowing Preparation",
+        "day_range": "Days 1-7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select well-drained sandy loam field; collect soil samples for pH, N, P, K testing"
+            ],
+            "notes": [
+              "Guides fertilization"
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Plough field 2–3 times to 15–20 cm depth to loosen soil, remove weeds"
+            ],
+            "notes": [
+              "Prepares fine seedbed"
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Spread 5 tons/ha well-decomposed farmyard manure"
+            ],
+            "notes": [
+              "Improves soil structure"
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Apply 20 kg N, 50 kg P, 30 kg K/ha using DAP or NPK blends"
+            ],
+            "notes": [
+              "Ensures seedling nutrition"
+            ]
+          },
+          "day_5": {
+            "tasks": [
+              "Purchase certified ICPL 332 WR seeds from trusted agency"
+            ],
+            "notes": [
+              "Ensures high germination"
+            ]
+          },
+          "day_6": {
+            "tasks": [
+              "Treat seeds with Carbendazim (2 g/kg); inoculate with Rhizobium (5 g/kg)"
+            ],
+            "notes": [
+              "Prevents wilt, enhances nitrogen fixation"
+            ]
+          },
+          "day_7": {
+            "tasks": [
+              "Level field; create ridges 30–45 cm apart using ridger or hoe"
+            ],
+            "notes": [
+              "Improves drainage"
+            ]
+          }
+        },
+        "stage_number": 1
+      },
+      "week_2": {
+        "title": "Sowing",
+        "day_range": "Days 8-14",
+        "days": {
+          "day_8": {
+            "tasks": [
+              "Sow seeds at 4–5 cm depth, 60 cm (row) x 20 cm (plant), using 10–12 kg/ha"
+            ],
+            "notes": [
+              "Ensures proper spacing"
+            ]
+          },
+          "day_9": {
+            "tasks": [
+              "Apply light irrigation if monsoon delayed or soil dry"
+            ],
+            "notes": [
+              "Promotes uniform germination"
+            ]
+          },
+          "day_10": {
+            "tasks": [
+              "Check for birds/ants eating seeds; use scarecrows or Chlorpyrifos dusting"
+            ],
+            "notes": [
+              "Protects seeds"
+            ]
+          },
+          "day_11": {
+            "tasks": [
+              "Observe for seedling emergence (5–10 days)"
+            ],
+            "notes": [
+              "Identifies re-sowing needs"
+            ]
+          },
+          "day_12": {
+            "tasks": [
+              "Ensure soil moist but not waterlogged"
+            ],
+            "notes": [
+              "Prevents seed rot"
+            ]
+          },
+          "day_13": {
+            "tasks": [
+              "Note uneven/no germination areas for gap-filling"
+            ],
+            "notes": [
+              "Maximizes plant stand"
+            ]
+          },
+          "day_14": {
+            "tasks": [
+              "Plan re-sowing in bare spots; gather treated seeds"
+            ],
+            "notes": [
+              "Ensures uniform population"
+            ]
+          }
+        },
+        "stage_number": 2
+      },
+      "week_3": {
+        "title": "Early Vegetative Stage",
+        "day_range": "Days 15-21",
+        "days": {
+          "day_15": {
+            "tasks": [
+              "Re-sow treated seeds in poor/no germination spots"
+            ],
+            "notes": [
+              "Ensures uniform stand"
+            ]
+          },
+          "day_16": {
+            "tasks": [
+              "Thin weaker seedlings, leaving one plant per 20 cm"
+            ],
+            "notes": [
+              "Prevents overcrowding"
+            ]
+          },
+          "day_17": {
+            "tasks": [
+              "Hand-weed or hoe around seedlings"
+            ],
+            "notes": [
+              "Reduces nutrient competition"
+            ]
+          },
+          "day_18": {
+            "tasks": [
+              "Apply light irrigation if no rain"
+            ],
+            "notes": [
+              "Supports root growth"
+            ]
+          },
+          "day_19": {
+            "tasks": [
+              "Inspect for aphids, leafhoppers on seedlings"
+            ],
+            "notes": [
+              "Prevents early damage"
+            ]
+          },
+          "day_20": {
+            "tasks": [
+              "Check for pale/yellow leaves (nitrogen deficiency)"
+            ],
+            "notes": [
+              "Monitors nutrient status"
+            ]
+          },
+          "day_21": {
+            "tasks": [
+              "Top-dress with 5 kg/ha urea if nutrient stress"
+            ],
+            "notes": [
+              "Boosts early growth"
+            ]
+          }
+        },
+        "stage_number": 3
+      },
+      "week_4": {
+        "title": "Vegetative Growth",
+        "day_range": "Days 22-28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Remove weeds manually or with hoe"
+            ],
+            "notes": [
+              "Ensures nutrient availability"
+            ]
+          },
+          "day_23": {
+            "tasks": [
+              "Top-dress with 10–15 kg/ha urea, 5–10 cm from plants"
+            ],
+            "notes": [
+              "Supports leaf/stem growth"
+            ]
+          },
+          "day_24": {
+            "tasks": [
+              "Water every 10–15 days if rainfall low"
+            ],
+            "notes": [
+              "Prevents stress"
+            ]
+          },
+          "day_25": {
+            "tasks": [
+              "Check for caterpillars, beetles; use neem/insecticides"
+            ],
+            "notes": [
+              "Controls pests"
+            ]
+          },
+          "day_26": {
+            "tasks": [
+              "Look for wilting/yellowing; remove affected plants"
+            ],
+            "notes": [
+              "Hanuma resists wilt"
+            ]
+          },
+          "day_27": {
+            "tasks": [
+              "Stake/tie plants if leaning due to wind"
+            ],
+            "notes": [
+              "Prevents lodging"
+            ]
+          },
+          "day_28": {
+            "tasks": [
+              "Ensure plants green, tall, bushy"
+            ],
+            "notes": [
+              "Sets flowering foundation"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_5": {
+        "title": "Vegetative Growth",
+        "day_range": "Days 29-35",
+        "days": {
+          "day_29": {
+            "tasks": [
+              "Clear weeds to reduce competition"
+            ],
+            "notes": [
+              "Maximizes growth"
+            ]
+          },
+          "day_30": {
+            "tasks": [
+              "Water if no rain for 7–10 days"
+            ],
+            "notes": [
+              "Supports stem elongation"
+            ]
+          },
+          "day_31": {
+            "tasks": [
+              "Check for pod borers; install pheromone traps"
+            ],
+            "notes": [
+              "Hanuma tolerates borers"
+            ]
+          },
+          "day_32": {
+            "tasks": [
+              "Observe leaf color/size for nutrient deficiency"
+            ],
+            "notes": [
+              "Guides micronutrient use"
+            ]
+          },
+          "day_33": {
+            "tasks": [
+              "Spray 0.5% zinc sulphate if growth slow"
+            ],
+            "notes": [
+              "Boosts vigor"
+            ]
+          },
+          "day_34": {
+            "tasks": [
+              "Inspect for sterility mosaic; remove affected plants"
+            ],
+            "notes": [
+              "Controls disease"
+            ]
+          },
+          "day_35": {
+            "tasks": [
+              "Plan water/pest management for flowering"
+            ],
+            "notes": [
+              "Prepares for next stage"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_6": {
+        "title": "Vegetative Growth",
+        "day_range": "Days 36-42",
+        "days": {
+          "day_36": {
+            "tasks": [
+              "Water to maintain soil moisture"
+            ],
+            "notes": [
+              "Supports leaf growth"
+            ]
+          },
+          "day_37": {
+            "tasks": [
+              "Remove remaining weeds"
+            ],
+            "notes": [
+              "Supports flowering transition"
+            ]
+          },
+          "day_38": {
+            "tasks": [
+              "Check for Helicoverpa; monitor pest levels"
+            ],
+            "notes": [
+              "Reduces damage"
+            ]
+          },
+          "day_39": {
+            "tasks": [
+              "Stake/tie plants if heavy rain/wind"
+            ],
+            "notes": [
+              "Prevents lodging"
+            ]
+          },
+          "day_40": {
+            "tasks": [
+              "Confirm bushy, green foliage"
+            ],
+            "notes": [
+              "Indicates yield potential"
+            ]
+          },
+          "day_41": {
+            "tasks": [
+              "Add 5 kg/ha urea if nutrient stress"
+            ],
+            "notes": [
+              "Supports final growth"
+            ]
+          },
+          "day_42": {
+            "tasks": [
+              "Plan irrigation/pest control for flowering"
+            ],
+            "notes": [
+              "Readies for flowering"
+            ]
+          }
+        },
+        "stage_number": 4
+      },
+      "week_7": {
+        "title": "Early Flowering",
+        "day_range": "Days 43-49",
+        "days": {
+          "day_43": {
+            "tasks": [
+              "Water to support flower bud formation"
+            ],
+            "notes": [
+              "Prevents flower drop"
+            ]
+          },
+          "day_44": {
+            "tasks": [
+              "Spray 0.5% boron or zinc sulphate"
+            ],
+            "notes": [
+              "Enhances pollination"
+            ]
+          },
+          "day_45": {
+            "tasks": [
+              "Check for Helicoverpa larvae; use pheromone traps/neem"
+            ],
+            "notes": [
+              "Protects buds"
+            ]
+          },
+          "day_46": {
+            "tasks": [
+              "Inspect for sterility mosaic, phytophthora; remove affected plants"
+            ],
+            "notes": [
+              "Controls disease"
+            ]
+          },
+          "day_47": {
+            "tasks": [
+              "Clear weeds to support flower/pod formation"
+            ],
+            "notes": [
+              "Reduces competition"
+            ]
+          },
+          "day_48": {
+            "tasks": [
+              "Count flowers per plant to estimate pod yield"
+            ],
+            "notes": [
+              "Predicts yield"
+            ]
+          },
+          "day_49": {
+            "tasks": [
+              "Plan water/pest control for pod setting"
+            ],
+            "notes": [
+              "Ensures pod success"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_8": {
+        "title": "Flowering and Pod Setting",
+        "day_range": "Days 50-56",
+        "days": {
+          "day_50": {
+            "tasks": [
+              "Water to support pod setting"
+            ],
+            "notes": [
+              "Prevents flower drop"
+            ]
+          },
+          "day_51": {
+            "tasks": [
+              "Apply neem oil/insecticide if pod borers detected"
+            ],
+            "notes": [
+              "Protects flowers"
+            ]
+          },
+          "day_52": {
+            "tasks": [
+              "Look for mosaic/blight; remove affected plants"
+            ],
+            "notes": [
+              "Protects pods"
+            ]
+          },
+          "day_53": {
+            "tasks": [
+              "Observe small green pods forming"
+            ],
+            "notes": [
+              "Confirms pod set"
+            ]
+          },
+          "day_54": {
+            "tasks": [
+              "Remove weeds to focus nutrients on pods"
+            ],
+            "notes": [
+              "Supports pod growth"
+            ]
+          },
+          "day_55": {
+            "tasks": [
+              "Spray 0.5% DAP if pod setting poor"
+            ],
+            "notes": [
+              "Boosts pod formation"
+            ]
+          },
+          "day_56": {
+            "tasks": [
+              "Check number/health of young pods"
+            ],
+            "notes": [
+              "Predicts high yield"
+            ]
+          }
+        },
+        "stage_number": 5
+      },
+      "week_9": {
+        "title": "Pod Development",
+        "day_range": "Days 57-63",
+        "days": {
+          "day_57": {
+            "tasks": [
+              "Water every 10–12 days to aid pod filling"
+            ],
+            "notes": [
+              "Supports seed growth"
+            ]
+          },
+          "day_58": {
+            "tasks": [
+              "Check pods for Helicoverpa holes; use Trichogramma wasps"
+            ],
+            "notes": [
+              "Controls borers"
+            ]
+          },
+          "day_59": {
+            "tasks": [
+              "Spray 0.5% DAP/micronutrients if pods small"
+            ],
+            "notes": [
+              "Improves seed quality"
+            ]
+          },
+          "day_60": {
+            "tasks": [
+              "Clear weeds to focus nutrients on pods"
+            ],
+            "notes": [
+              "Enhances pod size"
+            ]
+          },
+          "day_61": {
+            "tasks": [
+              "Inspect pods for rot/spots; remove affected pods"
+            ],
+            "notes": [
+              "Prevents disease spread"
+            ]
+          },
+          "day_62": {
+            "tasks": [
+              "Ensure pods plump, green, uniform"
+            ],
+            "notes": [
+              "Indicates good management"
+            ]
+          },
+          "day_63": {
+            "tasks": [
+              "Schedule water for ongoing pod development"
+            ],
+            "notes": [
+              "Maximizes seed quality"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_10": {
+        "title": "Pod Development",
+        "day_range": "Days 64-70",
+        "days": {
+          "day_64": {
+            "tasks": [
+              "Water if no rain to support seed filling"
+            ],
+            "notes": [
+              "Prevents seed shrinkage"
+            ]
+          },
+          "day_65": {
+            "tasks": [
+              "Monitor for aphids; apply neem/safe insecticides"
+            ],
+            "notes": [
+              "Protects pods"
+            ]
+          },
+          "day_66": {
+            "tasks": [
+              "Ensure pods green, free of pest/disease damage"
+            ],
+            "notes": [
+              "Confirms pod health"
+            ]
+          },
+          "day_67": {
+            "tasks": [
+              "Look for pod rot/blight; remove affected pods"
+            ],
+            "notes": [
+              "Protects crop"
+            ]
+          },
+          "day_68": {
+            "tasks": [
+              "Clear final weeds before harvest"
+            ],
+            "notes": [
+              "Improves pod quality"
+            ]
+          },
+          "day_69": {
+            "tasks": [
+              "Spray micronutrients if pod growth uneven"
+            ],
+            "notes": [
+              "Ensures seed filling"
+            ]
+          },
+          "day_70": {
+            "tasks": [
+              "Check pod size/color for seed filling progress"
+            ],
+            "notes": [
+              "Confirms development"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_11": {
+        "title": "Pod Development",
+        "day_range": "Days 71-77",
+        "days": {
+          "day_71": {
+            "tasks": [
+              "Water if soil dry to complete seed filling"
+            ],
+            "notes": [
+              "Prevents empty seeds"
+            ]
+          },
+          "day_72": {
+            "tasks": [
+              "Check for late pod borer attacks; use traps/sprays"
+            ],
+            "notes": [
+              "Protects yield"
+            ]
+          },
+          "day_73": {
+            "tasks": [
+              "Look for pods turning light green"
+            ],
+            "notes": [
+              "Signals early maturity"
+            ]
+          },
+          "day_74": {
+            "tasks": [
+              "Inspect for rot/spots; remove affected pods"
+            ],
+            "notes": [
+              "Prevents losses"
+            ]
+          },
+          "day_75": {
+            "tasks": [
+              "Remove remaining weeds"
+            ],
+            "notes": [
+              "Simplifies harvest"
+            ]
+          },
+          "day_76": {
+            "tasks": [
+              "Check for pale leaves; spray nutrients if needed"
+            ],
+            "notes": [
+              "Ensures plant health"
+            ]
+          },
+          "day_77": {
+            "tasks": [
+              "Prepare to monitor pods for harvest readiness"
+            ],
+            "notes": [
+              "Ensures peak quality"
+            ]
+          }
+        },
+        "stage_number": 6
+      },
+      "week_12": {
+        "title": "Early Pod Maturity",
+        "day_range": "Days 78-84",
+        "days": {
+          "day_78": {
+            "tasks": [
+              "Open pods to check if seeds hard, dry"
+            ],
+            "notes": [
+              "Plans harvest"
+            ]
+          },
+          "day_79": {
+            "tasks": [
+              "Cease watering to allow pods to dry"
+            ],
+            "notes": [
+              "Eases harvest"
+            ]
+          },
+          "day_80": {
+            "tasks": [
+              "Check for final pest attacks on pods"
+            ],
+            "notes": [
+              "Protects yield"
+            ]
+          },
+          "day_81": {
+            "tasks": [
+              "Ensure 50–60% pods brown, dry"
+            ],
+            "notes": [
+              "Signals early harvest"
+            ]
+          },
+          "day_82": {
+            "tasks": [
+              "Arrange labor, sickles, bags for pod picking"
+            ],
+            "notes": [
+              "Ensures efficiency"
+            ]
+          },
+          "day_83": {
+            "tasks": [
+              "Ensure field dry, accessible for harvesting"
+            ],
+            "notes": [
+              "Prevents pod damage"
+            ]
+          },
+          "day_84": {
+            "tasks": [
+              "Start picking brown pods if 60% mature"
+            ],
+            "notes": [
+              "Prevents shattering"
+            ]
+          }
+        },
+        "stage_number": 7
+      },
+      "week_13": {
+        "title": "Harvest",
+        "day_range": "Days 85-91",
+        "days": {
+          "day_85": {
+            "tasks": [
+              "Pick brown pods or cut plants at 10–15 cm"
+            ],
+            "notes": [
+              "Preserves green pods"
+            ]
+          },
+          "day_86": {
+            "tasks": [
+              "Check remaining pods for browning, seed hardness"
+            ],
+            "notes": [
+              "Maintains seed quality"
+            ]
+          },
+          "day_87": {
+            "tasks": [
+              "Stack cut plants/pods in dry, shaded area"
+            ],
+            "notes": [
+              "Prevents mold"
+            ]
+          },
+          "day_88": {
+            "tasks": [
+              "Cover stacked pods to shield from rain"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          },
+          "day_89": {
+            "tasks": [
+              "Ensure all mature pods collected"
+            ],
+            "notes": [
+              "Maximizes yield"
+            ]
+          },
+          "day_90": {
+            "tasks": [
+              "Start threshing by beating or machine"
+            ],
+            "notes": [
+              "Extracts seeds"
+            ]
+          },
+          "day_91": {
+            "tasks": [
+              "Dry remaining pods in sun for 5–7 days"
+            ],
+            "notes": [
+              "Reduces moisture"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_14": {
+        "title": "Harvest and Threshing",
+        "day_range": "Days 92-98",
+        "days": {
+          "day_92": {
+            "tasks": [
+              "Collect remaining mature pods or cut plants"
+            ],
+            "notes": [
+              "Completes harvest"
+            ]
+          },
+          "day_93": {
+            "tasks": [
+              "Continue threshing to extract seeds"
+            ],
+            "notes": [
+              "Minimizes seed damage"
+            ]
+          },
+          "day_94": {
+            "tasks": [
+              "Sun-dry seeds to 10–12% moisture"
+            ],
+            "notes": [
+              "Prevents spoilage"
+            ]
+          },
+          "day_95": {
+            "tasks": [
+              "Winnow seeds to remove chaff, debris"
+            ],
+            "notes": [
+              "Improves market value"
+            ]
+          },
+          "day_96": {
+            "tasks": [
+              "Inspect seeds for damage, pests, mold"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          },
+          "day_97": {
+            "tasks": [
+              "Gather airtight bags/containers for storage"
+            ],
+            "notes": [
+              "Prepares for storage"
+            ]
+          },
+          "day_98": {
+            "tasks": [
+              "Plan storage and field clearing"
+            ],
+            "notes": [
+              "Maintains productivity"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_15": {
+        "title": "Post-Harvest",
+        "day_range": "Days 99-105",
+        "days": {
+          "day_99": {
+            "tasks": [
+              "Pack dry seeds in airtight bags with neem leaves; treat next-season seeds with Thiram/Bavistin (2–3 g/kg)"
+            ],
+            "notes": [
+              "Prevents weevil damage"
+            ]
+          },
+          "day_100": {
+            "tasks": [
+              "Ensure storage cool, dry, pest-free"
+            ],
+            "notes": [
+              "Extends seed life"
+            ]
+          },
+          "day_101": {
+            "tasks": [
+              "Remove crop residues, weeds from field"
+            ],
+            "notes": [
+              "Prevents pest buildup"
+            ]
+          },
+          "day_102": {
+            "tasks": [
+              "Measure, record seed yield (kg/ha); grade seeds for market"
+            ],
+            "notes": [
+              "Plans improvements"
+            ]
+          },
+          "day_103": {
+            "tasks": [
+              "Decide on next crop/intercropping strategy"
+            ],
+            "notes": [
+              "Improves soil health"
+            ]
+          },
+          "day_104": {
+            "tasks": [
+              "Plough field lightly to incorporate residues"
+            ],
+            "notes": [
+              "Prepares for next season"
+            ]
+          },
+          "day_105": {
+            "tasks": [
+              "Discuss yield/issues with agricultural officers"
+            ],
+            "notes": [
+              "Improves cultivation"
+            ]
+          }
+        },
+        "stage_number": 9
+      },
+      "week_16": {
+        "title": "Second Harvest (if needed)",
+        "day_range": "Days 106-112",
+        "days": {
+          "day_106": {
+            "tasks": [
+              "Inspect field for newly matured brown pods"
+            ],
+            "notes": [
+              "Manages staggered maturity"
+            ]
+          },
+          "day_107": {
+            "tasks": [
+              "Hand-pick mature pods to avoid shattering"
+            ],
+            "notes": [
+              "Preserves seed quality"
+            ]
+          },
+          "day_108": {
+            "tasks": [
+              "Stack pods in dry, shaded area"
+            ],
+            "notes": [
+              "Prevents mold/pests"
+            ]
+          },
+          "day_109": {
+            "tasks": [
+              "Check for remaining green pods"
+            ],
+            "notes": [
+              "Ensures timely harvest"
+            ]
+          },
+          "day_110": {
+            "tasks": [
+              "Sun-dry new pods for 5–7 days"
+            ],
+            "notes": [
+              "Reduces moisture"
+            ]
+          },
+          "day_111": {
+            "tasks": [
+              "Thresh new pods to extract seeds"
+            ],
+            "notes": [
+              "Prepares for storage"
+            ]
+          },
+          "day_112": {
+            "tasks": [
+              "Winnow seeds to remove chaff, debris"
+            ],
+            "notes": [
+              "Improves quality"
+            ]
+          }
+        },
+        "stage_number": 8
+      },
+      "week_17": {
+        "title": "Post-Harvest and Storage",
+        "day_range": "Days 113-119",
+        "days": {
+          "day_113": {
+            "tasks": [
+              "Dry all seeds to 10–12% moisture"
+            ],
+            "notes": [
+              "Prevents spoilage"
+            ]
+          },
+          "day_114": {
+            "tasks": [
+              "Pack seeds in airtight containers with neem leaves"
+            ],
+            "notes": [
+              "Protects from weevils"
+            ]
+          },
+          "day_115": {
+            "tasks": [
+              "Inspect storage for pests/humidity"
+            ],
+            "notes": [
+              "Ensures seed longevity"
+            ]
+          },
+          "day_116": {
+            "tasks": [
+              "Remove remaining crop residues from field"
+            ],
+            "notes": [
+              "Reduces pest carryover"
+            ]
+          },
+          "day_117": {
+            "tasks": [
+              "Choose follow-up crop (e.g., mung bean, sorghum)"
+            ],
+            "notes": [
+              "Improves fertility"
+            ]
+          },
+          "day_118": {
+            "tasks": [
+              "Test soil for nutrient levels"
+            ],
+            "notes": [
+              "Guides fertilization"
+            ]
+          },
+          "day_119": {
+            "tasks": [
+              "Rest field or prepare for next planting"
+            ],
+            "notes": [
+              "Improves soil health"
+            ]
+          }
+        },
+        "stage_number": 9
+      },
+      "week_18": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 120-126",
+        "days": {
+          "day_120": {
+            "tasks": [
+              "Check stored seeds for pests/mold; fumigate with neem/approved fumigants"
+            ],
+            "notes": [
+              "Ensures seed quality"
+            ]
+          },
+          "day_121": {
+            "tasks": [
+              "Inspect storage for humidity/pest activity"
+            ],
+            "notes": [
+              "Maintains seed longevity"
+            ]
+          },
+          "day_122": {
+            "tasks": [
+              "Plough field lightly to incorporate residues"
+            ],
+            "notes": [
+              "Prepares for next season"
+            ]
+          },
+          "day_123": {
+            "tasks": [
+              "Level field for smooth sowing surface"
+            ],
+            "notes": [
+              "Improves soil structure"
+            ]
+          },
+          "day_124": {
+            "tasks": [
+              "Discuss crop rotation with agricultural officers"
+            ],
+            "notes": [
+              "Improves yields"
+            ]
+          },
+          "day_125": {
+            "tasks": [
+              "Choose follow-up crop (e.g., mung bean, sorghum)"
+            ],
+            "notes": [
+              "Enhances fertility"
+            ]
+          },
+          "day_126": {
+            "tasks": [
+              "Document management practices, yield data"
+            ],
+            "notes": [
+              "Refines techniques"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_19": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 127-133",
+        "days": {
+          "day_127": {
+            "tasks": [
+              "Check seeds for weevils/spoilage; use neem/fumigants"
+            ],
+            "notes": [
+              "Protects seed quality"
+            ]
+          },
+          "day_128": {
+            "tasks": [
+              "Ensure storage cool, dry, pest-free"
+            ],
+            "notes": [
+              "Extends shelf life"
+            ]
+          },
+          "day_129": {
+            "tasks": [
+              "Collect soil samples for nutrient testing"
+            ],
+            "notes": [
+              "Guides fertilization"
+            ]
+          },
+          "day_130": {
+            "tasks": [
+              "Mix remaining crop residues into soil"
+            ],
+            "notes": [
+              "Enriches fertility"
+            ]
+          },
+          "day_131": {
+            "tasks": [
+              "Discuss soil test results with agricultural officers"
+            ],
+            "notes": [
+              "Improves crop selection"
+            ]
+          },
+          "day_132": {
+            "tasks": [
+              "Finalize plans for next crop/intercropping"
+            ],
+            "notes": [
+              "Optimizes land use"
+            ]
+          },
+          "day_133": {
+            "tasks": [
+              "Update records with soil test, crop plans"
+            ],
+            "notes": [
+              "Aids future planning"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_20": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 134-140",
+        "days": {
+          "day_134": {
+            "tasks": [
+              "Inspect seeds for pest damage/mold; fumigate if needed"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          },
+          "day_135": {
+            "tasks": [
+              "Verify storage conditions optimal"
+            ],
+            "notes": [
+              "Preserves viability"
+            ]
+          },
+          "day_136": {
+            "tasks": [
+              "Perform light ploughing to maintain soil structure"
+            ],
+            "notes": [
+              "Prepares for planting"
+            ]
+          },
+          "day_137": {
+            "tasks": [
+              "Remove remaining weeds/debris"
+            ],
+            "notes": [
+              "Prevents pest buildup"
+            ]
+          },
+          "day_138": {
+            "tasks": [
+              "Discuss field prep/crop rotation with officers"
+            ],
+            "notes": [
+              "Optimizes strategy"
+            ]
+          },
+          "day_139": {
+            "tasks": [
+              "Plan fertilizer application for next crop"
+            ],
+            "notes": [
+              "Guides nutrient management"
+            ]
+          },
+          "day_140": {
+            "tasks": [
+              "Log field prep, expert advice"
+            ],
+            "notes": [
+              "Aids planning"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_21": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 141-147",
+        "days": {
+          "day_141": {
+            "tasks": [
+              "Check seeds for pests/spoilage; use neem/fumigants"
+            ],
+            "notes": [
+              "Maintains seed quality"
+            ]
+          },
+          "day_142": {
+            "tasks": [
+              "Ensure storage free from moisture/pests"
+            ],
+            "notes": [
+              "Protects longevity"
+            ]
+          },
+          "day_143": {
+            "tasks": [
+              "Level field for even sowing conditions"
+            ],
+            "notes": [
+              "Improves seedbed"
+            ]
+          },
+          "day_144": {
+            "tasks": [
+              "Add compost/manure to boost fertility"
+            ],
+            "notes": [
+              "Enriches soil"
+            ]
+          },
+          "day_145": {
+            "tasks": [
+              "Review soil health/crop rotation with officers"
+            ],
+            "notes": [
+              "Optimizes results"
+            ]
+          },
+          "day_146": {
+            "tasks": [
+              "Plan irrigation setup for next crop"
+            ],
+            "notes": [
+              "Ensures water availability"
+            ]
+          },
+          "day_147": {
+            "tasks": [
+              "Document field prep, planning decisions"
+            ],
+            "notes": [
+              "Aids future reference"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_22": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 148-154",
+        "days": {
+          "day_148": {
+            "tasks": [
+              "Inspect seeds for weevils/mold; fumigate if needed"
+            ],
+            "notes": [
+              "Protects quality"
+            ]
+          },
+          "day_149": {
+            "tasks": [
+              "Confirm storage dry, pest-free"
+            ],
+            "notes": [
+              "Preserves quality"
+            ]
+          },
+          "day_150": {
+            "tasks": [
+              "Plough lightly to maintain soil aeration"
+            ],
+            "notes": [
+              "Prepares for planting"
+            ]
+          },
+          "day_151": {
+            "tasks": [
+              "Remove remaining debris/weeds"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          },
+          "day_152": {
+            "tasks": [
+              "Seek guidance on pest management for next crop"
+            ],
+            "notes": [
+              "Improves control"
+            ]
+          },
+          "day_153": {
+            "tasks": [
+              "Confirm next crop/intercropping strategy"
+            ],
+            "notes": [
+              "Improves soil health"
+            ]
+          },
+          "day_154": {
+            "tasks": [
+              "Update records with field/storage practices"
+            ],
+            "notes": [
+              "Aids future use"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_23": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 155-161",
+        "days": {
+          "day_155": {
+            "tasks": [
+              "Check seeds for pest/mold; apply neem/fumigants"
+            ],
+            "notes": [
+              "Protects quality"
+            ]
+          },
+          "day_156": {
+            "tasks": [
+              "Ensure storage conditions optimal"
+            ],
+            "notes": [
+              "Extends shelf life"
+            ]
+          },
+          "day_157": {
+            "tasks": [
+              "Re-test soil for nutrient levels if needed"
+            ],
+            "notes": [
+              "Confirms nutrient status"
+            ]
+          },
+          "day_158": {
+            "tasks": [
+              "Mix remaining residues into soil"
+            ],
+            "notes": [
+              "Enhances organic matter"
+            ]
+          },
+          "day_159": {
+            "tasks": [
+              "Discuss final prep/crop choices with officers"
+            ],
+            "notes": [
+              "Optimizes planning"
+            ]
+          },
+          "day_160": {
+            "tasks": [
+              "Finalize fertilizer application plan"
+            ],
+            "notes": [
+              "Guides nutrient use"
+            ]
+          },
+          "day_161": {
+            "tasks": [
+              "Log activities, expert recommendations"
+            ],
+            "notes": [
+              "Aids future planning"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_24": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 162-168",
+        "days": {
+          "day_162": {
+            "tasks": [
+              "Inspect seeds for pest damage/spoilage; fumigate if needed"
+            ],
+            "notes": [
+              "Maintains quality"
+            ]
+          },
+          "day_163": {
+            "tasks": [
+              "Verify storage pest-free, dry"
+            ],
+            "notes": [
+              "Protects viability"
+            ]
+          },
+          "day_164": {
+            "tasks": [
+              "Perform final light ploughing"
+            ],
+            "notes": [
+              "Readies for sowing"
+            ]
+          },
+          "day_165": {
+            "tasks": [
+              "Level field for smooth seedbed"
+            ],
+            "notes": [
+              "Improves sowing"
+            ]
+          },
+          "day_166": {
+            "tasks": [
+              "Review field readiness/crop plans with officers"
+            ],
+            "notes": [
+              "Ensures readiness"
+            ]
+          },
+          "day_167": {
+            "tasks": [
+              "Confirm irrigation strategy for next crop"
+            ],
+            "notes": [
+              "Ensures water supply"
+            ]
+          },
+          "day_168": {
+            "tasks": [
+              "Document field prep, storage checks"
+            ],
+            "notes": [
+              "Aids future reference"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_25": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 169-175",
+        "days": {
+          "day_169": {
+            "tasks": [
+              "Check seeds for pests/mold; apply fumigants/neem"
+            ],
+            "notes": [
+              "Ensures quality"
+            ]
+          },
+          "day_170": {
+            "tasks": [
+              "Ensure storage cool, dry, pest-free"
+            ],
+            "notes": [
+              "Preserves quality"
+            ]
+          },
+          "day_171": {
+            "tasks": [
+              "Remove final weeds/debris"
+            ],
+            "notes": [
+              "Keeps field clean"
+            ]
+          },
+          "day_172": {
+            "tasks": [
+              "Add compost/manure if needed"
+            ],
+            "notes": [
+              "Boosts fertility"
+            ]
+          },
+          "day_173": {
+            "tasks": [
+              "Finalize crop rotation/soil plans with officers"
+            ],
+            "notes": [
+              "Optimizes results"
+            ]
+          },
+          "day_174": {
+            "tasks": [
+              "Confirm next crop; prepare seeds/inputs"
+            ],
+            "notes": [
+              "Readies for sowing"
+            ]
+          },
+          "day_175": {
+            "tasks": [
+              "Update records with final prep, advice"
+            ],
+            "notes": [
+              "Aids future use"
+            ]
+          }
+        },
+        "stage_number": 10
+      },
+      "week_26": {
+        "title": "Field Maintenance and Planning",
+        "day_range": "Days 176-182",
+        "days": {
+          "day_176": {
+            "tasks": [
+              "Inspect seeds for pest/mold; fumigate with neem/approved methods"
+            ],
+            "notes": [
+              "Protects quality"
+            ]
+          },
+          "day_177": {
+            "tasks": [
+              "Confirm storage conditions optimal"
+            ],
+            "notes": [
+              "Maintains longevity"
+            ]
+          },
+          "day_178": {
+            "tasks": [
+              "Perform final ploughing for next season"
+            ],
+            "notes": [
+              "Readies soil"
+            ]
+          },
+          "day_179": {
+            "tasks": [
+              "Level field for even seedbed"
+            ],
+            "notes": [
+              "Improves sowing"
+            ]
+          },
+          "day_180": {
+            "tasks": [
+              "Discuss final field prep/crop strategies with officers"
+            ],
+            "notes": [
+              "Ensures readiness"
+            ]
+          },
+          "day_181": {
+            "tasks": [
+              "Finalize fertilizer application plan"
+            ],
+            "notes": [
+              "Guides nutrient use"
+            ]
+          },
+          "day_182": {
+            "tasks": [
+              "Document activities, yield data for future reference"
+            ],
+            "notes": [
+              "Improves techniques"
+            ]
+          }
+        },
+        "stage_number": 10
+      }
+    },
+    "additional_notes": [
+      "ICPL 332 WR yields 1,500–2,000 kg/ha, resists Fusarium wilt, sterility mosaic, tolerates Helicoverpa pod borer",
+      "Medium-duration (150–180 days), 122 days to 50% flowering, indeterminate growth to 2 m",
+      "Green pods with purple streaks, light-yellow seeds with high market demand, good milling recovery",
+      "Rhizobium treatment enhances nitrogen fixation, reducing fertilizer needs",
+      "Non-lodging, upright plants with good branching suit red/black soils in Telangana",
+      "Post-harvest drying to 10% moisture, airtight storage with neem prevents bruchid/weevil damage",
+      "Grading, packaging in 50 kg gunny bags with labeling improves market price",
+      "Economic benefits from stable yields under stress, early maturity, and low disease losses"
+    ]
+  }
+]

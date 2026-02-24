@@ -1,0 +1,80 @@
+{
+  "expo": {
+    "name": "Farmacy",
+    "slug": "farmacy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/farmer_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/farmer_icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nex.Farmacy",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app needs access to location to provide weather information for your area.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "This app needs access to location to provide weather information for your area."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/farmer_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nex.Farmacy",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "POST_NOTIFICATIONS",
+        "RECEIVE_BOOT_COMPLETED",
+        "RECEIVE_SMS",
+        "READ_SMS"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/farmer_icon.png"
+    },
+    "scheme": "farmacy",
+    "plugins": [
+      "expo-router",
+      "expo-camera",
+      "expo-notifications",
+      "expo-location",
+      "expo-navigation-bar",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/farmer_icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-build-properties",
+      "@react-native-firebase/app",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "developmentClient": {
+      "silentLaunch": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "701ba656-0521-4140-afeb-7620d69e0857"
+      }
+    },
+    "owner": "vicky14251"
+  }
+}

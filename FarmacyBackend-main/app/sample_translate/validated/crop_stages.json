@@ -1,0 +1,1131 @@
+[
+  {
+    "crop_code": "Tellahamsa (8619)",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and puddling.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, crop residues, and stones to ensure a clean seedbed. This step is crucial for uniform germination, strong seedling establishment, and reducing the risk of pests and diseases carried over from previous crops."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2–3 times to a depth of 10–15 cm. This breaks up compacted soil, improves aeration, and allows for the incorporation of organic matter (like compost or farmyard manure), which enhances soil fertility and root development."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after ploughing and before puddling. Uniform leveling ensures even water distribution, preventing waterlogging in low spots and drought stress in high spots, both of which can hurt crop establishment and yield."
+            },
+            "bunds": {
+              "title": "Bunds",
+              "description": "Construct or repair bunds (raised borders) around the field. Strong, intact bunds are essential for retaining irrigation water, preventing runoff, and facilitating water management throughout the crop cycle."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water and puddle (churn) the soil to create a soft, muddy bed. Puddling suppresses weeds, reduces water percolation losses, and prepares the soil for easy transplanting, standard practice for rice in Telangana's canal and tank-irrigated areas."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and disease resistance.",
+          "sub_steps": {
+            "select_seeds": {
+              "title": "Select Seeds",
+              "description": "Use only healthy, certified Tella Hamsa seeds for high germination and genetic purity. Certified seeds reduce the risk of seed-borne diseases and ensure uniform crop stands."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Soak seeds in clean water for 24 hours, then wrap them in a wet cloth for 24–36 hours until they sprout. Treat sprouted seeds with a fungicide like carbendazim (2g/kg seed) to protect against seed-borne fungi and diseases."
+            },
+            "nursery_bed": {
+              "title": "Nursery Bed",
+              "description": "Prepare a raised nursery bed covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate. Sow sprouted seeds evenly and irrigate regularly to produce healthy, disease-free seedlings for transplanting."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Transplanting",
+        "image_urls": [],
+        "description": {
+          "overview": "Transplant healthy seedlings at the right age and spacing for optimal establishment and growth.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings when they are 15–25 days old. Younger seedlings (closer to 15 days) establish more vigorously, while older ones (up to 25 days) may be used if nursery growth is slow."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Plant seedlings at a close spacing of 15 x 15 cm. This denser spacing encourages more tillering (production of productive shoots) and rapid canopy closure, which suppresses weeds and can improve yields."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Place seedlings at a depth of 2–4 cm. Shallow planting ensures quick establishment and reduces transplant shock, promoting strong early growth."
+            },
+            "water_management": {
+              "title": "Water Management",
+              "description": "Maintain a shallow water layer (about 5 cm) in the field after transplanting. This supports seedling establishment, minimizes weed germination, and reduces the risk of transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Apply well-rotted farmyard manure or compost (5–10 tons/ha) during land preparation. This improves soil structure, water retention, and nutrient availability."
+            },
+            "fertilizer_dosages": {
+              "title": "Fertilizer Dosages",
+              "description": "Kharif Season - Nitrogen (N): 80 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 40 kg/ha. Rabi Season - Nitrogen (N): 120 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 40 kg/ha. Higher N in Rabi due to cooler conditions and longer crop duration."
+            },
+            "top_dressing": {
+              "title": "Top Dressing",
+              "description": "Apply nitrogen and potassium in two or three splits: Basal (at transplanting), At active tillering (25–30 days after transplanting), At panicle initiation (45–50 days after transplanting). This matches nutrient supply to crop demand and maximizes yield."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) if deficiency symptoms (bronzing, stunted growth) are observed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while conserving water resources.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a 5–7 cm water depth during key stages like tillering and flowering. Tella Hamsa is more water-efficient than traditional varieties, making it suitable for areas with limited irrigation."
+            },
+            "water_saving_methods": {
+              "title": "Water-Saving Methods",
+              "description": "Tella Hamsa adapts well to direct seeding, wet direct seeding, and drum seeding, which save water and labor compared to traditional transplanting."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Practice AWD by letting the field dry for a few days before re-irrigating, especially after the vegetative stage, to further save water without yield loss."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water from the field 7–10 days before harvest to allow the soil to dry, making harvesting easier and reducing grain moisture."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Control weeds, pests, and diseases to protect crop health and maximize yield potential.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "Manual/Mechanical Weed Control",
+              "description": "Perform early weeding (20–30 days after transplanting) by hand or with mechanical weeders (such as three-row power weeders) to minimize weed competition and labor."
+            },
+            "weed_control_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Apply pre- and post-emergence herbicides as needed: Pendimethalin 38.7% CS: 1000 g/ha (e.g., Dost Super, Panida Grande, Gadar Max, Nagastra Strong, Pandora Herbicide, Pendamil Super), Pyrazosulfuron-ethyl 10% WP: 20 g/ha (e.g., Multiplex Pyrosulf, TAG Vanish), Oxadiargyl 80% WP: 100 g/ha. Always follow recommended dosages and safety precautions."
+            },
+            "pest_and_disease_control": {
+              "title": "Pest and Disease Control",
+              "description": "Tella Hamsa is high-yielding but susceptible to bacterial blight and blast. Monitor the crop regularly for symptoms (yellowing, leaf lesions, wilting). Apply fungicides (e.g., tricyclazole for blast) and recommended insecticides if pest or disease thresholds are exceeded. Improved Tella Hamsa lines with resistance to these diseases are being developed through gene pyramiding."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest the crop at the right time using appropriate methods to maximize grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Tella Hamsa matures in about 117–118 days after sowing, making it an early-maturing variety ideal for tight cropping schedules and water-saving strategies."
+            },
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Harvest when most grains on the panicle are golden yellow and hard, indicating physiological maturity and optimal grain quality."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Cut the plants close to the ground using a sickle for manual harvesting or a mechanical harvester for large fields. Stack bundles upright for a day or two to allow further field drying if needed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate the grains from the stalks by beating or using a mechanical thresher soon after harvest to minimize losses."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff, straw, and debris using winnowing and sieving to ensure clean, market-ready grain."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains in the sunlight on a clean surface or use a mechanical dryer until the moisture content drops to about 14%. Proper drying is essential to prevent fungal growth and spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry bags or bins in a cool, ventilated place. Use airtight containers or gunny bags and keep them off the ground to avoid moisture absorption and pest infestation. Inspect storage regularly for pests or mold."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "RNR 15048",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field through proper clearing, ploughing, puddling, leveling, and infrastructure development for optimal rice cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, previous crop residues, and stones. This is crucial for preventing pest and disease carryover and ensuring a uniform seedbed for healthy seedling establishment."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the land 2–3 times to a depth of about 10 cm. This loosens the soil, improves aeration, and incorporates organic matter, which boosts soil fertility and structure."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water for a few days to soften the soil. Puddle (churn) the soil using a harrow or puddler to create a soft, muddy bed. Puddling suppresses weeds, reduces water percolation, and prepares the soil for easy transplanting."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after puddling to ensure uniform water distribution. Proper leveling prevents waterlogging and dry patches, both of which can affect crop establishment and growth."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) around the field to retain irrigation water and prevent runoff. Strong bunds are essential for maintaining flooded conditions required for rice."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Build channels for efficient water management, allowing for controlled irrigation and drainage throughout the crop cycle. This helps in timely water application and removal, especially during heavy rains or before harvest."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select high-quality certified seeds and prepare them properly for optimal germination and disease protection.",
+          "sub_steps": {
+            "select_quality_seeds": {
+              "title": "Select Quality Seeds",
+              "description": "Use certified Telangana Sona (RNR 15048) seeds that are mature, clean, and have a high germination rate. Certified seeds ensure varietal purity and vigor, leading to uniform crop stands."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Soak seeds in clean water for 24 hours, then incubate for 24–36 hours until sprouting. Treat the sprouted seeds with a fungicide like carbendazim (2g/kg seed) to protect against seed-borne diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate to promote healthy seedling growth. Sow sprouted seeds evenly and irrigate regularly to ensure strong, disease-free seedlings."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Transplanting",
+        "image_urls": [],
+        "description": {
+          "overview": "Transplant healthy seedlings at optimal age and spacing to ensure proper establishment and maximum yield potential.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings that are 21–25 days old. Younger seedlings establish quickly, tiller more, and produce higher yields."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 20 cm between seedlings. This ensures adequate sunlight, airflow, and nutrient access, reducing disease risk and promoting strong tillering."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Place seedlings at a depth of about 5 cm. Shallow planting encourages quick root establishment and robust early growth."
+            },
+            "water_management_during_transplanting": {
+              "title": "Water Management during Transplanting",
+              "description": "Maintain a shallow water layer (about 5 cm) in the field immediately after transplanting to support seedling establishment and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply balanced fertilizers and nutrients in proper timing to support optimal crop growth and maximize yield potential.",
+          "sub_steps": {
+            "basal_dose": {
+              "title": "Basal Dose",
+              "description": "Incorporate organic manure or compost (5–10 tons/ha) during land preparation to enhance soil fertility and structure."
+            },
+            "standard_fertilizer_dosage": {
+              "title": "Standard Fertilizer Dosage (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg/ha, Phosphorus (P₂O₅): 60 kg/ha, Potassium (K₂O): 50 kg/ha"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and half of the potassium as basal before transplanting. Split nitrogen and the remaining potassium into two or three top dressings: at active tillering and panicle initiation stages, to match the crop's nutrient demand and maximize yield."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) if deficiency symptoms (bronzing, stunted growth) are observed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to maintain optimal growing conditions while conserving water resources.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Keep the field flooded with 5–7 cm of water during most of the crop period, especially during tillering and flowering, to support optimal growth and suppress weeds."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Where water is limited, practice AWD by allowing the field to dry for a few days before re-irrigating, which improves water use efficiency without reducing yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water from the field 7–10 days before harvesting to allow the soil to dry, which facilitates easy harvesting and threshing and reduces grain moisture content."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management approaches to protect crop health and maximize yield.",
+          "sub_steps": {
+            "weed_control_manual": {
+              "title": "Manual/Mechanical Weed Control",
+              "description": "Conduct early weeding (20–30 days after transplanting) by hand or with mechanical weeders to minimize competition for nutrients and water."
+            },
+            "weed_control_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Use pre- and post-emergence herbicides as needed, such as: Pendimethalin (e.g., Dost Super, Panida Grande, Gadar Max, Nagastra Strong, Pandora Herbicide, Pendamil Super), Pyrazosulfuron-ethyl (e.g., Multiplex Pyrosulf, TAG Vanish, Pyrazosulfuron Ethyl 10% WP), Oxadiargyl (80% WP, available from major agrochemical suppliers)"
+            },
+            "pest_and_disease_control": {
+              "title": "Pest and Disease Control",
+              "description": "Monitor the crop regularly for pests and diseases. Telangana Sona is resistant to blast and has a lower incidence of brown plant hopper (BPH) than older varieties, reducing the need for frequent pesticide use. If infestations occur, use appropriate pesticides or biocontrol methods as per agricultural extension recommendations."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest the crop at the right maturity stage using appropriate methods to ensure maximum grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Telangana Sona matures in about 120–125 days after sowing (or about 100–110 days after transplanting, depending on seedling age)."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when most grains are golden yellow and hard. Timely harvesting prevents grain shattering, quality loss, and pest or weather damage."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut the plants close to the ground using a sickle for manual harvesting or a mechanical harvester for large fields. Stack bundles upright for a day or two to allow further field drying if needed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality, prevent losses, and ensure long-term storage stability.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate the grains from the straw by beating or using a mechanical thresher. Thresh soon after harvest to minimize losses from shattering or rodents."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff, straw, and debris using winnowing and sieving to ensure clean grain for storage and milling."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying is essential to prevent fungal growth and spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, and pest-free containers or bags in a well-ventilated area. Use airtight containers or gunny bags and keep them off the floor to prevent moisture absorption and pest attacks. Regularly inspect storage for pests or mold."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "BPT 5204/Improved Samba Mahsuri",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field through comprehensive cleaning, ploughing, puddling, leveling, and infrastructure development for optimal rice cultivation.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "Field Cleaning",
+              "description": "Begin by removing all weeds, crop residues, and stones from the field. This prevents competition for nutrients and reduces the risk of pests and diseases harboring in leftover debris."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the land 2–3 times to a depth of 10–15 cm. This breaks up compacted soil, improves aeration, and helps incorporate organic matter. Ploughing should be done when the soil has optimum moisture (not too wet or dry)."
+            },
+            "flooding_and_puddling": {
+              "title": "Flooding and Puddling",
+              "description": "Flood the field with water for a few days to soften the soil. Puddle the soil using a harrow or puddler to create a soft, muddy bed. Puddling helps control weeds, minimizes water percolation losses, and creates a uniform surface for transplanting."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "After puddling, level the field using a wooden or laser leveler. Uniform leveling ensures even water distribution, prevents waterlogging in low spots, and avoids dry patches that can hinder crop establishment."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) around the field to retain irrigation water and prevent runoff. Strong bunds are critical for maintaining the shallow flooded conditions rice requires."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Design and maintain field channels for efficient irrigation and drainage. Proper channels allow for controlled water movement, quick drainage during heavy rains, and easy management during the crop cycle."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select certified seeds and prepare them properly through soaking, sprouting, and treatment for optimal germination and disease protection.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "Certified Seed Selection",
+              "description": "Use certified, disease-free seeds of Samba Mahsuri or Improved Samba Mahsuri (ISM). Certified seeds ensure genetic purity, high germination rates, and vigor."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "For 1 hectare, use 30–40 kg of seed."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "Seed Soaking and Incubation",
+              "description": "Soak seeds in clean water for 24 hours. After soaking, drain and wrap the seeds in a wet cloth or gunny bag for 24–36 hours until they sprout."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Treat sprouted seeds with a recommended fungicide such as carbendazim (2g/kg seed) or tricyclazole to protect against seed-borne diseases like blast and seedling rot."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and 2.5 kg zinc sulphate per 1000 m². Sow sprouted seeds evenly and irrigate the nursery regularly to ensure uniform and healthy seedling growth."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Transplanting",
+        "image_urls": [],
+        "description": {
+          "overview": "Transplant healthy seedlings at optimal age and spacing with proper techniques to ensure good establishment and maximum yield potential.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant seedlings when they are 21–25 days old. Younger seedlings establish faster, tiller more, and produce higher yields."
+            },
+            "pulling_seedlings": {
+              "title": "Pulling Seedlings",
+              "description": "Uproot seedlings gently to avoid root damage. Bundle them in small bunches and keep the roots moist until transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 15 cm or 20 x 20 cm between seedlings. This provides enough room for tillering, reduces competition, and improves air circulation."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant each seedling at a depth of 3–5 cm. Shallow planting encourages quick root establishment and vigorous early growth."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "Number of Seedlings per Hill",
+              "description": "Place 2–3 seedlings per hill for optimal plant population and yield."
+            },
+            "water_layer": {
+              "title": "Water Layer",
+              "description": "Maintain a shallow water layer (about 5 cm) immediately after transplanting to help seedlings establish and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply balanced fertilizers and nutrients through proper timing and split applications to support optimal crop growth and yield.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "Basal Application",
+              "description": "Apply well-rotted FYM or compost (5–10 tons/ha) during final land preparation to improve soil structure and fertility."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "Recommended Fertilizer Dose (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg, Phosphorus (P₂O₅): 60 kg, Potassium (K₂O): 40–50 kg"
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply 1/3 of nitrogen, full phosphorus, and 1/2 potassium as basal at transplanting. Apply 1/3 nitrogen and 1/4 potassium at active tillering (25–30 DAT). Apply remaining nitrogen and potassium at panicle initiation (45–50 DAT)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) as basal if deficiency symptoms (bronzing, stunted growth) are observed. Foliar spray of iron or magnesium may be given if chlorosis appears."
+            },
+            "lime_application": {
+              "title": "Lime Application",
+              "description": "In acidic soils, apply lime as per soil test recommendations to correct pH and improve nutrient uptake."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Maintain proper water levels throughout the crop cycle, ensuring adequate supply during critical stages while practicing water conservation where needed.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a standing water depth of 5–7 cm throughout the crop period, especially during tillering and flowering. Avoid deep water (>10 cm), which can suppress tillering."
+            },
+            "critical_stages": {
+              "title": "Critical Stages",
+              "description": "Ensure adequate water at active tillering, panicle initiation, and flowering stages, as water stress during these periods can severely reduce yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to allow the field to dry, which eases harvesting, reduces lodging, and helps grains mature uniformly."
+            },
+            "water_saving": {
+              "title": "Water Saving",
+              "description": "In areas with water scarcity, alternate wetting and drying (AWD) can be practiced to save water without yield loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement integrated management strategies for weeds, pests, and diseases to protect crop health and maximize yield potential.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "Manual/Mechanical Weed Management",
+              "description": "Hand weeding or using cono weeders at 20–30 days after transplanting (DAT) and again at 40–45 DAT."
+            },
+            "weed_management_chemical": {
+              "title": "Chemical Weed Control",
+              "description": "Pre-emergence: Pendimethalin (1.0–1.5 kg a.i./ha) within 3 days after transplanting. Post-emergence: Pyrazosulfuron-ethyl (15–20 g a.i./ha) at 15–20 DAT if weeds persist."
+            },
+            "integrated_weed_management": {
+              "title": "Integrated Weed Management",
+              "description": "Combine manual, mechanical, and chemical methods for best results."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Major pests include yellow stem borer, leaf folder, brown plant hopper, and gall midge. Regularly inspect fields for pest incidence and natural enemies. Use recommended insecticides only when pest populations exceed economic threshold levels. Rotate chemicals to avoid resistance."
+            },
+            "disease_management": {
+              "title": "Disease Management",
+              "description": "Traditional Samba Mahsuri is susceptible to bacterial blight, blast, and sheath blight. Improved Samba Mahsuri (ISM) is highly resistant to bacterial blight (Xa21, xa13, xa5 genes). Avoid excessive nitrogen to reduce disease risk. Practice clean cultivation and remove infected plant debris. Use fungicides (e.g., tricyclazole for blast) as needed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest the crop at optimal maturity using appropriate methods to ensure maximum grain quality and minimize losses.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Samba Mahsuri matures in 135–140 days after sowing."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when about 80–85% of the grains on the panicle are golden yellow and hard. Delayed harvesting can lead to grain shattering and quality loss."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut plants close to the ground using a sickle for manual harvesting or a combine harvester for large fields."
+            },
+            "post_harvest_handling": {
+              "title": "Post-Harvest Handling",
+              "description": "Bundle and stack harvested plants upright in the field for 1–2 days to allow further drying and uniform ripening."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Process and store the harvested grain properly to maintain quality, prevent losses, and ensure long-term storage stability.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from straw by beating bundles on a hard surface or using a mechanical thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Winnow and sieve to remove chaff, straw, and debris, ensuring only clean grain is stored."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying prevents fungal growth and grain spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, pest-free bags or bins. Use gunny bags or airtight containers and keep them in a well-ventilated, cool, and dry place. Fumigate or use natural repellents if necessary to prevent pest infestation."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "HMT Rice",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and infrastructure development.",
+          "sub_steps": {
+            "field_cleaning": {
+              "title": "Field Cleaning",
+              "description": "Remove all weeds, crop residues, and stones to ensure a clean seedbed. This reduces pest and disease risk and supports uniform crop establishment."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2–3 times to a depth of 10–15 cm. The first ploughing is done dry, and the second with water to identify and level high and low spots. This loosens the soil, improves aeration, and incorporates organic matter."
+            },
+            "leveling": {
+              "title": "Leveling",
+              "description": "Level the field after ploughing and puddling. Uneven fields consume more water and can cause patchy growth. Use a wooden or laser level for uniformity."
+            },
+            "filling_cracks": {
+              "title": "Filling Cracks",
+              "description": "In soils with cracks, do shallow tillage before soaking to prevent water loss below the root zone. For clayey soils, puddling creates a hard pan that helps retain water."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Construct and repair bunds (raised borders) to retain irrigation water and prevent runoff. Bunds should be compact and high enough to avoid overflow during rain. Seal rat holes and cracks to minimize water loss."
+            },
+            "field_channels": {
+              "title": "Field Channels",
+              "description": "Build channels for efficient irrigation and drainage. This ensures nutrients are not lost and water can be delivered or drained as needed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and disease resistance through proper treatment and nursery management.",
+          "sub_steps": {
+            "certified_seed_selection": {
+              "title": "Certified Seed Selection",
+              "description": "Use certified, disease-free HMT seeds for genetic purity and high germination rates."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 30–40 kg of seed per hectare for nursery sowing."
+            },
+            "seed_soaking_and_incubation": {
+              "title": "Seed Soaking and Incubation",
+              "description": "Soak seeds in clean water for 24 hours, then drain and wrap in a wet cloth or gunny bag for 24–36 hours until sprouting."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Treat sprouted seeds with a fungicide such as carbendazim (2g/kg seed) to protect against seed-borne diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare raised nursery beds covering about 1/20th of the main field area. Mix in well-decomposed farmyard manure (FYM) and, if needed, zinc sulphate. Sow sprouted seeds evenly and irrigate regularly to ensure healthy seedling growth."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Transplanting",
+        "image_urls": [],
+        "description": {
+          "overview": "Transplant healthy seedlings at the optimal age with proper spacing and depth to ensure good establishment and yield.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant healthy seedlings at 21–25 days old for best establishment and yield."
+            },
+            "pulling_seedlings": {
+              "title": "Pulling Seedlings",
+              "description": "Uproot seedlings gently to avoid root damage. Bundle in small bunches and keep roots moist until transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Maintain a spacing of 20 x 15 cm or 20 x 20 cm between seedlings. This promotes tillering and reduces competition."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant seedlings at a depth of 3–5 cm. Shallow planting encourages quick root establishment and vigorous early growth."
+            },
+            "number_of_seedlings_per_hill": {
+              "title": "Number of Seedlings per Hill",
+              "description": "Place 2–3 seedlings per hill for optimal plant population and yield."
+            },
+            "water_layer": {
+              "title": "Water Layer",
+              "description": "Maintain a shallow water layer (about 5 cm) immediately after transplanting to help seedlings establish and minimize transplant shock."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply balanced nutrition through organic and inorganic fertilizers with proper timing to maximize yield and maintain soil health.",
+          "sub_steps": {
+            "basal_application": {
+              "title": "Basal Application",
+              "description": "Apply well-rotted FYM or compost (5–10 t/ha) during land preparation to improve soil structure and fertility."
+            },
+            "recommended_fertilizer_dose": {
+              "title": "Recommended Fertilizer Dose (per hectare)",
+              "description": "Nitrogen (N): 100–120 kg, Phosphorus (P₂O₅): 60 kg, Potassium (K₂O): 40–50 kg"
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply 1/3 of nitrogen, full phosphorus, and 1/2 potassium as basal at transplanting. Apply 1/3 nitrogen and 1/4 potassium at active tillering (25–30 DAT). Apply remaining nitrogen and potassium at panicle initiation (45–50 DAT)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "Apply zinc sulphate (25 kg/ha) as basal if deficiency symptoms are observed (bronzing, stunted growth)."
+            },
+            "integrated_nutrient_management": {
+              "title": "Integrated Nutrient Management",
+              "description": "Combine organic (FYM, vermicomposting) and inorganic fertilizers for higher yield and soil health. Substituting 25–50% N with FYM in Kharif and applying full NPK in Rabi gives the best results."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Maintain optimal water levels throughout the crop cycle with special attention to critical growth stages.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain a standing water depth of 5–7 cm throughout the crop period, especially during tillering and flowering. Avoid deep water (>10 cm), which can suppress tillering."
+            },
+            "critical_stages": {
+              "title": "Critical Stages",
+              "description": "Ensure adequate water at active tillering, panicle initiation, and flowering stages, as water stress during these periods can severely reduce yield."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to allow the field to dry, which eases harvesting, reduces lodging, and helps grains mature uniformly."
+            },
+            "water_saving": {
+              "title": "Water Saving",
+              "description": "In water-scarce areas, practice alternate wetting and drying (AWD) to save water without yield loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement integrated management strategies to control weeds, pests, and diseases for optimal crop health and yield.",
+          "sub_steps": {
+            "weed_management_manual": {
+              "title": "Weed Management - Manual/Mechanical",
+              "description": "Hand weeding or using cono weeders at 20–30 days after transplanting (DAT) and again at 40–45 DAT is effective."
+            },
+            "weed_management_chemical": {
+              "title": "Weed Management - Chemical Control",
+              "description": "Pre-emergence: Pendimethalin (1.0–1.5 kg a.i./ha) within 3 days after transplanting. Post-emergence: Pyrazosulfuron-ethyl (15–20 g a.i./ha) at 15–20 DAT if weeds persist."
+            },
+            "integrated_weed_management": {
+              "title": "Integrated Weed Management",
+              "description": "Combine manual, mechanical, and chemical methods for best results."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Major Pests: Yellow stem borer, leaf folder, brown planthopper, and gall midge. Regularly inspect fields for pest incidence and natural enemies. Use recommended insecticides only when pest populations exceed threshold levels. Rotate chemicals to avoid resistance."
+            },
+            "disease_management": {
+              "title": "Disease Management",
+              "description": "Common Diseases: HMT rice is moderately susceptible to blast, bacterial blight, and sheath blight. Avoid excessive nitrogen to reduce disease risk. Practice clean cultivation and remove infected plant debris. Use fungicides (e.g., tricyclazole for blast) as needed."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest at the right time using proper methods to ensure maximum yield and grain quality.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "HMT rice matures in about 130–135 days after sowing."
+            },
+            "harvest_timing": {
+              "title": "Harvest Timing",
+              "description": "Harvest when about 80–85% of the grains on the panicle are golden yellow and hard. Delayed harvesting can lead to grain shattering and quality loss."
+            },
+            "harvest_method": {
+              "title": "Harvest Method",
+              "description": "Cut plants close to the ground using a sickle for manual harvesting or a combine harvester for large fields."
+            },
+            "post_harvest_handling": {
+              "title": "Post-Harvest Handling",
+              "description": "Bundle and stack harvested plants upright in the field for 1–2 days to allow further drying and uniform ripening."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Properly process and store the harvested rice to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from straw by beating bundles on a hard surface or using a mechanical thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Winnow and sieve to remove chaff, straw, and debris, ensuring only clean grain is stored."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry the grains under sunlight or in a mechanical dryer to reduce the moisture content to about 14%. Proper drying prevents fungal growth and grain spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried rice in clean, dry, pest-free bags or bins. Use gunny bags or airtight containers and keep them in a well-ventilated, cool, and dry place. Fumigate or use natural repellents if necessary to prevent pest infestation."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "KNM 118",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field for optimal rice cultivation through proper clearing, ploughing, leveling, and infrastructure development.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all leftover plants, weeds, stones, and trash. This prevents pests and diseases from last crop affecting the new crop."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2 or 3 times to loosen the soil about 10–15 cm deep. This helps roots grow well and improves soil air and water movement."
+            },
+            "add_organic_matter": {
+              "title": "Add Organic Matter",
+              "description": "Mix in well-rotted farmyard manure (FYM) or compost during ploughing. This enriches the soil with nutrients and improves soil texture."
+            },
+            "level_the_field": {
+              "title": "Level the Field",
+              "description": "After ploughing, level the land so water spreads evenly. Uneven land causes water to pool in some places and dry in others, harming plants."
+            },
+            "build_or_repair_bunds": {
+              "title": "Build or Repair Bunds",
+              "description": "Make sure the field borders (bunds) are strong to hold water in the field and prevent soil erosion."
+            },
+            "flood_and_puddle": {
+              "title": "Flood and Puddle",
+              "description": "Fill the field with water and churn the soil to make it soft and muddy. Puddling helps kill weeds and makes transplanting easier."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality seeds and prepare them properly for optimal germination and nursery management.",
+          "sub_steps": {
+            "select_good_seeds": {
+              "title": "Select Good Seeds",
+              "description": "Use healthy, certified Sannalu (KNM) seeds. Good seeds give strong, uniform plants."
+            },
+            "seed_soaking": {
+              "title": "Seed Soaking",
+              "description": "Soak seeds in clean water for 24 hours to soften them."
+            },
+            "seed_sprouting": {
+              "title": "Seed Sprouting",
+              "description": "After soaking, drain water and keep seeds wrapped in a wet cloth or bag for 24–36 hours until they sprout tiny shoots."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Mix sprouted seeds with a fungicide like carbendazim (2 grams per kg of seed) to protect against fungal diseases."
+            },
+            "nursery_bed_preparation": {
+              "title": "Nursery Bed Preparation",
+              "description": "Prepare a small raised bed (about 1/20th of the main field size). Mix in some well-decomposed FYM or compost."
+            },
+            "sowing_in_nursery": {
+              "title": "Sowing in Nursery",
+              "description": "Spread sprouted seeds evenly in the nursery bed. Water regularly to keep soil moist but not flooded."
+            },
+            "nursery_care": {
+              "title": "Nursery Care",
+              "description": "Protect nursery from pests and diseases. Remove weeds and maintain good moisture."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Transplanting",
+        "image_urls": [],
+        "description": {
+          "overview": "Transplant healthy seedlings at the optimal age with proper spacing and depth to ensure good establishment and yield.",
+          "sub_steps": {
+            "seedling_age": {
+              "title": "Seedling Age",
+              "description": "Transplant seedlings when they are 18–25 days old. Younger seedlings grow faster and recover better after transplanting."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Plant seedlings in the main field at 20 cm x 20 cm spacing or closer (15 cm x 15 cm) for higher yield."
+            },
+            "seedlings_per_hill": {
+              "title": "Seedlings per Hill",
+              "description": "Place 2–3 seedlings per planting spot."
+            },
+            "planting_depth": {
+              "title": "Planting Depth",
+              "description": "Plant seedlings about 2–4 cm deep so roots can grow well and plants stand straight."
+            },
+            "water_after_transplanting": {
+              "title": "Water After Transplanting",
+              "description": "Keep a thin layer of water (about 5 cm) in the field to help seedlings settle and grow."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply balanced nutrition through organic and inorganic fertilizers with proper timing based on season to maximize yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Apply 5–10 tons per hectare of well-rotted FYM or compost during land preparation."
+            },
+            "chemical_fertilizers_kharif": {
+              "title": "Chemical Fertilizers - Kharif Season",
+              "description": "For Kharif season: 80 kg Nitrogen (N), 60 kg Phosphorus (P₂O₅), 40 kg Potassium (K₂O) per hectare."
+            },
+            "chemical_fertilizers_rabi": {
+              "title": "Chemical Fertilizers - Rabi Season",
+              "description": "For Rabi season: 120 kg N, 60 kg P₂O₅, 40 kg K₂O per hectare (more nitrogen due to longer crop duration)."
+            },
+            "split_application": {
+              "title": "Split Application",
+              "description": "Apply half of nitrogen and all phosphorus and potassium as basal fertilizer at transplanting. Apply remaining nitrogen and potassium in two splits: at tillering (25–30 days after transplanting) and panicle initiation (45–50 days after transplanting)."
+            },
+            "micronutrients": {
+              "title": "Micronutrients",
+              "description": "If leaves show yellowing or stunted growth, apply zinc sulphate (25 kg/ha)."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Maintain optimal water levels throughout the crop cycle with water-saving techniques and proper drainage.",
+          "sub_steps": {
+            "irrigation": {
+              "title": "Irrigation",
+              "description": "Maintain 5–7 cm water depth during critical stages like tillering and flowering."
+            },
+            "water_saving_methods": {
+              "title": "Water-Saving Methods",
+              "description": "Sannalu (KNM) can be grown by direct seeding or wet direct seeding to save water and labor."
+            },
+            "alternate_wetting_and_drying": {
+              "title": "Alternate Wetting and Drying (AWD)",
+              "description": "Allow the field to dry for a few days after water disappears before irrigating again, especially after the vegetative stage."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Drain water 7–10 days before harvest to dry the soil and make harvesting easier."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement integrated management strategies to control weeds, pests, and diseases using resistant varieties and targeted treatments.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "Hand weed or use mechanical weeders 20–30 days after transplanting. Use herbicides like pendimethalin or pyrazosulfuron-ethyl if weeds are heavy."
+            },
+            "pests_and_diseases": {
+              "title": "Pests and Diseases",
+              "description": "Monitor regularly for pests like brown planthopper and diseases such as blast and bacterial blight. Apply fungicides (e.g., tricyclazole for blast) or insecticides only if needed."
+            },
+            "resistant_varieties": {
+              "title": "Use Resistant Varieties",
+              "description": "Use resistant varieties or improved lines if available which means choosing crop types that are specially bred to withstand certain pests, diseases, or harsh conditions, so your plants stay healthier and give better yields."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest at the right time using proper methods to ensure maximum yield and grain quality.",
+          "sub_steps": {
+            "maturity": {
+              "title": "Maturity",
+              "description": "Sannalu (KNM) matures in about 120–125 days."
+            },
+            "harvest_time": {
+              "title": "Harvest Time",
+              "description": "Harvest when grains are golden yellow and hard."
+            },
+            "harvesting_method": {
+              "title": "Harvesting Method",
+              "description": "Cut plants close to the ground with sickle or machine."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Stack bundles upright for 1–2 days to dry before threshing."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Properly process and store the harvested rice to maintain quality and prevent losses.",
+          "sub_steps": {
+            "threshing": {
+              "title": "Threshing",
+              "description": "Separate grains from stalks by beating or using a thresher."
+            },
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Remove chaff and dust by winnowing. Chaff is the dry, inedible outer covering or husk of rice grains that is separated and removed during processing."
+            },
+            "drying": {
+              "title": "Drying",
+              "description": "Dry grains in the sun until moisture is about 14% to prevent spoilage."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store dried grains in clean, dry, and ventilated places. Use bags or bins off the ground to avoid moisture and pests."
+            }
+          }
+        }
+      }
+    ]
+  }
+]

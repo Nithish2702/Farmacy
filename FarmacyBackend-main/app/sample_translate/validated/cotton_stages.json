@@ -1,0 +1,1017 @@
+[
+  {
+    "crop_code": "NA1325",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, leftover stalks, and stones from your field. This helps prevent pest and disease problems and gives your cotton plants a clean, healthy start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your land 2–3 times to a depth of about 10–12 cm. This loosens the soil, mixes in organic matter, and helps roots grow deep for better water and nutrient use."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "Level the field after ploughing. A flat field ensures even water distribution and helps seeds sprout evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Build and repair bunds (raised borders) around your field. These keep rainwater in the field and prevent soil erosion."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Choose Good Seeds",
+              "description": "Use certified Narasimha (NA1325) seeds. Good seeds give healthy, uniform plants and better yields. Using certified Narasimha (NA1325) seeds means buying officially approved, high-quality seeds that are pure, healthy, and guaranteed to produce true Narasimha cotton plants for better yield and crop safety."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before sowing, treat seeds with either Carbendazim (2g per kg seed) or Trichoderma viridae/Pseudomonas fluorescens (10g per kg seed). This protects young plants from soil-borne diseases like root rot (caused by Rhizoctonia and Fusarium fungi) and seedling wilt or damping-off, which can lead to poor plant growth and yield loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Sowing",
+        "image_urls": [],
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "Best Time to Sow",
+              "description": "Sow with the start of the monsoon (June 1st–15th). Don't sow after July 15th, as late sowing reduces yield."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 2.5–3.5 kg of seed per acre for normal sowing. For high-density planting, use 4–5 kg/acre."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal sowing: 90 x 60 cm or 105 x 60 cm between rows and plants. For high-density: 80 x 20 cm or 60 x 30 cm."
+            },
+            "sowing_method": {
+              "title": "Sowing Method",
+              "description": "Sow seeds in lines or dibble after marking the field. This ensures uniform plant growth and easy management."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Add 5–10 tons of well-rotted farmyard manure (FYM) (organic cow dung waste is FYM) per hectare before sowing to improve soil health."
+            },
+            "fertilizer_dose": {
+              "title": "Fertilizer Dose",
+              "description": "Per hectare: Nitrogen (N): 90 kg, Phosphorus (P₂O₅): 45 kg, Potassium (K₂O): 45 kg"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and one-third nitrogen and potassium as basal (before or at sowing). Apply the rest of the nitrogen and potassium in 2–3 splits at 30, 60, and 90 days after sowing."
+            },
+            "foliar_sprays": {
+              "title": "Foliar Sprays",
+              "description": "During boll formation, spray 2% urea or DAP, or 1% KNO₃/19:19:19 fertilizer every 7-10 days if the crop looks weak or during drought. Foliar sprays are liquid fertilizers or nutrients applied directly to plant leaves, allowing the plant to quickly absorb them through the leaf surface for faster results than soil application."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Cotton can grow with rainfall, but if there's a long dry spell, give one or two irrigations during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "Give regular irrigations, especially at flowering and boll development. Avoid waterlogging."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure excess water drains out quickly, as standing water can harm cotton roots."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "Do the first weeding 20–30 days after sowing, then again at 45–60 days. Use hand hoes or mechanical weeders. For chemical control, use Pendimethalin (1 litre/acre) after sowing and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Narasimha is naturally tolerant to some pests, but verify for sucking pests (jassids, aphids). For sucking pests, stem-apply Monocrotophos (1:4 with water) at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. Use neem oil or NSKE 5% spray for eco-friendly pest control. Install pheromone traps (4–8 per acre) to monitor pink bollworm. Remove and destroy the rosette flowers present in the field."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management (IPM)",
+              "description": "Grow border crops (sunflower, marigold) and intercrops (green gram, black gram, cowpea) to attract beneficial insects and reduce pests. Rotate cotton with other crops like red gram, maize, or green manure every 2–3 years."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Intercropping and Crop Rotation",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Grow short-duration pulses (green gram, black gram, cowpea) between cotton rows to improve soil fertility and spread risk."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "Grow other crops after cotton, such as pulses or oilseeds, to break pest and disease cycles and keep the soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Cotton is ready for picking when the bolls are fully open and fluffy. As the bolls mature, pick cotton in 3–4 rounds."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Pick clean, dry cotton by hand. Avoid picking wet cotton to prevent quality loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 9,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After harvest, shred and incorporate cotton stalks into the soil. This helps control pests like the pink bollworm. Cotton stalks are the leftover stems and branches of the cotton plant remaining in the field after the cotton fibres and bolls have been harvested."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store picked cotton in a clean, dry place to avoid moisture and pest damage."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, leftover cotton stalks, and stones from your field. This helps prevent pests and diseases and gives your new cotton crop a clean, healthy start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your land 2–3 times to a depth of about 10–12 cm (about the length of your hand). This loosens the soil, mixes in any leftover plant material, and helps cotton roots grow deep for better water and nutrient use."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "Level the field after ploughing. A flat, even field makes sure water spreads everywhere and seeds sprout evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Build or repair bunds (raised soil borders) around your field. These bunds help hold rainwater in the field and stop soil from washing away."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Choose Good Seeds",
+              "description": "Use certified Shivanandi (NDLH-1755) seeds. Certified seeds are officially checked for quality and will give you healthy, uniform plants and better yields. They are free from diseases and give better crop safety and yield."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before sowing, treat your seeds with either Carbendazim (2g per kg of seed) or Trichoderma viridae/Pseudomonas fluorescens (10g per kg of seed). This protects young seedlings from soil-borne diseases like root rot (caused by Rhizoctonia and Fusarium fungi) and seedling wilt or damping-off, which can cause poor plant growth and yield loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Sowing",
+        "image_urls": [],
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "Best Time to Sow",
+              "description": "Sow seeds at the start of the monsoon (June 1st–15th). Do not sow after July 15th, as late sowing reduces the yield."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 2.5–3.5 kg of seed per acre for normal sowing. For high-density planting, use 4–5 kg per acre."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal sowing: 90 x 60 cm or 105 x 60 cm between rows and plants. For high-density: 80 x 20 cm or 60 x 30 cm."
+            },
+            "sowing_method": {
+              "title": "Sowing Method",
+              "description": "Sow seeds in straight lines or use a dibbling method after marking the field. This helps plants grow evenly and makes management easier."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Add 5–10 tons of well-rotted farmyard manure (FYM, like cow dung) per hectare before sowing. This improves soil health and gives your crop a good start."
+            },
+            "fertilizer_dose": {
+              "title": "Fertilizer Dose",
+              "description": "Per hectare: Nitrogen (N): 90 kg, Phosphorus (P₂O₅): 45 kg, Potassium (K₂O): 45 kg"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and one-third of nitrogen and potassium as a basal dose (before or at sowing). Apply the remaining nitrogen and potassium in 2–3 splits at 30, 60, and 90 days after sowing."
+            },
+            "foliar_sprays": {
+              "title": "Foliar Sprays",
+              "description": "During boll formation, spray 2% urea or DAP, or 1% KNO₃/19:19:19 every 7–10 days if the crop looks weak or during dry spells. Foliar sprays are liquid fertilizers sprayed directly on the leaves for quick absorption."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Shivanandi cotton can grow with rainfall, but if there's a long dry spell, give one or two irrigations during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "Give regular irrigations, especially during flowering and boll development. Avoid waterlogging, as standing water can harm cotton roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure excess water drains out quickly. Proper drainage keeps roots healthy and prevents diseases."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after sowing. Second weeding: 45–60 days after sowing. Use hand hoes or mechanical weeders. For chemical control, use Pendimethalin (1 litre/acre) after sowing and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Shivanandi is naturally tolerant to some pests, but check for sucking pests like jassids and aphids. For sucking pests, stem-apply Monocrotophos (1:4 with water) at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. For eco-friendly control, use neem oil or NSKE 5% spray."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Install 4–8 pheromone traps per acre to monitor pink bollworm. Remove and destroy any twisted (rosette) flowers you find. A pheromone trap uses special scents to attract and catch pests, helping you monitor and control pest numbers early."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management (IPM)",
+              "description": "Grow border crops like sunflower or marigold and intercrops like green gram, black gram, or cowpea to attract beneficial insects and reduce pest problems. Rotate cotton with other crops like red gram, maize, or green manure every 2–3 years to keep the soil healthy and break pest cycles."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Intercropping and Crop Rotation",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Grow short-duration pulses (green gram, black gram, cowpea) between cotton rows. This improves soil fertility and gives extra income."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow other crops like pulses or oilseeds to break pest and disease cycles and keep your soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Shivanandi cotton is ready for picking when the bolls are fully open and fluffy. Pick cotton in 3–4 rounds as bolls mature."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Pick only clean, dry cotton by hand. Avoid picking when cotton is wet to prevent quality loss."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 9,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After harvest, shred and mix the leftover cotton stalks into the soil. This helps control pests like the pink bollworm. Cotton stalks are the stems and branches left in the field after harvesting the cotton bolls."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store picked cotton in a clean, dry place to avoid moisture and pest damage. Keep it off the ground for the best quality. Use clean, well-ventilated rooms, avoid compression, and protect from pests and moisture. Store Shivanandi cotton separately from other varieties to maintain its purity and quality."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clean the Field",
+              "description": "Remove all weeds, leftover cotton sticks, and stones from your field. This keeps away bugs and sickness and gives your new cotton plants a healthy place to start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Dig or turn the soil 2 or 3 times, each time as deep as your hand is long (about 10–12 cm). Use a tractor or bullocks. This makes the soil soft and mixes in old plant bits, helping cotton roots grow deep and strong."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After digging, use a wooden board or tool to make the ground flat. Flat land helps water spread everywhere and makes sure all seeds grow at the same time."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Make or fix raised borders (bunds) around your field using a shovel. These borders hold rainwater in your field and stop soil from washing away when it rains hard."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Pick Good Seeds",
+              "description": "Buy Sri Rama cotton seeds with a government or company seal from a trusted shop. These seeds are checked, healthy, and more likely to give you a good crop."
+            },
+            "certified_seeds": {
+              "title": "Certified Seeds",
+              "description": "Certified seeds are pure, not mixed with other types, and free from sickness. They grow into strong, healthy plants and give more cotton."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before planting, mix your seeds with carbendazim (2 grams for every 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams for every 1 kg of seeds). Put seeds in a bucket, sprinkle the powder, mix well with gloves, and spread in shade to dry for a few hours. This protects young plants from soil-borne diseases."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Sowing",
+        "image_urls": [],
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_plant": {
+              "title": "Best Time to Plant",
+              "description": "Plant your seeds when the rainy season starts, between June 15 and July 15. Do not plant after July 20, or you will get less cotton."
+            },
+            "seed_usage": {
+              "title": "Seed Usage",
+              "description": "For normal planting, use 5 kg of seeds for every hectare (2.5 acres). For close planting, use 10–12 kg for every hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Normal: Leave 105 cm or 90 cm between rows, and 60 cm between plants. Close planting: Leave 80 cm between rows and 20 cm between plants, or use 90 x 15 cm, or 60 x 30 cm."
+            },
+            "plantation_process": {
+              "title": "Plantation Process",
+              "description": "Use a rope or stick to mark straight lines in your field. Plant seeds along these lines or use a stick to make holes and put seeds in. Cover seeds lightly with soil. Planting in lines makes weeding and looking after the crop easier."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of old, rotten cow dung or animal manure for each hectare. This makes the soil rich and helps plants grow well."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg of urea (for plant growth), 45 kg of phosphorus powder (helps roots), 45 kg of potash (for strong plants)."
+            },
+            "fertilizer_schedule": {
+              "title": "Fertilizer Schedule",
+              "description": "Mix all the phosphorus and one-third of the urea and potash into the soil before or at planting. Give the rest of the urea and potash in 3 or 4 parts: at 20, 40, 60, and 80 days after planting."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on leaves every 7–10 days during cotton ball growth."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainy_season_crop": {
+              "title": "Rainy Season Crop",
+              "description": "Sri Rama cotton can grow with just rain. But if there is no rain for many days, give water once or twice when the plant is making flowers and cotton balls."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you can give water, do it regularly, especially when the plant is making flowers and cotton balls. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can leave the field quickly. Good drainage keeps roots healthy and stops sickness."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeding tool. For heavy weed problems, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Sri Rama cotton can handle some pests, but check for small insects like jassids, aphids, and thrips. Apply Monocrotophos (1:4 with water) on plant stem at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. For natural control, use neem oil or NSKE 5%."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Put 4–8 pheromone traps in each acre to catch and check for pink bollworm. Remove and destroy any twisted (rosette) flowers. These traps use special smells to attract and catch harmful insects early."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border plants like sunflower or marigold, and between cotton rows, plant short crops like green gram, black gram, cowpea, or soybean. Change crops every 2–3 years to keep soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Intercropping and Crop Rotation",
+        "image_urls": [],
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. This makes the soil better, gives extra money, and helps control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow other crops like pulses or oilseeds. This stops the same pests and diseases from coming again and keeps your soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick Cotton",
+              "description": "Sri Rama cotton is ready to pick when the balls (bolls) are fully open and fluffy, usually about 160 days after planting. Pick cotton in 3–4 rounds as more bolls open."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when wet, as this can spoil the cotton and lower its price."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 9,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil. This helps stop pests like pink bollworm and makes the soil better for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Keep your picked cotton in a clean, dry place, off the ground, to stop it from getting wet or eaten by rats and bugs. Use cloth bags or make heaps, but never store cotton in plastic bags. Dry, clean cotton receives the best price."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Good land preparation helps cotton plants grow strong and healthy. It keeps away pests and diseases and makes sure your field holds water well.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "First, remove all weeds (unwanted plants), old cotton sticks, and stones from your field. These can attract insects and diseases that harm the new crop."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2 or 3 times. Each time, dig as deep as the hand is long (about 10–12 cm). A farmer can use a tractor or bullocks. This breaks up the soil, mixes in old plant bits, and let's cotton roots grow deep."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After ploughing, level the field using a wooden board or a leveller. Flat land helps water spread everywhere, so all seeds get a good start and grow evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Make or repair raised borders (bunds) around the field using a shovel. These bunds keep rainwater in the field and stop soil from washing away during heavy rains."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Good seeds give healthy plants and more cotton. Treating seeds protects them from diseases that live in the soil.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "Choosing Seeds",
+              "description": "Buy Adilabad Kapas-1 seeds from a trusted shop. Make sure the packet has a government or company seal. Certified seeds are pure, healthy, and give better yields."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before planting, treat the seeds to stop diseases: Take the seeds and mix them with carbendazim powder (2 grams for every 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams for every 1 kg of seeds). Put seeds in a bucket, sprinkle the powder, and mix well with your hands (wear gloves). Spread the seeds in the shade and let them dry for a few hours."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Sowing",
+        "image_urls": [],
+        "description": {
+          "overview": "Planting at the right time and giving enough space help cotton plants grow strong and healthy.",
+          "sub_steps": {
+            "best_time": {
+              "title": "Best Time to Plant",
+              "description": "Sow your seeds with the first rains of the monsoon, between June 15 and July 15. If you plant after July 20, you may get less cotton."
+            },
+            "seed_rate": {
+              "title": "How Much Seed to Use",
+              "description": "For normal planting, use 5 kg of seeds per hectare (2.5 acres). For close planting (high density), use 10–12 kg per hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal planting: Leave 105 cm or 90 cm between rows, and 60 cm between plants. For close planting: Leave 80 cm between rows and 20 cm between plants, or use 90 x 15 cm, or 60 x 30 cm."
+            },
+            "planting_technique": {
+              "title": "Plantation Technique",
+              "description": "Mark straight lines in the field with a rope or stick. Make small holes along the lines and put 1–2 seeds in each hole. Cover the seeds lightly with soil. Planting in lines makes it easier to weed and look after your crop."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Cotton plants need food (nutrients) to grow well and give good yields.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of well-rotted cow dung or animal manure per hectare. This improves soil quality and helps plants grow."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg urea (for plant growth), 45 kg phosphorus (helps roots), 45 kg potash (for strong plants)."
+            },
+            "application_schedule": {
+              "title": "Application of Fertilizer",
+              "description": "Mix all phosphorus and one-third of urea and potash into the soil before or at planting. Apply the rest of the urea and potash in 3–4 parts: at 20, 40, 60, and 80 days after planting."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on the leaves every 7–10 days during cotton boll (fruit) growth. This gives quick nutrition to the plants."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Cotton needs water, especially when making flowers and cotton bolls. Too little or too much water can harm your crop.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Adilabad Kapas-1 can grow with just rain. But if there is no rain for many days, give water once or twice, especially when the plant is making flowers and cotton bolls."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you have irrigation, give water regularly, especially at flowering and boll formation. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can drain out of the field quickly. Good drainage keeps roots healthy and stops sickness."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Weeds, pests, and diseases can reduce your cotton yield and quality.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeding tool. For heavy weed problems, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Check your crop regularly for pests like jassids, aphids, and thrips. For these, apply Monocrotophos (mix 1 part with 4 parts water) on the plant stem at 30 and 45 days, and Flonicamid (mix 1 part with 20 parts water) at 60 days. For a natural option, spray neem oil or NSKE 5% (neem seed water) on your crop."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Place 4–8 pheromone traps per acre to catch and monitor pink bollworm. If you see twisted (rosette) flowers, pull them out and destroy them."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border crops like sunflower or marigold, and intercrop with green gram, black gram, cowpea, or soybean. These attract good insects that eat bad ones. Change crops every 2–3 years to keep the soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Intercropping and Crop Rotation",
+        "image_urls": [],
+        "description": {
+          "overview": "Growing other crops along with or after cotton keeps the soil healthy, gives you extra income, and helps control pests and diseases.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. These crops improve soil fertility, give you extra money, and help control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow pulses or oilseeds. This breaks the cycle of pests and diseases and keeps your soil rich."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Picking cotton at the right time and in the right way keeps the quality high and gets you the best price.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick",
+              "description": "Adilabad Kapas-1 is ready for picking when the bolls are fully open and fluffy, usually about 160 days after planting. Pick cotton in 3–4 rounds as more bolls open."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when the cotton is wet, as this can spoil it and lower its price."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 9,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Good post-harvest practices keep your cotton clean, safe, and ready for sale.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil. This helps stop pests like pink bollworm and improves the soil for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store your picked cotton in a clean, dry place, off the ground, to prevent it from getting wet or eaten by rats and insects. Use cloth bags or make heaps, but never use plastic bags. Dry, clean cotton fetches the best price in the market."
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "cultivation_stages": [
+      {
+        "stage_number": 1,
+        "title": "Land Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Good land preparation helps your cotton plants grow strong, keeps away pests and diseases, and helps the field hold water when it rains.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Start by walking through your field and removing all weeds (unwanted plants), old cotton sticks from last season, and any stones or trash. These things can attract insects and diseases that harm your new crop. Collect and burn or compost the waste away from the field."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your field 2 or 3 times. Each time, dig the soil as deep as your hand is long (about 10–12 cm). Use a tractor or bullocks for this. Change the direction of ploughing each time (crosswise) to break up big soil clumps and make the soil loose and soft. This helps cotton roots grow deep and strong."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After ploughing, use a wooden board or leveller to make the field flat. Fill up any low spots and break up any leftover clods. A flat field helps water spread evenly and prevents water from collecting in one place."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Use a shovel to build or repair raised borders (bunds) around your field. These bunds keep rainwater in your field and stop soil from washing away when it rains heavily. Check all sides to make sure your field is protected."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 2,
+        "title": "Seed Selection and Preparation",
+        "image_urls": [],
+        "description": {
+          "overview": "Good seeds give you healthy plants and more cotton. Treating seeds protects them from soil diseases.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "Choosing Seeds",
+              "description": "Go to a trusted shop and buy WGCV-48 certified seeds. Make sure the packet has a government or company seal. Certified seeds are pure, healthy, and give better yields."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Put your seeds in a clean bucket. Sprinkle carbendazim powder (2 grams per 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams per 1 kg of seeds) on them. Mix the seeds well with your hands (wear gloves for safety). Spread the treated seeds on a clean cloth in the shade and let them dry for a few hours. This treatment protects your young plants from diseases like root rot and seedling wilt."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 3,
+        "title": "Sowing",
+        "image_urls": [],
+        "description": {
+          "overview": "Planting at the right time and giving enough space help cotton plants grow strong and healthy.",
+          "sub_steps": {
+            "best_time": {
+              "title": "Best Time to Plant",
+              "description": "Sow your seeds with the first rains of the monsoon, between June 15 and July 15. If you plant after July 20, you may get less cotton."
+            },
+            "seed_rate": {
+              "title": "How Much Seed to Use",
+              "description": "For normal planting, use 5 kg of seeds per hectare. For close planting (high density), use 10–12 kg per hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal planting: Leave 105 cm or 90 cm between rows, and 60 cm between plants. For high-density planting (which WGCV-48 is good for): Use 45 cm between rows and 10 cm between plants for best results."
+            },
+            "planting_technique": {
+              "title": "Plantation Technique",
+              "description": "Mark straight lines in the field with a rope or stick. Make small holes along the lines and put 1–2 seeds in each hole. Cover the seeds lightly with soil—don't bury them too deep, or they may not sprout well. Planting in lines makes it easier to weed and look after your crop later."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 4,
+        "title": "Fertilizer and Nutrient Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Cotton plants need food (nutrients) to grow well and give good yields.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of well-rotted cow dung or animal manure per hectare. This improves soil quality and gives your plants a good start."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg urea (helps plants grow), 45 kg phosphorus (helps roots), 45 kg potash (makes plants strong)."
+            },
+            "application_schedule": {
+              "title": "How and When to Apply",
+              "description": "Mix all phosphorus and one-third of urea and potash into the soil before or at planting. Apply the rest of the urea and potash in 3–4 parts: at 20, 40, 60, and 80 days after planting. This way, the plants get food when they need it most."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If your plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on the leaves every 7–10 days during cotton boll growth. This gives quick nutrition to the plants."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 5,
+        "title": "Water Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Cotton needs water, especially when making flowers and cotton bolls. Too little or too much water can harm your crop.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "WGCV-48 can grow with just rain. But if there is no rain for many days, give water once or twice, especially during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you have irrigation, give water regularly, especially at flowering and boll formation. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can drain out of the field quickly. Good drainage keeps roots healthy and stops diseases."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 6,
+        "title": "Weed, Pest, and Disease Management",
+        "image_urls": [],
+        "description": {
+          "overview": "Weeds, pests, and diseases can reduce your cotton yield and quality.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeder to pull out weeds. If there are too many weeds, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Check your crop regularly for pests like jassids, aphids, and thrips (small insects that suck plant sap). For these, apply Monocrotophos (mix 1 part with 4 parts water) on the plant stem at 30 and 45 days, and Flonicamid (mix 1 part with 20 parts water) at 60 days. For a natural option, spray neem oil or NSKE 5% (neem seed water) on your crop."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Place 4–8 pheromone traps per acre to catch and monitor pink bollworm. If you see twisted (rosette) flowers, pull them out and destroy them."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border crops like sunflower or marigold, and intercrop with green gram, black gram, cowpea, or soybean. These attract good insects that eat bad ones. Change crops every 2–3 years to keep the soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 7,
+        "title": "Intercropping and Crop Rotation",
+        "image_urls": [],
+        "description": {
+          "overview": "Growing other crops along with or after cotton keeps the soil healthy, gives you extra income, and helps control pests and diseases.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. These crops improve soil fertility, give you extra money, and help control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow pulses or oilseeds. This breaks the cycle of pests and diseases and keeps your soil rich."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 8,
+        "title": "Harvesting",
+        "image_urls": [],
+        "description": {
+          "overview": "Picking cotton at the right time and in the right way keeps the quality high and gets you the best price.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick",
+              "description": "WGCV-48 is an early variety, so you can start picking the first open bolls around 93-100 days after sowing. Continue picking in 3–4 rounds as more bolls open, up to 140-160 days."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when the cotton is wet, as this can spoil it and lower its price. Use clean bags or baskets to collect the cotton."
+            }
+          }
+        }
+      },
+      {
+        "stage_number": 9,
+        "title": "Post-Harvest Operations",
+        "image_urls": [],
+        "description": {
+          "overview": "Good post-harvest practices keep your cotton clean, safe, and ready for sale.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil using a plough or hoe. This helps stop pests like pink bollworm and improves the soil for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store your picked cotton in a clean, dry place, off the ground, to prevent it from getting wet or eaten by rats and insects. Use cloth bags or make heaps, but never use plastic bags. If the cotton is damp, spread it out in a shaded, airy place to dry thoroughly, but avoid direct sunlight to protect the fibre quality. Clean, dry cotton fetches the best price in the market."
+            }
+          }
+        }
+      }
+    ]
+  }
+]

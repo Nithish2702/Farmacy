@@ -1,0 +1,1005 @@
+[
+  {
+    "name": "Rice Blast",
+    "type": "Fungal",
+    "pathogen": "Pyricularia oryzae",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Rice blast is the most destructive fungal disease in Telangana, with incidence rates reaching 79.41% in Peddapalli district.",
+      "pathogen": "Pyricularia oryzae",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Diamond-shaped lesions on leaves",
+        "Blast lesions on nodes and panicles",
+        "Gray-white centers with brown margins",
+        "Panicle blast causing grain sterility"
+      ],
+      "causes": [
+        "High humidity and moisture",
+        "Dense planting",
+        "Excessive nitrogen fertilization",
+        "Poor field drainage",
+        "Susceptible varieties"
+      ],
+      "prevention": [
+        "Maintain 2-4 inches of field flooding from seedling stages until harvest",
+        "Avoid excessive nitrogen fertilization",
+        "Plant blast-resistant varieties like WGL 1368",
+        "Proper field drainage",
+        "Remove infected plant debris"
+      ],
+      "treatment": [
+        "Foliar sprays of Hexaconazole 5% SC (500 ml/acre)",
+        "Kitazin spray (200-300 ml/acre)",
+        "Copper-based fungicides mixed with phenylemercuric acetate",
+        "Rotate fungicides to prevent resistance"
+      ],
+      "impact": "Most destructive fungal disease with high yield losses",
+      "prevalence_telangana": "79.41% incidence in Peddapalli district"
+    }
+  },
+  {
+    "name": "Sheath Blight",
+    "type": "Fungal",
+    "pathogen": "Rhizoctonia solani",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Sheath blight affects 74.23% of crops in Telangana's Polasa region, thriving in dense plantations and high humidity.",
+      "pathogen": "Rhizoctonia solani",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Oval to irregular lesions on leaf sheaths",
+        "Lesions with grayish-white centers and brown margins",
+        "Sclerotia formation on infected tissues",
+        "Lodging in severe cases"
+      ],
+      "causes": [
+        "Dense plantations",
+        "High humidity",
+        "Excessive nitrogen application",
+        "Poor air circulation",
+        "Waterlogged conditions"
+      ],
+      "prevention": [
+        "Deep summer ploughing",
+        "Seed treatment with Pseudomonas bioagents",
+        "Balanced nitrogen application",
+        "Proper plant spacing",
+        "Field sanitation"
+      ],
+      "treatment": [
+        "Spray Carbendazim (1 g/liter) at disease onset",
+        "Propiconazole (1 ml/liter) application",
+        "Polyoxin antibiotics for early infections",
+        "Biological control with Pseudomonas"
+      ],
+      "impact": "Significant yield losses in dense plantations",
+      "prevalence_telangana": "74.23% of crops in Polasa region"
+    }
+  },
+  {
+    "name": "Brown Spot",
+    "type": "Fungal",
+    "pathogen": "Bipolaris oryzae",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "description": {
+      "overview": "Brown spot causes yield losses up to 40% in nutrient-deficient soils, particularly affecting crops with poor nutrition.",
+      "pathogen": "Bipolaris oryzae",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Circular to oval brown spots on leaves",
+        "Dark brown lesions with yellow halos",
+        "Grain discoloration and poor filling",
+        "Seedling blight in severe cases"
+      ],
+      "causes": [
+        "Nutrient-deficient soils",
+        "Poor nitrogen management",
+        "Infected seeds",
+        "High humidity",
+        "Stress conditions"
+      ],
+      "prevention": [
+        "Seed treatment with hot water (51-53°C for 15 minutes)",
+        "Use slow-release nitrogen fertilizers",
+        "Maintain proper soil nutrition",
+        "Use certified disease-free seeds",
+        "Crop rotation"
+      ],
+      "treatment": [
+        "Propiconazole 25% EC (200 ml/acre)",
+        "Tricyclazole 18% + Mancozeb 62% WP (400-500 gm/acre)",
+        "Foliar nutrition with micronutrients",
+        "Copper-based fungicides"
+      ],
+      "impact": "Up to 40% yield losses in nutrient-deficient conditions",
+      "prevalence_telangana": "Common in poorly managed fields"
+    }
+  },
+  {
+    "name": "False Smut",
+    "type": "Fungal",
+    "pathogen": "Ustilaginoidea virens",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "False smut infects rice grains, forming characteristic velvety spore balls that replace individual grains.",
+      "pathogen": "Ustilaginoidea virens",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Velvety green to black spore balls on grains",
+        "Individual grains transformed into smut balls",
+        "Powdery spore mass",
+        "Reduced grain quality and yield"
+      ],
+      "causes": [
+        "Late planting",
+        "High humidity during flowering",
+        "Soilborne spores",
+        "Infected seeds",
+        "Cool, wet weather during heading"
+      ],
+      "prevention": [
+        "Avoid late planting",
+        "Use certified seeds",
+        "Proper field drainage",
+        "Timely planting",
+        "Remove infected plant debris"
+      ],
+      "treatment": [
+        "Seed treatment with Thiophanate-methyl",
+        "Limited field efficacy due to soilborne nature",
+        "Copper-based fungicides (limited effectiveness)",
+        "Focus on prevention rather than cure"
+      ],
+      "impact": "Grain quality degradation and market rejection",
+      "prevalence_telangana": "Occurs sporadically in late-planted crops"
+    }
+  },
+  {
+    "name": "Sheath Rot",
+    "type": "Fungal",
+    "pathogen": "Sarocladium oryzae",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Sheath rot causes grain discoloration and yield losses up to 85% in Telangana, affecting panicle emergence.",
+      "pathogen": "Sarocladium oryzae",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Rotting of flag leaf sheath",
+        "Grain discoloration",
+        "Panicle emergence problems",
+        "Sterile or partially filled grains",
+        "Reddish-brown lesions on sheaths"
+      ],
+      "causes": [
+        "High humidity",
+        "Mechanical leaf injuries",
+        "Dense planting",
+        "Poor air circulation",
+        "Continuous rice cultivation"
+      ],
+      "prevention": [
+        "Crop rotation with pulses",
+        "Avoid mechanical leaf injuries during field operations",
+        "Proper plant spacing",
+        "Field sanitation",
+        "Balanced fertilization"
+      ],
+      "treatment": [
+        "Copper oxychloride (3 gm/liter)",
+        "Carbendazim 12% + Mancozeb 63% WP during panicle emergence",
+        "Propiconazole sprays",
+        "Timing crucial - apply during panicle emergence"
+      ],
+      "impact": "Up to 85% yield losses in severe cases",
+      "prevalence_telangana": "Common in intensive rice cultivation areas"
+    }
+  },
+  {
+    "name": "Bacterial Leaf Blight",
+    "type": "Bacterial",
+    "pathogen": "Xanthomonas oryzae pv. oryzae",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Bacterial leaf blight causes yellow leaf streaks and wilting, prevalent in irrigated rice fields.",
+      "pathogen": "Xanthomonas oryzae pv. oryzae",
+      "disease_type": "Bacterial",
+      "symptoms": [
+        "Yellow to white leaf streaks",
+        "Wilting of leaves",
+        "V-shaped lesions from leaf tips",
+        "Bacterial ooze in morning",
+        "Systemic infection leading to plant death"
+      ],
+      "causes": [
+        "Contaminated irrigation water",
+        "Infected seeds",
+        "Wounds from insects or mechanical damage",
+        "High humidity",
+        "Continuous flooding"
+      ],
+      "prevention": [
+        "Field drainage between seasons",
+        "Avoid water flow from infected areas",
+        "Use certified disease-free seeds",
+        "Copper-based seed treatment",
+        "Resistant varieties"
+      ],
+      "treatment": [
+        "Soil drench with Streptomycin sulphate 90% + Tetracycline hydrochloride 10% SP (6 gm/50 liters)",
+        "Kasugamycin 5% + Copper oxychloride sprays",
+        "Copper-based bactericides",
+        "Drainage and field drying"
+      ],
+      "impact": "Severe yield losses in irrigated conditions",
+      "prevalence_telangana": "Common in irrigated rice systems"
+    }
+  },
+  {
+    "name": "Bacterial Leaf Streak",
+    "type": "Bacterial",
+    "pathogen": "Xanthomonas oryzae pv. oryzicola",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Bacterial leaf streak produces translucent lesions under high humidity conditions.",
+      "pathogen": "Xanthomonas oryzae pv. oryzicola",
+      "disease_type": "Bacterial",
+      "symptoms": [
+        "Translucent lesions on leaves",
+        "Water-soaked streaks",
+        "Yellow to brown lesions",
+        "Bacterial exudate",
+        "Interveinal necrosis"
+      ],
+      "causes": [
+        "High humidity",
+        "Overhead irrigation",
+        "Weed hosts (Johnsongrass)",
+        "Contaminated water",
+        "Plant wounds"
+      ],
+      "prevention": [
+        "Weed control, especially Johnsongrass",
+        "Avoid overhead irrigation",
+        "Use drip or furrow irrigation",
+        "Field sanitation",
+        "Resistant varieties"
+      ],
+      "treatment": [
+        "Copper-based sprays at heading stage",
+        "Streptomycin applications",
+        "Bacteriophage treatments (experimental)",
+        "Limited chemical options available"
+      ],
+      "impact": "Moderate yield losses, mainly grain quality issues",
+      "prevalence_telangana": "Present in humid conditions"
+    }
+  },
+  {
+    "name": "Tungro Disease",
+    "type": "Viral",
+    "pathogen": "Rice tungro virus",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Tungro disease is transmitted by green leafhoppers, causing yellow-orange leaves and sterility in rice plants.",
+      "pathogen": "Rice tungro virus (RTBV and RTSV)",
+      "disease_type": "Viral",
+      "symptoms": [
+        "Yellow-orange discoloration of leaves",
+        "Stunted growth",
+        "Reduced tillering",
+        "Sterile or partially filled grains",
+        "Delayed flowering"
+      ],
+      "causes": [
+        "Green leafhopper transmission (Nephotettix spp.)",
+        "Infected plant reservoirs",
+        "Continuous cropping",
+        "Weed hosts",
+        "Vector migration"
+      ],
+      "prevention": [
+        "Plant resistant varieties (IR 36, Ponmani)",
+        "Synchronous planting to break disease cycle",
+        "Vector control with insecticides",
+        "Remove weed hosts",
+        "Avoid ratooning"
+      ],
+      "treatment": [
+        "No direct chemical treatment available",
+        "Rogue infected plants immediately",
+        "Neem cake application (12.5 kg/0.2 ha) for vector suppression",
+        "Insecticidal control of vectors",
+        "Focus on prevention"
+      ],
+      "impact": "Complete crop loss in susceptible varieties",
+      "prevalence_telangana": "Sporadic occurrence, depends on vector population"
+    }
+  },
+  {
+    "name": "Rice Ragged Stunt Virus",
+    "type": "Viral",
+    "pathogen": "Rice ragged stunt virus",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Rice ragged stunt virus induces stunted growth and characteristic spiral-shaped leaves.",
+      "pathogen": "Rice ragged stunt virus (RRSV)",
+      "disease_type": "Viral",
+      "symptoms": [
+        "Severe stunting",
+        "Spiral-shaped twisted leaves",
+        "Ragged leaf appearance",
+        "Excessive tillering",
+        "Vein swelling and galls"
+      ],
+      "causes": [
+        "Brown planthopper transmission",
+        "Infected stubble",
+        "Continuous cropping",
+        "High vector population",
+        "Favorable weather for vectors"
+      ],
+      "prevention": [
+        "Destroy infected stubble",
+        "Control brown planthoppers with neonicotinoids",
+        "Use resistant cultivars like ASD 19",
+        "Avoid ratooning",
+        "Field sanitation"
+      ],
+      "treatment": [
+        "No chemical remedies available",
+        "Vector control is primary strategy",
+        "Remove infected plants",
+        "Neonicotinoid seed treatments",
+        "Focus on resistant varieties"
+      ],
+      "impact": "Severe stunting leading to total crop loss",
+      "prevalence_telangana": "Depends on brown planthopper incidence"
+    }
+  },
+  {
+    "name": "Rice Dwarf Virus",
+    "type": "Viral",
+    "pathogen": "Rice dwarf virus",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Rice dwarf virus is transmitted by leafhoppers and causes severe stunting in infected plants.",
+      "pathogen": "Rice dwarf virus (RDV)",
+      "disease_type": "Viral",
+      "symptoms": [
+        "Severe plant stunting",
+        "Dark green leaves",
+        "Shortened internodes",
+        "Excessive tillering",
+        "White chlorotic streaks"
+      ],
+      "causes": [
+        "Leafhopper transmission",
+        "Vector overwintering",
+        "Infected plant debris",
+        "Continuous cropping",
+        "Favorable vector conditions"
+      ],
+      "prevention": [
+        "Winter ploughing to eliminate vector habitats",
+        "Reduced nitrogen application",
+        "Vector control measures",
+        "Clean cultivation",
+        "Resistant varieties"
+      ],
+      "treatment": [
+        "Insecticidal seedling treatments (Fipronil)",
+        "Vector population control",
+        "No direct antiviral treatment",
+        "Remove infected plants",
+        "Systemic insecticides"
+      ],
+      "impact": "Severe growth reduction and yield loss",
+      "prevalence_telangana": "Occasional, linked to vector activity"
+    }
+  },
+  {
+    "name": "Root-Knot Nematode",
+    "type": "Nematode",
+    "pathogen": "Meloidogyne graminicola",
+    "crops": [
+      "Rice",
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "description": {
+      "overview": "Root-knot nematode forms characteristic galls on rice roots, reducing nutrient and water uptake.",
+      "pathogen": "Meloidogyne graminicola",
+      "disease_type": "Nematode",
+      "symptoms": [
+        "Root galls and knots",
+        "Stunted plant growth",
+        "Yellowing of leaves",
+        "Reduced root system",
+        "Poor nutrient uptake"
+      ],
+      "causes": [
+        "Soilborne nematodes",
+        "Continuous rice cultivation",
+        "Poor crop rotation",
+        "Infected transplants",
+        "Waterlogged conditions"
+      ],
+      "prevention": [
+        "Crop rotation with marigold",
+        "Soil application of Pseudomonas fluorescens + Trichoderma harzianum (20 gm/m²)",
+        "Use of resistant varieties",
+        "Field fallowing",
+        "Organic matter addition"
+      ],
+      "treatment": [
+        "Carbofuran 3G (0.3 ai/m²)",
+        "Neem cake amendments",
+        "Biological control agents",
+        "Soil solarization",
+        "Organic amendments"
+      ],
+      "impact": "Reduced root function leading to nutrient deficiency",
+      "prevalence_telangana": "Common in intensive rice areas"
+    }
+  },
+  {
+    "name": "White Tip Nematode",
+    "type": "Nematode",
+    "pathogen": "Aphelenchoides besseyi",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      2
+    ],
+    "description": {
+      "overview": "White tip nematode is a seed-borne pest causing characteristic leaf tip whitening in rice.",
+      "pathogen": "Aphelenchoides besseyi",
+      "disease_type": "Nematode",
+      "symptoms": [
+        "White leaf tips",
+        "Twisted and distorted leaves",
+        "Stunted growth",
+        "Reduced tillering",
+        "Panicle deformation"
+      ],
+      "causes": [
+        "Seed-borne transmission",
+        "Infected plant material",
+        "High humidity",
+        "Contaminated irrigation water",
+        "Plant-to-plant spread"
+      ],
+      "prevention": [
+        "Hot water seed treatment (52°C for 15 minutes)",
+        "Use certified disease-free seeds",
+        "Field sanitation",
+        "Avoid infected plant debris",
+        "Proper seed storage"
+      ],
+      "treatment": [
+        "Thiobendazole seed coatings",
+        "Foliar sprays of Diazinon",
+        "Nematicide applications",
+        "Systemic treatments",
+        "Hot water treatment for seeds"
+      ],
+      "impact": "Growth reduction and panicle deformation",
+      "prevalence_telangana": "Seed-borne, occurs with infected seeds"
+    }
+  },
+  {
+    "name": "Fusarium Wilt",
+    "type": "Fungal",
+    "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "description": {
+      "overview": "Fusarium wilt is a soil-borne fungal disease causing vascular discoloration, wilting, and plant death. In Telangana, it affects up to 60% of crops in susceptible varieties like Gossypium arboreum.",
+      "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Vascular discoloration",
+        "Wilting of plants",
+        "Plant death",
+        "Yellowing of leaves",
+        "Browning of vascular tissue"
+      ],
+      "causes": [
+        "Soil-borne fungal pathogen",
+        "Susceptible varieties like Gossypium arboreum",
+        "Poor soil drainage",
+        "Continuous cotton cropping",
+        "Infected soil and plant debris"
+      ],
+      "prevention": [
+        "Crop rotation with non-host plants (e.g., maize)",
+        "Use resistant hybrids (e.g., Surabhi, Bunny)",
+        "Seed treatment with Trichoderma viride (10 g/kg seed)",
+        "Field sanitation and debris removal",
+        "Summer ploughing"
+      ],
+      "treatment": [
+        "Soil drenching with Carbendazim (1 g/L)",
+        "Bioagents like Pseudomonas fluorescens",
+        "Trichoderma viride application",
+        "Proper field drainage management"
+      ],
+      "impact": "Affects up to 60% of crops in susceptible varieties",
+      "prevalence_telangana": "High incidence in susceptible Gossypium arboreum varieties"
+    }
+  },
+  {
+    "name": "Root Rot",
+    "type": "Fungal",
+    "pathogen": "Macrophomina phaseoli",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "description": {
+      "overview": "Root rot thrives in waterlogged soils, causing sudden wilting and blackened roots in cotton plants.",
+      "pathogen": "Macrophomina phaseoli",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Sudden wilting of plants",
+        "Blackened roots",
+        "Root decay",
+        "Stunted growth",
+        "Yellowing of leaves"
+      ],
+      "causes": [
+        "Waterlogged soils",
+        "Poor field drainage",
+        "Continuous monocropping",
+        "High soil moisture",
+        "Infected plant debris"
+      ],
+      "prevention": [
+        "Proper field drainage",
+        "Summer ploughing",
+        "Avoid monocropping",
+        "Crop rotation",
+        "Field sanitation"
+      ],
+      "treatment": [
+        "Soil application of neem cake (250 kg/acre)",
+        "Carbendazim 50% WP (2 g/L) during early symptoms",
+        "Improve field drainage",
+        "Remove infected plants"
+      ],
+      "impact": "Causes sudden plant death and yield losses",
+      "prevalence_telangana": "Common in waterlogged areas"
+    }
+  },
+  {
+    "name": "Anthracnose",
+    "type": "Fungal",
+    "pathogen": "Colletotrichum gossypii",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Anthracnose is a fungal disease that causes boll rot and leaf spots in cotton plants.",
+      "pathogen": "Colletotrichum gossypii",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Boll rot",
+        "Leaf spots",
+        "Dark lesions on bolls",
+        "Premature boll dropping",
+        "Reduced fiber quality"
+      ],
+      "causes": [
+        "Humid weather conditions",
+        "Excessive nitrogen application",
+        "Poor air circulation",
+        "Infected seeds",
+        "Plant debris"
+      ],
+      "prevention": [
+        "Seed treatment with Thiram (2 g/kg)",
+        "Balanced nitrogen application",
+        "Proper plant spacing",
+        "Field sanitation",
+        "Remove infected plant debris"
+      ],
+      "treatment": [
+        "Spraying Mancozeb 75% WP (2 g/L) at flowering",
+        "Apply fungicides during boll formation stages",
+        "Copper-based fungicides",
+        "Regular monitoring and early intervention"
+      ],
+      "impact": "Causes boll rot and reduces fiber quality",
+      "prevalence_telangana": "Common during humid conditions"
+    }
+  },
+  {
+    "name": "Grey Mildew",
+    "type": "Fungal",
+    "pathogen": "Ramularia areola",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Grey mildew appears as angular leaf spots under humid conditions and affects cotton plant health.",
+      "pathogen": "Ramularia areola",
+      "disease_type": "Fungal",
+      "symptoms": [
+        "Angular leaf spots",
+        "Grey to white fungal growth on leaf undersides",
+        "Yellowing of affected leaves",
+        "Premature leaf drop",
+        "Reduced photosynthesis"
+      ],
+      "causes": [
+        "Humid weather conditions",
+        "Poor air circulation",
+        "Dense plant population",
+        "Excessive moisture",
+        "Infected plant debris"
+      ],
+      "prevention": [
+        "Proper plant spacing (90 cm × 60 cm) for air circulation",
+        "Avoid dense planting",
+        "Field sanitation",
+        "Remove infected leaves",
+        "Improve field drainage"
+      ],
+      "treatment": [
+        "Sulfur 80% WP (3 g/L) sprays",
+        "Hexaconazole 5% SC (1 mL/L) application",
+        "Copper-based fungicides",
+        "Regular monitoring and treatment"
+      ],
+      "impact": "Reduces photosynthesis and plant vigor",
+      "prevalence_telangana": "Common during humid monsoon periods"
+    }
+  },
+  {
+    "name": "Bacterial Blight",
+    "type": "Bacterial",
+    "pathogen": "Xanthomonas citri pv. malvacearum",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "description": {
+      "overview": "Bacterial blight causes angular leaf spots and blackened stems in cotton plants.",
+      "pathogen": "Xanthomonas citri pv. malvacearum",
+      "disease_type": "Bacterial",
+      "symptoms": [
+        "Angular leaf spots",
+        "Blackened stems",
+        "Water-soaked lesions",
+        "Vein necrosis",
+        "Premature defoliation"
+      ],
+      "causes": [
+        "Bacterial pathogen spread",
+        "Overhead irrigation",
+        "Infected seeds",
+        "Wind and rain dispersal",
+        "Contaminated tools"
+      ],
+      "prevention": [
+        "Acid delinting of seeds",
+        "Avoid overhead irrigation",
+        "Use disease-free seeds",
+        "Field sanitation",
+        "Crop rotation"
+      ],
+      "treatment": [
+        "Copper Oxychloride 50% WP (3 g/L)",
+        "Combined with Streptocycline (0.5 g/L)",
+        "Copper-based bactericides",
+        "Remove infected plant parts"
+      ],
+      "impact": "Causes significant yield losses and quality reduction",
+      "prevalence_telangana": "Common during monsoon season"
+    }
+  },
+  {
+    "name": "Gummosis",
+    "type": "Bacterial",
+    "pathogen": "Xanthomonas campestris",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Gummosis leads to oozing lesions on stems and bolls of cotton plants.",
+      "pathogen": "Xanthomonas campestris",
+      "disease_type": "Bacterial",
+      "symptoms": [
+        "Oozing lesions on stems",
+        "Gummy exudates on bolls",
+        "Darkened stem areas",
+        "Wilting of affected branches",
+        "Reduced boll formation"
+      ],
+      "causes": [
+        "Bacterial infection",
+        "High humidity",
+        "Wounds and injuries",
+        "Insect damage",
+        "Contaminated tools"
+      ],
+      "prevention": [
+        "Field sanitation",
+        "Destruction of infected debris",
+        "Avoid mechanical injuries",
+        "Clean cultivation tools",
+        "Proper spacing"
+      ],
+      "treatment": [
+        "Copper-based sprays during pre-monsoon periods",
+        "Copper Oxychloride applications",
+        "Remove infected plant parts",
+        "Improve field drainage"
+      ],
+      "impact": "Reduces boll quality and plant vigor",
+      "prevalence_telangana": "Occurs during high humidity periods"
+    }
+  },
+  {
+    "name": "Cotton Leaf Curl Virus",
+    "type": "Viral",
+    "pathogen": "Cotton Leaf Curl Virus (CLCuV)",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Cotton Leaf Curl Virus is transmitted by whiteflies (Bemisia tabaci) and causes leaf curling and stunting in cotton plants.",
+      "pathogen": "Cotton Leaf Curl Virus (CLCuV)",
+      "disease_type": "Viral",
+      "symptoms": [
+        "Leaf curling",
+        "Plant stunting",
+        "Yellowing of leaves",
+        "Reduced boll formation",
+        "Thick and leathery leaves"
+      ],
+      "causes": [
+        "Whitefly (Bemisia tabaci) transmission",
+        "Infected plant material",
+        "Vector population buildup",
+        "Susceptible varieties",
+        "Weed hosts"
+      ],
+      "prevention": [
+        "Use resistant varieties (e.g., NARSIMHA)",
+        "Neem-based biopesticides for vector control",
+        "Control whitefly populations",
+        "Remove weed hosts",
+        "Early sowing"
+      ],
+      "treatment": [
+        "No chemical remedies available",
+        "Roguing infected plants is critical",
+        "Vector control measures",
+        "Use of reflective mulches",
+        "Biological control agents"
+      ],
+      "impact": "Causes severe yield losses and plant stunting",
+      "prevalence_telangana": "Major viral disease with high economic impact"
+    }
+  },
+  {
+    "name": "Tobacco Streak Virus",
+    "type": "Viral",
+    "pathogen": "Tobacco Streak Virus (TSV)",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "description": {
+      "overview": "Tobacco Streak Virus causes necrotic streaks and yield losses up to 51% in Telangana cotton crops.",
+      "pathogen": "Tobacco Streak Virus (TSV)",
+      "disease_type": "Viral",
+      "symptoms": [
+        "Necrotic streaks on leaves",
+        "Ring spots on leaves",
+        "Stunted growth",
+        "Reduced boll formation",
+        "Yellowing and necrosis"
+      ],
+      "causes": [
+        "Thrips transmission",
+        "Weed hosts (e.g., Parthenium)",
+        "Infected plant debris",
+        "Vector population",
+        "Environmental stress"
+      ],
+      "prevention": [
+        "Weed control (e.g., Parthenium)",
+        "Thrips management using Spinosad 45% SC (0.3 mL/L)",
+        "Remove weed hosts",
+        "Field sanitation",
+        "Early detection and removal"
+      ],
+      "treatment": [
+        "No chemical remedies exist",
+        "Vector control is essential",
+        "Remove infected plants",
+        "Weed management",
+        "Biological control of thrips"
+      ],
+      "impact": "Causes yield losses up to 51% in Telangana",
+      "prevalence_telangana": "Significant yield losses up to 51%"
+    }
+  },
+  {
+    "name": "Root-Knot Nematode",
+    "type": "Nematode",
+    "pathogen": "Meloidogyne incognita",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "description": {
+      "overview": "Root-knot nematode forms root galls and reduces nutrient uptake in cotton plants.",
+      "pathogen": "Meloidogyne incognita",
+      "disease_type": "Nematode",
+      "symptoms": [
+        "Root galls formation",
+        "Stunted plant growth",
+        "Yellowing of leaves",
+        "Reduced nutrient uptake",
+        "Poor root development"
+      ],
+      "causes": [
+        "Soil-borne nematode",
+        "Continuous cotton cropping",
+        "Sandy soils",
+        "Infected soil",
+        "Poor crop rotation"
+      ],
+      "prevention": [
+        "Intercropping with marigold",
+        "Soil application of Paecilomyces lilacinus (20 kg/ha)",
+        "Crop rotation",
+        "Soil solarization",
+        "Organic amendments"
+      ],
+      "treatment": [
+        "Carbofuran 3G (1 kg/acre) at sowing",
+        "Nematicide applications",
+        "Biocontrol agents",
+        "Organic soil amendments",
+        "Proper soil management"
+      ],
+      "impact": "Reduces nutrient uptake and plant vigor",
+      "prevalence_telangana": "Common in sandy soils"
+    }
+  },
+  {
+    "name": "Reniform Nematode",
+    "type": "Nematode",
+    "pathogen": "Rotylenchulus reniformis",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "description": {
+      "overview": "Reniform nematode is prevalent in sandy soils and causes stunting and yellowing in cotton plants.",
+      "pathogen": "Rotylenchulus reniformis",
+      "disease_type": "Nematode",
+      "symptoms": [
+        "Plant stunting",
+        "Yellowing of leaves",
+        "Poor root development",
+        "Reduced plant vigor",
+        "Chlorosis"
+      ],
+      "causes": [
+        "Sandy soil conditions",
+        "Soil-borne nematode",
+        "Continuous cotton cultivation",
+        "Poor soil management",
+        "Infected plant debris"
+      ],
+      "prevention": [
+        "Soil solarization",
+        "Organic amendments",
+        "Crop rotation",
+        "Resistant varieties",
+        "Field sanitation"
+      ],
+      "treatment": [
+        "Oxamyl 10% G (5 kg/acre)",
+        "Nematicide applications",
+        "Biocontrol agents",
+        "Soil improvement practices",
+        "Organic matter addition"
+      ],
+      "impact": "Causes stunting and yellowing, reducing yield",
+      "prevalence_telangana": "Prevalent in sandy soils across the state"
+    }
+  }
+]

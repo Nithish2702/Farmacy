@@ -1,0 +1,461 @@
+[
+    {
+        "name": "Fusarium Wilt",
+        "type": "Fungal",
+        "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            2,
+            6
+        ],
+        "description": {
+            "overview": "Fusarium wilt is a soil-borne fungal disease causing vascular discoloration, wilting, and plant death. In Telangana, it affects up to 60% of crops in susceptible varieties like Gossypium arboreum.",
+            "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+            "disease_type": "Fungal",
+            "symptoms": [
+                "Vascular discoloration",
+                "Wilting of plants",
+                "Plant death",
+                "Yellowing of leaves",
+                "Browning of vascular tissue"
+            ],
+            "causes": [
+                "Soil-borne fungal pathogen",
+                "Susceptible varieties like Gossypium arboreum",
+                "Poor soil drainage",
+                "Continuous cotton cropping",
+                "Infected soil and plant debris"
+            ],
+            "prevention": [
+                "Crop rotation with non-host plants (e.g., maize)",
+                "Use resistant hybrids (e.g., Surabhi, Bunny)",
+                "Seed treatment with Trichoderma viride (10 g/kg seed)",
+                "Field sanitation and debris removal",
+                "Summer ploughing"
+            ],
+            "treatment": [
+                "Soil drenching with Carbendazim (1 g/L)",
+                "Bioagents like Pseudomonas fluorescens",
+                "Trichoderma viride application",
+                "Proper field drainage management"
+            ],
+            "impact": "Affects up to 60% of crops in susceptible varieties",
+            "prevalence_telangana": "High incidence in susceptible Gossypium arboreum varieties"
+        }
+    },
+    {
+        "name": "Root Rot",
+        "type": "Fungal",
+        "pathogen": "Macrophomina phaseoli",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            1,
+            6
+        ],
+        "description": {
+            "overview": "Root rot thrives in waterlogged soils, causing sudden wilting and blackened roots in cotton plants.",
+            "pathogen": "Macrophomina phaseoli",
+            "disease_type": "Fungal",
+            "symptoms": [
+                "Sudden wilting of plants",
+                "Blackened roots",
+                "Root decay",
+                "Stunted growth",
+                "Yellowing of leaves"
+            ],
+            "causes": [
+                "Waterlogged soils",
+                "Poor field drainage",
+                "Continuous monocropping",
+                "High soil moisture",
+                "Infected plant debris"
+            ],
+            "prevention": [
+                "Proper field drainage",
+                "Summer ploughing",
+                "Avoid monocropping",
+                "Crop rotation",
+                "Field sanitation"
+            ],
+            "treatment": [
+                "Soil application of neem cake (250 kg/acre)",
+                "Carbendazim 50% WP (2 g/L) during early symptoms",
+                "Improve field drainage",
+                "Remove infected plants"
+            ],
+            "impact": "Causes sudden plant death and yield losses",
+            "prevalence_telangana": "Common in waterlogged areas"
+        }
+    },
+    {
+        "name": "Anthracnose",
+        "type": "Fungal",
+        "pathogen": "Colletotrichum gossypii",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            6
+        ],
+        "description": {
+            "overview": "Anthracnose is a fungal disease that causes boll rot and leaf spots in cotton plants.",
+            "pathogen": "Colletotrichum gossypii",
+            "disease_type": "Fungal",
+            "symptoms": [
+                "Boll rot",
+                "Leaf spots",
+                "Dark lesions on bolls",
+                "Premature boll dropping",
+                "Reduced fiber quality"
+            ],
+            "causes": [
+                "Humid weather conditions",
+                "Excessive nitrogen application",
+                "Poor air circulation",
+                "Infected seeds",
+                "Plant debris"
+            ],
+            "prevention": [
+                "Seed treatment with Thiram (2 g/kg)",
+                "Balanced nitrogen application",
+                "Proper plant spacing",
+                "Field sanitation",
+                "Remove infected plant debris"
+            ],
+            "treatment": [
+                "Spraying Mancozeb 75% WP (2 g/L) at flowering",
+                "Apply fungicides during boll formation stages",
+                "Copper-based fungicides",
+                "Regular monitoring and early intervention"
+            ],
+            "impact": "Causes boll rot and reduces fiber quality",
+            "prevalence_telangana": "Common during humid conditions"
+        }
+    },
+    {
+        "name": "Grey Mildew",
+        "type": "Fungal",
+        "pathogen": "Ramularia areola",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            6
+        ],
+        "description": {
+            "overview": "Grey mildew appears as angular leaf spots under humid conditions and affects cotton plant health.",
+            "pathogen": "Ramularia areola",
+            "disease_type": "Fungal",
+            "symptoms": [
+                "Angular leaf spots",
+                "Grey to white fungal growth on leaf undersides",
+                "Yellowing of affected leaves",
+                "Premature leaf drop",
+                "Reduced photosynthesis"
+            ],
+            "causes": [
+                "Humid weather conditions",
+                "Poor air circulation",
+                "Dense plant population",
+                "Excessive moisture",
+                "Infected plant debris"
+            ],
+            "prevention": [
+                "Proper plant spacing (90 cm × 60 cm) for air circulation",
+                "Avoid dense planting",
+                "Field sanitation",
+                "Remove infected leaves",
+                "Improve field drainage"
+            ],
+            "treatment": [
+                "Sulfur 80% WP (3 g/L) sprays",
+                "Hexaconazole 5% SC (1 mL/L) application",
+                "Copper-based fungicides",
+                "Regular monitoring and treatment"
+            ],
+            "impact": "Reduces photosynthesis and plant vigor",
+            "prevalence_telangana": "Common during humid monsoon periods"
+        }
+    },
+    {
+        "name": "Bacterial Blight",
+        "type": "Bacterial",
+        "pathogen": "Xanthomonas citri pv. malvacearum",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            2,
+            6
+        ],
+        "description": {
+            "overview": "Bacterial blight causes angular leaf spots and blackened stems in cotton plants.",
+            "pathogen": "Xanthomonas citri pv. malvacearum",
+            "disease_type": "Bacterial",
+            "symptoms": [
+                "Angular leaf spots",
+                "Blackened stems",
+                "Water-soaked lesions",
+                "Vein necrosis",
+                "Premature defoliation"
+            ],
+            "causes": [
+                "Bacterial pathogen spread",
+                "Overhead irrigation",
+                "Infected seeds",
+                "Wind and rain dispersal",
+                "Contaminated tools"
+            ],
+            "prevention": [
+                "Acid delinting of seeds",
+                "Avoid overhead irrigation",
+                "Use disease-free seeds",
+                "Field sanitation",
+                "Crop rotation"
+            ],
+            "treatment": [
+                "Copper Oxychloride 50% WP (3 g/L)",
+                "Combined with Streptocycline (0.5 g/L)",
+                "Copper-based bactericides",
+                "Remove infected plant parts"
+            ],
+            "impact": "Causes significant yield losses and quality reduction",
+            "prevalence_telangana": "Common during monsoon season"
+        }
+    },
+    {
+        "name": "Gummosis",
+        "type": "Bacterial",
+        "pathogen": "Xanthomonas campestris",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            6
+        ],
+        "description": {
+            "overview": "Gummosis leads to oozing lesions on stems and bolls of cotton plants.",
+            "pathogen": "Xanthomonas campestris",
+            "disease_type": "Bacterial",
+            "symptoms": [
+                "Oozing lesions on stems",
+                "Gummy exudates on bolls",
+                "Darkened stem areas",
+                "Wilting of affected branches",
+                "Reduced boll formation"
+            ],
+            "causes": [
+                "Bacterial infection",
+                "High humidity",
+                "Wounds and injuries",
+                "Insect damage",
+                "Contaminated tools"
+            ],
+            "prevention": [
+                "Field sanitation",
+                "Destruction of infected debris",
+                "Avoid mechanical injuries",
+                "Clean cultivation tools",
+                "Proper spacing"
+            ],
+            "treatment": [
+                "Copper-based sprays during pre-monsoon periods",
+                "Copper Oxychloride applications",
+                "Remove infected plant parts",
+                "Improve field drainage"
+            ],
+            "impact": "Reduces boll quality and plant vigor",
+            "prevalence_telangana": "Occurs during high humidity periods"
+        }
+    },
+    {
+        "name": "Cotton Leaf Curl Virus",
+        "type": "Viral",
+        "pathogen": "Cotton Leaf Curl Virus (CLCuV)",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            6
+        ],
+        "description": {
+            "overview": "Cotton Leaf Curl Virus is transmitted by whiteflies (Bemisia tabaci) and causes leaf curling and stunting in cotton plants.",
+            "pathogen": "Cotton Leaf Curl Virus (CLCuV)",
+            "disease_type": "Viral",
+            "symptoms": [
+                "Leaf curling",
+                "Plant stunting",
+                "Yellowing of leaves",
+                "Reduced boll formation",
+                "Thick and leathery leaves"
+            ],
+            "causes": [
+                "Whitefly (Bemisia tabaci) transmission",
+                "Infected plant material",
+                "Vector population buildup",
+                "Susceptible varieties",
+                "Weed hosts"
+            ],
+            "prevention": [
+                "Use resistant varieties (e.g., NARSIMHA)",
+                "Neem-based biopesticides for vector control",
+                "Control whitefly populations",
+                "Remove weed hosts",
+                "Early sowing"
+            ],
+            "treatment": [
+                "No chemical remedies available",
+                "Roguing infected plants is critical",
+                "Vector control measures",
+                "Use of reflective mulches",
+                "Biological control agents"
+            ],
+            "impact": "Causes severe yield losses and plant stunting",
+            "prevalence_telangana": "Major viral disease with high economic impact"
+        }
+    },
+    {
+        "name": "Tobacco Streak Virus",
+        "type": "Viral",
+        "pathogen": "Tobacco Streak Virus (TSV)",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            6
+        ],
+        "description": {
+            "overview": "Tobacco Streak Virus causes necrotic streaks and yield losses up to 51% in Telangana cotton crops.",
+            "pathogen": "Tobacco Streak Virus (TSV)",
+            "disease_type": "Viral",
+            "symptoms": [
+                "Necrotic streaks on leaves",
+                "Ring spots on leaves",
+                "Stunted growth",
+                "Reduced boll formation",
+                "Yellowing and necrosis"
+            ],
+            "causes": [
+                "Thrips transmission",
+                "Weed hosts (e.g., Parthenium)",
+                "Infected plant debris",
+                "Vector population",
+                "Environmental stress"
+            ],
+            "prevention": [
+                "Weed control (e.g., Parthenium)",
+                "Thrips management using Spinosad 45% SC (0.3 mL/L)",
+                "Remove weed hosts",
+                "Field sanitation",
+                "Early detection and removal"
+            ],
+            "treatment": [
+                "No chemical remedies exist",
+                "Vector control is essential",
+                "Remove infected plants",
+                "Weed management",
+                "Biological control of thrips"
+            ],
+            "impact": "Causes yield losses up to 51% in Telangana",
+            "prevalence_telangana": "Significant yield losses up to 51%"
+        }
+    },
+    {
+        "name": "Root-Knot Nematode",
+        "type": "Nematode",
+        "pathogen": "Meloidogyne incognita",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            1,
+            6
+        ],
+        "description": {
+            "overview": "Root-knot nematode forms root galls and reduces nutrient uptake in cotton plants.",
+            "pathogen": "Meloidogyne incognita",
+            "disease_type": "Nematode",
+            "symptoms": [
+                "Root galls formation",
+                "Stunted plant growth",
+                "Yellowing of leaves",
+                "Reduced nutrient uptake",
+                "Poor root development"
+            ],
+            "causes": [
+                "Soil-borne nematode",
+                "Continuous cotton cropping",
+                "Sandy soils",
+                "Infected soil",
+                "Poor crop rotation"
+            ],
+            "prevention": [
+                "Intercropping with marigold",
+                "Soil application of Paecilomyces lilacinus (20 kg/ha)",
+                "Crop rotation",
+                "Soil solarization",
+                "Organic amendments"
+            ],
+            "treatment": [
+                "Carbofuran 3G (1 kg/acre) at sowing",
+                "Nematicide applications",
+                "Biocontrol agents",
+                "Organic soil amendments",
+                "Proper soil management"
+            ],
+            "impact": "Reduces nutrient uptake and plant vigor",
+            "prevalence_telangana": "Common in sandy soils"
+        }
+    },
+    {
+        "name": "Reniform Nematode",
+        "type": "Nematode",
+        "pathogen": "Rotylenchulus reniformis",
+        "crops": [
+            "Cotton"
+        ],
+        "stage_numbers": [
+            1,
+            6
+        ],
+        "description": {
+            "overview": "Reniform nematode is prevalent in sandy soils and causes stunting and yellowing in cotton plants.",
+            "pathogen": "Rotylenchulus reniformis",
+            "disease_type": "Nematode",
+            "symptoms": [
+                "Plant stunting",
+                "Yellowing of leaves",
+                "Poor root development",
+                "Reduced plant vigor",
+                "Chlorosis"
+            ],
+            "causes": [
+                "Sandy soil conditions",
+                "Soil-borne nematode",
+                "Continuous cotton cultivation",
+                "Poor soil management",
+                "Infected plant debris"
+            ],
+            "prevention": [
+                "Soil solarization",
+                "Organic amendments",
+                "Crop rotation",
+                "Resistant varieties",
+                "Field sanitation"
+            ],
+            "treatment": [
+                "Oxamyl 10% G (5 kg/acre)",
+                "Nematicide applications",
+                "Biocontrol agents",
+                "Soil improvement practices",
+                "Organic matter addition"
+            ],
+            "impact": "Causes stunting and yellowing, reducing yield",
+            "prevalence_telangana": "Prevalent in sandy soils across the state"
+        }
+    }
+] 

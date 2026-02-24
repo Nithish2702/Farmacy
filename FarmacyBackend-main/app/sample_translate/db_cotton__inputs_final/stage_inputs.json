@@ -1,0 +1,3152 @@
+[
+  {
+    "crop_code": "NA1325",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, leftover stalks, and stones from your field. This helps prevent pest and disease problems and gives your cotton plants a clean, healthy start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your land 2–3 times to a depth of about 10–12 cm. This loosens the soil, mixes in organic matter, and helps roots grow deep for better water and nutrient use."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "Level the field after ploughing. A flat field ensures even water distribution and helps seeds sprout evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Build and repair bunds (raised borders) around your field. These keep rainwater in the field and prevent soil erosion."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన పత్తి సాగు కోసం పొలాన్ని చదును చేయడం, దున్నడం, చదును చేయడం మరియు గట్లు నిర్మించడం ద్వారా పొలాన్ని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "ఫీల్డ్‌ను క్లియర్ చేయండి",
+              "description": "మీ పొలంలోని కలుపు మొక్కలు, మిగిలిపోయిన కాండాలు మరియు రాళ్లను తొలగించండి. ఇది తెగుళ్ళు మరియు వ్యాధుల సమస్యలను నివారించడంలో సహాయపడుతుంది మరియు మీ పత్తి మొక్కలకు శుభ్రమైన, ఆరోగ్యకరమైన ప్రారంభాన్ని ఇస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "మీ భూమిని 2-3 సార్లు 10-12 సెం.మీ లోతు వరకు దున్నండి. ఇది నేలను వదులుతుంది, సేంద్రియ పదార్థాలతో కలుపుతుంది మరియు మంచి నీరు మరియు పోషక వినియోగం కోసం వేర్లు లోతుగా పెరగడానికి సహాయపడుతుంది."
+            },
+            "levelling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత పొలాన్ని చదును చేయండి. చదునైన పొలం నీటి పంపిణీని సమానంగా నిర్ధారిస్తుంది మరియు విత్తనాలు సమానంగా మొలకెత్తడానికి సహాయపడుతుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "మీ పొలం చుట్టూ కట్టలు (ఎత్తైన సరిహద్దులు) నిర్మించి మరమ్మతు చేయండి. ఇవి వర్షపు నీటిని పొలంలో నిలుపుకుంటాయి మరియు నేల కోతను నివారిస్తాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "कपास की सर्वोत्तम खेती के लिए खेत को साफ करके, जुताई करके, समतल करके और मेड़ बनाकर उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "फ़ील्ड साफ़ करें",
+              "description": "अपने खेत से सभी खरपतवार, बचे हुए डंठल और पत्थर हटा दें। इससे कीट और रोग की समस्याओं को रोकने में मदद मिलती है और आपके कपास के पौधों को एक स्वच्छ, स्वस्थ शुरुआत मिलती है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "अपनी ज़मीन को 2-3 बार लगभग 10-12 सेमी की गहराई तक जोतें। इससे मिट्टी ढीली हो जाती है, कार्बनिक पदार्थ मिल जाते हैं, और जड़ों को पानी और पोषक तत्वों के बेहतर उपयोग के लिए गहराई तक बढ़ने में मदद मिलती है।"
+            },
+            "levelling": {
+              "title": "लेवलिंग",
+              "description": "जुताई के बाद खेत को समतल करें। समतल खेत में पानी का वितरण समान रहता है और बीज समान रूप से अंकुरित होते हैं।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "अपने खेत के चारों ओर बाँध (ऊँची सीमाएँ) बनाएँ और उनकी मरम्मत करें। ये खेत में वर्षा जल को रोकते हैं और मिट्टी के कटाव को रोकते हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Choose Good Seeds",
+              "description": "Use certified Narasimha (NA1325) seeds. Good seeds give healthy, uniform plants and better yields. Using certified Narasimha (NA1325) seeds means buying officially approved, high-quality seeds that are pure, healthy, and guaranteed to produce true Narasimha cotton plants for better yield and crop safety."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before sowing, treat seeds with either Carbendazim (2g per kg seed) or Trichoderma viridae/Pseudomonas fluorescens (10g per kg seed). This protects young plants from soil-borne diseases like root rot (caused by Rhizoctonia and Fusarium fungi) and seedling wilt or damping-off, which can lead to poor plant growth and yield loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "మంచి అంకురోత్పత్తి మరియు వ్యాధి నిరోధకతను నిర్ధారించడానికి నాణ్యమైన ధృవీకరించబడిన విత్తనాలను ఎంచుకుని వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "మంచి విత్తనాలను ఎంచుకోండి",
+              "description": "ధృవీకరించబడిన నరసింహ (NA1325) విత్తనాలను ఉపయోగించండి. మంచి విత్తనాలు ఆరోగ్యకరమైన, ఏకరీతి మొక్కలను మరియు మంచి దిగుబడిని ఇస్తాయి. ధృవీకరించబడిన నరసింహ (NA1325) విత్తనాలను ఉపయోగించడం అంటే అధికారికంగా ఆమోదించబడిన, అధిక-నాణ్యత గల విత్తనాలను కొనుగోలు చేయడం, అవి స్వచ్ఛమైన, ఆరోగ్యకరమైనవి మరియు మెరుగైన దిగుబడి మరియు పంట భద్రత కోసం నిజమైన నరసింహ పత్తి మొక్కలను ఉత్పత్తి చేస్తాయని హామీ ఇవ్వబడుతుంది."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "విత్తే ముందు, కార్బెండజిమ్ (కిలో విత్తనానికి 2 గ్రా) లేదా ట్రైకోడెర్మా విరిడే/సూడోమోనాస్ ఫ్లోరోసెన్స్ (కిలో విత్తనానికి 10 గ్రా) తో విత్తనాలను శుద్ధి చేయండి. ఇది యువ మొక్కలను నేల ద్వారా సంక్రమించే వ్యాధులు (రైజోక్టోనియా మరియు ఫ్యూసేరియం శిలీంధ్రాల వల్ల కలిగేవి) మరియు మొలకల వాడిపోవడం లేదా తేమ తగ్గడం వంటి వాటి నుండి రక్షిస్తుంది, ఇది మొక్కల పెరుగుదల మరియు దిగుబడి నష్టానికి దారితీస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाले प्रमाणित बीजों का चयन करें और अच्छे अंकुरण और रोग प्रतिरोधकता सुनिश्चित करने के लिए उन्हें उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "अच्छे बीज चुनें",
+              "description": "प्रमाणित नरसिंह (NA1325) बीजों का उपयोग करें। अच्छे बीज स्वस्थ, एकसमान पौधे और बेहतर उपज देते हैं। प्रमाणित नरसिंह (NA1325) बीजों का उपयोग करने का मतलब है आधिकारिक रूप से स्वीकृत, उच्च गुणवत्ता वाले बीज खरीदना जो शुद्ध, स्वस्थ हैं और बेहतर उपज और फसल सुरक्षा के लिए सच्चे नरसिंह कपास के पौधे पैदा करने की गारंटी देते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "बुवाई से पहले बीजों को कार्बेन्डाजिम (2 ग्राम प्रति किलोग्राम बीज) या ट्राइकोडर्मा विरिडे/स्यूडोमोनास फ्लोरोसेंस (10 ग्राम प्रति किलोग्राम बीज) से उपचारित करें। यह युवा पौधों को मिट्टी जनित रोगों जैसे जड़ सड़न (राइजोक्टोनिया और फ्यूजेरियम कवक के कारण) और अंकुर विल्ट या डैम्पिंग-ऑफ से बचाता है, जिससे पौधे की खराब वृद्धि और उपज में कमी हो सकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Sowing",
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "Best Time to Sow",
+              "description": "Sow with the start of the monsoon (June 1st–15th). Don't sow after July 15th, as late sowing reduces yield."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 2.5–3.5 kg of seed per acre for normal sowing. For high-density planting, use 4–5 kg/acre."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal sowing: 90 x 60 cm or 105 x 60 cm between rows and plants. For high-density: 80 x 20 cm or 60 x 30 cm."
+            },
+            "sowing_method": {
+              "title": "Sowing Method",
+              "description": "Sow seeds in lines or dibble after marking the field. This ensures uniform plant growth and easy management."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తడం",
+        "description": {
+          "overview": "మొక్కల సరైన పెరుగుదల మరియు స్థాపన కోసం సరైన సమయంలో విత్తనాలను విత్తండి, సరైన అంతరం ఉంచండి.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "విత్తడానికి ఉత్తమ సమయం",
+              "description": "రుతుపవనాల ప్రారంభంతో (జూన్ 1–15) విత్తండి. జూలై 15 తర్వాత విత్తకండి, ఎందుకంటే ఆలస్యంగా విత్తడం వల్ల దిగుబడి తగ్గుతుంది."
+            },
+            "seed_rate": {
+              "title": "విత్తన రేటు",
+              "description": "సాధారణ విత్తనాల కోసం ఎకరానికి 2.5–3.5 కిలోల విత్తనాన్ని ఉపయోగించండి. అధిక సాంద్రత గల మొక్కల కోసం, ఎకరానికి 4–5 కిలోలు ఉపయోగించండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "సాధారణ విత్తనాల కోసం: వరుసలు మరియు మొక్కల మధ్య 90 x 60 సెం.మీ లేదా 105 x 60 సెం.మీ. అధిక సాంద్రత కోసం: 80 x 20 సెం.మీ లేదా 60 x 30 సెం.మీ."
+            },
+            "sowing_method": {
+              "title": "విత్తే విధానం",
+              "description": "పొలంలో గుర్తులు వేసిన తర్వాత విత్తనాలను వరుసలలో లేదా గుంతలలో విత్తండి. ఇది మొక్కల పెరుగుదలను మరియు నిర్వహణను సులభతరం చేస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बोवाई",
+        "description": {
+          "overview": "पौधों की इष्टतम स्थापना और वृद्धि के लिए उचित अंतराल के साथ सही समय पर बीज बोएं।",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "बोने का सर्वोत्तम समय",
+              "description": "मानसून की शुरुआत (1 जून से 15 जून) के साथ ही बुवाई करें। 15 जुलाई के बाद बुवाई न करें, क्योंकि देर से बुवाई करने से उपज कम हो जाती है।"
+            },
+            "seed_rate": {
+              "title": "बीज दर",
+              "description": "सामान्य बुआई के लिए प्रति एकड़ 2.5-3.5 किलोग्राम बीज का उपयोग करें। उच्च घनत्व वाली रोपाई के लिए, 4-5 किलोग्राम/एकड़ का उपयोग करें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "सामान्य बुआई के लिए: पंक्तियों और पौधों के बीच 90 x 60 सेमी या 105 x 60 सेमी। उच्च घनत्व के लिए: 80 x 20 सेमी या 60 x 30 सेमी।"
+            },
+            "sowing_method": {
+              "title": "बुवाई विधि",
+              "description": "खेत को चिह्नित करने के बाद पंक्तियों में या गड्ढों में बीज बोएं। इससे पौधों की एक समान वृद्धि और आसान प्रबंधन सुनिश्चित होता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Add 5–10 tons of well-rotted farmyard manure (FYM) (organic cow dung waste is FYM) per hectare before sowing to improve soil health."
+            },
+            "fertilizer_dose": {
+              "title": "Fertilizer Dose",
+              "description": "Per hectare: Nitrogen (N): 90 kg, Phosphorus (P₂O₅): 45 kg, Potassium (K₂O): 45 kg"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and one-third nitrogen and potassium as basal (before or at sowing). Apply the rest of the nitrogen and potassium in 2–3 splits at 30, 60, and 90 days after sowing."
+            },
+            "foliar_sprays": {
+              "title": "Foliar Sprays",
+              "description": "During boll formation, spray 2% urea or DAP, or 1% KNO₃/19:19:19 fertilizer every 7-10 days if the crop looks weak or during drought. Foliar sprays are liquid fertilizers or nutrients applied directly to plant leaves, allowing the plant to quickly absorb them through the leaf surface for faster results than soil application."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "సరైన పంట పెరుగుదల మరియు దిగుబడికి తోడ్పడటానికి తగిన ఎరువులు మరియు పోషకాలను వేయండి.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "సేంద్రియ ఎరువు",
+              "description": "నేల ఆరోగ్యాన్ని మెరుగుపరచడానికి విత్తే ముందు హెక్టారుకు 5-10 టన్నుల బాగా కుళ్ళిన పొల ఎరువు (FYM) (సేంద్రీయ ఆవు పేడ వ్యర్థాలు FYM) జోడించండి."
+            },
+            "fertilizer_dose": {
+              "title": "ఎరువుల మోతాదు",
+              "description": "హెక్టారుకు: నత్రజని (N): 90 కిలోలు, భాస్వరం (P₂O₅): 45 కిలోలు, పొటాషియం (K₂O): 45 కిలోలు"
+            },
+            "application_schedule": {
+              "title": "దరఖాస్తు షెడ్యూల్",
+              "description": "మొత్తం భాస్వరం మరియు మూడింట ఒక వంతు నత్రజని మరియు పొటాషియంను బేసల్‌గా (విత్తడానికి ముందు లేదా సమయంలో) వేయండి. మిగిలిన నత్రజని మరియు పొటాషియంను విత్తిన 30, 60 మరియు 90 రోజుల తర్వాత 2-3 భాగాలుగా వేయండి."
+            },
+            "foliar_sprays": {
+              "title": "ఆకులపై పిచికారీలు",
+              "description": "కాయలు ఏర్పడే సమయంలో, పంట బలహీనంగా లేదా కరువు సమయంలో కనిపిస్తే ప్రతి 7-10 రోజులకు 2% యూరియా లేదా DAP లేదా 1% KNO₃/19:19:19 ఎరువులను పిచికారీ చేయండి. ఆకులపై పిచికారీలు అనేవి ద్రవ ఎరువులు లేదా పోషకాలను మొక్కల ఆకులకు నేరుగా పూయడం, నేలపై వేయడం కంటే వేగవంతమైన ఫలితాల కోసం మొక్క ఆకు ఉపరితలం ద్వారా వాటిని త్వరగా గ్రహించడానికి వీలు కల్పిస్తాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "फसल की इष्टतम वृद्धि और उपज के लिए उपयुक्त उर्वरक और पोषक तत्वों का प्रयोग करें।",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "जैविक खाद",
+              "description": "मृदा स्वास्थ्य में सुधार के लिए बुवाई से पहले प्रति हेक्टेयर 5-10 टन अच्छी तरह सड़ी हुई गोबर की खाद (एफवाईएम) (जैविक गोबर अपशिष्ट एफवाईएम है) डालें।"
+            },
+            "fertilizer_dose": {
+              "title": "उर्वरक की खुराक",
+              "description": "प्रति हेक्टेयर: नाइट्रोजन (N): 90 किग्रा, फॉस्फोरस (P₂O₅): 45 किग्रा, पोटैशियम (K₂O): 45 किग्रा"
+            },
+            "application_schedule": {
+              "title": "आवेदन अनुसूची",
+              "description": "सभी फॉस्फोरस और एक तिहाई नाइट्रोजन और पोटेशियम को बेसल के रूप में (बुवाई से पहले या बुवाई के समय) डालें। शेष नाइट्रोजन और पोटेशियम को बुवाई के 30, 60 और 90 दिनों के बाद 2-3 बार में डालें।"
+            },
+            "foliar_sprays": {
+              "title": "पत्तियों पर छिड़काव",
+              "description": "यदि फसल कमजोर दिखती है या सूखे के दौरान, बीजकोष बनने के दौरान, 2% यूरिया या डीएपी, या 1% KNO₃/19:19:19 उर्वरक का हर 7-10 दिन में छिड़काव करें। पर्णीय छिड़काव तरल उर्वरक या पोषक तत्व होते हैं जिन्हें सीधे पौधे की पत्तियों पर लगाया जाता है, जिससे पौधे को मिट्टी के छिड़काव की तुलना में तेजी से परिणाम के लिए पत्ती की सतह के माध्यम से उन्हें जल्दी से अवशोषित करने की अनुमति मिलती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Cotton can grow with rainfall, but if there's a long dry spell, give one or two irrigations during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "Give regular irrigations, especially at flowering and boll development. Avoid waterlogging."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure excess water drains out quickly, as standing water can harm cotton roots."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి ఎద్దడిని నివారించి దిగుబడిని ఆప్టిమైజ్ చేయడానికి పంట చక్రం అంతటా నీటిని సమర్ధవంతంగా నిర్వహించండి.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "వర్షాధార పంట",
+              "description": "పత్తి వర్షపాతంతో కూడా పెరుగుతుంది, కానీ ఎక్కువ కాలం పొడిగా ఉంటే, పుష్పించే సమయంలో మరియు కాయలు ఏర్పడే సమయంలో ఒకటి లేదా రెండుసార్లు నీరు పెట్టండి."
+            },
+            "irrigated_crop": {
+              "title": "సాగునీటి పంట",
+              "description": "ముఖ్యంగా పుష్పించే సమయంలో మరియు కాయలు అభివృద్ధి చెందుతున్న సమయంలో క్రమం తప్పకుండా నీరు పెట్టండి. నీరు నిలిచిపోకుండా చూసుకోండి."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "అదనపు నీరు త్వరగా బయటకు పోకుండా చూసుకోండి, ఎందుకంటే నిలిచి ఉన్న నీరు పత్తి వేర్లకు హాని కలిగిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जलभराव से बचते हुए उपज को अधिकतम करने के लिए पूरे फसल चक्र में जल का कुशलतापूर्वक प्रबंधन करें।",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "वर्षा आधारित फसल",
+              "description": "कपास वर्षा से भी उग सकता है, लेकिन यदि लम्बे समय तक सूखा रहे तो फूल आने और बीजकोष बनने के दौरान एक या दो सिंचाई अवश्य करें।"
+            },
+            "irrigated_crop": {
+              "title": "सिंचित फसल",
+              "description": "नियमित सिंचाई करें, खास तौर पर फूल आने और बीजकोष विकसित होने के समय। जलभराव से बचें।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "सुनिश्चित करें कि अतिरिक्त पानी शीघ्रता से निकल जाए, क्योंकि खड़ा पानी कपास की जड़ों को नुकसान पहुंचा सकता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "Do the first weeding 20–30 days after sowing, then again at 45–60 days. Use hand hoes or mechanical weeders. For chemical control, use Pendimethalin (1 litre/acre) after sowing and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Narasimha is naturally tolerant to some pests, but verify for sucking pests (jassids, aphids). For sucking pests, stem-apply Monocrotophos (1:4 with water) at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. Use neem oil or NSKE 5% spray for eco-friendly pest control. Install pheromone traps (4–8 per acre) to monitor pink bollworm. Remove and destroy the rosette flowers present in the field."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management (IPM)",
+              "description": "Grow border crops (sunflower, marigold) and intercrops (green gram, black gram, cowpea) to attract beneficial insects and reduce pests. Rotate cotton with other crops like red gram, maize, or green manure every 2–3 years."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యం మరియు దిగుబడిని కాపాడటానికి సమగ్ర నిర్వహణ పద్ధతుల ద్వారా కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించండి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "మొదటి కలుపు తీయుట విత్తిన 20-30 రోజుల తర్వాత, తరువాత 45-60 రోజుల తర్వాత చేయండి. చేతి తొడుగులు లేదా యాంత్రిక కలుపు తీసే యంత్రాలను ఉపయోగించండి. రసాయన నియంత్రణ కోసం, విత్తిన తర్వాత పెండిమెథాలిన్ (ఎకరానికి 1 లీటరు) మరియు తరువాత కలుపు మొక్కలకు క్విజలోఫాప్-ఇథైల్ లేదా పైరాఫ్లుఫెన్-ఇథైల్ ఉపయోగించండి."
+            },
+            "pest_management": {
+              "title": "తెగులు నిర్వహణ",
+              "description": "నరసింహ సహజంగా కొన్ని తెగుళ్ళను తట్టుకుంటుంది, కానీ రసం పీల్చే తెగుళ్ళ (జాసిడ్లు, అఫిడ్స్) కోసం తనిఖీ చేయండి. రసం పీల్చే తెగుళ్ళకు, 30 మరియు 45 రోజులలో మోనోక్రోటోఫాస్ (నీటితో 1:4) మరియు 60 రోజులలో ఫ్లోనికామిడ్ (నీటితో 1:20) కాండం మీద పిచికారీ చేయండి. పర్యావరణ అనుకూల తెగులు నియంత్రణ కోసం వేప నూనె లేదా NSKE 5% స్ప్రేని ఉపయోగించండి. గులాబీ రంగు కాయ పురుగులను పర్యవేక్షించడానికి ఫెరోమోన్ ఉచ్చులను (ఎకరానికి 4–8) ఏర్పాటు చేయండి. పొలంలో ఉన్న రోసెట్ పువ్వులను తొలగించి నాశనం చేయండి."
+            },
+            "integrated_pest_management": {
+              "title": "ఇంటిగ్రేటెడ్ పెస్ట్ మేనేజ్‌మెంట్ (IPM)",
+              "description": "ప్రయోజనకరమైన కీటకాలను ఆకర్షించడానికి మరియు తెగుళ్లను తగ్గించడానికి సరిహద్దు పంటలు (పొద్దుతిరుగుడు, బంతి పువ్వు) మరియు అంతర పంటలు (పెసరపప్పు, మినుములు, అలసందలు) పెంచండి. ప్రతి 2-3 సంవత్సరాలకు ఒకసారి కంది, మొక్కజొన్న లేదా పచ్చి ఎరువు వంటి ఇతర పంటలతో పత్తి పంటను మార్పిడి చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य और उपज की रक्षा के लिए एकीकृत प्रबंधन प्रथाओं के माध्यम से खरपतवारों, कीटों और रोगों को नियंत्रित करें।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "पहली निराई बुवाई के 20-30 दिन बाद करें, फिर 45-60 दिन बाद दोबारा करें। हाथ से कुदाल या यांत्रिक खरपतवार हटाने वाली मशीन का उपयोग करें। रासायनिक नियंत्रण के लिए, बुवाई के बाद पेंडीमेथालिन (1 लीटर/एकड़) और बाद में खरपतवार के लिए क्विज़ालोफ़ॉप-इथाइल या पाइराफ़्लुफ़ेन-इथाइल का उपयोग करें।"
+            },
+            "pest_management": {
+              "title": "कीट प्रबंधन",
+              "description": "नरसिंह कुछ कीटों के प्रति स्वाभाविक रूप से सहनशील है, लेकिन चूसने वाले कीटों (जैसिड्स, एफिड्स) के लिए जाँच करें। चूसने वाले कीटों के लिए, 30 और 45 दिनों पर मोनोक्रोटोफॉस (1:4 पानी के साथ) और 60 दिनों पर फ्लोनिकैमिड (1:20 पानी के साथ) का छिड़काव करें। पर्यावरण के अनुकूल कीट नियंत्रण के लिए नीम के तेल या NSKE 5% स्प्रे का उपयोग करें। गुलाबी बॉलवर्म की निगरानी के लिए फेरोमोन ट्रैप (4-8 प्रति एकड़) लगाएँ। खेत में मौजूद रोसेट फूलों को हटा दें और नष्ट कर दें।"
+            },
+            "integrated_pest_management": {
+              "title": "एकीकृत कीट प्रबंधन (आईपीएम)",
+              "description": "लाभकारी कीटों को आकर्षित करने और कीटों को कम करने के लिए सीमावर्ती फसलें (सूरजमुखी, गेंदा) और अंतर-फसलें (हरा चना, काला चना, लोबिया) उगाएँ। हर 2-3 साल में लाल चना, मक्का या हरी खाद जैसी अन्य फसलों के साथ कपास की फसल को बदलें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Intercropping and Crop Rotation",
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Grow short-duration pulses (green gram, black gram, cowpea) between cotton rows to improve soil fertility and spread risk."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "Grow other crops after cotton, such as pulses or oilseeds, to break pest and disease cycles and keep the soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "అంతర పంటలు మరియు పంట మార్పిడి",
+        "description": {
+          "overview": "నేల ఆరోగ్యాన్ని మెరుగుపరచడానికి మరియు తెగుళ్ల ఒత్తిడిని తగ్గించడానికి అంతర పంటలు మరియు పంట భ్రమణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "అంతర పంటలు",
+              "description": "నేల సారాన్ని మెరుగుపరచడానికి మరియు వ్యాప్తి ప్రమాదాన్ని పెంచడానికి పత్తి వరుసల మధ్య స్వల్పకాలిక పప్పుధాన్యాలను (పెసరపప్పు, మినుములు, అలసందలు) పెంచండి."
+            },
+            "crop_rotation": {
+              "title": "పంట భ్రమణం",
+              "description": "తెగుళ్ళు మరియు వ్యాధుల చక్రాలను విచ్ఛిన్నం చేయడానికి మరియు నేలను ఆరోగ్యంగా ఉంచడానికి పత్తి తర్వాత పప్పుధాన్యాలు లేదా నూనె గింజలు వంటి ఇతర పంటలను పండించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "अंतरफसल और फसल चक्र",
+        "description": {
+          "overview": "मृदा स्वास्थ्य में सुधार और कीटों के दबाव को कम करने के लिए अंतरफसल और फसल चक्र रणनीतियों को लागू करें।",
+          "sub_steps": {
+            "intercropping": {
+              "title": "अंतरफसल",
+              "description": "मिट्टी की उर्वरता बढ़ाने और रोग के फैलाव के जोखिम को कम करने के लिए कपास की पंक्तियों के बीच अल्पावधि वाली दालें (मूंग, उड़द, लोबिया) उगाएं।"
+            },
+            "crop_rotation": {
+              "title": "फसल चक्र",
+              "description": "कीट और रोग चक्र को तोड़ने और मिट्टी को स्वस्थ रखने के लिए कपास के बाद अन्य फसलें, जैसे दालें या तिलहन उगाएं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Cotton is ready for picking when the bolls are fully open and fluffy. As the bolls mature, pick cotton in 3–4 rounds."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Pick clean, dry cotton by hand. Avoid picking wet cotton to prevent quality loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "మంచి నాణ్యమైన దిగుబడిని నిర్ధారించడానికి పత్తిని సరైన సమయంలో మరియు సరైన పద్ధతిలో కోయండి.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "ఎప్పుడు పండించాలి",
+              "description": "పత్తి కాయలు పూర్తిగా తెరిచి మెత్తగా ఉన్నప్పుడు కోయడానికి సిద్ధంగా ఉంటుంది. కాయలు పరిపక్వం చెందుతున్నప్పుడు, 3–4 రౌండ్లలో పత్తిని తీయండి."
+            },
+            "how_to_harvest": {
+              "title": "ఎలా పండించాలి",
+              "description": "శుభ్రమైన, పొడి పత్తిని చేతితో ఎంచుకోండి. నాణ్యత కోల్పోకుండా ఉండటానికి తడి పత్తిని తీయకుండా ఉండండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाली उपज सुनिश्चित करने के लिए कपास की कटाई सही समय पर और उचित तरीके से करें।",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "कब कटाई करें",
+              "description": "कपास तब चुनने के लिए तैयार है जब बीजकोष पूरी तरह से खुले और फूले हुए हों। जब बीजकोष परिपक्व हो जाएं, तो कपास को 3-4 बार में चुनें।"
+            },
+            "how_to_harvest": {
+              "title": "फसल कैसे काटें?",
+              "description": "हाथ से साफ, सूखी कपास चुनें। गुणवत्ता में कमी से बचने के लिए गीली कपास चुनने से बचें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NA1325",
+    "stage_number": 9,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After harvest, shred and incorporate cotton stalks into the soil. This helps control pests like the pink bollworm. Cotton stalks are the leftover stems and branches of the cotton plant remaining in the field after the cotton fibres and bolls have been harvested."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store picked cotton in a clean, dry place to avoid moisture and pest damage."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు తదుపరి సీజన్‌కు సిద్ధం కావడానికి పంటకోత తర్వాత కార్యకలాపాలను సరిగ్గా నిర్వహించండి.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "మొద్దు నిర్వహణ",
+              "description": "పంట కోసిన తర్వాత, పత్తి కాండాలను ముక్కలుగా కోసి మట్టిలో కలపండి. ఇది గులాబీ రంగు బోల్‌వార్మ్ వంటి తెగుళ్లను నియంత్రించడంలో సహాయపడుతుంది. పత్తి కాండాలు అంటే పత్తి ఫైబర్స్ మరియు బోల్స్ కోసిన తర్వాత పొలంలో మిగిలిపోయిన పత్తి మొక్క యొక్క మిగిలిపోయిన కాండం మరియు కొమ్మలు."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "తేమ మరియు తెగుళ్ళ నుండి నష్టాన్ని నివారించడానికి ఎంచుకున్న పత్తిని శుభ్రమైన, పొడి ప్రదేశంలో నిల్వ చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और अगले सीजन की तैयारी के लिए कटाई के बाद के कार्यों का उचित प्रबंधन करें।",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "पराली प्रबंधन",
+              "description": "कटाई के बाद, कपास के डंठलों को काटकर मिट्टी में मिला दें। इससे गुलाबी बॉलवर्म जैसे कीटों को नियंत्रित करने में मदद मिलती है। कपास के डंठल कपास के रेशों और बोलों की कटाई के बाद खेत में बचे हुए कपास के पौधे के तने और शाखाएँ हैं।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "नमी और कीट क्षति से बचने के लिए चुनी गई कपास को साफ, सूखे स्थान पर रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clear the Field",
+              "description": "Remove all weeds, leftover cotton stalks, and stones from your field. This helps prevent pests and diseases and gives your new cotton crop a clean, healthy start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your land 2–3 times to a depth of about 10–12 cm (about the length of your hand). This loosens the soil, mixes in any leftover plant material, and helps cotton roots grow deep for better water and nutrient use."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "Level the field after ploughing. A flat, even field makes sure water spreads everywhere and seeds sprout evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Build or repair bunds (raised soil borders) around your field. These bunds help hold rainwater in the field and stop soil from washing away."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన పత్తి సాగు కోసం పొలాన్ని చదును చేయడం, దున్నడం, చదును చేయడం మరియు గట్లు నిర్మించడం ద్వారా పొలాన్ని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "ఫీల్డ్‌ను క్లియర్ చేయండి",
+              "description": "మీ పొలంలో ఉన్న కలుపు మొక్కలు, మిగిలిపోయిన పత్తి కాండాలు మరియు రాళ్లను తొలగించండి. ఇది తెగుళ్ళు మరియు వ్యాధులను నివారించడానికి సహాయపడుతుంది మరియు మీ కొత్త పత్తి పంటకు శుభ్రమైన, ఆరోగ్యకరమైన ప్రారంభాన్ని ఇస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "మీ భూమిని 2-3 సార్లు 10-12 సెం.మీ లోతు వరకు (మీ చేతి పొడవు) దున్నండి. ఇది నేలను వదులుతుంది, మిగిలిపోయిన మొక్కల పదార్థాలలో కలుపుతుంది మరియు మంచి నీరు మరియు పోషక వినియోగం కోసం పత్తి వేర్లు లోతుగా పెరగడానికి సహాయపడుతుంది."
+            },
+            "levelling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత పొలాన్ని చదును చేయండి. చదునుగా, సమానంగా ఉండే పొలం నీరు ప్రతిచోటా వ్యాపించేలా మరియు విత్తనాలు సమానంగా మొలకెత్తేలా చేస్తుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "మీ పొలం చుట్టూ కట్టలను (ఎత్తబడిన నేల సరిహద్దులు) నిర్మించండి లేదా మరమ్మతు చేయండి. ఈ కట్టలు పొలంలో వర్షపు నీటిని నిలుపుకోవడంలో సహాయపడతాయి మరియు మట్టి కొట్టుకుపోకుండా ఆపుతాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "कपास की सर्वोत्तम खेती के लिए खेत को साफ करके, जुताई करके, समतल करके और मेड़ बनाकर उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "फ़ील्ड साफ़ करें",
+              "description": "अपने खेत से सभी खरपतवार, बचे हुए कपास के डंठल और पत्थर हटा दें। इससे कीटों और बीमारियों को रोकने में मदद मिलती है और आपकी नई कपास की फसल को एक साफ, स्वस्थ शुरुआत मिलती है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "अपनी ज़मीन को 2-3 बार लगभग 10-12 सेमी (लगभग अपने हाथ की लंबाई) की गहराई तक जोतें। इससे मिट्टी ढीली हो जाती है, बची हुई पौधों की सामग्री भी मिट्टी में मिल जाती है, और कपास की जड़ों को पानी और पोषक तत्वों के बेहतर उपयोग के लिए गहराई तक बढ़ने में मदद मिलती है।"
+            },
+            "levelling": {
+              "title": "लेवलिंग",
+              "description": "जुताई के बाद खेत को समतल करें। समतल, समतल खेत यह सुनिश्चित करता है कि पानी हर जगह फैले और बीज समान रूप से अंकुरित हों।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "अपने खेत के चारों ओर बाँध (मिट्टी की उभरी हुई सीमाएँ) बनाएँ या उनकी मरम्मत करें। ये बाँध खेत में बारिश के पानी को रोकने और मिट्टी को बहने से रोकने में मदद करते हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Choose Good Seeds",
+              "description": "Use certified Shivanandi (NDLH-1755) seeds. Certified seeds are officially checked for quality and will give you healthy, uniform plants and better yields. They are free from diseases and give better crop safety and yield."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before sowing, treat your seeds with either Carbendazim (2g per kg of seed) or Trichoderma viridae/Pseudomonas fluorescens (10g per kg of seed). This protects young seedlings from soil-borne diseases like root rot (caused by Rhizoctonia and Fusarium fungi) and seedling wilt or damping-off, which can cause poor plant growth and yield loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "మంచి అంకురోత్పత్తి మరియు వ్యాధి నిరోధకతను నిర్ధారించడానికి నాణ్యమైన ధృవీకరించబడిన విత్తనాలను ఎంచుకుని వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "మంచి విత్తనాలను ఎంచుకోండి",
+              "description": "ధృవీకరించబడిన శివనంది (NDLH-1755) విత్తనాలను ఉపయోగించండి. ధృవీకరించబడిన విత్తనాలు నాణ్యత కోసం అధికారికంగా తనిఖీ చేయబడతాయి మరియు మీకు ఆరోగ్యకరమైన, ఏకరీతి మొక్కలను మరియు మంచి దిగుబడిని ఇస్తాయి. అవి వ్యాధుల నుండి విముక్తి పొంది మంచి పంట భద్రత మరియు దిగుబడిని ఇస్తాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "విత్తే ముందు, మీ విత్తనాలను కార్బెండజిమ్ (కిలో విత్తనానికి 2 గ్రా) లేదా ట్రైకోడెర్మా విరిడే/సూడోమోనాస్ ఫ్లోరోసెన్స్ (కిలో విత్తనానికి 10 గ్రా) తో చికిత్స చేయండి. ఇది చిన్న మొలకలను నేల ద్వారా సంక్రమించే వ్యాధులు (రైజోక్టోనియా మరియు ఫ్యూసేరియం శిలీంధ్రాల వల్ల కలిగేవి) మరియు మొలకల వాడిపోవడం లేదా తేమ తగ్గడం వంటి వాటి నుండి రక్షిస్తుంది, ఇది మొక్కల పెరుగుదల మరియు దిగుబడి నష్టానికి కారణమవుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाले प्रमाणित बीजों का चयन करें और अच्छे अंकुरण और रोग प्रतिरोधकता सुनिश्चित करने के लिए उन्हें उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "अच्छे बीज चुनें",
+              "description": "प्रमाणित शिवानंदी (NDLH-1755) बीज का उपयोग करें। प्रमाणित बीजों की गुणवत्ता की आधिकारिक तौर पर जाँच की जाती है और वे आपको स्वस्थ, एकसमान पौधे और बेहतर उपज देंगे। वे बीमारियों से मुक्त होते हैं और बेहतर फसल सुरक्षा और उपज देते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "बुवाई से पहले, अपने बीजों को कार्बेन्डाजिम (2 ग्राम प्रति किलोग्राम बीज) या ट्राइकोडर्मा विरिडे/स्यूडोमोनास फ्लोरोसेंस (10 ग्राम प्रति किलोग्राम बीज) से उपचारित करें। यह युवा पौधों को मिट्टी से होने वाली बीमारियों जैसे जड़ सड़न (राइजोक्टोनिया और फ्यूजेरियम कवक के कारण) और अंकुर विल्ट या डैम्पिंग-ऑफ से बचाता है, जो पौधे की खराब वृद्धि और उपज में कमी का कारण बन सकता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Sowing",
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "Best Time to Sow",
+              "description": "Sow seeds at the start of the monsoon (June 1st–15th). Do not sow after July 15th, as late sowing reduces the yield."
+            },
+            "seed_rate": {
+              "title": "Seed Rate",
+              "description": "Use 2.5–3.5 kg of seed per acre for normal sowing. For high-density planting, use 4–5 kg per acre."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal sowing: 90 x 60 cm or 105 x 60 cm between rows and plants. For high-density: 80 x 20 cm or 60 x 30 cm."
+            },
+            "sowing_method": {
+              "title": "Sowing Method",
+              "description": "Sow seeds in straight lines or use a dibbling method after marking the field. This helps plants grow evenly and makes management easier."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తడం",
+        "description": {
+          "overview": "మొక్కల సరైన పెరుగుదల మరియు స్థాపన కోసం సరైన సమయంలో విత్తనాలను విత్తండి, సరైన అంతరం ఉంచండి.",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "విత్తడానికి ఉత్తమ సమయం",
+              "description": "వర్షాకాలం ప్రారంభంలో (జూన్ 1–15) విత్తనాలు విత్తండి. జూలై 15 తర్వాత విత్తకండి, ఎందుకంటే ఆలస్యంగా విత్తడం వల్ల దిగుబడి తగ్గుతుంది."
+            },
+            "seed_rate": {
+              "title": "విత్తన రేటు",
+              "description": "సాధారణ విత్తనాల కోసం ఎకరానికి 2.5–3.5 కిలోల విత్తనాన్ని ఉపయోగించండి. అధిక సాంద్రత గల మొక్కల కోసం, ఎకరానికి 4–5 కిలోలు ఉపయోగించండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "సాధారణ విత్తనాల కోసం: వరుసలు మరియు మొక్కల మధ్య 90 x 60 సెం.మీ లేదా 105 x 60 సెం.మీ. అధిక సాంద్రత కోసం: 80 x 20 సెం.మీ లేదా 60 x 30 సెం.మీ."
+            },
+            "sowing_method": {
+              "title": "విత్తే విధానం",
+              "description": "విత్తనాలను సరళ రేఖల్లో విత్తండి లేదా పొలంలో గుర్తులు వేసిన తర్వాత డిబ్లింగ్ పద్ధతిని ఉపయోగించండి. ఇది మొక్కలు సమానంగా పెరగడానికి మరియు నిర్వహణను సులభతరం చేస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बोवाई",
+        "description": {
+          "overview": "पौधों की इष्टतम स्थापना और वृद्धि के लिए उचित अंतराल के साथ सही समय पर बीज बोएं।",
+          "sub_steps": {
+            "best_time_to_sow": {
+              "title": "बोने का सर्वोत्तम समय",
+              "description": "मानसून की शुरुआत में बीज बोएं (1 जून से 15 जून तक)। 15 जुलाई के बाद बीज न बोएं, क्योंकि देर से बोने से उपज कम हो जाती है।"
+            },
+            "seed_rate": {
+              "title": "बीज दर",
+              "description": "सामान्य बुआई के लिए प्रति एकड़ 2.5-3.5 किलोग्राम बीज का उपयोग करें। उच्च घनत्व वाली रोपाई के लिए, प्रति एकड़ 4-5 किलोग्राम बीज का उपयोग करें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "सामान्य बुआई के लिए: पंक्तियों और पौधों के बीच 90 x 60 सेमी या 105 x 60 सेमी। उच्च घनत्व के लिए: 80 x 20 सेमी या 60 x 30 सेमी।"
+            },
+            "sowing_method": {
+              "title": "बुवाई विधि",
+              "description": "खेत को चिह्नित करने के बाद सीधी रेखाओं में बीज बोएँ या डिबलिंग विधि का उपयोग करें। इससे पौधों को समान रूप से बढ़ने में मदद मिलती है और प्रबंधन आसान हो जाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "Organic Manure",
+              "description": "Add 5–10 tons of well-rotted farmyard manure (FYM, like cow dung) per hectare before sowing. This improves soil health and gives your crop a good start."
+            },
+            "fertilizer_dose": {
+              "title": "Fertilizer Dose",
+              "description": "Per hectare: Nitrogen (N): 90 kg, Phosphorus (P₂O₅): 45 kg, Potassium (K₂O): 45 kg"
+            },
+            "application_schedule": {
+              "title": "Application Schedule",
+              "description": "Apply all phosphorus and one-third of nitrogen and potassium as a basal dose (before or at sowing). Apply the remaining nitrogen and potassium in 2–3 splits at 30, 60, and 90 days after sowing."
+            },
+            "foliar_sprays": {
+              "title": "Foliar Sprays",
+              "description": "During boll formation, spray 2% urea or DAP, or 1% KNO₃/19:19:19 every 7–10 days if the crop looks weak or during dry spells. Foliar sprays are liquid fertilizers sprayed directly on the leaves for quick absorption."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "సరైన పంట పెరుగుదల మరియు దిగుబడికి తోడ్పడటానికి తగిన ఎరువులు మరియు పోషకాలను వేయండి.",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "సేంద్రియ ఎరువు",
+              "description": "విత్తే ముందు హెక్టారుకు 5–10 టన్నుల బాగా కుళ్ళిన పొల ఎరువు (ఆవు పేడ లాంటిది) వేయండి. ఇది నేల ఆరోగ్యాన్ని మెరుగుపరుస్తుంది మరియు మీ పంటకు మంచి ప్రారంభాన్ని ఇస్తుంది."
+            },
+            "fertilizer_dose": {
+              "title": "ఎరువుల మోతాదు",
+              "description": "హెక్టారుకు: నత్రజని (N): 90 కిలోలు, భాస్వరం (P₂O₅): 45 కిలోలు, పొటాషియం (K₂O): 45 కిలోలు"
+            },
+            "application_schedule": {
+              "title": "దరఖాస్తు షెడ్యూల్",
+              "description": "మొత్తం భాస్వరం మరియు మూడింట ఒక వంతు నత్రజని మరియు పొటాషియంను బేసల్ మోతాదుగా (విత్తడానికి ముందు లేదా సమయంలో) వేయండి. మిగిలిన నత్రజని మరియు పొటాషియంను విత్తిన 30, 60 మరియు 90 రోజుల తర్వాత 2-3 భాగాలుగా వేయండి."
+            },
+            "foliar_sprays": {
+              "title": "ఆకులపై పిచికారీలు",
+              "description": "కాయలు ఏర్పడే సమయంలో, పంట బలహీనంగా లేదా పొడిగా కనిపిస్తే ప్రతి 7-10 రోజులకు 2% యూరియా లేదా DAP లేదా 1% KNO₃/19:19:19 పిచికారీ చేయండి. ఆకులపై స్ప్రేలు అనేవి త్వరగా శోషణ కోసం ఆకులపై నేరుగా పిచికారీ చేసే ద్రవ ఎరువులు."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "फसल की इष्टतम वृद्धि और उपज के लिए उपयुक्त उर्वरक और पोषक तत्वों का प्रयोग करें।",
+          "sub_steps": {
+            "organic_manure": {
+              "title": "जैविक खाद",
+              "description": "बुवाई से पहले प्रति हेक्टेयर 5-10 टन अच्छी तरह से सड़ी हुई गोबर की खाद (FYM, जैसे गाय का गोबर) डालें। इससे मिट्टी की सेहत में सुधार होता है और आपकी फसल को अच्छी शुरुआत मिलती है।"
+            },
+            "fertilizer_dose": {
+              "title": "उर्वरक की खुराक",
+              "description": "प्रति हेक्टेयर: नाइट्रोजन (N): 90 किग्रा, फॉस्फोरस (P₂O₅): 45 किग्रा, पोटैशियम (K₂O): 45 किग्रा"
+            },
+            "application_schedule": {
+              "title": "आवेदन अनुसूची",
+              "description": "सभी फॉस्फोरस और एक तिहाई नाइट्रोजन और पोटेशियम को मूल खुराक के रूप में (बुवाई से पहले या बुवाई के समय) डालें। शेष नाइट्रोजन और पोटेशियम को बुवाई के 30, 60 और 90 दिनों के बाद 2-3 बार में डालें।"
+            },
+            "foliar_sprays": {
+              "title": "पत्तियों पर छिड़काव",
+              "description": "यदि फसल कमजोर दिखती है या सूखे के दौरान बीजकोष बनते समय 2% यूरिया या डीएपी या 1% KNO₃/19:19:19 का छिड़काव हर 7-10 दिन में करें। पत्तियों पर छिड़काव तरल उर्वरक है जिसे पत्तियों पर सीधे छिड़का जाता है ताकि वे जल्दी अवशोषित हो जाएं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Shivanandi cotton can grow with rainfall, but if there's a long dry spell, give one or two irrigations during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "Give regular irrigations, especially during flowering and boll development. Avoid waterlogging, as standing water can harm cotton roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure excess water drains out quickly. Proper drainage keeps roots healthy and prevents diseases."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి ఎద్దడిని నివారించి దిగుబడిని ఆప్టిమైజ్ చేయడానికి పంట చక్రం అంతటా నీటిని సమర్ధవంతంగా నిర్వహించండి.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "వర్షాధార పంట",
+              "description": "శివనంది పత్తి వర్షపాతంతో కూడా పెరుగుతుంది, కానీ ఎక్కువ కాలం పొడిగా ఉంటే, పుష్పించే సమయంలో మరియు కాయలు ఏర్పడే సమయంలో ఒకటి లేదా రెండుసార్లు నీరు పెట్టండి."
+            },
+            "irrigated_crop": {
+              "title": "సాగునీటి పంట",
+              "description": "ముఖ్యంగా పుష్పించే సమయంలో మరియు కాయలు అభివృద్ధి చెందుతున్న సమయంలో క్రమం తప్పకుండా నీరు పెట్టండి. నీరు నిలిచిపోకుండా ఉండండి, ఎందుకంటే నీరు నిలిచి ఉండటం పత్తి వేర్లకు హాని కలిగిస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "అదనపు నీరు త్వరగా బయటకు పోకుండా చూసుకోండి. సరైన నీటి పారుదల వ్యవస్థ వేర్లను ఆరోగ్యంగా ఉంచుతుంది మరియు వ్యాధులను నివారిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जलभराव से बचते हुए उपज को अधिकतम करने के लिए पूरे फसल चक्र में जल का कुशलतापूर्वक प्रबंधन करें।",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "वर्षा आधारित फसल",
+              "description": "शिवनंदी कपास वर्षा से भी उग सकता है, लेकिन यदि लंबे समय तक सूखा रहे तो फूल आने और डोडे बनने के दौरान एक या दो सिंचाई करें।"
+            },
+            "irrigated_crop": {
+              "title": "सिंचित फसल",
+              "description": "नियमित रूप से सिंचाई करें, खास तौर पर फूल आने और बीजकोष विकसित होने के दौरान। जलभराव से बचें, क्योंकि खड़ा पानी कपास की जड़ों को नुकसान पहुंचा सकता है।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "सुनिश्चित करें कि अतिरिक्त पानी जल्दी से निकल जाए। उचित जल निकासी जड़ों को स्वस्थ रखती है और बीमारियों से बचाती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after sowing. Second weeding: 45–60 days after sowing. Use hand hoes or mechanical weeders. For chemical control, use Pendimethalin (1 litre/acre) after sowing and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_management": {
+              "title": "Pest Management",
+              "description": "Shivanandi is naturally tolerant to some pests, but check for sucking pests like jassids and aphids. For sucking pests, stem-apply Monocrotophos (1:4 with water) at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. For eco-friendly control, use neem oil or NSKE 5% spray."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Install 4–8 pheromone traps per acre to monitor pink bollworm. Remove and destroy any twisted (rosette) flowers you find. A pheromone trap uses special scents to attract and catch pests, helping you monitor and control pest numbers early."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management (IPM)",
+              "description": "Grow border crops like sunflower or marigold and intercrops like green gram, black gram, or cowpea to attract beneficial insects and reduce pest problems. Rotate cotton with other crops like red gram, maize, or green manure every 2–3 years to keep the soil healthy and break pest cycles."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యం మరియు దిగుబడిని కాపాడటానికి సమగ్ర నిర్వహణ పద్ధతుల ద్వారా కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించండి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "మొదటి కలుపు తీయుట: విత్తిన 20–30 రోజుల తర్వాత. రెండవ కలుపు తీయుట: విత్తిన 45–60 రోజుల తర్వాత. చేతి గుంటలు లేదా యాంత్రిక కలుపు తీసే యంత్రాలను ఉపయోగించండి. రసాయన నియంత్రణ కోసం, విత్తిన తర్వాత పెండిమెథాలిన్ (ఎకరానికి 1 లీటరు) మరియు తరువాతి కలుపు మొక్కలకు క్విజలోఫాప్-ఇథైల్ లేదా పైరాఫ్లుఫెన్-ఇథైల్ ఉపయోగించండి."
+            },
+            "pest_management": {
+              "title": "తెగులు నిర్వహణ",
+              "description": "శివనంది సహజంగా కొన్ని తెగుళ్ళను తట్టుకుంటుంది, కానీ జాసిడ్లు మరియు అఫిడ్స్ వంటి రసం పీల్చే తెగుళ్ళ కోసం తనిఖీ చేయండి. రసం పీల్చే తెగుళ్లకు, 30 మరియు 45 రోజులలో మోనోక్రోటోఫాస్ (నీటితో 1:4) మరియు 60 రోజులలో ఫ్లోనికామిడ్ (నీటితో 1:20) కాండం మీద వేయండి. పర్యావరణ అనుకూల నియంత్రణ కోసం, వేప నూనె లేదా NSKE 5% స్ప్రేని ఉపయోగించండి."
+            },
+            "pheromone_traps": {
+              "title": "ఫెరోమోన్ ఉచ్చులు",
+              "description": "గులాబీ రంగు బోల్‌వార్మ్‌ను పర్యవేక్షించడానికి ఎకరానికి 4–8 ఫెరోమోన్ ఉచ్చులను ఏర్పాటు చేయండి. మీరు కనుగొన్న ఏవైనా వక్రీకృత (రోసెట్) పువ్వులను తొలగించి నాశనం చేయండి. ఫెరోమోన్ ఉచ్చు తెగుళ్ళను ఆకర్షించడానికి మరియు పట్టుకోవడానికి ప్రత్యేక సువాసనలను ఉపయోగిస్తుంది, ఇది తెగుళ్ల సంఖ్యను ముందుగానే పర్యవేక్షించడానికి మరియు నియంత్రించడంలో మీకు సహాయపడుతుంది."
+            },
+            "integrated_pest_management": {
+              "title": "ఇంటిగ్రేటెడ్ పెస్ట్ మేనేజ్‌మెంట్ (IPM)",
+              "description": "ప్రయోజనకరమైన కీటకాలను ఆకర్షించడానికి మరియు తెగుళ్ల సమస్యలను తగ్గించడానికి పొద్దుతిరుగుడు లేదా బంతి పువ్వు వంటి సరిహద్దు పంటలను మరియు పెసలు, మినుములు లేదా అలసంద వంటి అంతర పంటలను పెంచండి. నేలను ఆరోగ్యంగా ఉంచడానికి మరియు తెగుళ్ల చక్రాలను విచ్ఛిన్నం చేయడానికి ప్రతి 2-3 సంవత్సరాలకు ఒకసారి కంది, మొక్కజొన్న లేదా పచ్చి ఎరువు వంటి ఇతర పంటలతో పత్తిని మార్పిడి చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य और उपज की रक्षा के लिए एकीकृत प्रबंधन प्रथाओं के माध्यम से खरपतवारों, कीटों और रोगों को नियंत्रित करें।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "पहली निराई: बुआई के 20-30 दिन बाद। दूसरी निराई: बुआई के 45-60 दिन बाद। हाथ से कुदाल या यांत्रिक खरपतवार हटाने वाले यंत्र का उपयोग करें। रासायनिक नियंत्रण के लिए, बुआई के बाद पेंडीमेथालिन (1 लीटर/एकड़) और बाद में खरपतवार के लिए क्विज़ालोफ़ॉप-इथाइल या पाइराफ़्लुफ़ेन-इथाइल का उपयोग करें।"
+            },
+            "pest_management": {
+              "title": "कीट प्रबंधन",
+              "description": "शिवानंदी कुछ कीटों के प्रति स्वाभाविक रूप से सहनशील है, लेकिन जैसिड और एफिड जैसे चूसने वाले कीटों की जांच करें। चूसने वाले कीटों के लिए, 30 और 45 दिनों पर मोनोक्रोटोफॉस (पानी के साथ 1:4) और 60 दिनों पर फ्लोनिकैमिड (पानी के साथ 1:20) का छिड़काव करें। पर्यावरण के अनुकूल नियंत्रण के लिए, नीम के तेल या NSKE 5% स्प्रे का उपयोग करें।"
+            },
+            "pheromone_traps": {
+              "title": "फेरोमोन ट्रैप",
+              "description": "गुलाबी बॉलवर्म की निगरानी के लिए प्रति एकड़ 4-8 फेरोमोन ट्रैप लगाएँ। आपको जो भी मुड़े हुए (रोसेट) फूल दिखें, उन्हें हटा दें और नष्ट कर दें। फेरोमोन ट्रैप कीटों को आकर्षित करने और पकड़ने के लिए विशेष सुगंध का उपयोग करता है, जिससे आपको कीटों की संख्या पर जल्दी नज़र रखने और उन्हें नियंत्रित करने में मदद मिलती है।"
+            },
+            "integrated_pest_management": {
+              "title": "एकीकृत कीट प्रबंधन (आईपीएम)",
+              "description": "लाभकारी कीटों को आकर्षित करने और कीटों की समस्याओं को कम करने के लिए सूरजमुखी या गेंदा जैसी सीमावर्ती फसलें और हरा चना, काला चना या लोबिया जैसी अंतर-फसलें उगाएँ। मिट्टी को स्वस्थ रखने और कीटों के चक्र को तोड़ने के लिए हर 2-3 साल में लाल चना, मक्का या हरी खाद जैसी अन्य फसलों के साथ कपास की अदला-बदली करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Intercropping and Crop Rotation",
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Grow short-duration pulses (green gram, black gram, cowpea) between cotton rows. This improves soil fertility and gives extra income."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow other crops like pulses or oilseeds to break pest and disease cycles and keep your soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "అంతర పంటలు మరియు పంట మార్పిడి",
+        "description": {
+          "overview": "నేల ఆరోగ్యాన్ని మెరుగుపరచడానికి మరియు తెగుళ్ల ఒత్తిడిని తగ్గించడానికి అంతర పంటలు మరియు పంట భ్రమణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "అంతర పంటలు",
+              "description": "పత్తి వరుసల మధ్య స్వల్పకాలిక పప్పుధాన్యాలు (పెసరపప్పు, మినుములు, అలసందలు) పండించండి. ఇది నేల సారాన్ని మెరుగుపరుస్తుంది మరియు అదనపు ఆదాయాన్ని ఇస్తుంది."
+            },
+            "crop_rotation": {
+              "title": "పంట భ్రమణం",
+              "description": "పత్తి తర్వాత, తెగుళ్లు మరియు వ్యాధుల చక్రాలను విచ్ఛిన్నం చేయడానికి మరియు మీ నేలను ఆరోగ్యంగా ఉంచడానికి పప్పుధాన్యాలు లేదా నూనె గింజలు వంటి ఇతర పంటలను పండించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "अंतरफसल और फसल चक्र",
+        "description": {
+          "overview": "मृदा स्वास्थ्य में सुधार और कीटों के दबाव को कम करने के लिए अंतरफसल और फसल चक्र रणनीतियों को लागू करें।",
+          "sub_steps": {
+            "intercropping": {
+              "title": "अंतरफसल",
+              "description": "कपास की कतारों के बीच कम अवधि वाली दालें (मूंग, उड़द, लोबिया) उगाएँ। इससे मिट्टी की उर्वरता बढ़ती है और अतिरिक्त आय होती है।"
+            },
+            "crop_rotation": {
+              "title": "फसल चक्र",
+              "description": "कपास के बाद, कीट और रोग चक्र को तोड़ने और अपनी मिट्टी को स्वस्थ रखने के लिए दलहन या तिलहन जैसी अन्य फसलें उगाएं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "When to Harvest",
+              "description": "Shivanandi cotton is ready for picking when the bolls are fully open and fluffy. Pick cotton in 3–4 rounds as bolls mature."
+            },
+            "how_to_harvest": {
+              "title": "How to Harvest",
+              "description": "Pick only clean, dry cotton by hand. Avoid picking when cotton is wet to prevent quality loss."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "మంచి నాణ్యమైన దిగుబడిని నిర్ధారించడానికి పత్తిని సరైన సమయంలో మరియు సరైన పద్ధతిలో కోయండి.",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "ఎప్పుడు పండించాలి",
+              "description": "కాయలు పూర్తిగా విప్పి మెత్తగా ఉన్నప్పుడు శివనంది పత్తి కోయడానికి సిద్ధంగా ఉంటుంది. కాయలు పరిపక్వం చెందిన తర్వాత 3–4 రౌండ్లలో పత్తిని కోయండి."
+            },
+            "how_to_harvest": {
+              "title": "ఎలా పండించాలి",
+              "description": "శుభ్రమైన, పొడి పత్తిని చేతితో మాత్రమే తీయండి. నాణ్యత కోల్పోకుండా ఉండటానికి పత్తి తడిగా ఉన్నప్పుడు తీయకుండా ఉండండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाली उपज सुनिश्चित करने के लिए कपास की कटाई सही समय पर और उचित तरीके से करें।",
+          "sub_steps": {
+            "when_to_harvest": {
+              "title": "कब कटाई करें",
+              "description": "शिवानंदी कपास तब चुनने के लिए तैयार है जब बीजकोष पूरी तरह से खुले और फूले हुए हों। बीजकोषों के परिपक्व होने पर 3-4 बार कपास चुनें।"
+            },
+            "how_to_harvest": {
+              "title": "फसल कैसे काटें?",
+              "description": "हाथ से केवल साफ, सूखी कपास ही चुनें। गुणवत्ता में कमी से बचने के लिए गीली कपास चुनने से बचें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1755",
+    "stage_number": 9,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After harvest, shred and mix the leftover cotton stalks into the soil. This helps control pests like the pink bollworm. Cotton stalks are the stems and branches left in the field after harvesting the cotton bolls."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store picked cotton in a clean, dry place to avoid moisture and pest damage. Keep it off the ground for the best quality. Use clean, well-ventilated rooms, avoid compression, and protect from pests and moisture. Store Shivanandi cotton separately from other varieties to maintain its purity and quality."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు తదుపరి సీజన్‌కు సిద్ధం కావడానికి పంటకోత తర్వాత కార్యకలాపాలను సరిగ్గా నిర్వహించండి.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "మొద్దు నిర్వహణ",
+              "description": "పంట కోసిన తర్వాత, మిగిలిపోయిన పత్తి కాండాలను ముక్కలుగా చేసి మట్టిలో కలపండి. ఇది గులాబీ రంగు కాయ పురుగు వంటి తెగుళ్లను నియంత్రించడంలో సహాయపడుతుంది. పత్తి కాండాలు అంటే పత్తి కాయలను కోసిన తర్వాత పొలంలో మిగిలిపోయిన కాండం మరియు కొమ్మలు."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "తేమ మరియు తెగుళ్ళ దెబ్బతినకుండా ఉండటానికి ఎంచుకున్న పత్తిని శుభ్రమైన, పొడి ప్రదేశంలో నిల్వ చేయండి. ఉత్తమ నాణ్యత కోసం దానిని నేల నుండి దూరంగా ఉంచండి. శుభ్రమైన, బాగా వెంటిలేషన్ ఉన్న గదులను ఉపయోగించండి, కుదింపును నివారించండి మరియు తెగుళ్ళు మరియు తేమ నుండి రక్షించండి. శివనంది పత్తి స్వచ్ఛత మరియు నాణ్యతను కాపాడుకోవడానికి ఇతర రకాల నుండి విడిగా నిల్వ చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और अगले सीजन की तैयारी के लिए कटाई के बाद के कार्यों का उचित प्रबंधन करें।",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "पराली प्रबंधन",
+              "description": "कटाई के बाद, बचे हुए कपास के डंठलों को काटकर मिट्टी में मिला दें। इससे गुलाबी बॉलवर्म जैसे कीटों को नियंत्रित करने में मदद मिलती है। कपास के डंठल कपास के डंठलों की कटाई के बाद खेत में बचे हुए तने और शाखाएँ हैं।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "नमी और कीटों से होने वाले नुकसान से बचने के लिए चुनी गई कपास को साफ, सूखी जगह पर रखें। बेहतरीन गुणवत्ता के लिए इसे ज़मीन से दूर रखें। साफ, हवादार कमरे का उपयोग करें, दबाव से बचें और कीटों और नमी से बचाएं। शिवानंदी कपास को इसकी शुद्धता और गुणवत्ता बनाए रखने के लिए अन्य किस्मों से अलग रखें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Prepare the field properly by clearing, ploughing, leveling, and building bunds for optimal cotton cultivation.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "Clean the Field",
+              "description": "Remove all weeds, leftover cotton sticks, and stones from your field. This keeps away bugs and sickness and gives your new cotton plants a healthy place to start."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Dig or turn the soil 2 or 3 times, each time as deep as your hand is long (about 10–12 cm). Use a tractor or bullocks. This makes the soil soft and mixes in old plant bits, helping cotton roots grow deep and strong."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After digging, use a wooden board or tool to make the ground flat. Flat land helps water spread everywhere and makes sure all seeds grow at the same time."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Make or fix raised borders (bunds) around your field using a shovel. These borders hold rainwater in your field and stop soil from washing away when it rains hard."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "సరైన పత్తి సాగు కోసం పొలాన్ని చదును చేయడం, దున్నడం, చదును చేయడం మరియు గట్లు నిర్మించడం ద్వారా పొలాన్ని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "పొలాన్ని శుభ్రం చేయండి",
+              "description": "మీ పొలంలో కలుపు మొక్కలు, మిగిలిపోయిన పత్తి కర్రలు మరియు రాళ్లను తొలగించండి. ఇది కీటకాలు మరియు అనారోగ్యాలను దూరంగా ఉంచుతుంది మరియు మీ కొత్త పత్తి మొక్కలను ఆరోగ్యకరమైన ప్రారంభించడానికి ఒక స్థలాన్ని ఇస్తుంది."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "మట్టిని 2 లేదా 3 సార్లు తవ్వండి లేదా తిప్పండి, ప్రతిసారీ మీ చేయి పొడవున్నంత లోతుగా (సుమారు 10–12 సెం.మీ.) వేయండి. ట్రాక్టర్ లేదా ఎద్దులను ఉపయోగించండి. ఇది నేలను మృదువుగా చేస్తుంది మరియు పాత మొక్కల ముక్కలలో కలిసిపోతుంది, పత్తి వేర్లు లోతుగా మరియు బలంగా పెరగడానికి సహాయపడుతుంది."
+            },
+            "levelling": {
+              "title": "లెవలింగ్",
+              "description": "తవ్విన తర్వాత, నేలను చదునుగా చేయడానికి చెక్క బోర్డు లేదా సాధనాన్ని ఉపయోగించండి. చదునైన నేల నీరు అన్ని చోట్లా వ్యాపించడానికి సహాయపడుతుంది మరియు అన్ని విత్తనాలు ఒకే సమయంలో పెరిగేలా చేస్తుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "పార ఉపయోగించి మీ పొలం చుట్టూ ఎత్తైన సరిహద్దులు (కట్టలు) వేయండి లేదా బిగించండి. ఈ సరిహద్దులు వర్షపు నీటిని మీ పొలంలో నిలుపుకుంటాయి మరియు గట్టిగా వర్షం పడినప్పుడు మట్టి కొట్టుకుపోకుండా ఆపుతాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "कपास की सर्वोत्तम खेती के लिए खेत को साफ करके, जुताई करके, समतल करके और मेड़ बनाकर उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "clear_the_field": {
+              "title": "मैदान साफ करें",
+              "description": "अपने खेत से सभी खरपतवार, बची हुई कपास की छड़ें और पत्थर हटा दें। इससे कीड़े और बीमारियाँ दूर रहती हैं और आपके नए कपास के पौधों को स्वस्थ रहने के लिए जगह मिलती है।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "मिट्टी को 2 या 3 बार खोदें या पलटें, हर बार उतनी ही गहराई तक जितनी आपकी हथेली की लंबाई हो (लगभग 10-12 सेमी)। ट्रैक्टर या बैलगाड़ी का इस्तेमाल करें। इससे मिट्टी नरम हो जाती है और पुराने पौधों के टुकड़े उसमें मिल जाते हैं, जिससे कपास की जड़ें गहरी और मजबूत हो जाती हैं।"
+            },
+            "levelling": {
+              "title": "लेवलिंग",
+              "description": "खुदाई के बाद, ज़मीन को समतल बनाने के लिए लकड़ी के बोर्ड या औज़ार का इस्तेमाल करें। समतल ज़मीन पानी को हर जगह फैलने में मदद करती है और यह सुनिश्चित करती है कि सभी बीज एक ही समय पर उगें।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "अपने खेत के चारों ओर फावड़े से ऊंची सीमाएँ (बांध) बनाएँ या लगाएँ। ये सीमाएँ आपके खेत में बारिश के पानी को रोकती हैं और भारी बारिश होने पर मिट्टी को बहने से रोकती हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Select quality certified seeds and prepare them properly to ensure good germination and disease resistance.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "Pick Good Seeds",
+              "description": "Buy Sri Rama cotton seeds with a government or company seal from a trusted shop. These seeds are checked, healthy, and more likely to give you a good crop."
+            },
+            "certified_seeds": {
+              "title": "Certified Seeds",
+              "description": "Certified seeds are pure, not mixed with other types, and free from sickness. They grow into strong, healthy plants and give more cotton."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before planting, mix your seeds with carbendazim (2 grams for every 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams for every 1 kg of seeds). Put seeds in a bucket, sprinkle the powder, mix well with gloves, and spread in shade to dry for a few hours. This protects young plants from soil-borne diseases."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "మంచి అంకురోత్పత్తి మరియు వ్యాధి నిరోధకతను నిర్ధారించడానికి నాణ్యమైన ధృవీకరించబడిన విత్తనాలను ఎంచుకుని వాటిని సరిగ్గా సిద్ధం చేయండి.",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "మంచి విత్తనాలను ఎంచుకోండి",
+              "description": "ప్రభుత్వ లేదా కంపెనీ సీలు ఉన్న శ్రీరామ పత్తి విత్తనాలను విశ్వసనీయ దుకాణం నుండి కొనండి. ఈ విత్తనాలు తనిఖీ చేయబడ్డాయి, ఆరోగ్యకరమైనవి మరియు మీకు మంచి పంటను ఇచ్చే అవకాశం ఉంది."
+            },
+            "certified_seeds": {
+              "title": "ధృవీకరించబడిన విత్తనాలు",
+              "description": "ధృవీకరించబడిన విత్తనాలు స్వచ్ఛమైనవి, ఇతర రకాలతో కలపబడవు మరియు అనారోగ్యం లేనివి. అవి బలమైన, ఆరోగ్యకరమైన మొక్కలుగా పెరుగుతాయి మరియు ఎక్కువ పత్తిని ఇస్తాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "నాటడానికి ముందు, మీ విత్తనాలను కార్బెండజిమ్ (ప్రతి 1 కిలో విత్తనాలకు 2 గ్రాములు) లేదా ట్రైకోడెర్మా/సూడోమోనాస్ పౌడర్ (ప్రతి 1 కిలో విత్తనాలకు 10 గ్రాములు) తో కలపండి. విత్తనాలను ఒక బకెట్‌లో వేసి, పొడిని చల్లి, చేతి తొడుగులతో బాగా కలిపి, నీడలో కొన్ని గంటలు ఆరబెట్టండి. ఇది చిన్న మొక్కలను నేల ద్వారా సంక్రమించే వ్యాధుల నుండి రక్షిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाले प्रमाणित बीजों का चयन करें और अच्छे अंकुरण और रोग प्रतिरोधकता सुनिश्चित करने के लिए उन्हें उचित रूप से तैयार करें।",
+          "sub_steps": {
+            "choose_good_seeds": {
+              "title": "अच्छे बीज चुनें",
+              "description": "किसी विश्वसनीय दुकान से सरकारी या कंपनी की मुहर लगे श्री रामा कपास के बीज खरीदें। ये बीज जांचे हुए, स्वस्थ और अच्छी फसल देने वाले होते हैं।"
+            },
+            "certified_seeds": {
+              "title": "प्रमाणित बीज",
+              "description": "प्रमाणित बीज शुद्ध होते हैं, अन्य किस्मों के साथ मिश्रित नहीं होते हैं, और बीमारी से मुक्त होते हैं। वे मजबूत, स्वस्थ पौधों में विकसित होते हैं और अधिक कपास देते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "रोपण से पहले, अपने बीजों को कार्बेन्डाजिम (प्रत्येक 1 किलो बीज के लिए 2 ग्राम) या ट्राइकोडर्मा/स्यूडोमोनास पाउडर (प्रत्येक 1 किलो बीज के लिए 10 ग्राम) के साथ मिलाएं। बीजों को एक बाल्टी में डालें, पाउडर छिड़कें, दस्ताने पहनकर अच्छी तरह मिलाएँ, और कुछ घंटों के लिए छाया में सूखने के लिए फैला दें। यह युवा पौधों को मिट्टी से होने वाली बीमारियों से बचाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Sowing",
+        "description": {
+          "overview": "Sow seeds at the right time with proper spacing for optimal plant establishment and growth.",
+          "sub_steps": {
+            "best_time_to_plant": {
+              "title": "Best Time to Plant",
+              "description": "Plant your seeds when the rainy season starts, between June 15 and July 15. Do not plant after July 20, or you will get less cotton."
+            },
+            "seed_usage": {
+              "title": "Seed Usage",
+              "description": "For normal planting, use 5 kg of seeds for every hectare (2.5 acres). For close planting, use 10–12 kg for every hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "Normal: Leave 105 cm or 90 cm between rows, and 60 cm between plants. Close planting: Leave 80 cm between rows and 20 cm between plants, or use 90 x 15 cm, or 60 x 30 cm."
+            },
+            "plantation_process": {
+              "title": "Plantation Process",
+              "description": "Use a rope or stick to mark straight lines in your field. Plant seeds along these lines or use a stick to make holes and put seeds in. Cover seeds lightly with soil. Planting in lines makes weeding and looking after the crop easier."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తడం",
+        "description": {
+          "overview": "మొక్కల సరైన పెరుగుదల మరియు స్థాపన కోసం సరైన సమయంలో విత్తనాలను విత్తండి, సరైన అంతరం ఉంచండి.",
+          "sub_steps": {
+            "best_time_to_plant": {
+              "title": "మొక్కలు నాటడానికి ఉత్తమ సమయం",
+              "description": "వర్షాకాలం ప్రారంభమైనప్పుడు, జూన్ 15 మరియు జూలై 15 మధ్య మీ విత్తనాలను నాటండి. జూలై 20 తర్వాత నాటకండి, లేకుంటే మీకు తక్కువ పత్తి వస్తుంది."
+            },
+            "seed_usage": {
+              "title": "విత్తనాల వినియోగం",
+              "description": "సాధారణ నాటడానికి, ప్రతి హెక్టారుకు (2.5 ఎకరాలు) 5 కిలోల విత్తనాలను ఉపయోగించండి. దగ్గరగా నాటడానికి, ప్రతి హెక్టారుకు 10–12 కిలోల విత్తనాలను ఉపయోగించండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "సాధారణం: వరుసల మధ్య 105 సెం.మీ లేదా 90 సెం.మీ, మరియు మొక్కల మధ్య 60 సెం.మీ. దగ్గరగా నాటడం: వరుసల మధ్య 80 సెం.మీ మరియు మొక్కల మధ్య 20 సెం.మీ. లేదా 90 x 15 సెం.మీ. లేదా 60 x 30 సెం.మీ. ఉపయోగించండి."
+            },
+            "plantation_process": {
+              "title": "తోటల పెంపకం ప్రక్రియ",
+              "description": "మీ పొలంలో సరళ రేఖలను గుర్తించడానికి ఒక తాడు లేదా కర్రను ఉపయోగించండి. ఈ రేఖల వెంట విత్తనాలను నాటండి లేదా రంధ్రాలు చేసి విత్తనాలను ఉంచడానికి ఒక కర్రను ఉపయోగించండి. విత్తనాలను తేలికగా మట్టితో కప్పండి. వరుసలలో నాటడం వల్ల కలుపు తీయడం మరియు పంటను చూసుకోవడం సులభం అవుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बोवाई",
+        "description": {
+          "overview": "पौधों की इष्टतम स्थापना और वृद्धि के लिए उचित अंतराल के साथ सही समय पर बीज बोएं।",
+          "sub_steps": {
+            "best_time_to_plant": {
+              "title": "पौधे लगाने का सर्वोत्तम समय",
+              "description": "अपने बीज वर्षा ऋतु के शुरू होने पर, 15 जून से 15 जुलाई के बीच बोएं। 20 जुलाई के बाद बीज न बोएं, अन्यथा आपको कम कपास मिलेगा।"
+            },
+            "seed_usage": {
+              "title": "बीज का उपयोग",
+              "description": "सामान्य रोपण के लिए, प्रत्येक हेक्टेयर (2.5 एकड़) के लिए 5 किलोग्राम बीज का उपयोग करें। नज़दीकी रोपण के लिए, प्रत्येक हेक्टेयर के लिए 10-12 किलोग्राम का उपयोग करें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "सामान्य: पंक्तियों के बीच 105 सेमी या 90 सेमी और पौधों के बीच 60 सेमी की दूरी छोड़ें। नज़दीकी रोपण: पंक्तियों के बीच 80 सेमी और पौधों के बीच 20 सेमी की दूरी छोड़ें, या 90 x 15 सेमी या 60 x 30 सेमी का उपयोग करें।"
+            },
+            "plantation_process": {
+              "title": "वृक्षारोपण प्रक्रिया",
+              "description": "अपने खेत में सीधी रेखाएँ बनाने के लिए रस्सी या छड़ी का इस्तेमाल करें। इन रेखाओं के साथ बीज बोएँ या छेद बनाने के लिए छड़ी का इस्तेमाल करें और बीज डालें। बीजों को हल्के से मिट्टी से ढक दें। पंक्तियों में पौधे लगाने से निराई-गुड़ाई और फसल की देखभाल करना आसान हो जाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Apply appropriate fertilizers and nutrients to support optimal crop growth and yield.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of old, rotten cow dung or animal manure for each hectare. This makes the soil rich and helps plants grow well."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg of urea (for plant growth), 45 kg of phosphorus powder (helps roots), 45 kg of potash (for strong plants)."
+            },
+            "fertilizer_schedule": {
+              "title": "Fertilizer Schedule",
+              "description": "Mix all the phosphorus and one-third of the urea and potash into the soil before or at planting. Give the rest of the urea and potash in 3 or 4 parts: at 20, 40, 60, and 80 days after planting."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on leaves every 7–10 days during cotton ball growth."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "సరైన పంట పెరుగుదల మరియు దిగుబడికి తోడ్పడటానికి తగిన ఎరువులు మరియు పోషకాలను వేయండి.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "పశువుల ఎరువును జోడించండి",
+              "description": "నాటడానికి ముందు, ప్రతి హెక్టారుకు 5-10 ట్రాక్టర్ లోడ్ల (టన్నుల) పాత, కుళ్ళిన ఆవు పేడ లేదా పశువుల ఎరువును చల్లండి. ఇది నేలను సారవంతం చేస్తుంది మరియు మొక్కలు బాగా పెరగడానికి సహాయపడుతుంది."
+            },
+            "chemical_fertilizer": {
+              "title": "రసాయన ఎరువులు",
+              "description": "హెక్టారుకు: 90 కిలోల యూరియా (మొక్కల పెరుగుదలకు), 45 కిలోల భాస్వరం పొడి (వేర్లకు సహాయపడుతుంది), 45 కిలోల పొటాష్ (బలమైన మొక్కలకు)."
+            },
+            "fertilizer_schedule": {
+              "title": "ఎరువుల షెడ్యూల్",
+              "description": "నాటడానికి ముందు లేదా నాటేటప్పుడు మొత్తం భాస్వరం మరియు మూడింట ఒక వంతు యూరియా మరియు పొటాష్‌ను మట్టిలో కలపండి. మిగిలిన యూరియా మరియు పొటాష్‌ను 3 లేదా 4 భాగాలుగా ఇవ్వండి: నాటిన 20, 40, 60 మరియు 80 రోజుల తర్వాత."
+            },
+            "leaf_sprays": {
+              "title": "ఆకు స్ప్రేలు",
+              "description": "మొక్కలు బలహీనంగా కనిపిస్తే లేదా వర్షం లేకపోతే, 1 లీటరు నీటిలో (2%) 2 చెంచాల యూరియా లేదా DAP లేదా 1 లీటరు నీటిలో (1%) 1 చెంచా KNO₃/19:19:19 కలిపి పత్తి బంతి పెరుగుదల సమయంలో ప్రతి 7-10 రోజులకు ఆకులపై పిచికారీ చేయాలి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "फसल की इष्टतम वृद्धि और उपज के लिए उपयुक्त उर्वरक और पोषक तत्वों का प्रयोग करें।",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "पशु खाद डालें",
+              "description": "रोपण से पहले, प्रत्येक हेक्टेयर के लिए 5-10 ट्रैक्टर लोड (टन) पुराना, सड़ा हुआ गाय का गोबर या पशु खाद फैलाएँ। इससे मिट्टी उपजाऊ बनती है और पौधों को अच्छी तरह से बढ़ने में मदद मिलती है।"
+            },
+            "chemical_fertilizer": {
+              "title": "रासायनिक उर्वरक",
+              "description": "प्रति हेक्टेयर: 90 किलोग्राम यूरिया (पौधों की वृद्धि के लिए), 45 किलोग्राम फॉस्फोरस पाउडर (जड़ों के लिए), 45 किलोग्राम पोटाश (मजबूत पौधों के लिए)।"
+            },
+            "fertilizer_schedule": {
+              "title": "उर्वरक अनुसूची",
+              "description": "रोपण से पहले या रोपण के समय मिट्टी में सारा फास्फोरस और एक तिहाई यूरिया और पोटाश मिला दें। शेष यूरिया और पोटाश को 3 या 4 भागों में डालें: रोपण के 20, 40, 60 और 80 दिन बाद।"
+            },
+            "leaf_sprays": {
+              "title": "पत्ती स्प्रे",
+              "description": "यदि पौधे कमजोर दिखें या बारिश न हो, तो 1 लीटर पानी में 2 चम्मच यूरिया या डीएपी (2%) या 1 लीटर पानी में 1 चम्मच KNO₃/19:19:19 (1%) मिलाएं और कपास की गेंद के विकास के दौरान हर 7-10 दिनों में पत्तियों पर छिड़काव करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Manage water efficiently throughout the crop cycle to optimize yield while avoiding waterlogging.",
+          "sub_steps": {
+            "rainy_season_crop": {
+              "title": "Rainy Season Crop",
+              "description": "Sri Rama cotton can grow with just rain. But if there is no rain for many days, give water once or twice when the plant is making flowers and cotton balls."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you can give water, do it regularly, especially when the plant is making flowers and cotton balls. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can leave the field quickly. Good drainage keeps roots healthy and stops sickness."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "నీటి ఎద్దడిని నివారించి దిగుబడిని ఆప్టిమైజ్ చేయడానికి పంట చక్రం అంతటా నీటిని సమర్ధవంతంగా నిర్వహించండి.",
+          "sub_steps": {
+            "rainy_season_crop": {
+              "title": "వర్షాకాల పంట",
+              "description": "శ్రీరామ పత్తి కేవలం వర్షంతోనే పెరుగుతుంది. కానీ చాలా రోజులు వర్షం పడకపోతే, మొక్క పూలు మరియు పత్తి బంతులను తయారు చేస్తున్నప్పుడు ఒకటి లేదా రెండుసార్లు నీరు పెట్టండి."
+            },
+            "irrigated_crop": {
+              "title": "సాగునీటి పంట",
+              "description": "మీరు నీరు పెట్టగలిగితే, క్రమం తప్పకుండా నీరు పెట్టండి, ముఖ్యంగా మొక్క పువ్వులు మరియు పత్తి బంతులను తయారు చేస్తున్నప్పుడు. పొలంలో నీరు నిలిచి ఉండనివ్వకండి, ఎందుకంటే ఇది వేర్లను కుళ్ళిపోయేలా చేస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "అదనపు నీరు పొలం నుండి త్వరగా బయటకు వెళ్లేలా చూసుకోండి. మంచి నీటి పారుదల వ్యవస్థ వేర్లను ఆరోగ్యంగా ఉంచుతుంది మరియు అనారోగ్యాన్ని ఆపుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "जलभराव से बचते हुए उपज को अधिकतम करने के लिए पूरे फसल चक्र में जल का कुशलतापूर्वक प्रबंधन करें।",
+          "sub_steps": {
+            "rainy_season_crop": {
+              "title": "वर्षा ऋतु की फसल",
+              "description": "श्री राम कपास सिर्फ़ बारिश से भी उग सकता है। लेकिन अगर कई दिनों तक बारिश न हो, तो पौधे में फूल और कपास के गोले बनने के समय एक या दो बार पानी दें।"
+            },
+            "irrigated_crop": {
+              "title": "सिंचित फसल",
+              "description": "अगर आप पानी दे सकते हैं, तो नियमित रूप से दें, खासकर जब पौधे फूल और कपास की गेंदें बना रहे हों। खेत में पानी जमा न होने दें, क्योंकि इससे जड़ें सड़ सकती हैं।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "सुनिश्चित करें कि अतिरिक्त पानी जल्दी से खेत से निकल जाए। अच्छी जल निकासी जड़ों को स्वस्थ रखती है और बीमारी को रोकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Control weeds, pests, and diseases through integrated management practices to protect crop health and yield.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeding tool. For heavy weed problems, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Sri Rama cotton can handle some pests, but check for small insects like jassids, aphids, and thrips. Apply Monocrotophos (1:4 with water) on plant stem at 30 and 45 days, and Flonicamid (1:20 with water) at 60 days. For natural control, use neem oil or NSKE 5%."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Put 4–8 pheromone traps in each acre to catch and check for pink bollworm. Remove and destroy any twisted (rosette) flowers. These traps use special smells to attract and catch harmful insects early."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border plants like sunflower or marigold, and between cotton rows, plant short crops like green gram, black gram, cowpea, or soybean. Change crops every 2–3 years to keep soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "పంట ఆరోగ్యం మరియు దిగుబడిని కాపాడటానికి సమగ్ర నిర్వహణ పద్ధతుల ద్వారా కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులను నియంత్రించండి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "మొదటి కలుపు తీయుట: నాటిన 20–30 రోజుల తర్వాత. రెండవ కలుపు తీయుట: నాటిన 45–60 రోజుల తర్వాత. చేతి గొడ్డలి లేదా కలుపు తీసే సాధనాన్ని ఉపయోగించండి. భారీ కలుపు సమస్యలకు, నాటిన తర్వాత పెండిమెథాలిన్ (ఎకరానికి 1 బాటిల్) పిచికారీ చేయండి మరియు తరువాతి కలుపు మొక్కలకు క్విజలోఫాప్-ఇథైల్ లేదా పైరాఫ్లుఫెన్-ఇథైల్ పిచికారీ చేయండి."
+            },
+            "pest_control": {
+              "title": "తెగులు నియంత్రణ",
+              "description": "శ్రీరామ పత్తి కొన్ని తెగుళ్లను తట్టుకోగలదు, కానీ జాసిడ్స్, అఫిడ్స్ మరియు త్రిప్స్ వంటి చిన్న కీటకాలను తనిఖీ చేయండి. 30 మరియు 45 రోజులలో మొక్క కాండం మీద మోనోక్రోటోఫాస్ (నీటితో 1:4), మరియు 60 రోజులలో ఫ్లోనికామిడ్ (నీటితో 1:20) వేయండి. సహజ నియంత్రణ కోసం, వేప నూనె లేదా NSKE 5% ఉపయోగించండి."
+            },
+            "pheromone_traps": {
+              "title": "ఫెరోమోన్ ఉచ్చులు",
+              "description": "ప్రతి ఎకరంలో 4–8 ఫెరోమోన్ ఉచ్చులను ఉంచి గులాబీ రంగు బోల్‌వార్మ్‌ను పట్టుకోండి. ఏవైనా మెలితిరిగిన (రోసెట్) పువ్వులను తొలగించి నాశనం చేయండి. ఈ ఉచ్చులు హానికరమైన కీటకాలను త్వరగా ఆకర్షించడానికి మరియు పట్టుకోవడానికి ప్రత్యేక వాసనలను ఉపయోగిస్తాయి."
+            },
+            "integrated_pest_management": {
+              "title": "ఇంటిగ్రేటెడ్ పెస్ట్ మేనేజ్‌మెంట్",
+              "description": "పొద్దుతిరుగుడు లేదా బంతి పువ్వు వంటి సరిహద్దు మొక్కలను పెంచండి మరియు పత్తి వరుసల మధ్య, పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ వంటి చిన్న పంటలను నాటండి. నేలను ఆరోగ్యంగా ఉంచడానికి మరియు తెగుళ్లు పెరగకుండా నిరోధించడానికి ప్రతి 2-3 సంవత్సరాలకు ఒకసారి పంటలను మార్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "फसल के स्वास्थ्य और उपज की रक्षा के लिए एकीकृत प्रबंधन प्रथाओं के माध्यम से खरपतवारों, कीटों और रोगों को नियंत्रित करें।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "पहली निराई: रोपण के 20-30 दिन बाद। दूसरी निराई: रोपण के 45-60 दिन बाद। हाथ से कुदाल या निराई करने वाले औजार का इस्तेमाल करें। भारी खरपतवार की समस्या के लिए, रोपण के बाद पेंडीमेथालिन (प्रति एकड़ 1 बोतल) का छिड़काव करें, और बाद में खरपतवार के लिए क्विज़ालोफ़ॉप-इथाइल या पाइराफ़्लुफ़ेन-इथाइल का छिड़काव करें।"
+            },
+            "pest_control": {
+              "title": "कीट नियंत्रण",
+              "description": "श्री रामा कपास कुछ कीटों को संभाल सकता है, लेकिन जैसिड, एफिड और थ्रिप्स जैसे छोटे कीटों की जांच करें। 30 और 45 दिनों पर पौधे के तने पर मोनोक्रोटोफॉस (1:4 पानी के साथ) और 60 दिनों पर फ्लोनिकैमिड (1:20 पानी के साथ) डालें। प्राकृतिक नियंत्रण के लिए, नीम तेल या NSKE 5% का उपयोग करें।"
+            },
+            "pheromone_traps": {
+              "title": "फेरोमोन ट्रैप",
+              "description": "गुलाबी बॉलवर्म को पकड़ने और जांचने के लिए प्रत्येक एकड़ में 4-8 फेरोमोन ट्रैप लगाएं। किसी भी मुड़े हुए (रोसेट) फूल को हटा दें और नष्ट कर दें। ये ट्रैप हानिकारक कीटों को आकर्षित करने और उन्हें जल्दी पकड़ने के लिए विशेष गंध का उपयोग करते हैं।"
+            },
+            "integrated_pest_management": {
+              "title": "एकीकृत कीट प्रबंधन",
+              "description": "सूरजमुखी या गेंदा जैसे सीमावर्ती पौधे उगाएँ, और कपास की पंक्तियों के बीच, हरी चना, उड़द, लोबिया या सोयाबीन जैसी छोटी फसलें लगाएँ। मिट्टी को स्वस्थ रखने और कीटों के निर्माण को रोकने के लिए हर 2-3 साल में फसल बदलें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Intercropping and Crop Rotation",
+        "description": {
+          "overview": "Implement intercropping and crop rotation strategies to improve soil health and reduce pest pressure.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. This makes the soil better, gives extra money, and helps control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow other crops like pulses or oilseeds. This stops the same pests and diseases from coming again and keeps your soil healthy."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "అంతర పంటలు మరియు పంట మార్పిడి",
+        "description": {
+          "overview": "నేల ఆరోగ్యాన్ని మెరుగుపరచడానికి మరియు తెగుళ్ల ఒత్తిడిని తగ్గించడానికి అంతర పంటలు మరియు పంట భ్రమణ వ్యూహాలను అమలు చేయండి.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "అంతర పంటలు",
+              "description": "పత్తి వరుసల మధ్య పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ వంటి స్వల్పకాలిక పంటలను నాటండి. ఇది నేలను మెరుగుపరుస్తుంది, అదనపు డబ్బును ఇస్తుంది మరియు తెగుళ్ళను నియంత్రించడంలో సహాయపడుతుంది."
+            },
+            "crop_rotation": {
+              "title": "పంట భ్రమణం",
+              "description": "పత్తి తర్వాత, పప్పు ధాన్యాలు లేదా నూనె గింజలు వంటి ఇతర పంటలను పండించండి. ఇది అదే తెగుళ్ళు మరియు వ్యాధులు మళ్ళీ రాకుండా ఆపుతుంది మరియు మీ నేలను ఆరోగ్యంగా ఉంచుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "अंतरफसल और फसल चक्र",
+        "description": {
+          "overview": "मृदा स्वास्थ्य में सुधार और कीटों के दबाव को कम करने के लिए अंतरफसल और फसल चक्र रणनीतियों को लागू करें।",
+          "sub_steps": {
+            "intercropping": {
+              "title": "अंतरफसल",
+              "description": "कपास की कतारों के बीच में हरी चना, उड़द, लोबिया या सोयाबीन जैसी अल्पकालिक फसलें लगाएँ। इससे मिट्टी बेहतर बनती है, अतिरिक्त पैसे मिलते हैं और कीटों को नियंत्रित करने में मदद मिलती है।"
+            },
+            "crop_rotation": {
+              "title": "फसल चक्र",
+              "description": "कपास के बाद, दालें या तिलहन जैसी अन्य फसलें उगाएँ। इससे वही कीट और बीमारियाँ दोबारा नहीं आएँगी और आपकी मिट्टी स्वस्थ रहेगी।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Harvest cotton at the right time and in the proper way to ensure good quality yield.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick Cotton",
+              "description": "Sri Rama cotton is ready to pick when the balls (bolls) are fully open and fluffy, usually about 160 days after planting. Pick cotton in 3–4 rounds as more bolls open."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when wet, as this can spoil the cotton and lower its price."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "మంచి నాణ్యమైన దిగుబడిని నిర్ధారించడానికి పత్తిని సరైన సమయంలో మరియు సరైన పద్ధతిలో కోయండి.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "పత్తిని ఎప్పుడు ఎంచుకోవాలి",
+              "description": "శ్రీరామ పత్తి బంతులు (గుండ్లు) పూర్తిగా తెరిచి మెత్తగా ఉన్నప్పుడు, సాధారణంగా నాటిన 160 రోజుల తర్వాత కోయడానికి సిద్ధంగా ఉంటుంది. మరిన్ని గుండ్లు తెరుచుకున్నప్పుడు 3–4 రౌండ్లలో పత్తిని కోయండి."
+            },
+            "how_to_pick": {
+              "title": "ఎలా ఎంచుకోవాలి",
+              "description": "శుభ్రమైన, పొడి పత్తిని చేతితో మాత్రమే తీయండి. తడిగా ఉన్నప్పుడు తీయకండి, ఎందుకంటే ఇది పత్తిని చెడిపోయేలా చేస్తుంది మరియు దాని ధరను తగ్గిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "अच्छी गुणवत्ता वाली उपज सुनिश्चित करने के लिए कपास की कटाई सही समय पर और उचित तरीके से करें।",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "कपास कब चुनें?",
+              "description": "श्री रामा कपास तब चुनने के लिए तैयार होता है जब बॉल्स (गोलियाँ) पूरी तरह से खुल जाती हैं और फूल जाती हैं, आमतौर पर रोपण के लगभग 160 दिन बाद। जैसे-जैसे और बॉल्स खुलते हैं, कपास को 3-4 बार में चुनें।"
+            },
+            "how_to_pick": {
+              "title": "कैसे चुनें",
+              "description": "हाथ से केवल साफ, सूखी कपास ही चुनें। गीली कपास न चुनें, क्योंकि इससे कपास खराब हो सकती है और इसकी कीमत कम हो सकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "NDLH-1938",
+    "stage_number": 9,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Properly manage post-harvest operations to maintain quality and prepare for the next season.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil. This helps stop pests like pink bollworm and makes the soil better for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Keep your picked cotton in a clean, dry place, off the ground, to stop it from getting wet or eaten by rats and bugs. Use cloth bags or make heaps, but never store cotton in plastic bags. Dry, clean cotton receives the best price."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "నాణ్యతను కాపాడుకోవడానికి మరియు తదుపరి సీజన్‌కు సిద్ధం కావడానికి పంటకోత తర్వాత కార్యకలాపాలను సరిగ్గా నిర్వహించండి.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "మొద్దు నిర్వహణ",
+              "description": "పత్తిని తీసిన తర్వాత, మిగిలిన పత్తి కర్రలను కోసి పగలగొట్టి మట్టిలో కలపండి. ఇది గులాబీ రంగు కాయ పురుగు వంటి తెగుళ్లను ఆపడానికి మరియు తదుపరి పంటకు నేలను ప్రయోజనకరంగా మార్చడానికి సహాయపడుతుంది."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "మీరు ఎంచుకున్న పత్తిని తడిసిపోకుండా లేదా ఎలుకలు మరియు కీటకాలు తినకుండా ఉండటానికి నేల నుండి దూరంగా శుభ్రమైన, పొడి ప్రదేశంలో ఉంచండి. గుడ్డ సంచులను ఉపయోగించండి లేదా కుప్పలుగా చేయండి, కానీ ప్లాస్టిక్ సంచులలో పత్తిని ఎప్పుడూ నిల్వ చేయవద్దు. పొడి, శుభ్రమైన పత్తికి ఉత్తమ ధర లభిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "गुणवत्ता बनाए रखने और अगले सीजन की तैयारी के लिए कटाई के बाद के कार्यों का उचित प्रबंधन करें।",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "पराली प्रबंधन",
+              "description": "चुनने के बाद बची हुई कपास की छड़ियों को काटकर तोड़ लें और उन्हें मिट्टी में मिला दें। इससे पिंक बॉलवर्म जैसे कीटों को रोकने में मदद मिलती है और अगली फसल के लिए मिट्टी बेहतर बनती है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "अपने चुने हुए कपास को ज़मीन से दूर, साफ़, सूखी जगह पर रखें, ताकि वह गीला न हो या चूहे और कीड़े उसे न खा जाएँ। कपड़े के थैले इस्तेमाल करें या ढेर बना लें, लेकिन कपास को कभी भी प्लास्टिक की थैलियों में न रखें। सूखे, साफ़ कपास की सबसे अच्छी कीमत मिलती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Good land preparation helps cotton plants grow strong and healthy. It keeps away pests and diseases and makes sure your field holds water well.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "First, remove all weeds (unwanted plants), old cotton sticks, and stones from your field. These can attract insects and diseases that harm the new crop."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough the field 2 or 3 times. Each time, dig as deep as the hand is long (about 10–12 cm). A farmer can use a tractor or bullocks. This breaks up the soil, mixes in old plant bits, and let's cotton roots grow deep."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After ploughing, level the field using a wooden board or a leveller. Flat land helps water spread everywhere, so all seeds get a good start and grow evenly."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Make or repair raised borders (bunds) around the field using a shovel. These bunds keep rainwater in the field and stop soil from washing away during heavy rains."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "మంచి నేల తయారీ పత్తి మొక్కలు బలంగా మరియు ఆరోగ్యంగా పెరగడానికి సహాయపడుతుంది. ఇది తెగుళ్ళు మరియు వ్యాధులను దూరంగా ఉంచుతుంది మరియు మీ పొలంలో నీటిని బాగా నిలుపుకునేలా చేస్తుంది.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "ముందుగా, మీ పొలంలోని కలుపు మొక్కలు (అవాంఛిత మొక్కలు), పాత పత్తి కర్రలు మరియు రాళ్లను తొలగించండి. ఇవి కొత్త పంటకు హాని కలిగించే కీటకాలు మరియు వ్యాధులను ఆకర్షిస్తాయి."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "పొలాన్ని 2 లేదా 3 సార్లు దున్నండి. ప్రతిసారీ, చేతికి ఉన్నంత లోతుగా (సుమారు 10–12 సెం.మీ) తవ్వండి. ఒక రైతు ట్రాక్టర్ లేదా ఎద్దులను ఉపయోగించవచ్చు. ఇది నేలను విచ్ఛిన్నం చేస్తుంది, పాత మొక్కల ముక్కలలో కలుపుతుంది మరియు పత్తి వేర్లు లోతుగా పెరగడానికి వీలు కల్పిస్తుంది."
+            },
+            "levelling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత, చెక్క బోర్డు లేదా లెవలర్ ఉపయోగించి పొలాన్ని చదును చేయండి. చదునైన నేల నీరు అన్ని చోట్లా వ్యాపించడానికి సహాయపడుతుంది, తద్వారా అన్ని విత్తనాలు మంచి ప్రారంభాన్ని పొందుతాయి మరియు సమానంగా పెరుగుతాయి."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "పొలం చుట్టూ ఎత్తైన సరిహద్దులను (కట్టలు) పారతో తయారు చేయండి లేదా మరమ్మతు చేయండి. ఈ కట్టలు వర్షపు నీటిని పొలంలోనే ఉంచుతాయి మరియు భారీ వర్షాల సమయంలో నేల కొట్టుకుపోకుండా ఆపుతాయి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "अच्छी भूमि की तैयारी कपास के पौधों को मजबूत और स्वस्थ बनाने में मदद करती है। यह कीटों और बीमारियों को दूर रखता है और यह सुनिश्चित करता है कि आपके खेत में पानी अच्छी तरह से बना रहे।",
+          "sub_steps": {
+            "cleaning": {
+              "title": "सफाई",
+              "description": "सबसे पहले, अपने खेत से सभी खरपतवार (अवांछित पौधे), पुरानी कपास की छड़ें और पत्थर हटा दें। ये कीड़े और बीमारियों को आकर्षित कर सकते हैं जो नई फसल को नुकसान पहुंचाते हैं।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "खेत को 2 या 3 बार जोतें। हर बार, हाथ की लंबाई जितनी गहराई तक हो (लगभग 10-12 सेमी) खोदें। किसान ट्रैक्टर या बैलगाड़ी का इस्तेमाल कर सकते हैं। इससे मिट्टी टूट जाती है, पुराने पौधे के टुकड़े मिल जाते हैं और कपास की जड़ें गहरी हो जाती हैं।"
+            },
+            "levelling": {
+              "title": "लेवलिंग",
+              "description": "जुताई के बाद, लकड़ी के बोर्ड या लेवलर का उपयोग करके खेत को समतल करें। समतल भूमि पानी को हर जगह फैलने में मदद करती है, इसलिए सभी बीज अच्छी तरह से उगते हैं और समान रूप से बढ़ते हैं।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "खेत के चारों ओर फावड़े से ऊंची सीमाएँ (बांध) बनाएँ या उनकी मरम्मत करें। ये बांध खेत में बारिश के पानी को रोकते हैं और भारी बारिश के दौरान मिट्टी को बहने से रोकते हैं।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Good seeds give healthy plants and more cotton. Treating seeds protects them from diseases that live in the soil.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "Choosing Seeds",
+              "description": "Buy Adilabad Kapas-1 seeds from a trusted shop. Make sure the packet has a government or company seal. Certified seeds are pure, healthy, and give better yields."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Before planting, treat the seeds to stop diseases: Take the seeds and mix them with carbendazim powder (2 grams for every 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams for every 1 kg of seeds). Put seeds in a bucket, sprinkle the powder, and mix well with your hands (wear gloves). Spread the seeds in the shade and let them dry for a few hours."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "మంచి విత్తనాలు ఆరోగ్యకరమైన మొక్కలను మరియు ఎక్కువ పత్తిని ఇస్తాయి. విత్తనాలను శుద్ధి చేయడం వల్ల నేలలో నివసించే వ్యాధుల నుండి వాటిని రక్షిస్తుంది.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "విత్తనాలను ఎంచుకోవడం",
+              "description": "ఆదిలాబాద్ కపాస్-1 విత్తనాలను విశ్వసనీయ దుకాణం నుండి కొనండి. ప్యాకెట్‌పై ప్రభుత్వం లేదా కంపెనీ ముద్ర ఉందని నిర్ధారించుకోండి. సర్టిఫైడ్ విత్తనాలు స్వచ్ఛమైనవి, ఆరోగ్యకరమైనవి మరియు మంచి దిగుబడిని ఇస్తాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "నాటడానికి ముందు, వ్యాధులను ఆపడానికి విత్తనాలను చికిత్స చేయండి: విత్తనాలను తీసుకొని కార్బెండజిమ్ పౌడర్ (ప్రతి 1 కిలో విత్తనాలకు 2 గ్రాములు) లేదా ట్రైకోడెర్మా/సూడోమోనాస్ పౌడర్ (ప్రతి 1 కిలో విత్తనాలకు 10 గ్రాములు) తో కలపండి. విత్తనాలను ఒక బకెట్‌లో వేసి, పొడిని చల్లి, మీ చేతులతో బాగా కలపండి (చేతి తొడుగులు ధరించండి). విత్తనాలను నీడలో వ్యాప్తి చేసి, కొన్ని గంటలు ఆరనివ్వండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "अच्छे बीज स्वस्थ पौधे और अधिक कपास देते हैं। बीजों को उपचारित करने से उन्हें मिट्टी में रहने वाली बीमारियों से बचाया जा सकता है।",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "बीज का चयन",
+              "description": "आदिलाबाद कपास-1 के बीज किसी विश्वसनीय दुकान से खरीदें। सुनिश्चित करें कि पैकेट पर सरकार या कंपनी की मुहर लगी हो। प्रमाणित बीज शुद्ध, स्वस्थ होते हैं और बेहतर उपज देते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "रोपण से पहले, बीमारियों को रोकने के लिए बीजों का उपचार करें: बीज लें और उन्हें कार्बेन्डाजिम पाउडर (प्रत्येक 1 किलो बीज के लिए 2 ग्राम) या ट्राइकोडर्मा/स्यूडोमोनास पाउडर (प्रत्येक 1 किलो बीज के लिए 10 ग्राम) के साथ मिलाएं। बीजों को एक बाल्टी में डालें, पाउडर छिड़कें, और अपने हाथों से अच्छी तरह मिलाएँ (दस्ताने पहनें)। बीजों को छाया में फैलाएँ और उन्हें कुछ घंटों के लिए सूखने दें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Sowing",
+        "description": {
+          "overview": "Planting at the right time and giving enough space help cotton plants grow strong and healthy.",
+          "sub_steps": {
+            "best_time": {
+              "title": "Best Time to Plant",
+              "description": "Sow your seeds with the first rains of the monsoon, between June 15 and July 15. If you plant after July 20, you may get less cotton."
+            },
+            "seed_rate": {
+              "title": "How Much Seed to Use",
+              "description": "For normal planting, use 5 kg of seeds per hectare (2.5 acres). For close planting (high density), use 10–12 kg per hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal planting: Leave 105 cm or 90 cm between rows, and 60 cm between plants. For close planting: Leave 80 cm between rows and 20 cm between plants, or use 90 x 15 cm, or 60 x 30 cm."
+            },
+            "planting_technique": {
+              "title": "Plantation Technique",
+              "description": "Mark straight lines in the field with a rope or stick. Make small holes along the lines and put 1–2 seeds in each hole. Cover the seeds lightly with soil. Planting in lines makes it easier to weed and look after your crop."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తడం",
+        "description": {
+          "overview": "సరైన సమయంలో నాటడం మరియు తగినంత స్థలం ఇవ్వడం వల్ల పత్తి మొక్కలు బలంగా మరియు ఆరోగ్యంగా పెరుగుతాయి.",
+          "sub_steps": {
+            "best_time": {
+              "title": "మొక్కలు నాటడానికి ఉత్తమ సమయం",
+              "description": "జూన్ 15 మరియు జూలై 15 మధ్య రుతుపవనాల మొదటి వర్షాలతో మీ విత్తనాలను విత్తండి. మీరు జూలై 20 తర్వాత నాటితే, మీకు తక్కువ పత్తి లభించవచ్చు."
+            },
+            "seed_rate": {
+              "title": "ఎంత విత్తనం ఉపయోగించాలి",
+              "description": "సాధారణ నాటడానికి, హెక్టారుకు 5 కిలోల విత్తనాలను ఉపయోగించండి (2.5 ఎకరాలు). దగ్గరగా నాటడానికి (అధిక సాంద్రత), హెక్టారుకు 10–12 కిలోలు ఉపయోగించండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "సాధారణ నాటడానికి: వరుసల మధ్య 105 సెం.మీ లేదా 90 సెం.మీ, మరియు మొక్కల మధ్య 60 సెం.మీ. దగ్గరగా నాటడానికి: వరుసల మధ్య 80 సెం.మీ మరియు మొక్కల మధ్య 20 సెం.మీ. వదిలివేయండి లేదా 90 x 15 సెం.మీ, లేదా 60 x 30 సెం.మీ. ఉపయోగించండి."
+            },
+            "planting_technique": {
+              "title": "తోటల పెంపకం సాంకేతికత",
+              "description": "పొలంలో ఒక తాడు లేదా కర్రతో సరళ రేఖలను గుర్తించండి. రేఖల వెంట చిన్న రంధ్రాలు చేసి, ప్రతి రంధ్రంలో 1-2 విత్తనాలను ఉంచండి. విత్తనాలను తేలికగా మట్టితో కప్పండి. వరుసలలో నాటడం వల్ల కలుపు తీయడం మరియు మీ పంటను జాగ్రత్తగా చూసుకోవడం సులభం అవుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बोवाई",
+        "description": {
+          "overview": "सही समय पर रोपण और पर्याप्त स्थान देने से कपास के पौधों को मजबूत और स्वस्थ बढ़ने में मदद मिलती है।",
+          "sub_steps": {
+            "best_time": {
+              "title": "पौधे लगाने का सर्वोत्तम समय",
+              "description": "अपने बीज मानसून की पहली बारिश के साथ, 15 जून से 15 जुलाई के बीच बोएं। यदि आप 20 जुलाई के बाद बोते हैं, तो आपको कम कपास मिलेगा।"
+            },
+            "seed_rate": {
+              "title": "कितना बीज उपयोग करें",
+              "description": "सामान्य रोपण के लिए, प्रति हेक्टेयर (2.5 एकड़) 5 किलोग्राम बीज का उपयोग करें। नज़दीकी रोपण (उच्च घनत्व) के लिए, प्रति हेक्टेयर 10-12 किलोग्राम का उपयोग करें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "सामान्य रोपण के लिए: पंक्तियों के बीच 105 सेमी या 90 सेमी और पौधों के बीच 60 सेमी की दूरी छोड़ें। नज़दीकी रोपण के लिए: पंक्तियों के बीच 80 सेमी और पौधों के बीच 20 सेमी की दूरी छोड़ें, या 90 x 15 सेमी या 60 x 30 सेमी का उपयोग करें।"
+            },
+            "planting_technique": {
+              "title": "वृक्षारोपण तकनीक",
+              "description": "खेत में रस्सी या डंडे से सीधी रेखाएँ बनाएँ। रेखाओं के साथ छोटे-छोटे छेद करें और हर छेद में 1-2 बीज डालें। बीजों को हल्के से मिट्टी से ढक दें। पंक्तियों में पौधे लगाने से खरपतवार निकालना और अपनी फसल की देखभाल करना आसान हो जाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Cotton plants need food (nutrients) to grow well and give good yields.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of well-rotted cow dung or animal manure per hectare. This improves soil quality and helps plants grow."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg urea (for plant growth), 45 kg phosphorus (helps roots), 45 kg potash (for strong plants)."
+            },
+            "application_schedule": {
+              "title": "Application of Fertilizer",
+              "description": "Mix all phosphorus and one-third of urea and potash into the soil before or at planting. Apply the rest of the urea and potash in 3–4 parts: at 20, 40, 60, and 80 days after planting."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on the leaves every 7–10 days during cotton boll (fruit) growth. This gives quick nutrition to the plants."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "పత్తి మొక్కలు బాగా పెరగడానికి మరియు మంచి దిగుబడిని ఇవ్వడానికి ఆహారం (పోషకాలు) అవసరం.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "పశువుల ఎరువును జోడించండి",
+              "description": "నాటడానికి ముందు, హెక్టారుకు 5-10 ట్రాక్టర్ లోడ్ల (టన్నుల) బాగా కుళ్ళిన ఆవు పేడ లేదా పశువుల ఎరువును చల్లండి. ఇది నేల నాణ్యతను మెరుగుపరుస్తుంది మరియు మొక్కల పెరుగుదలకు సహాయపడుతుంది."
+            },
+            "chemical_fertilizer": {
+              "title": "రసాయన ఎరువులు",
+              "description": "హెక్టారుకు: 90 కిలోల యూరియా (మొక్కల పెరుగుదలకు), 45 కిలోల భాస్వరం (వేర్లకు సహాయపడుతుంది), 45 కిలోల పొటాష్ (బలమైన మొక్కలకు)."
+            },
+            "application_schedule": {
+              "title": "ఎరువుల వాడకం",
+              "description": "నాటడానికి ముందు లేదా నాటేటప్పుడు మొత్తం భాస్వరం మరియు మూడింట ఒక వంతు యూరియా మరియు పొటాష్‌ను మట్టిలో కలపండి. మిగిలిన యూరియా మరియు పొటాష్‌ను 3-4 భాగాలుగా వేయండి: నాటిన 20, 40, 60 మరియు 80 రోజుల తర్వాత."
+            },
+            "leaf_sprays": {
+              "title": "ఆకు స్ప్రేలు",
+              "description": "మొక్కలు బలహీనంగా కనిపిస్తే లేదా వర్షం లేకపోతే, 1 లీటరు నీటిలో (2%) 2 చెంచాల యూరియా లేదా DAP లేదా 1 లీటరు నీటిలో (1%) 1 చెంచా KNO₃/19:19:19 కలిపి పత్తి కాయ (పండ్లు) పెరిగే సమయంలో ప్రతి 7-10 రోజులకు ఆకులపై పిచికారీ చేయాలి. ఇది మొక్కలకు త్వరగా పోషణను అందిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "कपास के पौधों को अच्छी तरह बढ़ने और अच्छी उपज देने के लिए भोजन (पोषक तत्वों) की आवश्यकता होती है।",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "पशु खाद डालें",
+              "description": "रोपण से पहले, प्रति हेक्टेयर 5-10 ट्रैक्टर लोड (टन) अच्छी तरह से सड़ी हुई गाय का गोबर या पशु खाद डालें। इससे मिट्टी की गुणवत्ता में सुधार होता है और पौधों को बढ़ने में मदद मिलती है।"
+            },
+            "chemical_fertilizer": {
+              "title": "रासायनिक उर्वरक",
+              "description": "प्रति हेक्टेयर: 90 किग्रा यूरिया (पौधों की वृद्धि के लिए), 45 किग्रा फॉस्फोरस (जड़ों के लिए सहायक), 45 किग्रा पोटाश (मजबूत पौधों के लिए)।"
+            },
+            "application_schedule": {
+              "title": "उर्वरक का प्रयोग",
+              "description": "रोपण से पहले या रोपण के समय मिट्टी में सभी फॉस्फोरस और एक तिहाई यूरिया और पोटाश मिलाएं। शेष यूरिया और पोटाश को 3-4 भागों में डालें: रोपण के 20, 40, 60 और 80 दिन बाद।"
+            },
+            "leaf_sprays": {
+              "title": "पत्ती स्प्रे",
+              "description": "अगर पौधे कमज़ोर दिखें या बारिश न हो तो 1 लीटर पानी में 2 चम्मच यूरिया या DAP (2%) या 1 लीटर पानी में 1 चम्मच KNO₃/19:19:19 (1%) मिलाकर कपास के फल उगने के दौरान हर 7-10 दिन में पत्तियों पर स्प्रे करें। इससे पौधों को जल्दी पोषण मिलता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Cotton needs water, especially when making flowers and cotton bolls. Too little or too much water can harm your crop.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "Adilabad Kapas-1 can grow with just rain. But if there is no rain for many days, give water once or twice, especially when the plant is making flowers and cotton bolls."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you have irrigation, give water regularly, especially at flowering and boll formation. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can drain out of the field quickly. Good drainage keeps roots healthy and stops sickness."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "పత్తికి నీరు అవసరం, ముఖ్యంగా పూలు మరియు పత్తి కాయలు తయారు చేసేటప్పుడు. చాలా తక్కువ లేదా ఎక్కువ నీరు మీ పంటకు హాని కలిగిస్తుంది.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "వర్షాధార పంట",
+              "description": "ఆదిలాబాద్ కపాస్-1 కేవలం వర్షంతోనే పెరుగుతుంది. కానీ చాలా రోజులు వర్షం పడకపోతే, ఒకటి లేదా రెండుసార్లు నీరు పెట్టండి, ముఖ్యంగా మొక్క పూలు మరియు పత్తి కాయలు కాస్తున్నప్పుడు."
+            },
+            "irrigated_crop": {
+              "title": "సాగునీటి పంట",
+              "description": "మీకు నీరు పెడితే, ముఖ్యంగా పుష్పించే సమయంలో మరియు కాయలు ఏర్పడేటప్పుడు క్రమం తప్పకుండా నీరు పెట్టండి. పొలంలో నీరు నిలిచి ఉండనివ్వకండి, ఎందుకంటే ఇది వేర్లను కుళ్ళిపోయేలా చేస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "పొలం నుండి అదనపు నీరు త్వరగా బయటకు పోయేలా చూసుకోండి. మంచి నీటి పారుదల వ్యవస్థ వేర్లను ఆరోగ్యంగా ఉంచుతుంది మరియు అనారోగ్యాన్ని ఆపుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "कपास को पानी की ज़रूरत होती है, खासकर फूल और कपास के गोले बनाते समय। बहुत कम या बहुत ज़्यादा पानी आपकी फसल को नुकसान पहुँचा सकता है।",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "वर्षा आधारित फसल",
+              "description": "आदिलाबाद कपास-1 सिर्फ़ बारिश से भी उग सकता है। लेकिन अगर कई दिनों तक बारिश न हो, तो एक या दो बार पानी दें, खास तौर पर तब जब पौधे में फूल और कपास के गोले बन रहे हों।"
+            },
+            "irrigated_crop": {
+              "title": "सिंचित फसल",
+              "description": "अगर आपके पास सिंचाई की सुविधा है, तो नियमित रूप से पानी दें, खास तौर पर फूल आने और बीजपत्र बनने के समय। खेत में पानी जमा न होने दें, क्योंकि इससे जड़ें सड़ सकती हैं।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "सुनिश्चित करें कि अतिरिक्त पानी जल्दी से खेत से बाहर निकल जाए। अच्छी जल निकासी जड़ों को स्वस्थ रखती है और बीमारी को रोकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Weeds, pests, and diseases can reduce your cotton yield and quality.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeding tool. For heavy weed problems, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Check your crop regularly for pests like jassids, aphids, and thrips. For these, apply Monocrotophos (mix 1 part with 4 parts water) on the plant stem at 30 and 45 days, and Flonicamid (mix 1 part with 20 parts water) at 60 days. For a natural option, spray neem oil or NSKE 5% (neem seed water) on your crop."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Place 4–8 pheromone traps per acre to catch and monitor pink bollworm. If you see twisted (rosette) flowers, pull them out and destroy them."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border crops like sunflower or marigold, and intercrop with green gram, black gram, cowpea, or soybean. These attract good insects that eat bad ones. Change crops every 2–3 years to keep the soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులు మీ పత్తి దిగుబడి మరియు నాణ్యతను తగ్గిస్తాయి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "మొదటి కలుపు తీయుట: నాటిన 20–30 రోజుల తర్వాత. రెండవ కలుపు తీయుట: నాటిన 45–60 రోజుల తర్వాత. చేతి గొడ్డలి లేదా కలుపు తీసే సాధనాన్ని ఉపయోగించండి. భారీ కలుపు సమస్యలకు, నాటిన తర్వాత పెండిమెథాలిన్ (ఎకరానికి 1 బాటిల్) పిచికారీ చేయండి మరియు తరువాతి కలుపు మొక్కలకు క్విజలోఫాప్-ఇథైల్ లేదా పైరాఫ్లుఫెన్-ఇథైల్ పిచికారీ చేయండి."
+            },
+            "pest_control": {
+              "title": "తెగులు నియంత్రణ",
+              "description": "జాసిడ్స్, అఫిడ్స్ మరియు త్రిప్స్ వంటి తెగుళ్ల కోసం మీ పంటను క్రమం తప్పకుండా తనిఖీ చేయండి. వీటి కోసం, 30 మరియు 45 రోజులలో మొక్క కాండంపై మోనోక్రోటోఫాస్ (1 భాగం 4 భాగాల నీటితో కలపండి), మరియు 60 రోజులలో ఫ్లోనికామిడ్ (1 భాగం 20 భాగాల నీటితో కలపండి) వేయండి. సహజ ఎంపిక కోసం, మీ పంటపై వేప నూనె లేదా NSKE 5% (వేప గింజల నీరు) పిచికారీ చేయండి."
+            },
+            "pheromone_traps": {
+              "title": "ఫెరోమోన్ ఉచ్చులు",
+              "description": "గులాబీ రంగు బోల్‌వార్మ్‌ను పట్టుకుని పర్యవేక్షించడానికి ఎకరానికి 4–8 ఫెరోమోన్ ఉచ్చులను ఉంచండి. మీరు మెలితిరిగిన (రోసెట్) పువ్వులను చూసినట్లయితే, వాటిని బయటకు తీసి నాశనం చేయండి."
+            },
+            "integrated_pest_management": {
+              "title": "ఇంటిగ్రేటెడ్ పెస్ట్ మేనేజ్‌మెంట్",
+              "description": "పొద్దుతిరుగుడు లేదా బంతి పువ్వు వంటి సరిహద్దు పంటలను పండించండి మరియు పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ లతో అంతర పంటలు వేయండి. ఇవి చెడు కీటకాలను తినే మంచి కీటకాలను ఆకర్షిస్తాయి. నేలను ఆరోగ్యంగా ఉంచడానికి మరియు తెగుళ్ల పెరుగుదలను ఆపడానికి ప్రతి 2-3 సంవత్సరాలకు ఒకసారి పంటలను మార్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "खरपतवार, कीट और रोग आपकी कपास की उपज और गुणवत्ता को कम कर सकते हैं।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "पहली निराई: रोपण के 20-30 दिन बाद। दूसरी निराई: रोपण के 45-60 दिन बाद। हाथ से कुदाल या निराई करने वाले औजार का इस्तेमाल करें। भारी खरपतवार की समस्या के लिए, रोपण के बाद पेंडीमेथालिन (1 बोतल प्रति एकड़) का छिड़काव करें, और बाद में खरपतवार के लिए क्विज़ालोफ़ॉप-इथाइल या पाइराफ़्लुफ़ेन-इथाइल का छिड़काव करें।"
+            },
+            "pest_control": {
+              "title": "कीट नियंत्रण",
+              "description": "अपनी फसल को नियमित रूप से जैसिड, एफिड और थ्रिप्स जैसे कीटों के लिए जाँचें। इनके लिए, 30 और 45 दिनों पर पौधे के तने पर मोनोक्रोटोफॉस (1 भाग को 4 भाग पानी में मिलाएँ) और 60 दिनों पर फ़्लोनिकैमिड (1 भाग को 20 भाग पानी में मिलाएँ) लगाएँ। प्राकृतिक विकल्प के लिए, अपनी फसल पर नीम का तेल या NSKE 5% (नीम के बीज का पानी) का छिड़काव करें।"
+            },
+            "pheromone_traps": {
+              "title": "फेरोमोन ट्रैप",
+              "description": "गुलाबी बॉलवर्म को पकड़ने और निगरानी करने के लिए प्रति एकड़ 4-8 फेरोमोन ट्रैप लगाएं। अगर आपको मुड़े हुए (रोसेट) फूल दिखाई दें, तो उन्हें उखाड़कर नष्ट कर दें।"
+            },
+            "integrated_pest_management": {
+              "title": "एकीकृत कीट प्रबंधन",
+              "description": "सूरजमुखी या गेंदा जैसी सीमांत फसलें उगाएँ, और हरी चना, उड़द, लोबिया या सोयाबीन के साथ अंतर-फसल उगाएँ। ये अच्छे कीटों को आकर्षित करते हैं जो बुरे कीटों को खा जाते हैं। मिट्टी को स्वस्थ रखने और कीटों के निर्माण को रोकने के लिए हर 2-3 साल में फसल बदलें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Intercropping and Crop Rotation",
+        "description": {
+          "overview": "Growing other crops along with or after cotton keeps the soil healthy, gives you extra income, and helps control pests and diseases.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. These crops improve soil fertility, give you extra money, and help control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow pulses or oilseeds. This breaks the cycle of pests and diseases and keeps your soil rich."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "అంతర పంటలు మరియు పంట మార్పిడి",
+        "description": {
+          "overview": "పత్తితో పాటు లేదా తర్వాత ఇతర పంటలను పండించడం వల్ల నేల ఆరోగ్యంగా ఉంటుంది, మీకు అదనపు ఆదాయం లభిస్తుంది మరియు తెగుళ్ళు మరియు వ్యాధులను నియంత్రించడంలో సహాయపడుతుంది.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "అంతర పంటలు",
+              "description": "పత్తి వరుసల మధ్య పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ వంటి స్వల్పకాలిక పంటలను నాటండి. ఈ పంటలు నేల సారాన్ని మెరుగుపరుస్తాయి, మీకు అదనపు డబ్బును ఇస్తాయి మరియు తెగుళ్ళను నియంత్రించడంలో సహాయపడతాయి."
+            },
+            "crop_rotation": {
+              "title": "పంట భ్రమణం",
+              "description": "పత్తి తర్వాత, పప్పు ధాన్యాలు లేదా నూనె గింజలను పండించండి. ఇది తెగుళ్ళు మరియు వ్యాధుల చక్రాన్ని విచ్ఛిన్నం చేస్తుంది మరియు మీ నేలను సారవంతంగా ఉంచుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "अंतरफसल और फसल चक्र",
+        "description": {
+          "overview": "कपास के साथ या उसके बाद अन्य फसलें उगाने से मिट्टी स्वस्थ रहती है, अतिरिक्त आय होती है, तथा कीटों और बीमारियों पर नियंत्रण में मदद मिलती है।",
+          "sub_steps": {
+            "intercropping": {
+              "title": "अंतरफसल",
+              "description": "कपास की कतारों के बीच में हरी चना, उड़द, लोबिया या सोयाबीन जैसी अल्पकालिक फसलें लगाएँ। ये फसलें मिट्टी की उर्वरता बढ़ाती हैं, आपको अतिरिक्त पैसे देती हैं और कीटों को नियंत्रित करने में मदद करती हैं।"
+            },
+            "crop_rotation": {
+              "title": "फसल चक्र",
+              "description": "कपास के बाद दालें या तिलहन उगाएँ। इससे कीटों और बीमारियों का चक्र टूट जाता है और आपकी मिट्टी उपजाऊ बनी रहती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Picking cotton at the right time and in the right way keeps the quality high and gets you the best price.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick",
+              "description": "Adilabad Kapas-1 is ready for picking when the bolls are fully open and fluffy, usually about 160 days after planting. Pick cotton in 3–4 rounds as more bolls open."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when the cotton is wet, as this can spoil it and lower its price."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "సరైన సమయంలో, సరైన పద్ధతిలో పత్తిని ఎంచుకోవడం వలన నాణ్యత ఎక్కువగా ఉంటుంది మరియు మీకు ఉత్తమ ధర లభిస్తుంది.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "ఎప్పుడు ఎంచుకోవాలి",
+              "description": "ఆదిలాబాద్ కపాస్-1 కాయలు పూర్తిగా వికసించి మెత్తగా ఉన్నప్పుడు, సాధారణంగా నాటిన 160 రోజుల తర్వాత కోయడానికి సిద్ధంగా ఉంటుంది. మరిన్ని కాయలు వికసించినప్పుడు 3–4 రౌండ్లలో పత్తిని కోయండి."
+            },
+            "how_to_pick": {
+              "title": "ఎలా ఎంచుకోవాలి",
+              "description": "శుభ్రమైన, పొడి పత్తిని మాత్రమే చేతితో తీయండి. పత్తి తడిగా ఉన్నప్పుడు తీయకండి, ఎందుకంటే ఇది దానిని చెడిపోయేలా చేస్తుంది మరియు దాని ధరను తగ్గిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "सही समय पर और सही तरीके से कपास चुनने से इसकी गुणवत्ता उच्च बनी रहती है और आपको सर्वोत्तम मूल्य मिलता है।",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "कब चुनें",
+              "description": "आदिलाबाद कपास-1 तब चुनने के लिए तैयार होता है जब बीजकोष पूरी तरह से खुल जाते हैं और फूल जाते हैं, आमतौर पर रोपण के लगभग 160 दिन बाद। जैसे-जैसे और बीजकोष खुलते हैं, कपास को 3-4 बार में चुनें।"
+            },
+            "how_to_pick": {
+              "title": "कैसे चुनें",
+              "description": "हाथ से केवल साफ, सूखी कपास ही चुनें। जब कपास गीला हो तो उसे न चुनें, क्योंकि इससे वह खराब हो सकता है और उसकी कीमत कम हो सकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "ADB-542",
+    "stage_number": 9,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Good post-harvest practices keep your cotton clean, safe, and ready for sale.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil. This helps stop pests like pink bollworm and improves the soil for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store your picked cotton in a clean, dry place, off the ground, to prevent it from getting wet or eaten by rats and insects. Use cloth bags or make heaps, but never use plastic bags. Dry, clean cotton fetches the best price in the market."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "మంచి పంటకోత తర్వాత పద్ధతులు మీ పత్తిని శుభ్రంగా, సురక్షితంగా మరియు అమ్మకానికి సిద్ధంగా ఉంచుతాయి.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "మొద్దు నిర్వహణ",
+              "description": "పత్తిని తీసిన తర్వాత, మిగిలిన పత్తి కర్రలను కోసి పగలగొట్టి మట్టిలో కలపండి. ఇది గులాబీ రంగు కాయ పురుగు వంటి తెగుళ్లను ఆపడానికి మరియు తదుపరి పంటకు నేలను మెరుగుపరుస్తుంది."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "మీరు ఎంచుకున్న పత్తిని తడిసిపోకుండా లేదా ఎలుకలు మరియు కీటకాలు తినకుండా ఉండటానికి నేల నుండి దూరంగా శుభ్రమైన, పొడి ప్రదేశంలో నిల్వ చేయండి. గుడ్డ సంచులను ఉపయోగించండి లేదా కుప్పలుగా చేయండి, కానీ ఎప్పుడూ ప్లాస్టిక్ సంచులను ఉపయోగించవద్దు. పొడి, శుభ్రమైన పత్తి మార్కెట్లో ఉత్తమ ధరను పొందుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "कटाई के बाद की अच्छी पद्धतियां आपके कपास को साफ, सुरक्षित और बिक्री के लिए तैयार रखती हैं।",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "पराली प्रबंधन",
+              "description": "चुनने के बाद बची हुई कपास की छड़ियों को काटकर तोड़ लें और उन्हें मिट्टी में मिला दें। इससे पिंक बॉलवर्म जैसे कीटों को रोकने में मदद मिलती है और अगली फसल के लिए मिट्टी बेहतर बनती है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "अपने चुने हुए कपास को ज़मीन से दूर, साफ़, सूखी जगह पर रखें, ताकि वह गीला न हो या चूहे और कीड़े उसे न खा जाएँ। कपड़े के थैले इस्तेमाल करें या ढेर बना लें, लेकिन कभी भी प्लास्टिक के थैलों का इस्तेमाल न करें। सूखा, साफ़ कपास बाज़ार में सबसे अच्छी कीमत पर मिलता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 1,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Land Preparation",
+        "description": {
+          "overview": "Good land preparation helps your cotton plants grow strong, keeps away pests and diseases, and helps the field hold water when it rains.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "Cleaning",
+              "description": "Start by walking through your field and removing all weeds (unwanted plants), old cotton sticks from last season, and any stones or trash. These things can attract insects and diseases that harm your new crop. Collect and burn or compost the waste away from the field."
+            },
+            "ploughing": {
+              "title": "Ploughing",
+              "description": "Plough your field 2 or 3 times. Each time, dig the soil as deep as your hand is long (about 10–12 cm). Use a tractor or bullocks for this. Change the direction of ploughing each time (crosswise) to break up big soil clumps and make the soil loose and soft. This helps cotton roots grow deep and strong."
+            },
+            "levelling": {
+              "title": "Levelling",
+              "description": "After ploughing, use a wooden board or leveller to make the field flat. Fill up any low spots and break up any leftover clods. A flat field helps water spread evenly and prevents water from collecting in one place."
+            },
+            "bund_construction": {
+              "title": "Bund Construction",
+              "description": "Use a shovel to build or repair raised borders (bunds) around your field. These bunds keep rainwater in your field and stop soil from washing away when it rains heavily. Check all sides to make sure your field is protected."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "భూమి తయారీ",
+        "description": {
+          "overview": "మంచి నేల తయారీ మీ పత్తి మొక్కలు బలంగా పెరగడానికి, తెగుళ్ళు మరియు వ్యాధులను దూరంగా ఉంచడానికి మరియు వర్షం పడినప్పుడు పొలంలో నీటిని నిలుపుకోవడానికి సహాయపడుతుంది.",
+          "sub_steps": {
+            "cleaning": {
+              "title": "శుభ్రపరచడం",
+              "description": "మీ పొలంలో నడుస్తూ అన్ని కలుపు మొక్కలు (అవాంఛిత మొక్కలు), గత సీజన్ నుండి పాత పత్తి కర్రలు మరియు ఏవైనా రాళ్ళు లేదా చెత్తను తొలగించడం ద్వారా ప్రారంభించండి. ఈ వస్తువులు మీ కొత్త పంటకు హాని కలిగించే కీటకాలు మరియు వ్యాధులను ఆకర్షిస్తాయి. వ్యర్థాలను పొలానికి దూరంగా సేకరించి కాల్చండి లేదా కంపోస్ట్ చేయండి."
+            },
+            "ploughing": {
+              "title": "దున్నుట",
+              "description": "మీ పొలాన్ని 2 లేదా 3 సార్లు దున్నండి. ప్రతిసారీ, మీ చేతి పొడవు ఉన్నంత లోతుగా (సుమారు 10–12 సెం.మీ) మట్టిని తవ్వండి. దీని కోసం ట్రాక్టర్ లేదా ఎద్దులను ఉపయోగించండి. పెద్ద మట్టి గడ్డలను విచ్ఛిన్నం చేయడానికి మరియు నేలను వదులుగా మరియు మృదువుగా చేయడానికి ప్రతిసారీ దున్నుతున్న దిశను (అడ్డంగా) మార్చండి. ఇది పత్తి వేర్లు లోతుగా మరియు బలంగా పెరగడానికి సహాయపడుతుంది."
+            },
+            "levelling": {
+              "title": "లెవలింగ్",
+              "description": "దున్నిన తర్వాత, చెక్క బోర్డు లేదా లెవలర్ ఉపయోగించి పొలాన్ని చదును చేయండి. ఏవైనా తక్కువ ఎత్తులో ఉన్న ప్రదేశాలను పూరించండి మరియు మిగిలిపోయిన గడ్డలను పగలగొట్టండి. చదునైన పొలం నీరు సమానంగా వ్యాపించడానికి సహాయపడుతుంది మరియు నీరు ఒకే చోట నిల్వ ఉండకుండా నిరోధిస్తుంది."
+            },
+            "bund_construction": {
+              "title": "బండ్ నిర్మాణం",
+              "description": "మీ పొలం చుట్టూ ఎత్తైన సరిహద్దులు (కట్టలు) నిర్మించడానికి లేదా మరమ్మతు చేయడానికి పారను ఉపయోగించండి. ఈ కట్టలు వర్షపు నీటిని మీ పొలంలో నిలుపుకుంటాయి మరియు భారీ వర్షం పడినప్పుడు నేల కొట్టుకుపోకుండా ఆపుతాయి. మీ పొలం రక్షించబడిందని నిర్ధారించుకోవడానికి అన్ని వైపులా తనిఖీ చేయండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "भूमि की तैयारी",
+        "description": {
+          "overview": "भूमि की अच्छी तैयारी आपके कपास के पौधों को मजबूत बनाने में मदद करती है, कीटों और बीमारियों को दूर रखती है, तथा वर्षा होने पर खेत में पानी को रोकने में मदद करती है।",
+          "sub_steps": {
+            "cleaning": {
+              "title": "सफाई",
+              "description": "अपने खेत में घूमकर सभी खरपतवार (अवांछित पौधे), पिछले मौसम की पुरानी कपास की छड़ें, और कोई भी पत्थर या कचरा हटाएँ। ये चीजें कीटों और बीमारियों को आकर्षित कर सकती हैं जो आपकी नई फसल को नुकसान पहुँचाती हैं। खेत से दूर कचरे को इकट्ठा करके जला दें या खाद बना लें।"
+            },
+            "ploughing": {
+              "title": "जुताई",
+              "description": "अपने खेत की 2 या 3 बार जुताई करें। हर बार, मिट्टी को अपने हाथ की लंबाई जितनी गहराई तक खोदें (लगभग 10-12 सेमी)। इसके लिए ट्रैक्टर या बैलगाड़ी का इस्तेमाल करें। हर बार जुताई की दिशा बदलें (क्रॉसस्वाइज़) ताकि मिट्टी के बड़े-बड़े ढेर टूट जाएँ और मिट्टी ढीली और मुलायम हो जाए। इससे कपास की जड़ें गहरी और मज़बूत होती हैं।"
+            },
+            "levelling": {
+              "title": "लेवलिंग",
+              "description": "जुताई के बाद, खेत को समतल बनाने के लिए लकड़ी के बोर्ड या लेवलर का उपयोग करें। किसी भी निचले स्थान को भर दें और बचे हुए ढेले को तोड़ दें। समतल खेत पानी को समान रूप से फैलाने में मदद करता है और पानी को एक जगह इकट्ठा होने से रोकता है।"
+            },
+            "bund_construction": {
+              "title": "बांध निर्माण",
+              "description": "अपने खेत के चारों ओर ऊंची सीमा (बांध) बनाने या मरम्मत करने के लिए फावड़े का उपयोग करें। ये बांध आपके खेत में बारिश के पानी को रोकते हैं और भारी बारिश होने पर मिट्टी को बहने से रोकते हैं। यह सुनिश्चित करने के लिए कि आपका खेत सुरक्षित है, सभी तरफ से जाँच करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 2,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Seed Selection and Preparation",
+        "description": {
+          "overview": "Good seeds give you healthy plants and more cotton. Treating seeds protects them from soil diseases.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "Choosing Seeds",
+              "description": "Go to a trusted shop and buy WGCV-48 certified seeds. Make sure the packet has a government or company seal. Certified seeds are pure, healthy, and give better yields."
+            },
+            "seed_treatment": {
+              "title": "Seed Treatment",
+              "description": "Put your seeds in a clean bucket. Sprinkle carbendazim powder (2 grams per 1 kg of seeds) or Trichoderma/Pseudomonas powder (10 grams per 1 kg of seeds) on them. Mix the seeds well with your hands (wear gloves for safety). Spread the treated seeds on a clean cloth in the shade and let them dry for a few hours. This treatment protects your young plants from diseases like root rot and seedling wilt."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తనాల ఎంపిక మరియు తయారీ",
+        "description": {
+          "overview": "మంచి విత్తనాలు మీకు ఆరోగ్యకరమైన మొక్కలను మరియు ఎక్కువ పత్తిని ఇస్తాయి. విత్తనాలను శుద్ధి చేయడం వల్ల నేల వ్యాధుల నుండి వాటిని రక్షిస్తుంది.",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "విత్తనాలను ఎంచుకోవడం",
+              "description": "విశ్వసనీయ దుకాణానికి వెళ్లి WGCV-48 సర్టిఫైడ్ విత్తనాలను కొనండి. ప్యాకెట్‌పై ప్రభుత్వం లేదా కంపెనీ సీల్ ఉందని నిర్ధారించుకోండి. సర్టిఫైడ్ విత్తనాలు స్వచ్ఛమైనవి, ఆరోగ్యకరమైనవి మరియు మంచి దిగుబడిని ఇస్తాయి."
+            },
+            "seed_treatment": {
+              "title": "విత్తన చికిత్స",
+              "description": "మీ విత్తనాలను శుభ్రమైన బకెట్‌లో ఉంచండి. వాటిపై కార్బెండజిమ్ పౌడర్ (1 కిలో విత్తనాలకు 2 గ్రాములు) లేదా ట్రైకోడెర్మా/సూడోమోనాస్ పౌడర్ (1 కిలో విత్తనాలకు 10 గ్రాములు) చల్లుకోండి. విత్తనాలను మీ చేతులతో బాగా కలపండి (భద్రత కోసం చేతి తొడుగులు ధరించండి). చికిత్స చేసిన విత్తనాలను నీడలో శుభ్రమైన గుడ్డపై విస్తరించి కొన్ని గంటలు ఆరనివ్వండి. ఈ చికిత్స మీ చిన్న మొక్కలను వేరు తెగులు మరియు మొలకలు వాడిపోవడం వంటి వ్యాధుల నుండి రక్షిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बीज का चयन और तैयारी",
+        "description": {
+          "overview": "अच्छे बीज आपको स्वस्थ पौधे और अधिक कपास देते हैं। बीजों का उपचार करने से उन्हें मिट्टी की बीमारियों से बचाया जा सकता है।",
+          "sub_steps": {
+            "choosing_seeds": {
+              "title": "बीज का चयन",
+              "description": "किसी विश्वसनीय दुकान पर जाकर WGCV-48 प्रमाणित बीज खरीदें। सुनिश्चित करें कि पैकेट पर सरकार या कंपनी की मुहर लगी हो। प्रमाणित बीज शुद्ध, स्वस्थ होते हैं और बेहतर उपज देते हैं।"
+            },
+            "seed_treatment": {
+              "title": "बीज उपचार",
+              "description": "अपने बीजों को एक साफ बाल्टी में डालें। उन पर कार्बेन्डाजिम पाउडर (2 ग्राम प्रति 1 किलो बीज) या ट्राइकोडर्मा/स्यूडोमोनास पाउडर (10 ग्राम प्रति 1 किलो बीज) छिड़कें। बीजों को अपने हाथों से अच्छी तरह मिलाएँ (सुरक्षा के लिए दस्ताने पहनें)। उपचारित बीजों को छाया में एक साफ कपड़े पर फैलाएँ और उन्हें कुछ घंटों के लिए सूखने दें। यह उपचार आपके युवा पौधों को जड़ सड़न और अंकुर विल्ट जैसी बीमारियों से बचाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 3,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Sowing",
+        "description": {
+          "overview": "Planting at the right time and giving enough space help cotton plants grow strong and healthy.",
+          "sub_steps": {
+            "best_time": {
+              "title": "Best Time to Plant",
+              "description": "Sow your seeds with the first rains of the monsoon, between June 15 and July 15. If you plant after July 20, you may get less cotton."
+            },
+            "seed_rate": {
+              "title": "How Much Seed to Use",
+              "description": "For normal planting, use 5 kg of seeds per hectare. For close planting (high density), use 10–12 kg per hectare."
+            },
+            "spacing": {
+              "title": "Spacing",
+              "description": "For normal planting: Leave 105 cm or 90 cm between rows, and 60 cm between plants. For high-density planting (which WGCV-48 is good for): Use 45 cm between rows and 10 cm between plants for best results."
+            },
+            "planting_technique": {
+              "title": "Plantation Technique",
+              "description": "Mark straight lines in the field with a rope or stick. Make small holes along the lines and put 1–2 seeds in each hole. Cover the seeds lightly with soil—don't bury them too deep, or they may not sprout well. Planting in lines makes it easier to weed and look after your crop later."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "విత్తడం",
+        "description": {
+          "overview": "సరైన సమయంలో నాటడం మరియు తగినంత స్థలం ఇవ్వడం వల్ల పత్తి మొక్కలు బలంగా మరియు ఆరోగ్యంగా పెరుగుతాయి.",
+          "sub_steps": {
+            "best_time": {
+              "title": "మొక్కలు నాటడానికి ఉత్తమ సమయం",
+              "description": "జూన్ 15 మరియు జూలై 15 మధ్య రుతుపవనాల మొదటి వర్షాలతో మీ విత్తనాలను విత్తండి. మీరు జూలై 20 తర్వాత నాటితే, మీకు తక్కువ పత్తి లభించవచ్చు."
+            },
+            "seed_rate": {
+              "title": "ఎంత విత్తనం ఉపయోగించాలి",
+              "description": "సాధారణ నాటడానికి, హెక్టారుకు 5 కిలోల విత్తనాలను ఉపయోగించండి. దగ్గరగా నాటడానికి (అధిక సాంద్రత), హెక్టారుకు 10–12 కిలోలు ఉపయోగించండి."
+            },
+            "spacing": {
+              "title": "అంతరం",
+              "description": "సాధారణ నాటడానికి: వరుసల మధ్య 105 సెం.మీ లేదా 90 సెం.మీ, మరియు మొక్కల మధ్య 60 సెం.మీ. వదిలివేయండి. అధిక సాంద్రత గల నాటడానికి (దీనికి WGCV-48 మంచిది): ఉత్తమ ఫలితాల కోసం వరుసల మధ్య 45 సెం.మీ మరియు మొక్కల మధ్య 10 సెం.మీ. ఉపయోగించండి."
+            },
+            "planting_technique": {
+              "title": "తోటల పెంపకం సాంకేతికత",
+              "description": "పొలంలో ఒక తాడు లేదా కర్రతో సరళ రేఖలను గుర్తించండి. రేఖల వెంట చిన్న రంధ్రాలు చేసి, ప్రతి రంధ్రంలో 1–2 విత్తనాలను వేయండి. విత్తనాలను తేలికగా మట్టితో కప్పండి—వాటిని చాలా లోతుగా పాతిపెట్టవద్దు, లేకుంటే అవి బాగా మొలకెత్తకపోవచ్చు. వరుసలలో నాటడం వల్ల కలుపు తీయడం మరియు తరువాత మీ పంటను జాగ్రత్తగా చూసుకోవడం సులభం అవుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "बोवाई",
+        "description": {
+          "overview": "सही समय पर रोपण और पर्याप्त स्थान देने से कपास के पौधों को मजबूत और स्वस्थ बढ़ने में मदद मिलती है।",
+          "sub_steps": {
+            "best_time": {
+              "title": "पौधे लगाने का सर्वोत्तम समय",
+              "description": "अपने बीज मानसून की पहली बारिश के साथ, 15 जून से 15 जुलाई के बीच बोएं। यदि आप 20 जुलाई के बाद बोते हैं, तो आपको कम कपास मिलेगा।"
+            },
+            "seed_rate": {
+              "title": "कितना बीज उपयोग करें",
+              "description": "सामान्य रोपण के लिए, प्रति हेक्टेयर 5 किलोग्राम बीज का उपयोग करें। नज़दीकी रोपण (उच्च घनत्व) के लिए, प्रति हेक्टेयर 10-12 किलोग्राम का उपयोग करें।"
+            },
+            "spacing": {
+              "title": "अंतर",
+              "description": "सामान्य रोपण के लिए: पंक्तियों के बीच 105 सेमी या 90 सेमी और पौधों के बीच 60 सेमी की दूरी छोड़ें। उच्च घनत्व वाले रोपण के लिए (जिसके लिए WGCV-48 अच्छा है): सर्वोत्तम परिणामों के लिए पंक्तियों के बीच 45 सेमी और पौधों के बीच 10 सेमी की दूरी का उपयोग करें।"
+            },
+            "planting_technique": {
+              "title": "वृक्षारोपण तकनीक",
+              "description": "खेत में रस्सी या डंडे से सीधी रेखाएँ बनाएँ। रेखाओं के साथ छोटे-छोटे छेद बनाएँ और हर छेद में 1-2 बीज डालें। बीजों को मिट्टी से हल्के से ढँक दें - उन्हें बहुत गहरा न दबाएँ, नहीं तो वे अच्छी तरह से अंकुरित नहीं हो पाएँगे। पंक्तियों में पौधे लगाने से खरपतवार निकालना और बाद में अपनी फसल की देखभाल करना आसान हो जाता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 4,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Fertilizer and Nutrient Management",
+        "description": {
+          "overview": "Cotton plants need food (nutrients) to grow well and give good yields.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "Add Animal Manure",
+              "description": "Before planting, spread 5–10 tractor loads (tons) of well-rotted cow dung or animal manure per hectare. This improves soil quality and gives your plants a good start."
+            },
+            "chemical_fertilizer": {
+              "title": "Chemical Fertilizer",
+              "description": "Per hectare: 90 kg urea (helps plants grow), 45 kg phosphorus (helps roots), 45 kg potash (makes plants strong)."
+            },
+            "application_schedule": {
+              "title": "How and When to Apply",
+              "description": "Mix all phosphorus and one-third of urea and potash into the soil before or at planting. Apply the rest of the urea and potash in 3–4 parts: at 20, 40, 60, and 80 days after planting. This way, the plants get food when they need it most."
+            },
+            "leaf_sprays": {
+              "title": "Leaf Sprays",
+              "description": "If your plants look weak or there is no rain, mix 2 spoons of urea or DAP in 1 litre of water (2%) or 1 spoon of KNO₃/19:19:19 in 1 litre of water (1%) and spray on the leaves every 7–10 days during cotton boll growth. This gives quick nutrition to the plants."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "ఎరువులు మరియు పోషకాల నిర్వహణ",
+        "description": {
+          "overview": "పత్తి మొక్కలు బాగా పెరగడానికి మరియు మంచి దిగుబడిని ఇవ్వడానికి ఆహారం (పోషకాలు) అవసరం.",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "పశువుల ఎరువును జోడించండి",
+              "description": "నాటడానికి ముందు, హెక్టారుకు 5–10 ట్రాక్టర్ లోడ్ల (టన్నుల) బాగా కుళ్ళిన ఆవు పేడ లేదా పశువుల ఎరువును చల్లండి. ఇది నేల నాణ్యతను మెరుగుపరుస్తుంది మరియు మీ మొక్కలకు మంచి ప్రారంభాన్ని ఇస్తుంది."
+            },
+            "chemical_fertilizer": {
+              "title": "రసాయన ఎరువులు",
+              "description": "హెక్టారుకు: 90 కిలోల యూరియా (మొక్కలు పెరగడానికి సహాయపడుతుంది), 45 కిలోల భాస్వరం (వేర్లకు సహాయపడుతుంది), 45 కిలోల పొటాష్ (మొక్కలను బలంగా చేస్తుంది)."
+            },
+            "application_schedule": {
+              "title": "ఎలా మరియు ఎప్పుడు దరఖాస్తు చేయాలి",
+              "description": "నాటడానికి ముందు లేదా నాటేటప్పుడు మొత్తం భాస్వరం మరియు మూడింట ఒక వంతు యూరియా మరియు పొటాష్‌ను మట్టిలో కలపండి. మిగిలిన యూరియా మరియు పొటాష్‌ను 3-4 భాగాలుగా వేయండి: నాటిన 20, 40, 60 మరియు 80 రోజుల తర్వాత. ఈ విధంగా, మొక్కలు చాలా అవసరమైనప్పుడు ఆహారాన్ని పొందుతాయి."
+            },
+            "leaf_sprays": {
+              "title": "ఆకు స్ప్రేలు",
+              "description": "మీ మొక్కలు బలహీనంగా కనిపిస్తే లేదా వర్షం లేకపోతే, 1 లీటరు నీటిలో (2%) 2 చెంచాల యూరియా లేదా DAP లేదా 1 లీటరు నీటిలో (1%) 1 చెంచా KNO₃/19:19:19 కలిపి పత్తి కాయలు పెరిగే సమయంలో ప్రతి 7-10 రోజులకు ఆకులపై పిచికారీ చేయండి. ఇది మొక్కలకు త్వరగా పోషణను అందిస్తుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "उर्वरक और पोषक तत्व प्रबंधन",
+        "description": {
+          "overview": "कपास के पौधों को अच्छी तरह बढ़ने और अच्छी उपज देने के लिए भोजन (पोषक तत्वों) की आवश्यकता होती है।",
+          "sub_steps": {
+            "animal_manure": {
+              "title": "पशु खाद डालें",
+              "description": "रोपण से पहले, प्रति हेक्टेयर 5-10 ट्रैक्टर लोड (टन) अच्छी तरह से सड़ी हुई गाय का गोबर या पशु खाद फैलाएँ। इससे मिट्टी की गुणवत्ता में सुधार होता है और आपके पौधों को अच्छी शुरुआत मिलती है।"
+            },
+            "chemical_fertilizer": {
+              "title": "रासायनिक उर्वरक",
+              "description": "प्रति हेक्टेयर: 90 किग्रा यूरिया (पौधों को बढ़ने में मदद करता है), 45 किग्रा फॉस्फोरस (जड़ों को बढ़ने में मदद करता है), 45 किग्रा पोटाश (पौधों को मजबूत बनाता है)।"
+            },
+            "application_schedule": {
+              "title": "कैसे और कब आवेदन करें",
+              "description": "रोपण से पहले या रोपण के समय मिट्टी में सभी फॉस्फोरस और एक तिहाई यूरिया और पोटाश मिलाएं। शेष यूरिया और पोटाश को 3-4 भागों में डालें: रोपण के 20, 40, 60 और 80 दिन बाद। इस तरह, पौधों को तब भोजन मिलता है जब उन्हें इसकी सबसे अधिक आवश्यकता होती है।"
+            },
+            "leaf_sprays": {
+              "title": "पत्ती स्प्रे",
+              "description": "अगर आपके पौधे कमज़ोर दिख रहे हैं या बारिश नहीं हो रही है, तो 1 लीटर पानी में 2 चम्मच यूरिया या DAP (2%) या 1 लीटर पानी में 1 चम्मच KNO₃/19:19:19 (1%) मिलाकर कपास के बीज के विकास के दौरान हर 7-10 दिन में पत्तियों पर स्प्रे करें। इससे पौधों को जल्दी पोषण मिलता है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 5,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Water Management",
+        "description": {
+          "overview": "Cotton needs water, especially when making flowers and cotton bolls. Too little or too much water can harm your crop.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "Rainfed Crop",
+              "description": "WGCV-48 can grow with just rain. But if there is no rain for many days, give water once or twice, especially during flowering and boll formation."
+            },
+            "irrigated_crop": {
+              "title": "Irrigated Crop",
+              "description": "If you have irrigation, give water regularly, especially at flowering and boll formation. Do not let water stand in the field, as this can rot the roots."
+            },
+            "drainage": {
+              "title": "Drainage",
+              "description": "Make sure extra water can drain out of the field quickly. Good drainage keeps roots healthy and stops diseases."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "నీటి నిర్వహణ",
+        "description": {
+          "overview": "పత్తికి నీరు అవసరం, ముఖ్యంగా పూలు మరియు పత్తి కాయలు తయారు చేసేటప్పుడు. చాలా తక్కువ లేదా ఎక్కువ నీరు మీ పంటకు హాని కలిగిస్తుంది.",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "వర్షాధార పంట",
+              "description": "WGCV-48 కేవలం వర్షంతోనే పెరుగుతుంది. కానీ చాలా రోజులు వర్షం లేకపోతే, ముఖ్యంగా పుష్పించే సమయంలో మరియు కాయలు ఏర్పడే సమయంలో ఒకటి లేదా రెండుసార్లు నీరు పెట్టండి."
+            },
+            "irrigated_crop": {
+              "title": "సాగునీటి పంట",
+              "description": "మీకు నీరు పెడితే, ముఖ్యంగా పుష్పించే సమయంలో మరియు కాయలు ఏర్పడేటప్పుడు క్రమం తప్పకుండా నీరు పెట్టండి. పొలంలో నీరు నిలిచి ఉండనివ్వకండి, ఎందుకంటే ఇది వేర్లను కుళ్ళిపోయేలా చేస్తుంది."
+            },
+            "drainage": {
+              "title": "డ్రైనేజీ",
+              "description": "పొలం నుండి అదనపు నీరు త్వరగా బయటకు పోయేలా చూసుకోండి. మంచి నీటి పారుదల వ్యవస్థ వేర్లను ఆరోగ్యంగా ఉంచుతుంది మరియు వ్యాధులను ఆపుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "जल प्रबंधन",
+        "description": {
+          "overview": "कपास को पानी की ज़रूरत होती है, खासकर फूल और कपास के गोले बनाते समय। बहुत कम या बहुत ज़्यादा पानी आपकी फसल को नुकसान पहुँचा सकता है।",
+          "sub_steps": {
+            "rainfed_crop": {
+              "title": "वर्षा आधारित फसल",
+              "description": "WGCV-48 सिर्फ़ बारिश से भी उग सकता है। लेकिन अगर कई दिनों तक बारिश न हो, तो एक या दो बार पानी दें, खास तौर पर फूल आने और बीजकोष बनने के दौरान।"
+            },
+            "irrigated_crop": {
+              "title": "सिंचित फसल",
+              "description": "अगर आपके पास सिंचाई की सुविधा है, तो नियमित रूप से पानी दें, खास तौर पर फूल आने और बीजपत्र बनने के समय। खेत में पानी जमा न होने दें, क्योंकि इससे जड़ें सड़ सकती हैं।"
+            },
+            "drainage": {
+              "title": "जलनिकास",
+              "description": "सुनिश्चित करें कि अतिरिक्त पानी जल्दी से खेत से बाहर निकल जाए। अच्छी जल निकासी जड़ों को स्वस्थ रखती है और बीमारियों को रोकती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 6,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Weed, Pest, and Disease Management",
+        "description": {
+          "overview": "Weeds, pests, and diseases can reduce your cotton yield and quality.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "Weed Control",
+              "description": "First weeding: 20–30 days after planting. Second weeding: 45–60 days after planting. Use a hand hoe or weeder to pull out weeds. If there are too many weeds, spray Pendimethalin (1 bottle per acre) after planting, and Quizalofop-ethyl or Pyraflufen-ethyl for later weeds."
+            },
+            "pest_control": {
+              "title": "Pest Control",
+              "description": "Check your crop regularly for pests like jassids, aphids, and thrips (small insects that suck plant sap). For these, apply Monocrotophos (mix 1 part with 4 parts water) on the plant stem at 30 and 45 days, and Flonicamid (mix 1 part with 20 parts water) at 60 days. For a natural option, spray neem oil or NSKE 5% (neem seed water) on your crop."
+            },
+            "pheromone_traps": {
+              "title": "Pheromone Traps",
+              "description": "Place 4–8 pheromone traps per acre to catch and monitor pink bollworm. If you see twisted (rosette) flowers, pull them out and destroy them."
+            },
+            "integrated_pest_management": {
+              "title": "Integrated Pest Management",
+              "description": "Grow border crops like sunflower or marigold, and intercrop with green gram, black gram, cowpea, or soybean. These attract good insects that eat bad ones. Change crops every 2–3 years to keep the soil healthy and stop pest buildup."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "కలుపు, తెగుళ్ళు మరియు వ్యాధుల నిర్వహణ",
+        "description": {
+          "overview": "కలుపు మొక్కలు, తెగుళ్ళు మరియు వ్యాధులు మీ పత్తి దిగుబడి మరియు నాణ్యతను తగ్గిస్తాయి.",
+          "sub_steps": {
+            "weed_control": {
+              "title": "కలుపు నియంత్రణ",
+              "description": "మొదటి కలుపు తీయుట: నాటిన 20–30 రోజుల తర్వాత. రెండవ కలుపు తీయుట: నాటిన 45–60 రోజుల తర్వాత. కలుపు మొక్కలను తొలగించడానికి చేతి గొడ్డలి లేదా కలుపు తీసే యంత్రాన్ని ఉపయోగించండి. కలుపు మొక్కలు ఎక్కువగా ఉంటే, నాటిన తర్వాత పెండిమెథాలిన్ (ఎకరానికి 1 బాటిల్) పిచికారీ చేయండి మరియు తరువాతి కలుపు మొక్కలకు క్విజలోఫాప్-ఇథైల్ లేదా పైరాఫ్లుఫెన్-ఇథైల్ పిచికారీ చేయండి."
+            },
+            "pest_control": {
+              "title": "తెగులు నియంత్రణ",
+              "description": "జాసిడ్స్, అఫిడ్స్ మరియు త్రిప్స్ (మొక్క రసాన్ని పీల్చే చిన్న కీటకాలు) వంటి తెగుళ్ల కోసం మీ పంటను క్రమం తప్పకుండా తనిఖీ చేయండి. వీటి కోసం, 30 మరియు 45 రోజులలో మొక్క కాండంపై మోనోక్రోటోఫాస్ (1 భాగం 4 భాగాల నీటితో కలపండి), మరియు 60 రోజులలో ఫ్లోనికామిడ్ (1 భాగం 20 భాగాల నీటితో కలపండి) వేయండి. సహజ ఎంపిక కోసం, మీ పంటపై వేప నూనె లేదా NSKE 5% (వేప గింజల నీరు) పిచికారీ చేయండి."
+            },
+            "pheromone_traps": {
+              "title": "ఫెరోమోన్ ఉచ్చులు",
+              "description": "గులాబీ రంగు బోల్‌వార్మ్‌ను పట్టుకుని పర్యవేక్షించడానికి ఎకరానికి 4–8 ఫెరోమోన్ ఉచ్చులను ఉంచండి. మీరు మెలితిరిగిన (రోసెట్) పువ్వులను చూసినట్లయితే, వాటిని బయటకు తీసి నాశనం చేయండి."
+            },
+            "integrated_pest_management": {
+              "title": "ఇంటిగ్రేటెడ్ పెస్ట్ మేనేజ్‌మెంట్",
+              "description": "పొద్దుతిరుగుడు లేదా బంతి పువ్వు వంటి సరిహద్దు పంటలను పండించండి మరియు పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ లతో అంతర పంటలు వేయండి. ఇవి చెడు కీటకాలను తినే మంచి కీటకాలను ఆకర్షిస్తాయి. నేలను ఆరోగ్యంగా ఉంచడానికి మరియు తెగుళ్ల పెరుగుదలను ఆపడానికి ప్రతి 2-3 సంవత్సరాలకు ఒకసారి పంటలను మార్చండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "खरपतवार, कीट और रोग प्रबंधन",
+        "description": {
+          "overview": "खरपतवार, कीट और रोग आपकी कपास की उपज और गुणवत्ता को कम कर सकते हैं।",
+          "sub_steps": {
+            "weed_control": {
+              "title": "खरपतवार नियंत्रण",
+              "description": "पहली निराई: रोपण के 20-30 दिन बाद। दूसरी निराई: रोपण के 45-60 दिन बाद। खरपतवार निकालने के लिए हाथ से कुदाल या वीडर का उपयोग करें। यदि खरपतवार बहुत अधिक हैं, तो रोपण के बाद पेंडीमेथालिन (प्रति एकड़ 1 बोतल) का छिड़काव करें, और बाद में खरपतवार के लिए क्विज़ालोफ़ॉप-इथाइल या पाइराफ़्लुफ़ेन-इथाइल का छिड़काव करें।"
+            },
+            "pest_control": {
+              "title": "कीट नियंत्रण",
+              "description": "अपनी फसल को नियमित रूप से जैसिड, एफिड और थ्रिप्स (छोटे कीट जो पौधे का रस चूसते हैं) जैसे कीटों के लिए जाँचें। इनके लिए, पौधे के तने पर 30 और 45 दिनों पर मोनोक्रोटोफॉस (1 भाग को 4 भाग पानी में मिलाएँ) और 60 दिनों पर फ़्लोनिकैमिड (1 भाग को 20 भाग पानी में मिलाएँ) लगाएँ। प्राकृतिक विकल्प के लिए, अपनी फसल पर नीम का तेल या NSKE 5% (नीम के बीज का पानी) छिड़कें।"
+            },
+            "pheromone_traps": {
+              "title": "फेरोमोन ट्रैप",
+              "description": "गुलाबी बॉलवर्म को पकड़ने और निगरानी करने के लिए प्रति एकड़ 4-8 फेरोमोन ट्रैप लगाएं। अगर आपको मुड़े हुए (रोसेट) फूल दिखाई दें, तो उन्हें उखाड़कर नष्ट कर दें।"
+            },
+            "integrated_pest_management": {
+              "title": "एकीकृत कीट प्रबंधन",
+              "description": "सूरजमुखी या गेंदा जैसी सीमांत फसलें उगाएँ, और हरी चना, उड़द, लोबिया या सोयाबीन के साथ अंतर-फसल उगाएँ। ये अच्छे कीटों को आकर्षित करते हैं जो बुरे कीटों को खा जाते हैं। मिट्टी को स्वस्थ रखने और कीटों के निर्माण को रोकने के लिए हर 2-3 साल में फसल बदलें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 7,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Intercropping and Crop Rotation",
+        "description": {
+          "overview": "Growing other crops along with or after cotton keeps the soil healthy, gives you extra income, and helps control pests and diseases.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "Intercropping",
+              "description": "Plant short-term crops like green gram, black gram, cowpea, or soybean between cotton rows. These crops improve soil fertility, give you extra money, and help control pests."
+            },
+            "crop_rotation": {
+              "title": "Crop Rotation",
+              "description": "After cotton, grow pulses or oilseeds. This breaks the cycle of pests and diseases and keeps your soil rich."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "అంతర పంటలు మరియు పంట మార్పిడి",
+        "description": {
+          "overview": "పత్తితో పాటు లేదా తర్వాత ఇతర పంటలను పండించడం వల్ల నేల ఆరోగ్యంగా ఉంటుంది, మీకు అదనపు ఆదాయం లభిస్తుంది మరియు తెగుళ్ళు మరియు వ్యాధులను నియంత్రించడంలో సహాయపడుతుంది.",
+          "sub_steps": {
+            "intercropping": {
+              "title": "అంతర పంటలు",
+              "description": "పత్తి వరుసల మధ్య పెసలు, మినుములు, అలసందలు లేదా సోయాబీన్ వంటి స్వల్పకాలిక పంటలను నాటండి. ఈ పంటలు నేల సారాన్ని మెరుగుపరుస్తాయి, మీకు అదనపు డబ్బును ఇస్తాయి మరియు తెగుళ్ళను నియంత్రించడంలో సహాయపడతాయి."
+            },
+            "crop_rotation": {
+              "title": "పంట భ్రమణం",
+              "description": "పత్తి తర్వాత, పప్పు ధాన్యాలు లేదా నూనె గింజలను పండించండి. ఇది తెగుళ్ళు మరియు వ్యాధుల చక్రాన్ని విచ్ఛిన్నం చేస్తుంది మరియు మీ నేలను సారవంతంగా ఉంచుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "अंतरफसल और फसल चक्र",
+        "description": {
+          "overview": "कपास के साथ या उसके बाद अन्य फसलें उगाने से मिट्टी स्वस्थ रहती है, अतिरिक्त आय होती है, तथा कीटों और बीमारियों पर नियंत्रण में मदद मिलती है।",
+          "sub_steps": {
+            "intercropping": {
+              "title": "अंतरफसल",
+              "description": "कपास की कतारों के बीच में हरी चना, उड़द, लोबिया या सोयाबीन जैसी अल्पकालिक फसलें लगाएँ। ये फसलें मिट्टी की उर्वरता बढ़ाती हैं, आपको अतिरिक्त पैसे देती हैं और कीटों को नियंत्रित करने में मदद करती हैं।"
+            },
+            "crop_rotation": {
+              "title": "फसल चक्र",
+              "description": "कपास के बाद दालें या तिलहन उगाएँ। इससे कीटों और बीमारियों का चक्र टूट जाता है और आपकी मिट्टी उपजाऊ बनी रहती है।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 8,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Harvesting",
+        "description": {
+          "overview": "Picking cotton at the right time and in the right way keeps the quality high and gets you the best price.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "When to Pick",
+              "description": "WGCV-48 is an early variety, so you can start picking the first open bolls around 93-100 days after sowing. Continue picking in 3–4 rounds as more bolls open, up to 140-160 days."
+            },
+            "how_to_pick": {
+              "title": "How to Pick",
+              "description": "Pick only clean, dry cotton by hand. Do not pick when the cotton is wet, as this can spoil it and lower its price. Use clean bags or baskets to collect the cotton."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంట కోత",
+        "description": {
+          "overview": "సరైన సమయంలో, సరైన పద్ధతిలో పత్తిని ఎంచుకోవడం వలన నాణ్యత ఎక్కువగా ఉంటుంది మరియు మీకు ఉత్తమ ధర లభిస్తుంది.",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "ఎప్పుడు ఎంచుకోవాలి",
+              "description": "WGCV-48 అనేది ప్రారంభ రకం, కాబట్టి మీరు విత్తిన 93-100 రోజుల తర్వాత మొదటి వికసించిన కాయలను కోయడం ప్రారంభించవచ్చు. మరిన్ని కాయలు వికసించిన తర్వాత, 140-160 రోజుల వరకు 3-4 రౌండ్లలో కోయడం కొనసాగించండి."
+            },
+            "how_to_pick": {
+              "title": "ఎలా ఎంచుకోవాలి",
+              "description": "శుభ్రమైన, పొడి పత్తిని చేతితో మాత్రమే తీయండి. పత్తి తడిగా ఉన్నప్పుడు తీయకండి, ఎందుకంటే ఇది చెడిపోయి దాని ధరను తగ్గిస్తుంది. పత్తిని సేకరించడానికి శుభ్రమైన సంచులు లేదా బుట్టలను ఉపయోగించండి."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "फसल काटने वाले",
+        "description": {
+          "overview": "सही समय पर और सही तरीके से कपास चुनने से इसकी गुणवत्ता उच्च बनी रहती है और आपको सर्वोत्तम मूल्य मिलता है।",
+          "sub_steps": {
+            "when_to_pick": {
+              "title": "कब चुनें",
+              "description": "WGCV-48 एक अगेती किस्म है, इसलिए आप बुवाई के लगभग 93-100 दिन बाद पहली खुली हुई गुठलियों को चुनना शुरू कर सकते हैं। 140-160 दिन तक, अधिक गुठलियों के खुलने पर 3-4 बार में चुनना जारी रखें।"
+            },
+            "how_to_pick": {
+              "title": "कैसे चुनें",
+              "description": "हाथ से केवल साफ, सूखी कपास ही चुनें। जब कपास गीला हो तो उसे न चुनें, क्योंकि इससे वह खराब हो सकता है और उसकी कीमत कम हो सकती है। कपास इकट्ठा करने के लिए साफ बैग या टोकरी का उपयोग करें।"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "crop_code": "WGCV-48",
+    "stage_number": 9,
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "title": "Post-Harvest Operations",
+        "description": {
+          "overview": "Good post-harvest practices keep your cotton clean, safe, and ready for sale.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "Stubble Management",
+              "description": "After picking, cut and break the leftover cotton sticks and mix them into the soil using a plough or hoe. This helps stop pests like pink bollworm and improves the soil for the next crop."
+            },
+            "storage": {
+              "title": "Storage",
+              "description": "Store your picked cotton in a clean, dry place, off the ground, to prevent it from getting wet or eaten by rats and insects. Use cloth bags or make heaps, but never use plastic bags. If the cotton is damp, spread it out in a shaded, airy place to dry thoroughly, but avoid direct sunlight to protect the fibre quality. Clean, dry cotton fetches the best price in the market."
+            }
+          }
+        }
+      },
+      {
+        "language": "te",
+        "title": "పంటకోత తర్వాత కార్యకలాపాలు",
+        "description": {
+          "overview": "మంచి పంటకోత తర్వాత పద్ధతులు మీ పత్తిని శుభ్రంగా, సురక్షితంగా మరియు అమ్మకానికి సిద్ధంగా ఉంచుతాయి.",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "మొద్దు నిర్వహణ",
+              "description": "పత్తిని తీసిన తర్వాత, మిగిలిన పత్తి కర్రలను కోసి పగలగొట్టి, నాగలి లేదా పార ఉపయోగించి మట్టిలో కలపండి. ఇది గులాబీ రంగు కాయ పురుగు వంటి తెగుళ్లను ఆపడానికి మరియు తదుపరి పంటకు నేలను మెరుగుపరుస్తుంది."
+            },
+            "storage": {
+              "title": "నిల్వ",
+              "description": "మీరు ఎంచుకున్న పత్తిని తడిసిపోకుండా లేదా ఎలుకలు మరియు కీటకాలు తినకుండా ఉండటానికి నేల నుండి దూరంగా శుభ్రమైన, పొడి ప్రదేశంలో నిల్వ చేయండి. గుడ్డ సంచులను ఉపయోగించండి లేదా కుప్పలుగా చేయండి, కానీ ఎప్పుడూ ప్లాస్టిక్ సంచులను ఉపయోగించవద్దు. పత్తి తడిగా ఉంటే, దానిని నీడ ఉన్న, గాలి ఉన్న ప్రదేశంలో విస్తరించి పూర్తిగా ఆరబెట్టండి, కానీ ఫైబర్ నాణ్యతను కాపాడటానికి ప్రత్యక్ష సూర్యకాంతిని నివారించండి. శుభ్రమైన, పొడి పత్తి మార్కెట్లో ఉత్తమ ధరను పొందుతుంది."
+            }
+          }
+        }
+      },
+      {
+        "language": "hi",
+        "title": "कटाई के बाद के कार्य",
+        "description": {
+          "overview": "कटाई के बाद की अच्छी पद्धतियां आपके कपास को साफ, सुरक्षित और बिक्री के लिए तैयार रखती हैं।",
+          "sub_steps": {
+            "stubble_management": {
+              "title": "पराली प्रबंधन",
+              "description": "चुनने के बाद, बची हुई कपास की छड़ियों को काटकर तोड़ लें और उन्हें हल या कुदाल की मदद से मिट्टी में मिला दें। इससे पिंक बॉलवर्म जैसे कीटों को रोकने में मदद मिलती है और अगली फसल के लिए मिट्टी बेहतर हो जाती है।"
+            },
+            "storage": {
+              "title": "भंडारण",
+              "description": "अपने चुने हुए कपास को ज़मीन से दूर, साफ़, सूखी जगह पर रखें, ताकि वह गीला न हो या चूहे और कीड़े उसे खा न सकें। कपड़े के थैले इस्तेमाल करें या ढेर बना लें, लेकिन कभी भी प्लास्टिक के थैलों का इस्तेमाल न करें। अगर कपास नम है, तो उसे अच्छी तरह से सूखने के लिए छायादार, हवादार जगह पर फैला दें, लेकिन रेशे की गुणवत्ता को बचाने के लिए सीधी धूप से बचें। साफ़, सूखा कपास बाज़ार में सबसे अच्छी कीमत पर मिलता है।"
+            }
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Rice Blast",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Sheath Blight",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Brown Spot",
+      "stage_number": 2
+    },
+    {
+      "crop_name": "Rice",
+      "name": "Brown Spot",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "False Smut",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Sheath Rot",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Bacterial Leaf Blight",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Bacterial Leaf Streak",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Tungro Disease",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Rice Ragged Stunt Virus",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Rice Dwarf Virus",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "Root-Knot Nematode",
+      "stage_number": 1
+    },
+    {
+      "crop_name": "Rice",
+      "name": "Root-Knot Nematode",
+      "stage_number": 6
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Root-Knot Nematode",
+      "stage_number": 1
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Root-Knot Nematode",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Rice",
+      "name": "White Tip Nematode",
+      "stage_number": 2
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Fusarium Wilt",
+      "stage_number": 2
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Fusarium Wilt",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Root Rot",
+      "stage_number": 1
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Root Rot",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Anthracnose",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Grey Mildew",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Bacterial Blight",
+      "stage_number": 2
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Bacterial Blight",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Gummosis",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Cotton Leaf Curl Virus",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Tobacco Streak Virus",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Root-Knot Nematode",
+      "stage_number": 1
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Root-Knot Nematode",
+      "stage_number": 6
+    }
+  ],
+  [
+    {
+      "crop_name": "Cotton",
+      "name": "Reniform Nematode",
+      "stage_number": 1
+    },
+    {
+      "crop_name": "Cotton",
+      "name": "Reniform Nematode",
+      "stage_number": 6
+    }
+  ]
+]

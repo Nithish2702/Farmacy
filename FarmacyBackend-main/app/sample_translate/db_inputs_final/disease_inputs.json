@@ -1,0 +1,2863 @@
+[
+  {
+    "name": "Rice Blast",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Rice Blast",
+        "type": "Fungal",
+        "description": {
+          "overview": "Rice blast is the most destructive fungal disease in Telangana, with incidence rates reaching 79.41% in Peddapalli district.",
+          "pathogen": "Pyricularia oryzae",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Diamond-shaped lesions on leaves",
+            "Blast lesions on nodes and panicles",
+            "Gray-white centers with brown margins",
+            "Panicle blast causing grain sterility"
+          ],
+          "causes": [
+            "High humidity and moisture",
+            "Dense planting",
+            "Excessive nitrogen fertilization",
+            "Poor field drainage",
+            "Susceptible varieties"
+          ],
+          "prevention": [
+            "Maintain 2-4 inches of field flooding from seedling stages until harvest",
+            "Avoid excessive nitrogen fertilization",
+            "Plant blast-resistant varieties like WGL 1368",
+            "Proper field drainage",
+            "Remove infected plant debris"
+          ],
+          "treatment": [
+            "Foliar sprays of Hexaconazole 5% SC (500 ml/acre)",
+            "Kitazin spray (200-300 ml/acre)",
+            "Copper-based fungicides mixed with phenylemercuric acetate",
+            "Rotate fungicides to prevent resistance"
+          ],
+          "impact": "Most destructive fungal disease with high yield losses",
+          "prevalence_telangana": "79.41% incidence in Peddapalli district"
+        }
+      },
+      {
+        "language": "te",
+        "name": "వరిలో మంచు తెగులు",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "తెలంగాణలో వరి పంటలో బ్లాస్ట్ అత్యంత వినాశకరమైన శిలీంధ్ర వ్యాధి, పెద్దపల్లి జిల్లాలో దీని సంభవం రేటు 79.41%కి చేరుకుంది.",
+          "pathogen": "పైరిక్యులేరియా ఒరిజా",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "ఆకులపై వజ్రపు ఆకారపు గాయాలు",
+            "కణుపులు మరియు కంతులపై బ్లాస్ట్ గాయాలు",
+            "గోధుమ రంగు అంచులతో బూడిద-తెలుపు మధ్యభాగాలు",
+            "పానికల్ బ్లాస్ట్ వల్ల ధాన్యం వంధ్యత్వం ఏర్పడుతుంది"
+          ],
+          "causes": [
+            "అధిక తేమ మరియు తేమ",
+            "దట్టమైన నాటడం",
+            "అధిక నత్రజని ఎరువులు వేయడం",
+            "పొలంలో నీటి పారుదల సరిగా లేకపోవడం",
+            "అనుమానాస్పద రకాలు"
+          ],
+          "prevention": [
+            "మొలక దశల నుండి పంట కోత వరకు పొలంలో 2-4 అంగుళాల నీరు నిలిచి ఉండేలా చూసుకోండి.",
+            "అధిక నత్రజని ఎరువులు వేయకుండా ఉండండి.",
+            "WGL 1368 వంటి పేలుడు నిరోధక రకాలను నాటండి.",
+            "పొలంలో సరైన నీటి పారుదల",
+            "తెగులు సోకిన మొక్కల అవశేషాలను తొలగించండి."
+          ],
+          "treatment": [
+            "హెక్సాకోనజోల్ 5% SC (500 మి.లీ/ఎకరం) ఆకులపై పిచికారీ చేయాలి.",
+            "కిటాజిన్ స్ప్రే (200-300 మి.లీ/ఎకరానికి)",
+            "ఫినైల్మెర్క్యురిక్ అసిటేట్‌తో కలిపిన రాగి ఆధారిత శిలీంద్రనాశకాలు",
+            "నిరోధకతను నివారించడానికి శిలీంద్రనాశకాలను తిప్పండి."
+          ],
+          "impact": "అధిక దిగుబడి నష్టాలతో కూడిన అత్యంత వినాశకరమైన శిలీంధ్ర వ్యాధి",
+          "prevalence_telangana": "79.41% incidence in Peddapalli district"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "चावल विस्फोट",
+        "type": "फफूंद",
+        "description": {
+          "overview": "तेलंगाना में चावल ब्लास्ट सबसे विनाशकारी फफूंद रोग है, जिसका प्रकोप दर पेड्डापल्ली जिले में 79.41% तक पहुंच गया है।",
+          "pathogen": "पाइरिकुलेरिया ओराइज़ी",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "पत्तियों पर हीरे के आकार के घाव",
+            "नोड्स और पैनिकल्स पर ब्लास्ट घाव",
+            "भूरे किनारों के साथ ग्रे-सफेद केंद्र",
+            "पैनिकल ब्लास्ट के कारण अनाज बंध्य हो जाता है"
+          ],
+          "causes": [
+            "उच्च आर्द्रता एवं नमी",
+            "सघन रोपण",
+            "अत्यधिक नाइट्रोजन निषेचन",
+            "खेत में जल निकासी की खराब स्थिति",
+            "संवेदनशील किस्में"
+          ],
+          "prevention": [
+            "अंकुरण अवस्था से लेकर कटाई तक खेत में 2-4 इंच पानी की उपलब्धता बनाए रखें",
+            "अत्यधिक नाइट्रोजन उर्वरक से बचें",
+            "डब्लूजीएल 1368 जैसी विस्फोट-प्रतिरोधी किस्में लगाएं",
+            "उचित खेत जल निकासी",
+            "संक्रमित पौधों के मलबे को हटाएँ"
+          ],
+          "treatment": [
+            "हेक्साकोनाज़ोल 5% एससी (500 मिली/एकड़) का पत्तियों पर छिड़काव",
+            "किटाज़िन स्प्रे (200-300 मिली/एकड़)",
+            "फेनिलमर्करिक एसीटेट के साथ मिश्रित तांबा आधारित कवकनाशी",
+            "प्रतिरोध को रोकने के लिए कवकनाशकों का प्रयोग बदलें"
+          ],
+          "impact": "सबसे विनाशकारी फफूंद रोग जिससे उपज में भारी नुकसान होता है",
+          "prevalence_telangana": "पेद्दापल्ली जिले में 79.41% घटनाएँ"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sheath Blight",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Sheath Blight",
+        "type": "Fungal",
+        "description": {
+          "overview": "Sheath blight affects 74.23% of crops in Telangana's Polasa region, thriving in dense plantations and high humidity.",
+          "pathogen": "Rhizoctonia solani",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Oval to irregular lesions on leaf sheaths",
+            "Lesions with grayish-white centers and brown margins",
+            "Sclerotia formation on infected tissues",
+            "Lodging in severe cases"
+          ],
+          "causes": [
+            "Dense plantations",
+            "High humidity",
+            "Excessive nitrogen application",
+            "Poor air circulation",
+            "Waterlogged conditions"
+          ],
+          "prevention": [
+            "Deep summer ploughing",
+            "Seed treatment with Pseudomonas bioagents",
+            "Balanced nitrogen application",
+            "Proper plant spacing",
+            "Field sanitation"
+          ],
+          "treatment": [
+            "Spray Carbendazim (1 g/liter) at disease onset",
+            "Propiconazole (1 ml/liter) application",
+            "Polyoxin antibiotics for early infections",
+            "Biological control with Pseudomonas"
+          ],
+          "impact": "Significant yield losses in dense plantations",
+          "prevalence_telangana": "74.23% of crops in Polasa region"
+        }
+      },
+      {
+        "language": "te",
+        "name": "పాముపొడ తెగులు",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "తెలంగాణలోని పొలాస ప్రాంతంలో 74.23% పంటలను పాముపొడ తెగులు ప్రభావితం చేస్తుంది, దట్టమైన తోటలు మరియు అధిక తేమలో ఇది వృద్ధి చెందుతుంది.",
+          "pathogen": "రైజోక్టోనియా సోలాని",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "ఆకు తొడుగులపై అండాకార నుండి క్రమరహిత గాయాలు",
+            "బూడిద-తెలుపు మధ్య భాగం మరియు గోధుమ రంగు అంచులతో గాయాలు.",
+            "సోకిన కణజాలాలపై స్క్లెరోటియా ఏర్పడటం",
+            "తీవ్రమైన సందర్భాల్లో వసతి"
+          ],
+          "causes": [
+            "దట్టమైన తోటలు",
+            "అధిక తేమ",
+            "అధిక నత్రజని వాడకం",
+            "పేలవమైన గాలి ప్రసరణ",
+            "నీటితో నిండిన పరిస్థితులు"
+          ],
+          "prevention": [
+            "వేసవిలో లోతైన దున్నడం",
+            "సూడోమోనాస్ బయో ఏజెంట్లతో విత్తన శుద్ధి",
+            "సమతుల్య నత్రజని వాడకం",
+            "మొక్కల మధ్య సరైన అంతరం",
+            "క్షేత్ర పారిశుధ్యం"
+          ],
+          "treatment": [
+            "వ్యాధి ప్రారంభంలో కార్బెండజిమ్ (1 గ్రా/లీటరు) పిచికారీ చేయండి.",
+            "ప్రొపికోనజోల్ (1 మి.లీ/లీటరు) వాడటం",
+            "ప్రారంభ ఇన్ఫెక్షన్లకు పాలియోక్సిన్ యాంటీబయాటిక్స్",
+            "సూడోమోనాస్ తో జీవ నియంత్రణ"
+          ],
+          "impact": "దట్టమైన తోటలలో గణనీయమైన దిగుబడి నష్టాలు",
+          "prevalence_telangana": "పొలాస ప్రాంతంలో 74.23% పంటలు"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "शीथ ब्लाइट",
+        "type": "फफूंद",
+        "description": {
+          "overview": "तेलंगाना के पोलासा क्षेत्र में 74.23% फसलें शीथ ब्लाइट रोग से प्रभावित हैं, जो घने वृक्षारोपण और उच्च आर्द्रता में पनपती है।",
+          "pathogen": "राइजोक्टोनिया सोलानी",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "पत्ती आवरण पर अंडाकार से लेकर अनियमित घाव",
+            "भूरे-सफ़ेद केंद्र और भूरे किनारों वाले घाव",
+            "संक्रमित ऊतकों पर स्केलेरोशिया का निर्माण",
+            "गंभीर मामलों में आवास"
+          ],
+          "causes": [
+            "घने वृक्षारोपण",
+            "उच्च आर्द्रता",
+            "अत्यधिक नाइट्रोजन का प्रयोग",
+            "खराब वायु परिसंचरण",
+            "जलभराव की स्थिति"
+          ],
+          "prevention": [
+            "ग्रीष्म ऋतु में गहरी जुताई",
+            "स्यूडोमोनास बायोएजेंट्स के साथ बीज उपचार",
+            "संतुलित नाइट्रोजन अनुप्रयोग",
+            "पौधों के बीच उचित दूरी",
+            "क्षेत्र स्वच्छता"
+          ],
+          "treatment": [
+            "रोग शुरू होने पर कार्बेन्डाजिम (1 ग्राम/लीटर) का छिड़काव करें",
+            "प्रोपिकोनाज़ोल (1 मिली/लीटर) का प्रयोग",
+            "प्रारंभिक संक्रमण के लिए पॉलीऑक्सिन एंटीबायोटिक्स",
+            "स्यूडोमोनास द्वारा जैविक नियंत्रण"
+          ],
+          "impact": "सघन वृक्षारोपण में उपज में महत्वपूर्ण हानि",
+          "prevalence_telangana": "पोलासा क्षेत्र में 74.23% फसलें"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brown Spot",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Brown Spot",
+        "type": "Fungal",
+        "description": {
+          "overview": "Brown spot causes yield losses up to 40% in nutrient-deficient soils, particularly affecting crops with poor nutrition.",
+          "pathogen": "Bipolaris oryzae",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Circular to oval brown spots on leaves",
+            "Dark brown lesions with yellow halos",
+            "Grain discoloration and poor filling",
+            "Seedling blight in severe cases"
+          ],
+          "causes": [
+            "Nutrient-deficient soils",
+            "Poor nitrogen management",
+            "Infected seeds",
+            "High humidity",
+            "Stress conditions"
+          ],
+          "prevention": [
+            "Seed treatment with hot water (51-53°C for 15 minutes)",
+            "Use slow-release nitrogen fertilizers",
+            "Maintain proper soil nutrition",
+            "Use certified disease-free seeds",
+            "Crop rotation"
+          ],
+          "treatment": [
+            "Propiconazole 25% EC (200 ml/acre)",
+            "Tricyclazole 18% + Mancozeb 62% WP (400-500 gm/acre)",
+            "Foliar nutrition with micronutrients",
+            "Copper-based fungicides"
+          ],
+          "impact": "Up to 40% yield losses in nutrient-deficient conditions",
+          "prevalence_telangana": "Common in poorly managed fields"
+        }
+      },
+      {
+        "language": "te",
+        "name": "గోధుమ రంగు మచ్చ",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "పోషక లోపం ఉన్న నేలల్లో గోధుమ రంగు మచ్చ తెగులు 40% వరకు దిగుబడి నష్టాలను కలిగిస్తుంది, ముఖ్యంగా పోషకాహారం తక్కువగా ఉన్న పంటలను ప్రభావితం చేస్తుంది.",
+          "pathogen": "బైపోలారిస్ ఒరైజే",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "ఆకులపై వృత్తాకారం నుండి అండాకారంలో గోధుమ రంగు మచ్చలు",
+            "పసుపు రంగు వలయాలతో ముదురు గోధుమ రంగు గాయాలు.",
+            "ధాన్యం రంగు మారడం మరియు సరిగా నింపకపోవడం",
+            "తీవ్రమైన సందర్భాల్లో మొలక ఎండు తెగులు"
+          ],
+          "causes": [
+            "పోషక లోపం ఉన్న నేలలు",
+            "పేలవమైన నత్రజని నిర్వహణ",
+            "తెగులు సోకిన విత్తనాలు",
+            "అధిక తేమ",
+            "ఒత్తిడి పరిస్థితులు"
+          ],
+          "prevention": [
+            "వేడి నీటితో విత్తన శుద్ధి (51-53°C ఉష్ణోగ్రతలో 15 నిమిషాలు)",
+            "నెమ్మదిగా విడుదల చేసే నత్రజని ఎరువులను వాడండి.",
+            "సరైన నేల పోషణను నిర్వహించండి",
+            "ధృవీకరించబడిన వ్యాధి రహిత విత్తనాలను ఉపయోగించండి.",
+            "పంట భ్రమణం"
+          ],
+          "treatment": [
+            "ప్రొపికోనజోల్ 25% EC (200 మి.లీ/ఎకరం)",
+            "ట్రైసైక్లజోల్ 18% + మాంకోజెబ్ 62% WP (ఎకరానికి 400-500 గ్రా.)",
+            "సూక్ష్మపోషకాలతో ఆకులపై పోషణ",
+            "రాగి ఆధారిత శిలీంద్రనాశకాలు"
+          ],
+          "impact": "పోషక లోపాల పరిస్థితుల్లో 40% వరకు దిగుబడి నష్టాలు",
+          "prevalence_telangana": "సరిగా నిర్వహించబడని పొలాలలో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "भूरा धब्बा",
+        "type": "फफूंद",
+        "description": {
+          "overview": "भूरे धब्बे के कारण पोषक तत्वों की कमी वाली मिट्टी में 40% तक उपज की हानि होती है, विशेष रूप से खराब पोषण वाली फसलों पर इसका प्रभाव पड़ता है।",
+          "pathogen": "बाइपोलारिस ओराइज़ी",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "पत्तियों पर गोलाकार से लेकर अंडाकार भूरे रंग के धब्बे",
+            "पीले घेरे के साथ गहरे भूरे रंग के घाव",
+            "अनाज का रंग खराब होना और भराई खराब होना",
+            "गंभीर मामलों में पौध झुलसा रोग"
+          ],
+          "causes": [
+            "पोषक तत्वों की कमी वाली मिट्टी",
+            "खराब नाइट्रोजन प्रबंधन",
+            "संक्रमित बीज",
+            "उच्च आर्द्रता",
+            "तनाव की स्थिति"
+          ],
+          "prevention": [
+            "गर्म पानी से बीज उपचार (15 मिनट के लिए 51-53°C)",
+            "धीमी गति से निकलने वाले नाइट्रोजन उर्वरकों का उपयोग करें",
+            "मिट्टी का उचित पोषण बनाए रखें",
+            "प्रमाणित रोगमुक्त बीजों का उपयोग करें",
+            "फसल चक्र"
+          ],
+          "treatment": [
+            "प्रोपिकोनाज़ोल 25% ईसी (200 मिली/एकड़)",
+            "ट्राइसाइक्लाज़ोल 18% + मैन्कोज़ेब 62% WP (400-500 ग्राम/एकड़)",
+            "सूक्ष्म पोषक तत्वों के साथ पर्ण पोषण",
+            "तांबा आधारित कवकनाशी"
+          ],
+          "impact": "पोषक तत्वों की कमी वाली स्थितियों में 40% तक उपज की हानि",
+          "prevalence_telangana": "खराब प्रबंधन वाले क्षेत्रों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "False Smut",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "False Smut",
+        "type": "Fungal",
+        "description": {
+          "overview": "False smut infects rice grains, forming characteristic velvety spore balls that replace individual grains.",
+          "pathogen": "Ustilaginoidea virens",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Velvety green to black spore balls on grains",
+            "Individual grains transformed into smut balls",
+            "Powdery spore mass",
+            "Reduced grain quality and yield"
+          ],
+          "causes": [
+            "Late planting",
+            "High humidity during flowering",
+            "Soilborne spores",
+            "Infected seeds",
+            "Cool, wet weather during heading"
+          ],
+          "prevention": [
+            "Avoid late planting",
+            "Use certified seeds",
+            "Proper field drainage",
+            "Timely planting",
+            "Remove infected plant debris"
+          ],
+          "treatment": [
+            "Seed treatment with Thiophanate-methyl",
+            "Limited field efficacy due to soilborne nature",
+            "Copper-based fungicides (limited effectiveness)",
+            "Focus on prevention rather than cure"
+          ],
+          "impact": "Grain quality degradation and market rejection",
+          "prevalence_telangana": "Occurs sporadically in late-planted crops"
+        }
+      },
+      {
+        "language": "te",
+        "name": "నకిలీ స్మట్",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "తప్పుడు స్మట్ వరి గింజలకు సోకుతుంది, ఇది వ్యక్తిగత గింజలను భర్తీ చేసే లక్షణమైన వెల్వెట్ బీజాంశ బంతులను ఏర్పరుస్తుంది.",
+          "pathogen": "విరెన్స్ స్టిలాజినోయిడియా",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "ధాన్యాలపై వెల్వెట్ ఆకుపచ్చ నుండి నలుపు రంగు బీజాంశ బంతులు",
+            "ఒక్కొక్క ధాన్యం స్మట్ బాల్స్‌గా రూపాంతరం చెందింది",
+            "పొడి బీజాంశ ద్రవ్యరాశి",
+            "ధాన్యం నాణ్యత మరియు దిగుబడి తగ్గింది"
+          ],
+          "causes": [
+            "ఆలస్యంగా నాటడం",
+            "పుష్పించే సమయంలో అధిక తేమ",
+            "నేల ద్వారా వ్యాపించే బీజాంశాలు",
+            "తెగులు సోకిన విత్తనాలు",
+            "బయలుదేరే సమయంలో చల్లని, తడి వాతావరణం"
+          ],
+          "prevention": [
+            "ఆలస్యంగా నాటడం మానుకోండి",
+            "ధృవీకరించబడిన విత్తనాలను వాడండి",
+            "పొలంలో సరైన నీటి పారుదల",
+            "సకాలంలో నాటడం",
+            "తెగులు సోకిన మొక్కల అవశేషాలను తొలగించండి."
+          ],
+          "treatment": [
+            "థియోఫనేట్-మిథైల్ తో విత్తన శుద్ధి",
+            "నేల ద్వారా వ్యాపించే స్వభావం కారణంగా పరిమిత క్షేత్ర సామర్థ్యం",
+            "రాగి ఆధారిత శిలీంద్రనాశకాలు (పరిమిత ప్రభావం)",
+            "చికిత్స కంటే నివారణపై దృష్టి పెట్టండి"
+          ],
+          "impact": "ధాన్యం నాణ్యత క్షీణత మరియు మార్కెట్ తిరస్కరణ",
+          "prevalence_telangana": "ఆలస్యంగా నాటిన పంటలలో అప్పుడప్పుడు సంభవిస్తుంది."
+        }
+      },
+      {
+        "language": "hi",
+        "name": "नकली अश्लीलता",
+        "type": "फफूंद",
+        "description": {
+          "overview": "मिथ्या स्मट चावल के दानों को संक्रमित करता है, तथा विशिष्ट मखमली बीजाणु गेंदें बनाता है, जो अलग-अलग दानों का स्थान ले लेती हैं।",
+          "pathogen": "विरेन्स स्टिलाजिनोइडिया",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "अनाज पर मखमली हरे से काले रंग के बीजाणु गेंदें",
+            "अलग-अलग अनाज को स्मट बॉल में बदल दिया गया",
+            "चूर्णी बीजाणु द्रव्यमान",
+            "अनाज की गुणवत्ता और उपज में कमी"
+          ],
+          "causes": [
+            "देर से रोपण",
+            "फूल खिलने के दौरान उच्च आर्द्रता",
+            "मृदाजनित बीजाणु",
+            "संक्रमित बीज",
+            "यात्रा के दौरान ठंडा, गीला मौसम"
+          ],
+          "prevention": [
+            "देर से रोपण से बचें",
+            "प्रमाणित बीजों का उपयोग करें",
+            "उचित खेत जल निकासी",
+            "समय पर रोपण",
+            "संक्रमित पौधों के मलबे को हटाएँ"
+          ],
+          "treatment": [
+            "थियोफैनेट-मिथाइल से बीज उपचार",
+            "मृदाजनित प्रकृति के कारण सीमित क्षेत्र प्रभावकारिता",
+            "तांबा आधारित कवकनाशक (सीमित प्रभावशीलता)",
+            "इलाज के बजाय रोकथाम पर ध्यान दें"
+          ],
+          "impact": "अनाज की गुणवत्ता में गिरावट और बाजार में अस्वीकृति",
+          "prevalence_telangana": "देर से बोई गई फसलों में छिटपुट रूप से होता है"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sheath Rot",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Sheath Rot",
+        "type": "Fungal",
+        "description": {
+          "overview": "Sheath rot causes grain discoloration and yield losses up to 85% in Telangana, affecting panicle emergence.",
+          "pathogen": "Sarocladium oryzae",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Rotting of flag leaf sheath",
+            "Grain discoloration",
+            "Panicle emergence problems",
+            "Sterile or partially filled grains",
+            "Reddish-brown lesions on sheaths"
+          ],
+          "causes": [
+            "High humidity",
+            "Mechanical leaf injuries",
+            "Dense planting",
+            "Poor air circulation",
+            "Continuous rice cultivation"
+          ],
+          "prevention": [
+            "Crop rotation with pulses",
+            "Avoid mechanical leaf injuries during field operations",
+            "Proper plant spacing",
+            "Field sanitation",
+            "Balanced fertilization"
+          ],
+          "treatment": [
+            "Copper oxychloride (3 gm/liter)",
+            "Carbendazim 12% + Mancozeb 63% WP during panicle emergence",
+            "Propiconazole sprays",
+            "Timing crucial - apply during panicle emergence"
+          ],
+          "impact": "Up to 85% yield losses in severe cases",
+          "prevalence_telangana": "Common in intensive rice cultivation areas"
+        }
+      },
+      {
+        "language": "te",
+        "name": "పాముకాటు తెగులు",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "తెలంగాణలో తొలుచు తెగులు ధాన్యం రంగు పాలిపోవడానికి మరియు దిగుబడి నష్టాలను 85% వరకు కలిగిస్తుంది, ఇది కంకుల పెరుగుదలను ప్రభావితం చేస్తుంది.",
+          "pathogen": "సరోక్లాడియం ఒరైజే",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "జెండా ఆకు తొడుగు కుళ్ళిపోవడం",
+            "ధాన్యం రంగు మారడం",
+            "కంకులు ఏర్పడటంలో సమస్యలు",
+            "స్టెరైల్ లేదా పాక్షికంగా నిండిన ధాన్యాలు",
+            "తొడుగులపై ఎర్రటి-గోధుమ రంగు గాయాలు"
+          ],
+          "causes": [
+            "అధిక తేమ",
+            "యాంత్రిక ఆకు గాయాలు",
+            "దట్టమైన నాటడం",
+            "పేలవమైన గాలి ప్రసరణ",
+            "నిరంతర వరి సాగు"
+          ],
+          "prevention": [
+            "పప్పు ధాన్యాలతో పంట భ్రమణం",
+            "పొలం పనుల సమయంలో యాంత్రిక ఆకు గాయాలను నివారించండి.",
+            "మొక్కల మధ్య సరైన అంతరం",
+            "క్షేత్ర పారిశుధ్యం",
+            "సమతుల్య ఫలదీకరణం"
+          ],
+          "treatment": [
+            "కాపర్ ఆక్సీక్లోరైడ్ (3 గ్రా/లీటరు)",
+            "కంకులు మొలకెత్తే సమయంలో కార్బెండజిమ్ 12% + మాంకోజెబ్ 63% WP",
+            "ప్రొపికోనజోల్ స్ప్రేలు",
+            "సమయం చాలా ముఖ్యం - కంకులు వచ్చే సమయంలో వాడండి."
+          ],
+          "impact": "తీవ్రమైన సందర్భాల్లో 85% వరకు దిగుబడి నష్టాలు",
+          "prevalence_telangana": "వరి సాగు ప్రాంతాలలో సర్వసాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "म्यान सड़न",
+        "type": "फफूंद",
+        "description": {
+          "overview": "तेलंगाना में शीथ रॉट के कारण अनाज का रंग खराब हो जाता है और उपज में 85% तक की हानि होती है, जिससे पुष्पगुच्छ का विकास प्रभावित होता है।",
+          "pathogen": "सरोक्लेडियम ओराइज़ी",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "ध्वज के पत्ते के आवरण का सड़ना",
+            "अनाज का रंग बदलना",
+            "पुष्पगुच्छ उद्भव की समस्याएं",
+            "बाँझ या आंशिक रूप से भरे हुए दाने",
+            "म्यान पर लाल-भूरे रंग के घाव"
+          ],
+          "causes": [
+            "उच्च आर्द्रता",
+            "यांत्रिक पत्ती क्षति",
+            "सघन रोपण",
+            "खराब वायु परिसंचरण",
+            "निरंतर चावल की खेती"
+          ],
+          "prevention": [
+            "दलहनों के साथ फसल चक्र",
+            "खेत में काम करते समय यांत्रिक रूप से पत्तियों को होने वाली क्षति से बचें",
+            "पौधों के बीच उचित दूरी",
+            "क्षेत्र स्वच्छता",
+            "संतुलित निषेचन"
+          ],
+          "treatment": [
+            "कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर)",
+            "कार्बेन्डाजिम 12% + मैन्कोजेब 63% WP पुष्पगुच्छ उभरने के दौरान",
+            "प्रोपिकोनाज़ोल स्प्रे",
+            "समय महत्वपूर्ण है - पुष्पगुच्छ निकलने के दौरान प्रयोग करें"
+          ],
+          "impact": "गंभीर मामलों में 85% तक उपज की हानि",
+          "prevalence_telangana": "सघन चावल खेती वाले क्षेत्रों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bacterial Leaf Blight",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Bacterial Leaf Blight",
+        "type": "Bacterial",
+        "description": {
+          "overview": "Bacterial leaf blight causes yellow leaf streaks and wilting, prevalent in irrigated rice fields.",
+          "pathogen": "Xanthomonas oryzae pv. oryzae",
+          "disease_type": "Bacterial",
+          "symptoms": [
+            "Yellow to white leaf streaks",
+            "Wilting of leaves",
+            "V-shaped lesions from leaf tips",
+            "Bacterial ooze in morning",
+            "Systemic infection leading to plant death"
+          ],
+          "causes": [
+            "Contaminated irrigation water",
+            "Infected seeds",
+            "Wounds from insects or mechanical damage",
+            "High humidity",
+            "Continuous flooding"
+          ],
+          "prevention": [
+            "Field drainage between seasons",
+            "Avoid water flow from infected areas",
+            "Use certified disease-free seeds",
+            "Copper-based seed treatment",
+            "Resistant varieties"
+          ],
+          "treatment": [
+            "Soil drench with Streptomycin sulphate 90% + Tetracycline hydrochloride 10% SP (6 gm/50 liters)",
+            "Kasugamycin 5% + Copper oxychloride sprays",
+            "Copper-based bactericides",
+            "Drainage and field drying"
+          ],
+          "impact": "Severe yield losses in irrigated conditions",
+          "prevalence_telangana": "Common in irrigated rice systems"
+        }
+      },
+      {
+        "language": "te",
+        "name": "బాక్టీరియల్ కంకి ఎండు తెగులు",
+        "type": "బాక్టీరియల్",
+        "description": {
+          "overview": "బాక్టీరియల్ ఆకు ముడత వలన పసుపు ఆకు చారలు మరియు వాడిపోవడం జరుగుతుంది, ఇది నీటిపారుదల ఉన్న వరి పొలాలలో ప్రబలంగా ఉంటుంది.",
+          "pathogen": "జాంతోమోనాస్ ఒరైజే పివి. ఒరైజే",
+          "disease_type": "బాక్టీరియల్",
+          "symptoms": [
+            "ఆకులపై పసుపు నుండి తెలుపు చారలు",
+            "ఆకులు వాడిపోవడం",
+            "ఆకు కొనల నుండి V- ఆకారపు గాయాలు",
+            "ఉదయం వేళల్లో బాక్టీరియల్ స్రావం",
+            "మొక్కల మరణానికి దారితీసే దైహిక సంక్రమణ"
+          ],
+          "causes": [
+            "కలుషితమైన సాగునీరు",
+            "తెగులు సోకిన విత్తనాలు",
+            "కీటకాలు లేదా యాంత్రిక నష్టం నుండి గాయాలు",
+            "అధిక తేమ",
+            "నిరంతర వరదలు"
+          ],
+          "prevention": [
+            "సీజన్ల మధ్య పొలంలో నీటి పారుదల",
+            "సోకిన ప్రాంతాల నుండి నీటి ప్రవాహాన్ని నివారించండి.",
+            "ధృవీకరించబడిన వ్యాధి రహిత విత్తనాలను ఉపయోగించండి.",
+            "రాగి ఆధారిత విత్తన శుద్ధి",
+            "నిరోధక రకాలు"
+          ],
+          "treatment": [
+            "స్ట్రెప్టోమైసిన్ సల్ఫేట్ 90% + టెట్రాసైక్లిన్ హైడ్రోక్లోరైడ్ 10% SP (6 గ్రా/50 లీటర్లు) తో నేలను తడపండి.",
+            "కాసుగామైసిన్ 5% + కాపర్ ఆక్సిక్లోరైడ్ స్ప్రేలు",
+            "రాగి ఆధారిత బాక్టీరియా నాశకాలు",
+            "నీరు పోయడం మరియు పొలం ఎండబెట్టడం"
+          ],
+          "impact": "నీటిపారుదల పరిస్థితుల్లో తీవ్రమైన దిగుబడి నష్టాలు",
+          "prevalence_telangana": "నీటిపారుదల వరి వ్యవస్థలలో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "जीवाणुजनित पत्ती झुलसा रोग",
+        "type": "जीवाणु",
+        "description": {
+          "overview": "जीवाणुजनित पत्ती झुलसा रोग के कारण पत्तियों पर पीली धारियाँ पड़ जाती हैं तथा वे मुरझा जाती हैं, जो सिंचित चावल के खेतों में आम है।",
+          "pathogen": "ज़ेन्थोमोनस ओराइज़े पीवी. ओराइज़े",
+          "disease_type": "जीवाणु",
+          "symptoms": [
+            "पीले से सफ़ेद पत्तों की धारियाँ",
+            "पत्तियों का मुरझाना",
+            "पत्ती के शीर्ष पर V आकार के घाव",
+            "सुबह में बैक्टीरिया का रिसाव",
+            "प्रणालीगत संक्रमण के कारण पौधे की मृत्यु हो जाती है"
+          ],
+          "causes": [
+            "दूषित सिंचाई जल",
+            "संक्रमित बीज",
+            "कीड़ों या यांत्रिक क्षति से घाव",
+            "उच्च आर्द्रता",
+            "लगातार बाढ़"
+          ],
+          "prevention": [
+            "ऋतुओं के बीच खेत की जल निकासी",
+            "संक्रमित क्षेत्रों से पानी के प्रवाह से बचें",
+            "प्रमाणित रोगमुक्त बीजों का उपयोग करें",
+            "तांबा आधारित बीज उपचार",
+            "प्रतिरोधी किस्में"
+          ],
+          "treatment": [
+            "स्ट्रेप्टोमाइसिन सल्फेट 90% + टेट्रासाइक्लिन हाइड्रोक्लोराइड 10% एसपी (6 ग्राम/50 लीटर) के साथ मिट्टी को भिगोएं",
+            "कासुगामाइसिन 5% + कॉपर ऑक्सीक्लोराइड स्प्रे",
+            "तांबा आधारित जीवाणुनाशक",
+            "जल निकासी और खेत सुखाना"
+          ],
+          "impact": "सिंचित परिस्थितियों में उपज में भारी हानि",
+          "prevalence_telangana": "सिंचित चावल प्रणालियों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bacterial Leaf Streak",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Bacterial Leaf Streak",
+        "type": "Bacterial",
+        "description": {
+          "overview": "Bacterial leaf streak produces translucent lesions under high humidity conditions.",
+          "pathogen": "Xanthomonas oryzae pv. oryzicola",
+          "disease_type": "Bacterial",
+          "symptoms": [
+            "Translucent lesions on leaves",
+            "Water-soaked streaks",
+            "Yellow to brown lesions",
+            "Bacterial exudate",
+            "Interveinal necrosis"
+          ],
+          "causes": [
+            "High humidity",
+            "Overhead irrigation",
+            "Weed hosts (Johnsongrass)",
+            "Contaminated water",
+            "Plant wounds"
+          ],
+          "prevention": [
+            "Weed control, especially Johnsongrass",
+            "Avoid overhead irrigation",
+            "Use drip or furrow irrigation",
+            "Field sanitation",
+            "Resistant varieties"
+          ],
+          "treatment": [
+            "Copper-based sprays at heading stage",
+            "Streptomycin applications",
+            "Bacteriophage treatments (experimental)",
+            "Limited chemical options available"
+          ],
+          "impact": "Moderate yield losses, mainly grain quality issues",
+          "prevalence_telangana": "Present in humid conditions"
+        }
+      },
+      {
+        "language": "te",
+        "name": "బాక్టీరియల్ ఆకు చార",
+        "type": "బాక్టీరియల్",
+        "description": {
+          "overview": "అధిక తేమ ఉన్న పరిస్థితులలో బాక్టీరియల్ ఆకు చారలు అపారదర్శక గాయాలను ఉత్పత్తి చేస్తాయి.",
+          "pathogen": "జాంతోమోనాస్ ఒరిజే పివి. ఒరిజికోలా",
+          "disease_type": "బాక్టీరియల్",
+          "symptoms": [
+            "ఆకులపై అపారదర్శక గాయాలు",
+            "నీటిలో తడిసిన చారలు",
+            "పసుపు నుండి గోధుమ రంగు గాయాలు",
+            "బాక్టీరియల్ ఎక్సుడేట్",
+            "అంతర్ సిర నెక్రోసిస్"
+          ],
+          "causes": [
+            "అధిక తేమ",
+            "ఓవర్ హెడ్ ఇరిగేషన్",
+            "కలుపు మొక్కల అతిథేయులు (జాన్సన్‌గ్రాస్)",
+            "కలుషిత నీరు",
+            "మొక్కల గాయాలు"
+          ],
+          "prevention": [
+            "కలుపు నియంత్రణ, ముఖ్యంగా జాన్సన్‌గ్రాస్",
+            "ఓవర్ హెడ్ ఇరిగేషన్ నివారించండి",
+            "బిందు లేదా మడత నీటిపారుదల ఉపయోగించండి.",
+            "క్షేత్ర పారిశుధ్యం",
+            "నిరోధక రకాలు"
+          ],
+          "treatment": [
+            "మొలకెత్తే దశలో రాగి ఆధారిత స్ప్రేలు",
+            "స్ట్రెప్టోమైసిన్ అనువర్తనాలు",
+            "బాక్టీరియోఫేజ్ చికిత్సలు (ప్రయోగాత్మకం)",
+            "పరిమిత రసాయన ఎంపికలు అందుబాటులో ఉన్నాయి"
+          ],
+          "impact": "మితమైన దిగుబడి నష్టాలు, ప్రధానంగా ధాన్యం నాణ్యత సమస్యలు",
+          "prevalence_telangana": "తేమతో కూడిన పరిస్థితులలో ఉంటుంది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "जीवाणु पत्ती धारियाँ",
+        "type": "जीवाणु",
+        "description": {
+          "overview": "उच्च आर्द्रता की स्थिति में जीवाणु पत्ती धारियाँ पारभासी घाव उत्पन्न करती हैं।",
+          "pathogen": "ज़ैंथोमोनस ओराइज़े पीवी. ओरिज़िकोला",
+          "disease_type": "जीवाणु",
+          "symptoms": [
+            "पत्तियों पर पारदर्शी घाव",
+            "पानी से भीगी धारियाँ",
+            "पीले से भूरे रंग के घाव",
+            "जीवाणु स्राव",
+            "अंतर शिरा परिगलन"
+          ],
+          "causes": [
+            "उच्च आर्द्रता",
+            "ओवरहेड सिंचाई",
+            "खरपतवार मेजबान (जॉनसनग्रास)",
+            "दूषित पानी",
+            "पौधों के घाव"
+          ],
+          "prevention": [
+            "खरपतवार नियंत्रण, विशेष रूप से जॉनसनग्रास",
+            "ऊपरी सिंचाई से बचें",
+            "ड्रिप या फरो सिंचाई का उपयोग करें",
+            "क्षेत्र स्वच्छता",
+            "प्रतिरोधी किस्में"
+          ],
+          "treatment": [
+            "शीर्ष अवस्था में तांबा आधारित स्प्रे",
+            "स्ट्रेप्टोमाइसिन अनुप्रयोग",
+            "जीवाणुभोजी उपचार (प्रायोगिक)",
+            "सीमित रासायनिक विकल्प उपलब्ध"
+          ],
+          "impact": "मध्यम उपज हानि, मुख्यतः अनाज की गुणवत्ता संबंधी समस्याएं",
+          "prevalence_telangana": "आर्द्र परिस्थितियों में मौजूद"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tungro Disease",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Tungro Disease",
+        "type": "Viral",
+        "description": {
+          "overview": "Tungro disease is transmitted by green leafhoppers, causing yellow-orange leaves and sterility in rice plants.",
+          "pathogen": "Rice tungro virus (RTBV and RTSV)",
+          "disease_type": "Viral",
+          "symptoms": [
+            "Yellow-orange discoloration of leaves",
+            "Stunted growth",
+            "Reduced tillering",
+            "Sterile or partially filled grains",
+            "Delayed flowering"
+          ],
+          "causes": [
+            "Green leafhopper transmission (Nephotettix spp.)",
+            "Infected plant reservoirs",
+            "Continuous cropping",
+            "Weed hosts",
+            "Vector migration"
+          ],
+          "prevention": [
+            "Plant resistant varieties (IR 36, Ponmani)",
+            "Synchronous planting to break disease cycle",
+            "Vector control with insecticides",
+            "Remove weed hosts",
+            "Avoid ratooning"
+          ],
+          "treatment": [
+            "No direct chemical treatment available",
+            "Rogue infected plants immediately",
+            "Neem cake application (12.5 kg/0.2 ha) for vector suppression",
+            "Insecticidal control of vectors",
+            "Focus on prevention"
+          ],
+          "impact": "Complete crop loss in susceptible varieties",
+          "prevalence_telangana": "Sporadic occurrence, depends on vector population"
+        }
+      },
+      {
+        "language": "te",
+        "name": "తుంగ్రో వ్యాధి",
+        "type": "వైరల్",
+        "description": {
+          "overview": "తుంగ్రో వ్యాధి ఆకుపచ్చని ఆకుదోసల ద్వారా వ్యాపిస్తుంది, దీని వలన వరి మొక్కలలో పసుపు-నారింజ ఆకులు మరియు వంధ్యత్వం ఏర్పడుతుంది.",
+          "pathogen": "రైస్ టుంగ్రో వైరస్ (RTBV మరియు RTSV)",
+          "disease_type": "వైరల్",
+          "symptoms": [
+            "ఆకులు పసుపు-నారింజ రంగులోకి మారడం",
+            "పెరుగుదల మందగించడం",
+            "తగ్గిన పిలకలు",
+            "స్టెరైల్ లేదా పాక్షికంగా నిండిన ధాన్యాలు",
+            "పుష్పించడం ఆలస్యం"
+          ],
+          "causes": [
+            "ఆకుపచ్చ ఆకుదోమ సంక్రమణ (నెఫోటెటిక్స్ spp.)",
+            "తెగులు సోకిన మొక్కల జలాశయాలు",
+            "నిరంతర కత్తిరింపు",
+            "కలుపు మొక్కలు",
+            "వెక్టర్ మైగ్రేషన్"
+          ],
+          "prevention": [
+            "మొక్కల నిరోధక రకాలు (IR 36, పొన్మణి)",
+            "వ్యాధి చక్రాన్ని విచ్ఛిన్నం చేయడానికి సమకాలిక నాటడం",
+            "పురుగుమందులతో వెక్టర్ నియంత్రణ",
+            "కలుపు మొక్కలను తొలగించండి",
+            "రాటూనింగ్ నివారించండి"
+          ],
+          "treatment": [
+            "ప్రత్యక్ష రసాయన చికిత్స అందుబాటులో లేదు.",
+            "తెగులు సోకిన మొక్కలను వెంటనే తొలగించండి.",
+            "వైరస్ నిరోధకం కోసం వేప పిండాన్ని (12.5 కిలోలు/0.2 హెక్టార్లకు) వాడాలి.",
+            "వాహకాల పురుగుమందు నియంత్రణ",
+            "నివారణపై దృష్టి పెట్టండి"
+          ],
+          "impact": "అనుమానాస్పద రకాల్లో పూర్తి పంట నష్టం",
+          "prevalence_telangana": "స్పోరాడిక్ సంఘటన, వెక్టర్ జనాభాపై ఆధారపడి ఉంటుంది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "टुंग्रो रोग",
+        "type": "वायरल",
+        "description": {
+          "overview": "टंग्रो रोग हरे पत्ती फुदक (लीफहॉपर) द्वारा फैलता है, जिससे चावल के पौधों की पत्तियां पीली-नारंगी हो जाती हैं और उनमें बांझपन आ जाता है।",
+          "pathogen": "चावल टुंग्रो वायरस (आरटीबीवी और आरटीएसवी)",
+          "disease_type": "वायरल",
+          "symptoms": [
+            "पत्तियों का पीला-नारंगी रंग बदलना",
+            "अवरुद्ध विकास",
+            "कम हुई जुताई",
+            "बाँझ या आंशिक रूप से भरे हुए दाने",
+            "विलंबित फूल"
+          ],
+          "causes": [
+            "ग्रीन लीफहॉपर संचरण (नेफोटेटिक्स एसपीपी.)",
+            "संक्रमित पौधों के भण्डार",
+            "निरंतर फसल",
+            "खरपतवार मेजबान",
+            "वेक्टर माइग्रेशन"
+          ],
+          "prevention": [
+            "प्रतिरोधी किस्में लगाएं (आईआर 36, पोनमनी)",
+            "रोग चक्र को तोड़ने के लिए समकालिक रोपण",
+            "कीटनाशकों के साथ वेक्टर नियंत्रण",
+            "खरपतवार मेजबान को हटाएँ",
+            "रैटूनिंग से बचें"
+          ],
+          "treatment": [
+            "कोई प्रत्यक्ष रासायनिक उपचार उपलब्ध नहीं है",
+            "संक्रमित पौधों को तुरंत हटा दें",
+            "रोगवाहक दमन के लिए नीम केक का प्रयोग (12.5 किग्रा/0.2 हेक्टेयर)",
+            "कीटनाशक द्वारा रोगवाहकों का नियंत्रण",
+            "रोकथाम पर ध्यान दें"
+          ],
+          "impact": "संवेदनशील किस्मों में सम्पूर्ण फसल क्षति",
+          "prevalence_telangana": "छिटपुट घटना, वेक्टर आबादी पर निर्भर करती है"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rice Ragged Stunt Virus",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Rice Ragged Stunt Virus",
+        "type": "Viral",
+        "description": {
+          "overview": "Rice ragged stunt virus induces stunted growth and characteristic spiral-shaped leaves.",
+          "pathogen": "Rice ragged stunt virus (RRSV)",
+          "disease_type": "Viral",
+          "symptoms": [
+            "Severe stunting",
+            "Spiral-shaped twisted leaves",
+            "Ragged leaf appearance",
+            "Excessive tillering",
+            "Vein swelling and galls"
+          ],
+          "causes": [
+            "Brown planthopper transmission",
+            "Infected stubble",
+            "Continuous cropping",
+            "High vector population",
+            "Favorable weather for vectors"
+          ],
+          "prevention": [
+            "Destroy infected stubble",
+            "Control brown planthoppers with neonicotinoids",
+            "Use resistant cultivars like ASD 19",
+            "Avoid ratooning",
+            "Field sanitation"
+          ],
+          "treatment": [
+            "No chemical remedies available",
+            "Vector control is primary strategy",
+            "Remove infected plants",
+            "Neonicotinoid seed treatments",
+            "Focus on resistant varieties"
+          ],
+          "impact": "Severe stunting leading to total crop loss",
+          "prevalence_telangana": "Depends on brown planthopper incidence"
+        }
+      },
+      {
+        "language": "te",
+        "name": "రైస్ రాగ్డ్ స్టంట్ వైరస్",
+        "type": "వైరల్",
+        "description": {
+          "overview": "రైస్ రాగ్డ్ స్టంట్ వైరస్ పెరుగుదల కుంటుపడటానికి మరియు ఆకులను మురి ఆకారపు లక్షణాలకు కారణమవుతుంది.",
+          "pathogen": "రైస్ రాగ్డ్ స్టంట్ వైరస్ (RRSV)",
+          "disease_type": "వైరల్",
+          "symptoms": [
+            "తీవ్రమైన ఎదుగుదల లోపం",
+            "వృత్తాకారపు వక్రీకృత ఆకులు",
+            "చిరిగిన ఆకులు కనిపించడం",
+            "అధిక పిలకలు",
+            "సిరల వాపు మరియు గాల్స్"
+          ],
+          "causes": [
+            "బ్రౌన్ ప్లాంట్‌హాపర్ ట్రాన్స్‌మిషన్",
+            "తెగులు సోకిన మొద్దు",
+            "నిరంతర కత్తిరింపు",
+            "అధిక వెక్టర్ జనాభా",
+            "వెక్టర్లకు అనుకూలమైన వాతావరణం"
+          ],
+          "prevention": [
+            "తెగులు సోకిన దుంపలను నాశనం చేయండి.",
+            "నియోనికోటినాయిడ్స్‌తో గోధుమ రంగు సుడిదోమలను నియంత్రించండి.",
+            "ASD 19 వంటి నిరోధక సాగులను ఉపయోగించండి.",
+            "రాటూనింగ్ నివారించండి",
+            "క్షేత్ర పారిశుధ్యం"
+          ],
+          "treatment": [
+            "రసాయన నివారణలు అందుబాటులో లేవు",
+            "వెక్టర్ నియంత్రణ ప్రాథమిక వ్యూహం",
+            "తెగులు సోకిన మొక్కలను తొలగించండి.",
+            "నియోనికోటినాయిడ్ విత్తన చికిత్సలు",
+            "నిరోధక రకాలపై దృష్టి పెట్టండి"
+          ],
+          "impact": "తీవ్రమైన ఎదుగుదల లోపం వల్ల పంట పూర్తిగా నష్టపోతుంది.",
+          "prevalence_telangana": "గోధుమ రంగు సుడిదోమ సంభవం మీద ఆధారపడి ఉంటుంది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "चावल रैग्ड स्टंट वायरस",
+        "type": "वायरल",
+        "description": {
+          "overview": "चावल का रैग्ड स्टंट वायरस अवरुद्ध विकास और विशिष्ट सर्पिल आकार की पत्तियों को प्रेरित करता है।",
+          "pathogen": "राइस रैग्ड स्टंट वायरस (आरआरएसवी)",
+          "disease_type": "वायरल",
+          "symptoms": [
+            "गंभीर बौनापन",
+            "सर्पिल आकार की मुड़ी हुई पत्तियाँ",
+            "फटे हुए पत्ते का दिखना",
+            "अत्यधिक जुताई",
+            "शिराओं में सूजन और पित्ताशय"
+          ],
+          "causes": [
+            "भूरा प्लैन्थोपर संचरण",
+            "संक्रमित ठूंठ",
+            "निरंतर फसल",
+            "उच्च वेक्टर जनसंख्या",
+            "वेक्टरों के लिए अनुकूल मौसम"
+          ],
+          "prevention": [
+            "संक्रमित पराली को नष्ट करें",
+            "नियोनिकोटिनोइड्स के साथ भूरे रंग के पादप हॉपर को नियंत्रित करें",
+            "एएसडी 19 जैसी प्रतिरोधी किस्मों का उपयोग करें",
+            "रैटूनिंग से बचें",
+            "क्षेत्र स्वच्छता"
+          ],
+          "treatment": [
+            "कोई रासायनिक उपचार उपलब्ध नहीं है",
+            "वेक्टर नियंत्रण प्राथमिक रणनीति है",
+            "संक्रमित पौधों को हटाएँ",
+            "नियोनिकोटिनोइड बीज उपचार",
+            "प्रतिरोधी किस्मों पर ध्यान केंद्रित करें"
+          ],
+          "impact": "गंभीर बौनापन के कारण सम्पूर्ण फसल क्षति",
+          "prevalence_telangana": "भूरे पादप फुदक की घटना पर निर्भर करता है"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rice Dwarf Virus",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Rice Dwarf Virus",
+        "type": "Viral",
+        "description": {
+          "overview": "Rice dwarf virus is transmitted by leafhoppers and causes severe stunting in infected plants.",
+          "pathogen": "Rice dwarf virus (RDV)",
+          "disease_type": "Viral",
+          "symptoms": [
+            "Severe plant stunting",
+            "Dark green leaves",
+            "Shortened internodes",
+            "Excessive tillering",
+            "White chlorotic streaks"
+          ],
+          "causes": [
+            "Leafhopper transmission",
+            "Vector overwintering",
+            "Infected plant debris",
+            "Continuous cropping",
+            "Favorable vector conditions"
+          ],
+          "prevention": [
+            "Winter ploughing to eliminate vector habitats",
+            "Reduced nitrogen application",
+            "Vector control measures",
+            "Clean cultivation",
+            "Resistant varieties"
+          ],
+          "treatment": [
+            "Insecticidal seedling treatments (Fipronil)",
+            "Vector population control",
+            "No direct antiviral treatment",
+            "Remove infected plants",
+            "Systemic insecticides"
+          ],
+          "impact": "Severe growth reduction and yield loss",
+          "prevalence_telangana": "Occasional, linked to vector activity"
+        }
+      },
+      {
+        "language": "te",
+        "name": "రైస్ డ్వార్ఫ్ వైరస్",
+        "type": "వైరల్",
+        "description": {
+          "overview": "వరి మరగుజ్జు వైరస్ లీఫ్‌హాపర్స్ ద్వారా వ్యాపిస్తుంది మరియు సోకిన మొక్కలలో తీవ్రమైన పెరుగుదలను తగ్గిస్తుంది.",
+          "pathogen": "వరి మరగుజ్జు వైరస్ (RDV)",
+          "disease_type": "వైరల్",
+          "symptoms": [
+            "మొక్కల పెరుగుదలలో తీవ్రమైన పెరుగుదల లేకపోవడం",
+            "ముదురు ఆకుపచ్చ ఆకులు",
+            "కుదించబడిన అంతర కణుపులు",
+            "అధిక పిలకలు",
+            "తెల్లటి క్లోరోటిక్ చారలు"
+          ],
+          "causes": [
+            "లీఫ్‌హాపర్ ట్రాన్స్‌మిషన్",
+            "వెక్టర్ ఓవర్‌వింటరింగ్",
+            "తెగులు సోకిన మొక్కల అవశేషాలు",
+            "నిరంతర కత్తిరింపు",
+            "అనుకూలమైన వెక్టర్ పరిస్థితులు"
+          ],
+          "prevention": [
+            "వాహక ఆవాసాలను తొలగించడానికి శీతాకాలపు దున్నడం",
+            "తగ్గిన నత్రజని వాడకం",
+            "వెక్టర్ నియంత్రణ చర్యలు",
+            "శుభ్రమైన సాగు",
+            "నిరోధక రకాలు"
+          ],
+          "treatment": [
+            "క్రిమిసంహారక మొలకల చికిత్సలు (ఫిప్రోనిల్)",
+            "వెక్టర్ జనాభా నియంత్రణ",
+            "ప్రత్యక్ష యాంటీవైరల్ చికిత్స లేదు",
+            "తెగులు సోకిన మొక్కలను తొలగించండి.",
+            "దైహిక పురుగుమందులు"
+          ],
+          "impact": "తీవ్రమైన పెరుగుదల తగ్గుదల మరియు దిగుబడి నష్టం",
+          "prevalence_telangana": "అప్పుడప్పుడు, వెక్టర్ కార్యాచరణకు లింక్ చేయబడింది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "चावल बौना वायरस",
+        "type": "वायरल",
+        "description": {
+          "overview": "चावल बौना वायरस पत्ती फुदकने वाले कीटों द्वारा फैलता है तथा संक्रमित पौधों में गंभीर बौनापन पैदा करता है।",
+          "pathogen": "चावल बौना वायरस (आरडीवी)",
+          "disease_type": "वायरल",
+          "symptoms": [
+            "पौधों का गंभीर रूप से बौना होना",
+            "गहरे हरे पत्ते",
+            "लघुकृत इंटरनोड्स",
+            "अत्यधिक जुताई",
+            "सफेद हरितहीन धारियाँ"
+          ],
+          "causes": [
+            "लीफहॉपर संचरण",
+            "वेक्टर ओवरविन्टरिंग",
+            "संक्रमित पौधों का मलबा",
+            "निरंतर फसल",
+            "अनुकूल वेक्टर स्थितियाँ"
+          ],
+          "prevention": [
+            "सर्दियों में जुताई कर रोगवाहक आवासों को खत्म करें",
+            "नाइट्रोजन का कम प्रयोग",
+            "वेक्टर नियंत्रण उपाय",
+            "स्वच्छ खेती",
+            "प्रतिरोधी किस्में"
+          ],
+          "treatment": [
+            "कीटनाशक पौध उपचार (फिप्रोनिल)",
+            "वेक्टर जनसंख्या नियंत्रण",
+            "कोई प्रत्यक्ष एंटीवायरल उपचार नहीं",
+            "संक्रमित पौधों को हटाएँ",
+            "प्रणालीगत कीटनाशक"
+          ],
+          "impact": "गंभीर वृद्धि में कमी और उपज में हानि",
+          "prevalence_telangana": "कभी-कभी, वेक्टर गतिविधि से जुड़ा हुआ"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Root-Knot Nematode",
+    "crops": [
+      "Rice",
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Root-Knot Nematode",
+        "type": "Nematode",
+        "description": {
+          "overview": "Root-knot nematode forms characteristic galls on rice roots, reducing nutrient and water uptake.",
+          "pathogen": "Meloidogyne graminicola",
+          "disease_type": "Nematode",
+          "symptoms": [
+            "Root galls and knots",
+            "Stunted plant growth",
+            "Yellowing of leaves",
+            "Reduced root system",
+            "Poor nutrient uptake"
+          ],
+          "causes": [
+            "Soilborne nematodes",
+            "Continuous rice cultivation",
+            "Poor crop rotation",
+            "Infected transplants",
+            "Waterlogged conditions"
+          ],
+          "prevention": [
+            "Crop rotation with marigold",
+            "Soil application of Pseudomonas fluorescens + Trichoderma harzianum (20 gm/m²)",
+            "Use of resistant varieties",
+            "Field fallowing",
+            "Organic matter addition"
+          ],
+          "treatment": [
+            "Carbofuran 3G (0.3 ai/m²)",
+            "Neem cake amendments",
+            "Biological control agents",
+            "Soil solarization",
+            "Organic amendments"
+          ],
+          "impact": "Reduced root function leading to nutrient deficiency",
+          "prevalence_telangana": "Common in intensive rice areas"
+        }
+      },
+      {
+        "language": "te",
+        "name": "రూట్-నాట్ నెమటోడ్",
+        "type": "నెమటోడ్",
+        "description": {
+          "overview": "వేర్లు నాట్లు వేసే నెమటోడ్ వరి వేర్లపై లక్షణమైన గాల్స్‌ను ఏర్పరుస్తుంది, పోషకాలు మరియు నీటి శోషణను తగ్గిస్తుంది.",
+          "pathogen": "మెలోయిడోజైన్ గ్రామినికోలా",
+          "disease_type": "నెమటోడ్",
+          "symptoms": [
+            "రూట్ గాల్స్ మరియు నాట్లు",
+            "మొక్కల పెరుగుదల మందగించడం",
+            "ఆకులు పసుపు రంగులోకి మారడం",
+            "తగ్గిన మూల వ్యవస్థ",
+            "పోషకాల శోషణ సరిగా లేకపోవడం"
+          ],
+          "causes": [
+            "నేల ద్వారా వ్యాపించే నెమటోడ్‌లు",
+            "నిరంతర వరి సాగు",
+            "పంట మార్పిడి సరిగా లేకపోవడం",
+            "ఇన్ఫెక్షన్ సోకిన మార్పిడిలు",
+            "నీటితో నిండిన పరిస్థితులు"
+          ],
+          "prevention": [
+            "బంతి పువ్వుతో పంట భ్రమణం",
+            "సూడోమోనాస్ ఫ్లోరోసెన్స్ + ట్రైకోడెర్మా హార్జియనమ్ (20 గ్రా/మీ²) నేలలో వాడటం.",
+            "నిరోధక రకాల వాడకం",
+            "పొలాన్ని బీడు వేయడం",
+            "సేంద్రీయ పదార్థ జోడింపు"
+          ],
+          "treatment": [
+            "కార్బోఫ్యూరాన్ 3G (0.3 ai/m²)",
+            "వేప కేక్ సవరణలు",
+            "జీవ నియంత్రణ ఏజెంట్లు",
+            "నేల సౌరీకరణ",
+            "సేంద్రీయ సవరణలు"
+          ],
+          "impact": "వేర్ల పనితీరు తగ్గడం వల్ల పోషకాల లోపం ఏర్పడుతుంది.",
+          "prevalence_telangana": "వరి అధికంగా పండే ప్రాంతాలలో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "रूट-नॉट नेमाटोड",
+        "type": "निमेटोड",
+        "description": {
+          "overview": "रूट-नॉट निमेटोड चावल की जड़ों पर विशिष्ट गॉल बनाता है, जिससे पोषक तत्वों और पानी का अवशोषण कम हो जाता है।",
+          "pathogen": "मेलोइडोगाइन ग्रैमिनिकोला",
+          "disease_type": "निमेटोड",
+          "symptoms": [
+            "जड़ गलफड़े और गांठें",
+            "पौधों की वृद्धि अवरुद्ध होना",
+            "पत्तियों का पीला पड़ना",
+            "कम होती जड़ प्रणाली",
+            "पोषक तत्वों का खराब अवशोषण"
+          ],
+          "causes": [
+            "मृदाजनित नेमाटोड",
+            "निरंतर चावल की खेती",
+            "खराब फसल चक्र",
+            "संक्रमित प्रत्यारोपण",
+            "जलभराव की स्थिति"
+          ],
+          "prevention": [
+            "गेंदा के साथ फसल चक्र",
+            "स्यूडोमोनास फ्लोरोसेंस + ट्राइकोडर्मा हरजियानम (20 ग्राम/वर्ग मीटर) का मिट्टी में प्रयोग",
+            "प्रतिरोधी किस्मों का उपयोग",
+            "खेत परती",
+            "कार्बनिक पदार्थ का योग"
+          ],
+          "treatment": [
+            "कार्बोफ्यूरान 3G (0.3 ai/m²)",
+            "नीम केक संशोधन",
+            "जैविक नियंत्रण एजेंट",
+            "मृदा सौरीकरण",
+            "जैविक संशोधन"
+          ],
+          "impact": "जड़ों की कार्यक्षमता कम होने से पोषक तत्वों की कमी हो जाती है",
+          "prevalence_telangana": "सघन चावल क्षेत्रों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "White Tip Nematode",
+    "crops": [
+      "Rice"
+    ],
+    "stage_numbers": [
+      2
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "White Tip Nematode",
+        "type": "Nematode",
+        "description": {
+          "overview": "White tip nematode is a seed-borne pest causing characteristic leaf tip whitening in rice.",
+          "pathogen": "Aphelenchoides besseyi",
+          "disease_type": "Nematode",
+          "symptoms": [
+            "White leaf tips",
+            "Twisted and distorted leaves",
+            "Stunted growth",
+            "Reduced tillering",
+            "Panicle deformation"
+          ],
+          "causes": [
+            "Seed-borne transmission",
+            "Infected plant material",
+            "High humidity",
+            "Contaminated irrigation water",
+            "Plant-to-plant spread"
+          ],
+          "prevention": [
+            "Hot water seed treatment (52°C for 15 minutes)",
+            "Use certified disease-free seeds",
+            "Field sanitation",
+            "Avoid infected plant debris",
+            "Proper seed storage"
+          ],
+          "treatment": [
+            "Thiobendazole seed coatings",
+            "Foliar sprays of Diazinon",
+            "Nematicide applications",
+            "Systemic treatments",
+            "Hot water treatment for seeds"
+          ],
+          "impact": "Growth reduction and panicle deformation",
+          "prevalence_telangana": "Seed-borne, occurs with infected seeds"
+        }
+      },
+      {
+        "language": "te",
+        "name": "తెల్లటి చిట్కా నెమటోడ్",
+        "type": "నెమటోడ్",
+        "description": {
+          "overview": "తెల్లటి కొన నెమటోడ్ అనేది విత్తనం ద్వారా వ్యాపించే తెగులు, ఇది వరిలో ఆకు కొన తెల్లబడటానికి కారణమవుతుంది.",
+          "pathogen": "అఫెలెంచోయిడ్స్ బెస్సీ",
+          "disease_type": "నెమటోడ్",
+          "symptoms": [
+            "తెల్లటి ఆకు చిట్కాలు",
+            "వంకరగా మరియు వక్రీకరించబడిన ఆకులు",
+            "పెరుగుదల మందగించడం",
+            "తగ్గిన పిలకలు",
+            "కంకుల వైకల్యం"
+          ],
+          "causes": [
+            "విత్తన సంబంధ సంక్రమణ",
+            "తెగులు సోకిన మొక్కల పదార్థం",
+            "అధిక తేమ",
+            "కలుషితమైన సాగునీరు",
+            "మొక్క నుండి మొక్కకు వ్యాప్తి"
+          ],
+          "prevention": [
+            "వేడి నీటి విత్తన శుద్ధి (52°C ఉష్ణోగ్రతలో 15 నిమిషాలు)",
+            "ధృవీకరించబడిన వ్యాధి రహిత విత్తనాలను ఉపయోగించండి.",
+            "క్షేత్ర పారిశుధ్యం",
+            "తెగులు సోకిన మొక్కల అవశేషాలను నివారించండి.",
+            "సరైన విత్తనాల నిల్వ"
+          ],
+          "treatment": [
+            "థియోబెండజోల్ విత్తన పూతలు",
+            "డయాజినాన్ యొక్క ఆకులపై పిచికారీ చేసే స్ప్రేలు",
+            "నెమటిసైడ్ అప్లికేషన్లు",
+            "దైహిక చికిత్సలు",
+            "విత్తనాలకు వేడి నీటి చికిత్స"
+          ],
+          "impact": "పెరుగుదల తగ్గుదల మరియు కంకుల వైకల్యం",
+          "prevalence_telangana": "విత్తన జననం, సోకిన విత్తనాలతో సంభవిస్తుంది."
+        }
+      },
+      {
+        "language": "hi",
+        "name": "सफेद टिप निमेटोड",
+        "type": "निमेटोड",
+        "description": {
+          "overview": "सफेद नोक वाला निमेटोड एक बीज जनित कीट है, जो चावल की पत्तियों के सिरे को सफेद कर देता है।",
+          "pathogen": "एफ़ेलेनकोइड्स बेसेई",
+          "disease_type": "निमेटोड",
+          "symptoms": [
+            "सफ़ेद पत्ती की युक्तियाँ",
+            "मुड़ी हुई और विकृत पत्तियाँ",
+            "अवरुद्ध विकास",
+            "कम हुई जुताई",
+            "पुष्पगुच्छ विरूपण"
+          ],
+          "causes": [
+            "बीज जनित संचरण",
+            "संक्रमित पौध सामग्री",
+            "उच्च आर्द्रता",
+            "दूषित सिंचाई जल",
+            "पौधे से पौधे तक प्रसार"
+          ],
+          "prevention": [
+            "गर्म पानी से बीज उपचार (15 मिनट के लिए 52°C)",
+            "प्रमाणित रोगमुक्त बीजों का उपयोग करें",
+            "क्षेत्र स्वच्छता",
+            "संक्रमित पौधों के मलबे से बचें",
+            "उचित बीज भंडारण"
+          ],
+          "treatment": [
+            "थियोबेन्डाजोल बीज कोटिंग्स",
+            "डायजिनॉन का पत्तियों पर छिड़काव",
+            "नेमाटोसाइड अनुप्रयोग",
+            "प्रणालीगत उपचार",
+            "बीजों के लिए गर्म जल उपचार"
+          ],
+          "impact": "वृद्धि में कमी और पुष्पगुच्छ का विरूपण",
+          "prevalence_telangana": "बीज जनित, संक्रमित बीजों से होता है"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fusarium Wilt",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Fusarium Wilt",
+        "type": "Fungal",
+        "description": {
+          "overview": "Fusarium wilt is a soil-borne fungal disease causing vascular discoloration, wilting, and plant death. In Telangana, it affects up to 60% of crops in susceptible varieties like Gossypium arboreum.",
+          "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Vascular discoloration",
+            "Wilting of plants",
+            "Plant death",
+            "Yellowing of leaves",
+            "Browning of vascular tissue"
+          ],
+          "causes": [
+            "Soil-borne fungal pathogen",
+            "Susceptible varieties like Gossypium arboreum",
+            "Poor soil drainage",
+            "Continuous cotton cropping",
+            "Infected soil and plant debris"
+          ],
+          "prevention": [
+            "Crop rotation with non-host plants (e.g., maize)",
+            "Use resistant hybrids (e.g., Surabhi, Bunny)",
+            "Seed treatment with Trichoderma viride (10 g/kg seed)",
+            "Field sanitation and debris removal",
+            "Summer ploughing"
+          ],
+          "treatment": [
+            "Soil drenching with Carbendazim (1 g/L)",
+            "Bioagents like Pseudomonas fluorescens",
+            "Trichoderma viride application",
+            "Proper field drainage management"
+          ],
+          "impact": "Affects up to 60% of crops in susceptible varieties",
+          "prevalence_telangana": "High incidence in susceptible Gossypium arboreum varieties"
+        }
+      },
+      {
+        "language": "te",
+        "name": "ఫ్యూసేరియం విల్ట్",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "ఫ్యూసేరియం విల్ట్ అనేది నేల ద్వారా సంక్రమించే శిలీంధ్ర వ్యాధి, ఇది రక్తనాళాల రంగు మారడం, వాడిపోవడం మరియు మొక్కల మరణానికి కారణమవుతుంది. తెలంగాణలో, గోసిపియం అర్బోరియం వంటి అనుమానాస్పద రకాల్లో ఇది 60% వరకు పంటలను ప్రభావితం చేస్తుంది.",
+          "pathogen": "ఫ్యూసేరియం ఆక్సిస్పోరం f. sp, స్పెల్లింగ్. మురికి వంటలు",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "వాస్కులర్ రంగు మారడం",
+            "మొక్కలు వాడిపోవడం",
+            "మొక్క మరణం",
+            "ఆకులు పసుపు రంగులోకి మారడం",
+            "వాస్కులర్ కణజాలం గోధుమ రంగులోకి మారడం"
+          ],
+          "causes": [
+            "నేల ద్వారా సంక్రమించే శిలీంధ్ర వ్యాధికారకం",
+            "గోసిపియం అర్బోరియం వంటి సూక్ష్మజీవులకు గురయ్యే రకాలు",
+            "నేల పారుదల సరిగా లేకపోవడం",
+            "నిరంతర పత్తి సాగు",
+            "సోకిన నేల మరియు మొక్కల అవశేషాలు"
+          ],
+          "prevention": [
+            "అతిథేయులు కాని మొక్కలతో పంట భ్రమణం (ఉదా. మొక్కజొన్న)",
+            "రెసిస్టెంట్ హైబ్రిడ్‌లను ఉపయోగించండి (ఉదా, సురభి, బన్నీ)",
+            "ట్రైకోడెర్మా విరిడే (10 గ్రా/కిలో విత్తనం) తో విత్తన శుద్ధి చేయాలి.",
+            "క్షేత్ర పారిశుధ్యం మరియు శిథిలాల తొలగింపు",
+            "వేసవి దున్నడం"
+          ],
+          "treatment": [
+            "కార్బెండజిమ్ (1 గ్రా/లీ) తో నేలను తడపడం",
+            "సూడోమోనాస్ ఫ్లోరోసెన్స్ వంటి బయోఏజెంట్లు",
+            "ట్రైకోడెర్మా విరిడే అప్లికేషన్",
+            "సరైన పొలంలో నీటి పారుదల నిర్వహణ"
+          ],
+          "impact": "ఈ తెగులుకు గురయ్యే రకాల్లో 60% వరకు పంటలను ప్రభావితం చేస్తుంది.",
+          "prevalence_telangana": "అనుమానాస్పదమైన గోసిపియం అర్బోరియం రకాల్లో అధిక సంభవం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "फ्यूजेरियम विल्ट",
+        "type": "फफूंद",
+        "description": {
+          "overview": "फ्यूजेरियम विल्ट एक मृदा जनित फफूंद रोग है जो संवहनी विकृति, मुरझाना और पौधे की मृत्यु का कारण बनता है। तेलंगाना में, यह गोसिपियम आर्बोरियम जैसी संवेदनशील किस्मों की 60% तक फसलों को प्रभावित करता है।",
+          "pathogen": "फ्यूजेरियम ऑक्सीस्पोरम एफ. एसपी. गंदे बर्तन",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "संवहनी मलिनकिरण",
+            "पौधों का मुरझाना",
+            "पौधे की मृत्यु",
+            "पत्तियों का पीला पड़ना",
+            "संवहनी ऊतक का भूरा होना"
+          ],
+          "causes": [
+            "मृदा जनित फफूंद रोगजनक",
+            "गोसीपियम आर्बोरियम जैसी संवेदनशील किस्में",
+            "मिट्टी की खराब जल निकासी",
+            "निरंतर कपास की फसल",
+            "संक्रमित मिट्टी और पौधों का मलबा"
+          ],
+          "prevention": [
+            "गैर-मेजबान पौधों (जैसे मक्का) के साथ फसल चक्रण",
+            "प्रतिरोधी संकर (जैसे सुरभि, बन्नी) का उपयोग करें",
+            "ट्राइकोडर्मा विरिडे (10 ग्राम/किग्रा बीज) से बीज उपचार",
+            "क्षेत्र की सफाई और मलबा हटाना",
+            "ग्रीष्मकालीन जुताई"
+          ],
+          "treatment": [
+            "कार्बेन्डाजिम (1 ग्राम/लीटर) से मिट्टी को भिगोना",
+            "स्यूडोमोनास फ्लोरोसेंस जैसे बायोएजेंट",
+            "ट्राइकोडर्मा विरिडे अनुप्रयोग",
+            "उचित क्षेत्रीय जल निकासी प्रबंधन"
+          ],
+          "impact": "संवेदनशील किस्मों की 60% तक फसलों को प्रभावित करता है",
+          "prevalence_telangana": "संवेदनशील गोसीपियम आर्बोरियम किस्मों में उच्च घटना"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Root Rot",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Root Rot",
+        "type": "Fungal",
+        "description": {
+          "overview": "Root rot thrives in waterlogged soils, causing sudden wilting and blackened roots in cotton plants.",
+          "pathogen": "Macrophomina phaseoli",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Sudden wilting of plants",
+            "Blackened roots",
+            "Root decay",
+            "Stunted growth",
+            "Yellowing of leaves"
+          ],
+          "causes": [
+            "Waterlogged soils",
+            "Poor field drainage",
+            "Continuous monocropping",
+            "High soil moisture",
+            "Infected plant debris"
+          ],
+          "prevention": [
+            "Proper field drainage",
+            "Summer ploughing",
+            "Avoid monocropping",
+            "Crop rotation",
+            "Field sanitation"
+          ],
+          "treatment": [
+            "Soil application of neem cake (250 kg/acre)",
+            "Carbendazim 50% WP (2 g/L) during early symptoms",
+            "Improve field drainage",
+            "Remove infected plants"
+          ],
+          "impact": "Causes sudden plant death and yield losses",
+          "prevalence_telangana": "Common in waterlogged areas"
+        }
+      },
+      {
+        "language": "te",
+        "name": "వేరు కుళ్ళు తెగులు",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "నీరు నిలిచి ఉన్న నేలల్లో వేరు తెగులు బాగా పెరుగుతుంది, దీనివల్ల పత్తి మొక్కలలో వేర్లు అకస్మాత్తుగా వాడిపోయి నల్లబడతాయి.",
+          "pathogen": "మాక్రోఫోమినా ఫేసియోలి",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "మొక్కలు అకస్మాత్తుగా వాడిపోవడం",
+            "నల్లబడిన వేర్లు",
+            "వేర్లు కుళ్ళిపోవడం",
+            "పెరుగుదల మందగించడం",
+            "ఆకులు పసుపు రంగులోకి మారడం"
+          ],
+          "causes": [
+            "నీటితో నిండిన నేలలు",
+            "పొలంలో నీటి పారుదల సరిగా లేకపోవడం",
+            "నిరంతర ఏకపంట సాగు",
+            "అధిక నేల తేమ",
+            "తెగులు సోకిన మొక్కల అవశేషాలు"
+          ],
+          "prevention": [
+            "పొలంలో సరైన నీటి పారుదల",
+            "వేసవి దున్నడం",
+            "ఏకపంట పద్ధతిని నివారించండి",
+            "పంట భ్రమణం",
+            "క్షేత్ర పారిశుధ్యం"
+          ],
+          "treatment": [
+            "వేప పిండానికి నేలలో వేయడం (250 కిలోలు/ఎకరం)",
+            "ప్రారంభ లక్షణాల సమయంలో కార్బెండజిమ్ 50% WP (2 గ్రా/లీ)",
+            "పొలంలో నీటి పారుదల వ్యవస్థను మెరుగుపరచండి",
+            "తెగులు సోకిన మొక్కలను తొలగించండి."
+          ],
+          "impact": "మొక్కల ఆకస్మిక మరణానికి మరియు దిగుబడి నష్టాలకు కారణమవుతుంది",
+          "prevalence_telangana": "నీటితో నిండిన ప్రాంతాలలో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "जड़ सड़न",
+        "type": "फफूंद",
+        "description": {
+          "overview": "जड़ सड़न जलभराव वाली मिट्टी में पनपती है, जिससे कपास के पौधों की जड़ें अचानक मुरझा जाती हैं और काली पड़ जाती हैं।",
+          "pathogen": "मैक्रोफोमिना फेसियोली",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "पौधों का अचानक मुरझाना",
+            "काली हो गई जड़ें",
+            "जड़ क्षय",
+            "अवरुद्ध विकास",
+            "पत्तियों का पीला पड़ना"
+          ],
+          "causes": [
+            "जलभराव वाली मिट्टी",
+            "खेत में जल निकासी की खराब स्थिति",
+            "निरंतर एकल फसल उत्पादन",
+            "उच्च मृदा नमी",
+            "संक्रमित पौधों का मलबा"
+          ],
+          "prevention": [
+            "उचित खेत जल निकासी",
+            "ग्रीष्मकालीन जुताई",
+            "एकल फसल उत्पादन से बचें",
+            "फसल चक्र",
+            "क्षेत्र स्वच्छता"
+          ],
+          "treatment": [
+            "नीम केक का मिट्टी में प्रयोग (250 किग्रा/एकड़)",
+            "प्रारंभिक लक्षणों के दौरान कार्बेन्डाजिम 50% WP (2 ग्राम/लीटर)",
+            "खेत की जल निकासी में सुधार करें",
+            "संक्रमित पौधों को हटाएँ"
+          ],
+          "impact": "अचानक पौधे की मृत्यु और उपज की हानि का कारण बनता है",
+          "prevalence_telangana": "जलभराव वाले क्षेत्रों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Anthracnose",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Anthracnose",
+        "type": "Fungal",
+        "description": {
+          "overview": "Anthracnose is a fungal disease that causes boll rot and leaf spots in cotton plants.",
+          "pathogen": "Colletotrichum gossypii",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Boll rot",
+            "Leaf spots",
+            "Dark lesions on bolls",
+            "Premature boll dropping",
+            "Reduced fiber quality"
+          ],
+          "causes": [
+            "Humid weather conditions",
+            "Excessive nitrogen application",
+            "Poor air circulation",
+            "Infected seeds",
+            "Plant debris"
+          ],
+          "prevention": [
+            "Seed treatment with Thiram (2 g/kg)",
+            "Balanced nitrogen application",
+            "Proper plant spacing",
+            "Field sanitation",
+            "Remove infected plant debris"
+          ],
+          "treatment": [
+            "Spraying Mancozeb 75% WP (2 g/L) at flowering",
+            "Apply fungicides during boll formation stages",
+            "Copper-based fungicides",
+            "Regular monitoring and early intervention"
+          ],
+          "impact": "Causes boll rot and reduces fiber quality",
+          "prevalence_telangana": "Common during humid conditions"
+        }
+      },
+      {
+        "language": "te",
+        "name": "ఆంత్రాక్నోస్",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "ఆంత్రాక్నోస్ అనేది ఒక శిలీంధ్ర వ్యాధి, ఇది పత్తి మొక్కలలో కాయ తెగులు మరియు ఆకు మచ్చలను కలిగిస్తుంది.",
+          "pathogen": "కొల్లెటోట్రిఖం గాసిపి",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "బాల్ రూట్",
+            "ఆకు మచ్చలు",
+            "కాయలపై ముదురు రంగు గాయాలు",
+            "అకాల కాయలు రాలిపోవడం",
+            "తగ్గిన ఫైబర్ నాణ్యత"
+          ],
+          "causes": [
+            "తేమతో కూడిన వాతావరణ పరిస్థితులు",
+            "అధిక నత్రజని వాడకం",
+            "పేలవమైన గాలి ప్రసరణ",
+            "తెగులు సోకిన విత్తనాలు",
+            "మొక్కల శిథిలాలు"
+          ],
+          "prevention": [
+            "థైరమ్ (2 గ్రా/కిలో) తో విత్తన శుద్ధి",
+            "సమతుల్య నత్రజని వాడకం",
+            "మొక్కల మధ్య సరైన అంతరం",
+            "క్షేత్ర పారిశుధ్యం",
+            "తెగులు సోకిన మొక్కల అవశేషాలను తొలగించండి."
+          ],
+          "treatment": [
+            "పుష్పించే సమయంలో మాంకోజెబ్ 75% WP (2 గ్రా/లీ) పిచికారీ చేయాలి.",
+            "కాయలు ఏర్పడే దశలలో శిలీంద్రనాశకాలను వేయండి.",
+            "రాగి ఆధారిత శిలీంద్రనాశకాలు",
+            "క్రమం తప్పకుండా పర్యవేక్షణ మరియు ముందస్తు జోక్యం"
+          ],
+          "impact": "బోల్ రాట్ కు కారణమవుతుంది మరియు ఫైబర్ నాణ్యతను తగ్గిస్తుంది",
+          "prevalence_telangana": "తేమతో కూడిన పరిస్థితుల్లో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "anthracnose",
+        "type": "फफूंद",
+        "description": {
+          "overview": "एन्थ्रेक्नोज एक फफूंदजनित रोग है जो कपास के पौधों में गूदा सड़न और पत्ती के धब्बे पैदा करता है।",
+          "pathogen": "कोलेट्रोट्राइकम गॉसिपी",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "बॉल रूट",
+            "पत्ती के धब्बे",
+            "बीजकोषों पर काले धब्बे",
+            "समय से पहले बीजकोष गिरना",
+            "फाइबर की गुणवत्ता में कमी"
+          ],
+          "causes": [
+            "आर्द्र मौसम की स्थिति",
+            "अत्यधिक नाइट्रोजन का प्रयोग",
+            "खराब वायु परिसंचरण",
+            "संक्रमित बीज",
+            "पौधों का मलबा"
+          ],
+          "prevention": [
+            "थिरम (2 ग्राम/किग्रा) से बीज उपचार",
+            "संतुलित नाइट्रोजन अनुप्रयोग",
+            "पौधों के बीच उचित दूरी",
+            "क्षेत्र स्वच्छता",
+            "संक्रमित पौधों के मलबे को हटाएँ"
+          ],
+          "treatment": [
+            "फूल आने पर मैन्कोज़ेब 75% WP (2 ग्राम/ली) का छिड़काव करें",
+            "बीजकोष निर्माण अवस्था के दौरान कवकनाशकों का प्रयोग करें",
+            "तांबा आधारित कवकनाशी",
+            "नियमित निगरानी और शीघ्र हस्तक्षेप"
+          ],
+          "impact": "इससे बीजकोष सड़ जाते हैं और रेशे की गुणवत्ता कम हो जाती है",
+          "prevalence_telangana": "आर्द्र परिस्थितियों में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Grey Mildew",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Grey Mildew",
+        "type": "Fungal",
+        "description": {
+          "overview": "Grey mildew appears as angular leaf spots under humid conditions and affects cotton plant health.",
+          "pathogen": "Ramularia areola",
+          "disease_type": "Fungal",
+          "symptoms": [
+            "Angular leaf spots",
+            "Grey to white fungal growth on leaf undersides",
+            "Yellowing of affected leaves",
+            "Premature leaf drop",
+            "Reduced photosynthesis"
+          ],
+          "causes": [
+            "Humid weather conditions",
+            "Poor air circulation",
+            "Dense plant population",
+            "Excessive moisture",
+            "Infected plant debris"
+          ],
+          "prevention": [
+            "Proper plant spacing (90 cm × 60 cm) for air circulation",
+            "Avoid dense planting",
+            "Field sanitation",
+            "Remove infected leaves",
+            "Improve field drainage"
+          ],
+          "treatment": [
+            "Sulfur 80% WP (3 g/L) sprays",
+            "Hexaconazole 5% SC (1 mL/L) application",
+            "Copper-based fungicides",
+            "Regular monitoring and treatment"
+          ],
+          "impact": "Reduces photosynthesis and plant vigor",
+          "prevalence_telangana": "Common during humid monsoon periods"
+        }
+      },
+      {
+        "language": "te",
+        "name": "బూడిద తెగులు",
+        "type": "ఫంగల్",
+        "description": {
+          "overview": "తేమతో కూడిన పరిస్థితులలో బూడిద రంగు బూజు కోణీయ ఆకు మచ్చలుగా కనిపిస్తుంది మరియు పత్తి మొక్కల ఆరోగ్యాన్ని ప్రభావితం చేస్తుంది.",
+          "pathogen": "Ramularia areola",
+          "disease_type": "ఫంగల్",
+          "symptoms": [
+            "కోణీయ ఆకు మచ్చలు",
+            "ఆకు అడుగు భాగంలో బూడిద రంగు నుండి తెలుపు రంగు వరకు శిలీంధ్ర పెరుగుదల",
+            "ప్రభావిత ఆకులు పసుపు రంగులోకి మారడం",
+            "అకాల ఆకులు రాలడం",
+            "తగ్గిన కిరణజన్య సంయోగక్రియ"
+          ],
+          "causes": [
+            "తేమతో కూడిన వాతావరణ పరిస్థితులు",
+            "పేలవమైన గాలి ప్రసరణ",
+            "దట్టమైన మొక్కల జనాభా",
+            "అధిక తేమ",
+            "తెగులు సోకిన మొక్కల అవశేషాలు"
+          ],
+          "prevention": [
+            "గాలి ప్రసరణ కోసం మొక్కల మధ్య సరైన అంతరం (90 సెం.మీ × 60 సెం.మీ)",
+            "దట్టంగా నాటడం మానుకోండి.",
+            "క్షేత్ర పారిశుధ్యం",
+            "తెగులు సోకిన ఆకులను తొలగించండి.",
+            "పొలంలో నీటి పారుదల వ్యవస్థను మెరుగుపరచండి"
+          ],
+          "treatment": [
+            "సల్ఫర్ 80% WP (3 గ్రా/లీ) స్ప్రేలు",
+            "హెక్సాకోనజోల్ 5% SC (1 mL/L) అప్లికేషన్",
+            "రాగి ఆధారిత శిలీంద్రనాశకాలు",
+            "క్రమం తప్పకుండా పర్యవేక్షణ మరియు చికిత్స"
+          ],
+          "impact": "కిరణజన్య సంయోగక్రియ మరియు మొక్కల శక్తిని తగ్గిస్తుంది",
+          "prevalence_telangana": "తేమతో కూడిన రుతుపవనాల సమయంలో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "ग्रे फफूंद",
+        "type": "फफूंद",
+        "description": {
+          "overview": "ग्रे फफूंद आर्द्र परिस्थितियों में कोणीय पत्ती धब्बों के रूप में प्रकट होती है और कपास के पौधे के स्वास्थ्य को प्रभावित करती है।",
+          "pathogen": "रामुलरिया एरिओला",
+          "disease_type": "फफूंद",
+          "symptoms": [
+            "कोणीय पत्ती धब्बे",
+            "पत्ती के निचले भाग पर भूरे से सफेद फफूंद का विकास",
+            "प्रभावित पत्तियों का पीला पड़ना",
+            "समय से पहले पत्ती गिरना",
+            "कम प्रकाश संश्लेषण"
+          ],
+          "causes": [
+            "आर्द्र मौसम की स्थिति",
+            "खराब वायु परिसंचरण",
+            "सघन वनस्पति जनसंख्या",
+            "अत्यधिक नमी",
+            "संक्रमित पौधों का मलबा"
+          ],
+          "prevention": [
+            "वायु संचार के लिए पौधों के बीच उचित दूरी (90 सेमी × 60 सेमी)",
+            "घने वृक्षारोपण से बचें",
+            "क्षेत्र स्वच्छता",
+            "संक्रमित पत्तियों को हटाएँ",
+            "खेत की जल निकासी में सुधार करें"
+          ],
+          "treatment": [
+            "सल्फर 80% WP (3 ग्राम/ली) स्प्रे",
+            "हेक्साकोनाज़ोल 5% एससी (1 एमएल/एल) अनुप्रयोग",
+            "तांबा आधारित कवकनाशी",
+            "नियमित निगरानी और उपचार"
+          ],
+          "impact": "प्रकाश संश्लेषण और पौधों की शक्ति कम हो जाती है",
+          "prevalence_telangana": "आर्द्र मानसून अवधि के दौरान आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bacterial Blight",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      2,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Bacterial Blight",
+        "type": "Bacterial",
+        "description": {
+          "overview": "Bacterial blight causes angular leaf spots and blackened stems in cotton plants.",
+          "pathogen": "Xanthomonas citri pv. malvacearum",
+          "disease_type": "Bacterial",
+          "symptoms": [
+            "Angular leaf spots",
+            "Blackened stems",
+            "Water-soaked lesions",
+            "Vein necrosis",
+            "Premature defoliation"
+          ],
+          "causes": [
+            "Bacterial pathogen spread",
+            "Overhead irrigation",
+            "Infected seeds",
+            "Wind and rain dispersal",
+            "Contaminated tools"
+          ],
+          "prevention": [
+            "Acid delinting of seeds",
+            "Avoid overhead irrigation",
+            "Use disease-free seeds",
+            "Field sanitation",
+            "Crop rotation"
+          ],
+          "treatment": [
+            "Copper Oxychloride 50% WP (3 g/L)",
+            "Combined with Streptocycline (0.5 g/L)",
+            "Copper-based bactericides",
+            "Remove infected plant parts"
+          ],
+          "impact": "Causes significant yield losses and quality reduction",
+          "prevalence_telangana": "Common during monsoon season"
+        }
+      },
+      {
+        "language": "te",
+        "name": "బాక్టీరియల్ ఎండు తెగులు",
+        "type": "బాక్టీరియల్",
+        "description": {
+          "overview": "బాక్టీరియల్ ఎండు తెగులు పత్తి మొక్కలలో కోణీయ ఆకు మచ్చలు మరియు నల్లబడిన కాండాలకు కారణమవుతుంది.",
+          "pathogen": "జాంతోమోనాస్ సిట్రి పివి. మాల్వాసెరం",
+          "disease_type": "బాక్టీరియల్",
+          "symptoms": [
+            "కోణీయ ఆకు మచ్చలు",
+            "నల్లబడిన కాండాలు",
+            "నీటిలో నానబెట్టిన గాయాలు",
+            "సిర నెక్రోసిస్",
+            "అకాల ఆకులు రాలిపోవడం"
+          ],
+          "causes": [
+            "బాక్టీరియల్ వ్యాధికారక వ్యాప్తి",
+            "ఓవర్ హెడ్ ఇరిగేషన్",
+            "తెగులు సోకిన విత్తనాలు",
+            "గాలి మరియు వర్షం వ్యాప్తి",
+            "కలుషితమైన ఉపకరణాలు"
+          ],
+          "prevention": [
+            "విత్తనాలను ఆమ్లంతో వేరు చేయడం",
+            "ఓవర్ హెడ్ ఇరిగేషన్ నివారించండి",
+            "వ్యాధి రహిత విత్తనాలను వాడండి",
+            "క్షేత్ర పారిశుధ్యం",
+            "పంట భ్రమణం"
+          ],
+          "treatment": [
+            "కాపర్ ఆక్సిక్లోరైడ్ 50% WP (3 గ్రా/లీ)",
+            "స్ట్రెప్టోసైక్లిన్ (0.5 గ్రా/లీ) తో కలిపి",
+            "రాగి ఆధారిత బాక్టీరియా నాశకాలు",
+            "తెగులు సోకిన మొక్కల భాగాలను తొలగించండి."
+          ],
+          "impact": "గణనీయమైన దిగుబడి నష్టాలు మరియు నాణ్యత తగ్గడానికి కారణమవుతుంది",
+          "prevalence_telangana": "వర్షాకాలంలో సర్వసాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "जीवाणुजनित ब्लाइट",
+        "type": "जीवाणु",
+        "description": {
+          "overview": "जीवाणुजनित झुलसा रोग कपास के पौधों में कोणीय पत्ती के धब्बे और काले तने का कारण बनता है।",
+          "pathogen": "ज़ैंथोमोनस सिट्री पीवी. मालवेसीरम",
+          "disease_type": "जीवाणु",
+          "symptoms": [
+            "कोणीय पत्ती धब्बे",
+            "काले तने",
+            "पानी से भीगे घाव",
+            "शिरा परिगलन",
+            "समय से पहले पत्ते झड़ना"
+          ],
+          "causes": [
+            "जीवाणुजनित रोगज़नक़ का प्रसार",
+            "ओवरहेड सिंचाई",
+            "संक्रमित बीज",
+            "हवा और बारिश का फैलाव",
+            "दूषित उपकरण"
+          ],
+          "prevention": [
+            "बीजों का एसिड डिलिंटिंग",
+            "ऊपरी सिंचाई से बचें",
+            "रोग मुक्त बीजों का उपयोग करें",
+            "क्षेत्र स्वच्छता",
+            "फसल चक्र"
+          ],
+          "treatment": [
+            "कॉपर ऑक्सीक्लोराइड 50% WP (3 ग्राम/लीटर)",
+            "स्ट्रेप्टोसाइक्लिन के साथ संयुक्त (0.5 ग्राम/ली)",
+            "तांबा आधारित जीवाणुनाशक",
+            "संक्रमित पौधे के हिस्सों को हटा दें"
+          ],
+          "impact": "उपज में महत्वपूर्ण हानि और गुणवत्ता में कमी आती है",
+          "prevalence_telangana": "मानसून के मौसम में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gummosis",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Gummosis",
+        "type": "Bacterial",
+        "description": {
+          "overview": "Gummosis leads to oozing lesions on stems and bolls of cotton plants.",
+          "pathogen": "Xanthomonas campestris",
+          "disease_type": "Bacterial",
+          "symptoms": [
+            "Oozing lesions on stems",
+            "Gummy exudates on bolls",
+            "Darkened stem areas",
+            "Wilting of affected branches",
+            "Reduced boll formation"
+          ],
+          "causes": [
+            "Bacterial infection",
+            "High humidity",
+            "Wounds and injuries",
+            "Insect damage",
+            "Contaminated tools"
+          ],
+          "prevention": [
+            "Field sanitation",
+            "Destruction of infected debris",
+            "Avoid mechanical injuries",
+            "Clean cultivation tools",
+            "Proper spacing"
+          ],
+          "treatment": [
+            "Copper-based sprays during pre-monsoon periods",
+            "Copper Oxychloride applications",
+            "Remove infected plant parts",
+            "Improve field drainage"
+          ],
+          "impact": "Reduces boll quality and plant vigor",
+          "prevalence_telangana": "Occurs during high humidity periods"
+        }
+      },
+      {
+        "language": "te",
+        "name": "గమ్మోసిస్",
+        "type": "బాక్టీరియల్",
+        "description": {
+          "overview": "గమ్మోసిస్ వల్ల పత్తి మొక్కల కాండం మరియు కాయలపై గాయాలు స్రవిస్తాయి.",
+          "pathogen": "జాంతోమోనాస్ కాంపెస్ట్రిస్",
+          "disease_type": "బాక్టీరియల్",
+          "symptoms": [
+            "కాండం మీద కారుతున్న గాయాలు",
+            "కాయలపై జిగురు స్రావాలు స్రవిస్తాయి.",
+            "నల్లబడిన కాండం ప్రాంతాలు",
+            "ప్రభావిత కొమ్మలు వాడిపోవడం",
+            "తగ్గిన కాయ నిర్మాణం"
+          ],
+          "causes": [
+            "బాక్టీరియల్ ఇన్ఫెక్షన్",
+            "అధిక తేమ",
+            "గాయాలు మరియు గాయాలు",
+            "కీటకాల నష్టం",
+            "కలుషితమైన ఉపకరణాలు"
+          ],
+          "prevention": [
+            "క్షేత్ర పారిశుధ్యం",
+            "సోకిన శిథిలాల నాశనం",
+            "యాంత్రిక గాయాలను నివారించండి",
+            "శుభ్రమైన సాగు పనిముట్లు",
+            "సరైన అంతరం"
+          ],
+          "treatment": [
+            "వర్షాకాలం ముందు కాలంలో రాగి ఆధారిత స్ప్రేలు",
+            "కాపర్ ఆక్సిక్లోరైడ్ అనువర్తనాలు",
+            "తెగులు సోకిన మొక్కల భాగాలను తొలగించండి.",
+            "పొలంలో నీటి పారుదల వ్యవస్థను మెరుగుపరచండి"
+          ],
+          "impact": "కాయల నాణ్యత మరియు మొక్కల బలాన్ని తగ్గిస్తుంది.",
+          "prevalence_telangana": "అధిక తేమ ఉన్న సమయాల్లో సంభవిస్తుంది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "गमोसिस",
+        "type": "जीवाणु",
+        "description": {
+          "overview": "गमोसिस के कारण कपास के पौधों के तने और बीजकोषों पर रिसावयुक्त घाव हो जाते हैं।",
+          "pathogen": "ज़ैंथोमोनस कैम्पेस्ट्रिस",
+          "disease_type": "जीवाणु",
+          "symptoms": [
+            "तने पर रिसाव वाले घाव",
+            "बीजकोषों पर चिपचिपा द्रव्य निकलता है",
+            "तने का काला पड़ना",
+            "प्रभावित शाखाओं का मुरझाना",
+            "बीजकोषों का निर्माण कम होना"
+          ],
+          "causes": [
+            "जीवाणु संक्रमण",
+            "उच्च आर्द्रता",
+            "घाव और चोटें",
+            "कीट क्षति",
+            "दूषित उपकरण"
+          ],
+          "prevention": [
+            "क्षेत्र स्वच्छता",
+            "संक्रमित मलबे का विनाश",
+            "यांत्रिक चोटों से बचें",
+            "खेती के औजार साफ रखें",
+            "उचित अंतराल"
+          ],
+          "treatment": [
+            "मानसून-पूर्व अवधि के दौरान तांबा-आधारित छिड़काव",
+            "कॉपर ऑक्सीक्लोराइड के अनुप्रयोग",
+            "संक्रमित पौधे के हिस्सों को हटा दें",
+            "खेत की जल निकासी में सुधार करें"
+          ],
+          "impact": "बीजकोष की गुणवत्ता और पौधे की शक्ति कम हो जाती है",
+          "prevalence_telangana": "उच्च आर्द्रता अवधि के दौरान होता है"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cotton Leaf Curl Virus",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton Leaf Curl Virus",
+        "type": "Viral",
+        "description": {
+          "overview": "Cotton Leaf Curl Virus is transmitted by whiteflies (Bemisia tabaci) and causes leaf curling and stunting in cotton plants.",
+          "pathogen": "Cotton Leaf Curl Virus (CLCuV)",
+          "disease_type": "Viral",
+          "symptoms": [
+            "Leaf curling",
+            "Plant stunting",
+            "Yellowing of leaves",
+            "Reduced boll formation",
+            "Thick and leathery leaves"
+          ],
+          "causes": [
+            "Whitefly (Bemisia tabaci) transmission",
+            "Infected plant material",
+            "Vector population buildup",
+            "Susceptible varieties",
+            "Weed hosts"
+          ],
+          "prevention": [
+            "Use resistant varieties (e.g., NARSIMHA)",
+            "Neem-based biopesticides for vector control",
+            "Control whitefly populations",
+            "Remove weed hosts",
+            "Early sowing"
+          ],
+          "treatment": [
+            "No chemical remedies available",
+            "Roguing infected plants is critical",
+            "Vector control measures",
+            "Use of reflective mulches",
+            "Biological control agents"
+          ],
+          "impact": "Causes severe yield losses and plant stunting",
+          "prevalence_telangana": "Major viral disease with high economic impact"
+        }
+      },
+      {
+        "language": "te",
+        "name": "ప్రత్తి ముడత వైరస్",
+        "type": "వైరల్",
+        "description": {
+          "overview": "కాటన్ లీఫ్ కర్ల్ వైరస్ తెల్ల దోమలు (బెమిసియా టబాసి) ద్వారా వ్యాపిస్తుంది మరియు పత్తి మొక్కలలో ఆకులు ముడతలు పడటం మరియు పెరుగుదలను తగ్గిస్తుంది.",
+          "pathogen": "కాటన్ లీఫ్ కర్ల్ వైరస్ (CLCuV)",
+          "disease_type": "వైరల్",
+          "symptoms": [
+            "ఆకు కర్లింగ్",
+            "మొక్కల పెరుగుదలలో పెరుగుదల తగ్గడం",
+            "ఆకులు పసుపు రంగులోకి మారడం",
+            "తగ్గిన కాయ నిర్మాణం",
+            "మందపాటి మరియు తోలులాంటి ఆకులు"
+          ],
+          "causes": [
+            "తెల్లదోమ (బెమిసియా స్టిల్) వ్యాప్తి",
+            "తెగులు సోకిన మొక్కల పదార్థం",
+            "వెక్టర్ జనాభా పెరుగుదల",
+            "అనుమానాస్పద రకాలు",
+            "కలుపు మొక్కలు"
+          ],
+          "prevention": [
+            "నిరోధక రకాలను ఉపయోగించండి (ఉదా, నరసింహ)",
+            "వాహక నియంత్రణ కోసం వేప ఆధారిత జీవ పురుగుమందులు",
+            "తెల్ల ఈగల జనాభాను నియంత్రించండి",
+            "కలుపు మొక్కలను తొలగించండి",
+            "ముందస్తు విత్తనాలు"
+          ],
+          "treatment": [
+            "రసాయన నివారణలు అందుబాటులో లేవు",
+            "తెగులు సోకిన మొక్కలను శుభ్రం చేయడం చాలా ముఖ్యం.",
+            "వెక్టర్ నియంత్రణ చర్యలు",
+            "ప్రతిబింబించే మల్చ్‌ల వాడకం",
+            "జీవ నియంత్రణ ఏజెంట్లు"
+          ],
+          "impact": "తీవ్రమైన దిగుబడి నష్టాలు మరియు మొక్కల పెరుగుదలను తగ్గిస్తుంది",
+          "prevalence_telangana": "అధిక ఆర్థిక ప్రభావాన్ని చూపే ప్రధాన వైరల్ వ్యాధి"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "कपास पत्ती कर्ल वायरस",
+        "type": "वायरल",
+        "description": {
+          "overview": "कपास पत्ती कर्ल वायरस सफेद मक्खी (बेमिसिया टैबैसी) द्वारा फैलता है तथा कपास के पौधों में पत्तियों के कर्लिंग और बौनेपन का कारण बनता है।",
+          "pathogen": "कपास पत्ती कर्ल वायरस (CLCuV)",
+          "disease_type": "वायरल",
+          "symptoms": [
+            "पत्ती कर्लिंग",
+            "पौधों का बौनापन",
+            "पत्तियों का पीला पड़ना",
+            "बीजकोषों का निर्माण कम होना",
+            "मोटी और चमड़े जैसी पत्तियां"
+          ],
+          "causes": [
+            "सफेद मक्खी (बेमिसिया स्टिल) का संचरण",
+            "संक्रमित पौध सामग्री",
+            "वेक्टर जनसंख्या का निर्माण",
+            "संवेदनशील किस्में",
+            "खरपतवार मेजबान"
+          ],
+          "prevention": [
+            "प्रतिरोधी किस्मों का उपयोग करें (उदाहरण के लिए, नरसिम्हा)",
+            "रोगवाहक नियंत्रण के लिए नीम आधारित जैव कीटनाशक",
+            "सफ़ेद मक्खी की आबादी को नियंत्रित करें",
+            "खरपतवार मेजबान को हटाएँ",
+            "शीघ्र बुवाई"
+          ],
+          "treatment": [
+            "कोई रासायनिक उपचार उपलब्ध नहीं है",
+            "संक्रमित पौधों की रोकथाम महत्वपूर्ण है",
+            "वेक्टर नियंत्रण उपाय",
+            "परावर्तक मल्च का उपयोग",
+            "जैविक नियंत्रण एजेंट"
+          ],
+          "impact": "इससे उपज में भारी नुकसान होता है और पौधे बौने हो जाते हैं",
+          "prevalence_telangana": "उच्च आर्थिक प्रभाव वाला प्रमुख वायरल रोग"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tobacco Streak Virus",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Tobacco Streak Virus",
+        "type": "Viral",
+        "description": {
+          "overview": "Tobacco Streak Virus causes necrotic streaks and yield losses up to 51% in Telangana cotton crops.",
+          "pathogen": "Tobacco Streak Virus (TSV)",
+          "disease_type": "Viral",
+          "symptoms": [
+            "Necrotic streaks on leaves",
+            "Ring spots on leaves",
+            "Stunted growth",
+            "Reduced boll formation",
+            "Yellowing and necrosis"
+          ],
+          "causes": [
+            "Thrips transmission",
+            "Weed hosts (e.g., Parthenium)",
+            "Infected plant debris",
+            "Vector population",
+            "Environmental stress"
+          ],
+          "prevention": [
+            "Weed control (e.g., Parthenium)",
+            "Thrips management using Spinosad 45% SC (0.3 mL/L)",
+            "Remove weed hosts",
+            "Field sanitation",
+            "Early detection and removal"
+          ],
+          "treatment": [
+            "No chemical remedies exist",
+            "Vector control is essential",
+            "Remove infected plants",
+            "Weed management",
+            "Biological control of thrips"
+          ],
+          "impact": "Causes yield losses up to 51% in Telangana",
+          "prevalence_telangana": "Significant yield losses up to 51%"
+        }
+      },
+      {
+        "language": "te",
+        "name": "టొబాకో స్ట్రీక్ వైరస్",
+        "type": "వైరల్",
+        "description": {
+          "overview": "తెలంగాణ పత్తి పంటలలో టొబాకో స్ట్రీక్ వైరస్ నెక్రోటిక్ స్ట్రీక్స్ మరియు 51% వరకు దిగుబడి నష్టాలను కలిగిస్తుంది.",
+          "pathogen": "టొబాకో స్ట్రీక్ వైరస్ (TSV)",
+          "disease_type": "వైరల్",
+          "symptoms": [
+            "ఆకులపై నెక్రోటిక్ చారలు",
+            "ఆకులపై వలయాకార మచ్చలు",
+            "పెరుగుదల మందగించడం",
+            "తగ్గిన కాయ నిర్మాణం",
+            "పసుపు రంగులోకి మారడం మరియు నెక్రోసిస్"
+          ],
+          "causes": [
+            "త్రిప్స్ ప్రసారం",
+            "కలుపు మొక్కల అతిధేయలు (ఉదా. పార్థీనియం)",
+            "తెగులు సోకిన మొక్కల అవశేషాలు",
+            "వెక్టర్ జనాభా",
+            "పర్యావరణ ఒత్తిడి"
+          ],
+          "prevention": [
+            "కలుపు నియంత్రణ (ఉదా. పార్థీనియం)",
+            "Spinosad 45% SC (0.3 mL/L) ఉపయోగించి త్రిప్స్ నిర్వహణ",
+            "కలుపు మొక్కలను తొలగించండి",
+            "క్షేత్ర పారిశుధ్యం",
+            "ముందస్తుగా గుర్తించడం మరియు తొలగించడం"
+          ],
+          "treatment": [
+            "ఎటువంటి రసాయన నివారణలు లేవు",
+            "వెక్టర్ నియంత్రణ తప్పనిసరి",
+            "తెగులు సోకిన మొక్కలను తొలగించండి.",
+            "కలుపు నిర్వహణ",
+            "త్రిప్స్ యొక్క జీవ నియంత్రణ"
+          ],
+          "impact": "తెలంగాణలో 51% వరకు దిగుబడి నష్టాలకు కారణమవుతుంది",
+          "prevalence_telangana": "51% వరకు గణనీయమైన దిగుబడి నష్టాలు"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "तम्बाकू स्ट्रीक वायरस",
+        "type": "वायरल",
+        "description": {
+          "overview": "तम्बाकू स्ट्रीक वायरस के कारण तेलंगाना की कपास फसलों में परिगलित धारियाँ पड़ जाती हैं तथा उपज में 51% तक की हानि होती है।",
+          "pathogen": "तम्बाकू स्ट्रीक वायरस (टीएसवी)",
+          "disease_type": "वायरल",
+          "symptoms": [
+            "पत्तियों पर परिगलित धारियाँ",
+            "पत्तियों पर वलयनुमा धब्बे",
+            "अवरुद्ध विकास",
+            "बीजकोषों का निर्माण कम होना",
+            "पीलापन और परिगलन"
+          ],
+          "causes": [
+            "थ्रिप्स संचरण",
+            "खरपतवार मेजबान (जैसे, पार्थेनियम)",
+            "संक्रमित पौधों का मलबा",
+            "वेक्टर जनसंख्या",
+            "पर्यावरणीय तनाव"
+          ],
+          "prevention": [
+            "खरपतवार नियंत्रण (जैसे, पार्थेनियम)",
+            "स्पिनोसैड 45% एससी (0.3 एमएल/एल) का उपयोग करके थ्रिप्स प्रबंधन",
+            "खरपतवार मेजबान को हटाएँ",
+            "क्षेत्र स्वच्छता",
+            "शीघ्र पता लगाना और हटाना"
+          ],
+          "treatment": [
+            "कोई रासायनिक उपचार मौजूद नहीं है",
+            "वेक्टर नियंत्रण आवश्यक है",
+            "संक्रमित पौधों को हटाएँ",
+            "खरपतवार प्रबंधन",
+            "थ्रिप्स का जैविक नियंत्रण"
+          ],
+          "impact": "तेलंगाना में फसल को 51% तक नुकसान",
+          "prevalence_telangana": "उपज में 51% तक की महत्वपूर्ण हानि"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Root-Knot Nematode",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Root-Knot Nematode",
+        "type": "Nematode",
+        "description": {
+          "overview": "Root-knot nematode forms root galls and reduces nutrient uptake in cotton plants.",
+          "pathogen": "Meloidogyne incognita",
+          "disease_type": "Nematode",
+          "symptoms": [
+            "Root galls formation",
+            "Stunted plant growth",
+            "Yellowing of leaves",
+            "Reduced nutrient uptake",
+            "Poor root development"
+          ],
+          "causes": [
+            "Soil-borne nematode",
+            "Continuous cotton cropping",
+            "Sandy soils",
+            "Infected soil",
+            "Poor crop rotation"
+          ],
+          "prevention": [
+            "Intercropping with marigold",
+            "Soil application of Paecilomyces lilacinus (20 kg/ha)",
+            "Crop rotation",
+            "Soil solarization",
+            "Organic amendments"
+          ],
+          "treatment": [
+            "Carbofuran 3G (1 kg/acre) at sowing",
+            "Nematicide applications",
+            "Biocontrol agents",
+            "Organic soil amendments",
+            "Proper soil management"
+          ],
+          "impact": "Reduces nutrient uptake and plant vigor",
+          "prevalence_telangana": "Common in sandy soils"
+        }
+      },
+      {
+        "language": "te",
+        "name": "రూట్-నాట్ నెమటోడ్",
+        "type": "నెమటోడ్",
+        "description": {
+          "overview": "వేరు-ముడి నెమటోడ్ వేరు గాల్స్‌ను ఏర్పరుస్తుంది మరియు పత్తి మొక్కలలో పోషకాల శోషణను తగ్గిస్తుంది.",
+          "pathogen": "మెలోయిడోజైన్ ఇన్కాగ్నిటా",
+          "disease_type": "నెమటోడ్",
+          "symptoms": [
+            "రూట్ గాల్స్ ఏర్పడటం",
+            "మొక్కల పెరుగుదల మందగించడం",
+            "ఆకులు పసుపు రంగులోకి మారడం",
+            "తగ్గిన పోషక శోషణ",
+            "వేర్లు అభివృద్ధి చెందకపోవడం"
+          ],
+          "causes": [
+            "నేల ద్వారా వ్యాపించే నెమటోడ్",
+            "నిరంతర పత్తి సాగు",
+            "ఇసుక నేలలు",
+            "సోకిన నేల",
+            "పంట మార్పిడి సరిగా లేకపోవడం"
+          ],
+          "prevention": [
+            "బంతి పువ్వుతో అంతర పంట",
+            "పెసిలోమైసెస్ లిలాసినస్ (20 కిలోలు/హెక్టారు) నేలలో వేయాలి.",
+            "పంట భ్రమణం",
+            "నేల సౌరీకరణ",
+            "సేంద్రీయ సవరణలు"
+          ],
+          "treatment": [
+            "విత్తేటప్పుడు కార్బోఫ్యూరాన్ 3G (ఎకరానికి 1 కిలో)",
+            "నెమటిసైడ్ అప్లికేషన్లు",
+            "బయోకంట్రోల్ ఏజెంట్లు",
+            "సేంద్రీయ నేల సవరణలు",
+            "సరైన నేల నిర్వహణ"
+          ],
+          "impact": "మొక్కల పోషకాల శోషణ మరియు శక్తిని తగ్గిస్తుంది",
+          "prevalence_telangana": "ఇసుక నేలల్లో సాధారణం"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "रूट-नॉट नेमाटोड",
+        "type": "निमेटोड",
+        "description": {
+          "overview": "रूट-नॉट निमेटोड जड़ में गांठ बनाता है तथा कपास के पौधों में पोषक तत्वों के अवशोषण को कम करता है।",
+          "pathogen": "मेलोइडोगाइन इन्कोग्निटा",
+          "disease_type": "निमेटोड",
+          "symptoms": [
+            "रूट गॉल्स का निर्माण",
+            "पौधों की वृद्धि अवरुद्ध होना",
+            "पत्तियों का पीला पड़ना",
+            "पोषक तत्वों का कम अवशोषण",
+            "खराब जड़ विकास"
+          ],
+          "causes": [
+            "मृदा जनित निमेटोड",
+            "निरंतर कपास की फसल",
+            "रेतीली मिट्टी",
+            "संक्रमित मिट्टी",
+            "खराब फसल चक्र"
+          ],
+          "prevention": [
+            "गेंदा के साथ अंतरफसल",
+            "पेसिलोमाइसिस लिलासिनस (20 किग्रा/हेक्टेयर) का मृदा अनुप्रयोग",
+            "फसल चक्र",
+            "मृदा सौरीकरण",
+            "जैविक संशोधन"
+          ],
+          "treatment": [
+            "बुवाई के समय कार्बोफ्यूरान 3जी (1 किग्रा/एकड़)",
+            "नेमाटोसाइड अनुप्रयोग",
+            "जैव नियंत्रण एजेंट",
+            "जैविक मृदा संशोधन",
+            "उचित मृदा प्रबंधन"
+          ],
+          "impact": "पोषक तत्वों के अवशोषण और पौधों की शक्ति को कम करता है",
+          "prevalence_telangana": "रेतीली मिट्टी में आम"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Reniform Nematode",
+    "crops": [
+      "Cotton"
+    ],
+    "stage_numbers": [
+      1,
+      6
+    ],
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Reniform Nematode",
+        "type": "Nematode",
+        "description": {
+          "overview": "Reniform nematode is prevalent in sandy soils and causes stunting and yellowing in cotton plants.",
+          "pathogen": "Rotylenchulus reniformis",
+          "disease_type": "Nematode",
+          "symptoms": [
+            "Plant stunting",
+            "Yellowing of leaves",
+            "Poor root development",
+            "Reduced plant vigor",
+            "Chlorosis"
+          ],
+          "causes": [
+            "Sandy soil conditions",
+            "Soil-borne nematode",
+            "Continuous cotton cultivation",
+            "Poor soil management",
+            "Infected plant debris"
+          ],
+          "prevention": [
+            "Soil solarization",
+            "Organic amendments",
+            "Crop rotation",
+            "Resistant varieties",
+            "Field sanitation"
+          ],
+          "treatment": [
+            "Oxamyl 10% G (5 kg/acre)",
+            "Nematicide applications",
+            "Biocontrol agents",
+            "Soil improvement practices",
+            "Organic matter addition"
+          ],
+          "impact": "Causes stunting and yellowing, reducing yield",
+          "prevalence_telangana": "Prevalent in sandy soils across the state"
+        }
+      },
+      {
+        "language": "te",
+        "name": "రెనిఫాం నెమటోడ్",
+        "type": "నెమటోడ్",
+        "description": {
+          "overview": "రెనిఫార్మ్ నెమటోడ్ ఇసుక నేలల్లో ప్రబలంగా ఉంటుంది మరియు పత్తి మొక్కలలో పెరుగుదల మరియు పసుపు రంగుకు కారణమవుతుంది.",
+          "pathogen": "రోటిలెన్చులస్ రెనిఫార్మిస్",
+          "disease_type": "నెమటోడ్",
+          "symptoms": [
+            "మొక్కల పెరుగుదలలో పెరుగుదల తగ్గడం",
+            "ఆకులు పసుపు రంగులోకి మారడం",
+            "వేర్లు అభివృద్ధి చెందకపోవడం",
+            "మొక్కల శక్తి తగ్గింది",
+            "క్లోరోసిస్"
+          ],
+          "causes": [
+            "ఇసుక నేల పరిస్థితులు",
+            "నేల ద్వారా వ్యాపించే నెమటోడ్",
+            "నిరంతర పత్తి సాగు",
+            "పేలవమైన నేల నిర్వహణ",
+            "తెగులు సోకిన మొక్కల అవశేషాలు"
+          ],
+          "prevention": [
+            "నేల సౌరీకరణ",
+            "సేంద్రీయ సవరణలు",
+            "పంట భ్రమణం",
+            "నిరోధక రకాలు",
+            "క్షేత్ర పారిశుధ్యం"
+          ],
+          "treatment": [
+            "ఆక్సామైల్ 10% గ్రా (5 కిలోలు/ఎకరానికి)",
+            "నెమటిసైడ్ అప్లికేషన్లు",
+            "బయోకంట్రోల్ ఏజెంట్లు",
+            "నేల మెరుగుదల పద్ధతులు",
+            "సేంద్రీయ పదార్థ జోడింపు"
+          ],
+          "impact": "పంట ఎదుగుదల తగ్గడానికి మరియు పసుపు రంగులోకి మారడానికి కారణమవుతుంది, దిగుబడి తగ్గుతుంది.",
+          "prevalence_telangana": "రాష్ట్రవ్యాప్తంగా ఇసుక నేలల్లో ప్రబలంగా ఉంది"
+        }
+      },
+      {
+        "language": "hi",
+        "name": "रेनीफॉर्म नेमाटोड",
+        "type": "निमेटोड",
+        "description": {
+          "overview": "रेनीफार्म निमेटोड रेतीली मिट्टी में प्रचुर मात्रा में पाया जाता है तथा कपास के पौधों में बौनापन और पीलापन पैदा करता है।",
+          "pathogen": "रोटिलेनचुलस रेनीफोर्मिस",
+          "disease_type": "निमेटोड",
+          "symptoms": [
+            "पौधों का बौनापन",
+            "पत्तियों का पीला पड़ना",
+            "खराब जड़ विकास",
+            "पौधों की शक्ति में कमी",
+            "क्लोरज़"
+          ],
+          "causes": [
+            "रेतीली मिट्टी की स्थिति",
+            "मृदा जनित निमेटोड",
+            "निरंतर कपास की खेती",
+            "खराब मृदा प्रबंधन",
+            "संक्रमित पौधों का मलबा"
+          ],
+          "prevention": [
+            "मृदा सौरीकरण",
+            "जैविक संशोधन",
+            "फसल चक्र",
+            "प्रतिरोधी किस्में",
+            "क्षेत्र स्वच्छता"
+          ],
+          "treatment": [
+            "ऑक्सामिल 10% जी (5 किग्रा/एकड़)",
+            "नेमाटोसाइड अनुप्रयोग",
+            "जैव नियंत्रण एजेंट",
+            "मृदा सुधार पद्धतियाँ",
+            "कार्बनिक पदार्थ का योग"
+          ],
+          "impact": "इससे पौधे बौने और पीले पड़ जाते हैं, जिससे उपज कम हो जाती है",
+          "prevalence_telangana": "राज्य भर में रेतीली मिट्टी में प्रचलित"
+        }
+      }
+    ]
+  }
+]

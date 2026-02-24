@@ -1,0 +1,133 @@
+Crop Routes Documentation
+=======================
+
+All routes support a 'lang' query parameter (default: 'en') for language-specific responses.
+
+1. Get All Crops
+---------------
+GET /crops
+Returns a paginated list of all crops in the requested language.
+
+Query Parameters:
+- skip: int (default: 0) - Number of records to skip
+- limit: int (default: 10, max: 100) - Number of records to return
+- lang: str (default: "en") - Language code
+
+Response: List of {
+    "id": int,
+    "code": str,
+    "name": str,
+    "image_urls": List[str] (optional)
+}
+
+2. Get Crop by ID
+----------------
+GET /crops/id/{crop_id}
+Returns detailed information about a specific crop in the requested language.
+
+Response:
+{
+    "id": int,
+    "code": str,
+    "name": str,
+    "cultivated_in": str (optional),
+    "variety": str,
+    "description": str (optional),
+    "cultivation_overview": str (optional),
+    "image_urls": List[str] (optional)
+}
+
+3. Get All Weeks of a Crop
+-------------------------
+GET /crops/{crop_id}/weeks
+Returns all weeks data for a specific crop in the requested language.
+
+Response: List of {
+    "week_number": int,
+    "title": str,
+    "day_range": str (optional),
+    "days": Dict,
+    "image_urls": List[str] (optional),
+    "video_urls": List[str] (optional),
+    "stage_id": int (optional)
+}
+
+4. Get Specific Week of a Crop
+----------------------------
+GET /crops/{crop_id}/weeks/{week_number}
+Returns data for a specific week of a crop in the requested language.
+
+Response: Same as individual week object from the weeks list.
+
+5. Get All Stages with Weeks
+--------------------------
+GET /crops/{crop_id}/stages
+Returns all stages with their associated weeks data for a crop in the requested language.
+
+Response: List of {
+    "stage_number": int,
+    "title": str,
+    "description": Dict,
+    "image_urls": List[str] (optional),
+    "weeks": List of {
+        "week_number": int,
+        "title": str,
+        "day_range": str (optional),
+        "days": Dict,
+        "image_urls": List[str] (optional),
+        "video_urls": List[str] (optional)
+    }
+}
+
+6. Get Specific Stage of a Crop
+------------------------------
+GET /crops/{crop_id}/stages/{stage_number}
+Returns data for a specific stage of a crop in the requested language.
+
+Response: Same as individual stage object from the stages list.
+
+7. Get Diseases with Filtering
+----------------------------
+GET /crops/diseases
+Returns a paginated list of diseases with optional filtering.
+
+Query Parameters:
+- skip: int (default: 0) - Number of records to skip
+- limit: int (default: 10, max: 100) - Number of records to return
+- lang: str (default: "en") - Language code
+- crop_id: int (optional) - Filter by crop ID
+- stage_number: int (optional) - Filter by stage number (requires crop_id)
+- disease_type: str (optional) - Filter by disease type
+
+Response: List of {
+    "id": int,
+    "name": str,
+    "type": str,
+    "description": Dict,
+    "image_urls": List[str] (optional)
+}
+
+8. Get Diseases of a Stage
+-------------------------
+GET /crops/{crop_id}/stages/{stage_number}/diseases
+Returns all diseases associated with a specific stage of a crop in the requested language.
+
+Response: List of {
+    "id": int,
+    "name": str,
+    "type": str,
+    "description": Dict,
+    "image_urls": List[str] (optional)
+}
+
+9. Get Diseases of a Week
+------------------------
+GET /crops/{crop_id}/weeks/{week_number}/diseases
+Returns all diseases associated with a specific week of a crop (using stage mapping) in the requested language.
+
+Response: Same as diseases list from stage diseases endpoint.
+
+Error Responses:
+--------------
+- 404 Not Found: When crop, week, stage, or translation is not found
+- 400 Bad Request: When invalid parameters are provided 

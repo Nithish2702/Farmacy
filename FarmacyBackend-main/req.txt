@@ -1,0 +1,62 @@
+# FastAPI & Async Server
+fastapi==0.115.12
+uvicorn==0.34.2
+
+# Pydantic & Settings
+pydantic==2.11.5
+pydantic-settings==2.9.1
+typing_extensions==4.13.2
+
+# SQLAlchemy & Migrations
+SQLAlchemy==2.0.41
+alembic==1.16.1
+psycopg2-binary==2.9.10  # For PostgreSQL
+
+# Supabase & Tools
+supabase==2.15.2
+storage3==0.11.3
+postgrest==1.0.2
+realtime==2.4.3
+gotrue==2.12.0
+
+# Firebase Admin SDK
+firebase-admin==6.8.0
+
+# Google Cloud Services
+google-api-core==2.24.2
+google-api-python-client==2.170.0
+google-auth==2.40.2
+google-auth-httplib2==0.2.0
+google-cloud-core==2.4.3
+google-cloud-firestore==2.20.2
+google-cloud-storage==3.1.0
+google-cloud-translate==3.20.2
+google-crc32c==1.7.1
+google-resumable-media==2.7.2
+googleapis-common-protos==1.70.0
+proto-plus==1.26.1
+protobuf==5.29.5
+httplib2==0.22.0
+uritemplate==4.1.1
+
+# Auth & Security
+bcrypt==4.3.0
+passlib==1.7.4
+PyJWT==2.10.1
+itsdangerous==2.2.0
+
+# Web & HTTP
+httpx==0.28.1
+requests==2.32.3
+python-multipart==0.0.20
+python-dotenv==1.1.0
+
+# Caching & Performance
+cachetools==5.5.2
+
+# Email validation
+email_validator==2.2.0
+
+# Optional (Utilities)
+colorlog==6.9.0
+tqdm==4.67.1

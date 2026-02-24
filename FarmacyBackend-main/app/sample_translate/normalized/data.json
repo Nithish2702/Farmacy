@@ -1,0 +1,826 @@
+{
+  "0": {
+    "crop_name": "Rice",
+    "crop_variety": "Veyyipadhi",
+    "crop_code": "MTU 1010",
+    "crop_cultivated_in": "Telangana",
+    "crop_desc": "MTU 1010, also known as Cottondora Sannalu, is a medium-duration (115–120 days) rice variety widely cultivated in Telangana during both Kharif and Rabi seasons. It is well-suited for rainfed upland and irrigated ecosystems, offering an average yield of 22–24 quintals per acre under Kharif conditions.",
+    "cultivation_overview": "The cultivation process begins with land preparation, involving deep ploughing and leveling to ensure uniform water distribution. Certified seeds are soaked and incubated before sowing in well-prepared nursery beds. After 20–25 days, healthy seedlings are transplanted into the main field at a spacing of 20 cm x 15 cm, with 2–3 seedlings per hill. Basal fertilizers, including nitrogen, phosphorus, and potassium, are applied during field preparation. Subsequent fertilizer applications are scheduled at tillering and panicle initiation stages. Regular irrigation, weed management, and pest control are essential throughout the growth period. As the crop approaches maturity, irrigation is reduced to facilitate drying. Harvesting is done when 80–85% of the grains turn golden yellow. Post-harvest practices include threshing, cleaning, drying to a moisture content of 14%, and storage in clean, dry, and pest-free facilities. Regular monitoring of stored grains is recommended to prevent infestations. MTU 1010's adaptability and stable yields make it a preferred choice among farmers in Telangana. However, it's important to note that in certain regions, such as the East Godavari district in Andhra Pradesh, the cultivation of MTU 1010 has been discouraged due to market preferences and grain quality considerations.",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Nursery Sowing & Main Field Preparation",
+        "day_range": "Days 1-7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select certified MTU 1010 seeds.",
+              "Soak seeds in clean water for 24 hours."
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Incubate soaked seeds in a wet cloth/gunny bag for 24–36 hours until sprouting."
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Treat sprouted seeds with fungicide (e.g., carbendazim 2g/kg).",
+              "Prepare nursery beds (1/20th of the main field area) with FYM and level."
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Sow sprouted seeds evenly in nursery beds.",
+              "Irrigate the nursery lightly."
+            ]
+          },
+          "day_5_to_7": {
+            "tasks": [
+              "Continue nursery irrigation as needed (keep moist, not waterlogged).",
+              "Begin the first ploughing of the main field, mixing well-rotted cow dung (FYM) or compost into the soil before planting to make the soil more fertile and help crops grow better."
+            ],
+            "notes": [
+              "FYM – Farm yard manure",
+              "First Ploughing is done before any fertilizers or water are added."
+            ]
+          }
+        }
+      },
+      "week_2": {
+        "title": "Nursery Care & Field Prep",
+        "day_range": "Days 8-14",
+        "days": {
+          "day_8_to_10": {
+            "tasks": [
+              "Monitor the nursery for pests/diseases.",
+              "Second ploughing of the main field."
+            ],
+            "notes": [
+              "Second ploughing is done after applying water (puddling) or after adding manure or fertilizers."
+            ]
+          },
+          "day_11_to_12": {
+            "tasks": [
+              "Remove weeds from the nursery if present.",
+              "Level the main field after ploughing."
+            ]
+          },
+          "day_13_to_14": {
+            "tasks": [
+              "Repair bunds and field channels for irrigation/drainage.",
+              "Maintain nursery moisture."
+            ],
+            "notes": [
+              "Check and fix the soil walls (bunds) and water paths (channels) in the field so that water stays where needed and drains out properly when required. This helps in better irrigation and prevents water loss or flooding.",
+              "Bunds are soil walls to hold water in the field, and channels are small paths to bring water in or drain it out."
+            ]
+          }
+        }
+      },
+      "week_3": {
+        "title": "Nursery Care & Field Puddling",
+        "day_range": "Days 15-21",
+        "days": {
+          "day_15_to_17": {
+            "tasks": [
+              "Continue nursery care (irrigation, pest check).",
+              "Flood the main field, begin puddling (churn soil for transplanting)."
+            ],
+            "notes": [
+              "Puddling: Puddling is a special method used mostly in rice farming to prepare the soil before planting seedlings, mixing soil and water to make a soft, muddy, and smooth layer in the field.",
+              "Churning of soil: Churning of soil means mixing and turning the soil thoroughly, usually with water, using tools like ploughs, rotavators, or even by hand (in small beds)."
+            ]
+          },
+          "day_18_to_19": {
+            "tasks": [
+              "Level the puddled field for even water distribution."
+            ]
+          },
+          "day_20_to_21": {
+            "tasks": [
+              "Allow the field to settle.",
+              "Final nursery irrigation before pulling seedlings."
+            ]
+          }
+        }
+      },
+      "week_4": {
+        "title": "Transplanting & Establishment",
+        "day_range": "Days 22-28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Pull 20–25 day-old seedlings from the nursery, bundle, and keep roots moist."
+            ]
+          },
+          "day_23_to_24": {
+            "tasks": [
+              "Transplant seedlings at 20 x 15 cm or 20 x 20 cm spacing, 3–5 cm deep, 2–3 seedlings/hill."
+            ]
+          },
+          "day_25_to_26": {
+            "tasks": [
+              "Apply basal fertilizer (full P, half K, 1/3 N) during/after transplanting."
+            ]
+          },
+          "day_27_to_28": {
+            "tasks": [
+              "Maintain shallow water (5 cm) for seedling establishment."
+            ],
+            "notes": [
+              "After planting the seedlings in the main field, keep checking if they look healthy. If they seem dry, weak, or yellow, they may be struggling. Give enough water and care to help them grow well.",
+              "Transplant shock happens when young plants (like rice seedlings) are moved from one place (nursery) to another (main field), and they struggle to adjust."
+            ]
+          }
+        }
+      },
+      "week_5_to_6": {
+        "title": "Early Growth & First Weeding",
+        "day_range": "Days 29-42",
+        "days": {
+          "day_29_to_31": {
+            "tasks": [
+              "Keep field moist, check for seedling establishment."
+            ]
+          },
+          "day_32_to_35": {
+            "tasks": [
+              "First manual/mechanical weeding (20–30 DAT)."
+            ],
+            "notes": [
+              "DAT – days after transplanting"
+            ]
+          },
+          "day_36_to_42": {
+            "tasks": [
+              "Monitor for early pests (stem borer, leaf folder) and diseases.",
+              "Maintain water at 5–7 cm."
+            ]
+          }
+        }
+      },
+      "week_7_to_8": {
+        "title": "Tillering, Fertilizer, Weed/Pest Checks",
+        "day_range": "Days 43-56",
+        "days": {
+          "day_43_to_45": {
+            "tasks": [
+              "Top-dress with nitrogen and potassium at active tillering."
+            ],
+            "notes": [
+              "Top-dressing is when the rice plant starts growing more new stems (around 25–30 days after transplanting), lightly sprinkle nitrogen and potassium fertilizer on the soil near the plants. This is called top dressing — it gives the crop extra nutrients to grow strong and produce more grains."
+            ]
+          },
+          "day_46_to_49": {
+            "tasks": [
+              "Second weeding if needed."
+            ]
+          },
+          "day_50_to_56": {
+            "tasks": [
+              "Monitor for pests (BPH, stem borer) and apply control if needed.",
+              "Continue irrigation as per requirement."
+            ]
+          }
+        }
+      },
+      "week_9_to_10": {
+        "title": "Panicle Initiation, Fertilizer, and Irrigation",
+        "day_range": "Days 57-70",
+        "days": {
+          "day_57_to_60": {
+            "tasks": [
+              "Apply the second split of nitrogen and potassium at panicle initiation."
+            ],
+            "notes": [
+              "Panicle initiation, in crops (especially rice), means the stage when the plant starts forming the part that will grow into the grain cluster (called the panicle), usually deep inside the stem. The point when the plant begins preparing to grow grains it's like the first sign that the plant is getting ready to make rice."
+            ]
+          },
+          "day_61_to_65": {
+            "tasks": [
+              "Check for micronutrient deficiencies (zinc, iron) and correct if needed."
+            ],
+            "notes": [
+              "Micronutrients: Micronutrients are essential nutrients that rice plants need in very small amounts, but they are very important for healthy growth and grain production."
+            ]
+          },
+          "day_66_to_70": {
+            "tasks": [
+              "Maintain regular irrigation (5–7 cm water)."
+            ]
+          }
+        }
+      },
+      "week_11_to_13": {
+        "title": "Flowering, Grain Filling, and Pest/Disease Vigilance",
+        "day_range": "Days 71-91",
+        "days": {
+          "day_71_to_77": {
+            "tasks": [
+              "Maintain water at 5–7 cm during flowering.",
+              "Monitor for diseases like blast, sheath blight, and BPH."
+            ]
+          },
+          "day_78_to_84": {
+            "tasks": [
+              "Continue pest/disease monitoring and apply fungicides/insecticides if necessary."
+            ]
+          },
+          "day_85_to_91": {
+            "tasks": [
+              "Keep enough water in the field when the rice grains form, so the crop doesn't dry out and yield low."
+            ]
+          }
+        }
+      },
+      "week_14_to_16": {
+        "title": "Ripening, Water Management, Harvest Prep",
+        "day_range": "Days 92-112",
+        "days": {
+          "day_92_to_100": {
+            "tasks": [
+              "Reduce irrigation as the crop matures.",
+              "Monitor for late pests/diseases."
+            ]
+          },
+          "day_101_to_105": {
+            "tasks": [
+              "Stop watering the field 7 to 10 days before harvesting so the plants can dry properly and the grains become hard and ready to cut."
+            ]
+          },
+          "day_106_to_112": {
+            "tasks": [
+              "Check grain maturity (80–85% golden yellow, hard grains).",
+              "Arrange labor/machinery for harvest."
+            ]
+          }
+        }
+      },
+      "week_17": {
+        "title": "Harvest & Post-Harvest",
+        "day_range": "Days 113-120",
+        "days": {
+          "day_113_to_115": {
+            "tasks": [
+              "Cut the crop early in the morning when it's cool, so the rice grains don't fall off the plant and get wasted."
+            ]
+          },
+          "day_116_to_117": {
+            "tasks": [
+              "Stack cut plants for 1–2 days for uniform drying."
+            ]
+          },
+          "day_118_to_119": {
+            "tasks": [
+              "After cutting the crop, separate the grains from the plants (threshing) and remove dust, husk, or stones to keep the grains clean and ready for storage or sale."
+            ]
+          },
+          "day_120": {
+            "tasks": [
+              "Sun-dry grains to 14% moisture and store in clean, dry, pest-free containers."
+            ],
+            "notes": [
+              "14% moisture means that out of the total weight of the grain, 14% is water and the rest is the dry matter of the rice."
+            ]
+          }
+        }
+      }
+    },
+    "conclusion": "This schedule ensures timely operations for each stage of MTU 1010 rice, from nursery preparation to post-harvest techniques, maximizing yield and grain quality. Adjustments may be made for local weather, field conditions, or direct seeding methods. Regular monitoring and timely management of water, nutrients, weeds, pests, and diseases are crucial throughout the crop cycle."
+  },
+  "1": {
+    "crop_name": "Rice",
+    "crop_variety": "Sannalu (KNM)",
+    "crop_code": "KNM 118",
+    "crop_cultivated_in": "Telangana",
+    "crop_desc": "Sannalu (KNM), officially known as Kunaram Sannalu (KNM 118), is a high-yielding, long slender grain rice variety developed by the Agricultural Research Station, Kunaram, and released in Telangana in 2015. It was specifically bred as an alternative to the widely grown MTU 1010, addressing issues such as susceptibility to pests, diseases, and grain shattering that affected the older variety. Kunaram Sannalu is well-suited for both kharif and rabi seasons, with a crop duration of about 120–125 days in kharif and 125–130 days in rabi. The plants reach a height of 100–106 cm and are less prone to lodging and grain shattering at harvest compared to MTU 1010, making them easier to manage and harvest.",
+    "cultivation_overview": "This variety stands out for its high yield potential, producing 7–8 tonnes per hectare under good management, and has good test weight and grain quality. The grains are translucent, long, and slender, with excellent head rice recovery and cooking quality, fetching premium prices in both government procurement and private markets. Sannalu (KNM 118) is also tolerant to leaf and neck blast diseases, making it more resilient and reducing the need for chemical controls. It is widely accepted by farmers, millers, traders, and consumers in Telangana due to its reliable yield, grain quality, and market demand. The variety adapts well to late sowing in kharif and is suitable for direct seeding methods, providing flexibility for farmers in different agro-climatic conditions. Overall, Sannalu (KNM) is a profitable and sustainable choice for rice cultivation in Telangana, contributing to increased productivity and farmer income.",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Seed Selection, Soaking, and Nursery Preparation",
+        "day_range": "Days 1-7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select high-quality, certified Sannalu (KNM) seeds.",
+              "Soak seeds in clean water for 24 hours."
+            ],
+            "notes": [
+              "Sannalu (KNM) seeds are good quality if, select clean, uniform, plump seeds without damage or discoloration, and test their germination by soaking a sample in water then good seeds will mostly sink and sprout well."
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Drain and incubate seeds in a moist cloth or bag for 1–2 days to encourage sprouting."
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Treat sprouted seeds with recommended fungicide to prevent nursery diseases."
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Prepare nursery beds (about 1/20th of main field area).",
+              "Incorporate well-rotted farmyard manure (FYM) or compost.",
+              "Sow sprouted seeds evenly and water lightly."
+            ]
+          },
+          "day_5_to_7": {
+            "tasks": [
+              "Maintain nursery moisture (not flooded).",
+              "Begin first ploughing of the main field."
+            ]
+          }
+        }
+      },
+      "week_2": {
+        "title": "Nursery Management and Field Preparation",
+        "day_range": "Days 8-14",
+        "days": {
+          "day_8_to_10": {
+            "tasks": [
+              "Monitor nursery for pests and diseases.",
+              "Conduct second ploughing of the main field."
+            ]
+          },
+          "day_11_to_12": {
+            "tasks": [
+              "Remove weeds from nursery.",
+              "Level the main field."
+            ]
+          },
+          "day_13_to_14": {
+            "tasks": [
+              "Repair bunds and create water channels.",
+              "Keep nursery beds moist."
+            ]
+          }
+        }
+      },
+      "week_3": {
+        "title": "Nursery Care and Field Puddling",
+        "day_range": "Days 15-21",
+        "days": {
+          "day_15_to_17": {
+            "tasks": [
+              "Continue nursery care.",
+              "Flood and puddle the main field to soften soil."
+            ]
+          },
+          "day_18_to_19": {
+            "tasks": [
+              "Level the puddled field for uniform water distribution."
+            ]
+          },
+          "day_20_to_21": {
+            "tasks": [
+              "Allow field to settle.",
+              "Give final watering to nursery before transplanting."
+            ]
+          }
+        }
+      },
+      "week_4": {
+        "title": "Transplanting",
+        "day_range": "Days 22-28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Uproot 21–25-day-old seedlings from nursery.",
+              "Bundle and keep roots moist."
+            ]
+          },
+          "day_23_to_24": {
+            "tasks": [
+              "Transplant seedlings at 20 x 20 cm spacing, 2–3 seedlings per hill, 5 cm deep."
+            ]
+          },
+          "day_25_to_26": {
+            "tasks": [
+              "Apply half of the potassium and all phosphorus as basal fertilizer.",
+              "Add organic manure if not already done."
+            ]
+          },
+          "day_27_to_28": {
+            "tasks": [
+              "Maintain a shallow water layer (5 cm) in the field to help seedlings establish."
+            ]
+          }
+        }
+      },
+      "week_5_to_6": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 29-42",
+        "days": {
+          "day_29_to_31": {
+            "tasks": [
+              "Ensure seedlings are well established.",
+              "Maintain water at 5–7 cm."
+            ]
+          },
+          "day_32_to_35": {
+            "tasks": [
+              "Conduct first weeding (20–30 days after transplanting) by hand or mechanical weeder."
+            ]
+          },
+          "day_36_to_42": {
+            "tasks": [
+              "Monitor for pests and diseases.",
+              "Continue regular irrigation."
+            ]
+          }
+        }
+      },
+      "week_7_to_8": {
+        "title": "Tillering and Fertilizer Application",
+        "day_range": "Days 43-56",
+        "days": {
+          "day_43_to_45": {
+            "tasks": [
+              "Apply first top-dressing of nitrogen and remaining potassium at the tillering stage."
+            ]
+          },
+          "day_46_to_49": {
+            "tasks": [
+              "Perform second weeding if necessary."
+            ]
+          },
+          "day_50_to_56": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat as needed.",
+              "Maintain water at 5–7 cm."
+            ]
+          }
+        }
+      },
+      "week_9_to_10": {
+        "title": "Panicle Initiation and Nutrient Management",
+        "day_range": "Days 57-70",
+        "days": {
+          "day_57_to_60": {
+            "tasks": [
+              "Apply second split of nitrogen at panicle initiation."
+            ]
+          },
+          "day_61_to_65": {
+            "tasks": [
+              "Check for nutrient deficiencies (e.g., zinc)."
+            ]
+          },
+          "day_66_to_70": {
+            "tasks": [
+              "Continue regular irrigation."
+            ]
+          }
+        }
+      },
+      "week_11_to_13": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 71-91",
+        "days": {
+          "day_71_to_77": {
+            "tasks": [
+              "Maintain water at 5–7 cm during flowering."
+            ]
+          },
+          "day_78_to_84": {
+            "tasks": [
+              "Monitor for pests (brown plant hopper, blast disease).",
+              "Use pesticides only if necessary."
+            ]
+          },
+          "day_85_to_91": {
+            "tasks": [
+              "Avoid water stress; keep field moist."
+            ]
+          }
+        }
+      },
+      "week_14_to_16": {
+        "title": "Ripening and Harvest Preparation",
+        "day_range": "Days 92-112",
+        "days": {
+          "day_92_to_100": {
+            "tasks": [
+              "Gradually reduce irrigation as crop matures."
+            ]
+          },
+          "day_101_to_105": {
+            "tasks": [
+              "Drain field 7–10 days before harvest."
+            ]
+          },
+          "day_106_to_112": {
+            "tasks": [
+              "Check if grains are golden yellow and hard.",
+              "Prepare for harvest."
+            ]
+          }
+        }
+      },
+      "week_17": {
+        "title": "Harvest and Post-Harvest",
+        "day_range": "Days 113-120",
+        "days": {
+          "day_113_to_115": {
+            "tasks": [
+              "Harvest by cutting plants close to the ground."
+            ]
+          },
+          "day_116_to_117": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry."
+            ]
+          },
+          "day_118_to_119": {
+            "tasks": [
+              "Thresh to separate grains from straw."
+            ]
+          },
+          "day_120": {
+            "tasks": [
+              "Sun-dry grains to about 14% moisture.",
+              "Store in clean, dry, pest-free containers."
+            ]
+          }
+        }
+      }
+    },
+    "conclusion": "Key Considerations for Sannalu (KNM) Rice variety: Disease Management: Sannalu (KNM) is generally resilient but monitor for local disease pressures and apply fungicides only as recommended. Nutrient Management: Follow soil test-based fertilizer recommendations for best results. Water Management: Consistent moisture is crucial, especially during tillering and grain filling. Adaptability: Sannalu (KNM) is suitable for both kharif and rabi seasons and adapts well to traditional and mechanized farming methods. This weekly schedule for KNN rice variety ensures timely and efficient management of Sannalu rice, maximizing yield and grain quality. Adjustments may be needed based on local weather, field conditions, or if direct seeding is used. Regular monitoring and timely interventions for water, nutrients, pests, and diseases are essential throughout the crop cycle."
+  },
+  "2": {
+    "crop_name": "Rice",
+    "crop_variety": "Telangana Sona",
+    "crop_code": "RNR 15048",
+    "crop_cultivated_in": "Telangana and neighboring states",
+    "crop_desc": "Telangana Sona (RNR 15048) is a premium, short-duration rice variety developed by Professor Jaya Shankar, Telangana State Agricultural University(PJTSAU), and is now widely cultivated in Telangana and neighboring states. This variety matures in about 120–125 days and is known for its high yield potential of 6,500–7,000 kg per hectare under good management. The grains are short, slender, super fine, and translucent, cooking into soft, fluffy, and non-sticky rice with a  naturally sweet taste and pleasant aroma, making it highly preferred by consumers in both domestic and export markets. Telangana Sona stands out for its strong resistance to blast disease, which reduces crop losses and the need for fungicides, and it offers a high head rice recovery rate of over 67%, benefiting both farmers and rice millers.",
+    "cultivation_overview": "A key health advantage of Telangana Sona is its low glycemic index (GI ~51), making it a healthier choice for people with diabetes and those looking to manage blood sugar levels. It is also higher in protein and dietary fiber compared to regular varieties, low in fat, and free from added sugars, supporting a balanced and nutritious diet. Telangana Sona adapts well to both kharif and Rabi seasons, performs reliably under late sowing and various agro-climatic conditions, and is suitable for both traditional and modern farming methods, including direct seeding and mechanized cultivation. With its combination of high yield, disease resistance, superior grain quality, health benefits, and strong market demand, Telangana Sona (RNR 15048) is a profitable and sustainable choice for farmers and a healthy, tasty option for consumers.",
+    "cultivation_steps": {
+      "week_1": {
+        "title": "Nursery Sowing and Main Field Preparation",
+        "day_range": "Days 1–7",
+        "days": {
+          "day_1": {
+            "tasks": [
+              "Select good Telangana Sona seeds",
+              "Soak seeds in clean water for 24 hours"
+            ],
+            "notes": [
+              "Good Telangana Sona seeds are clean, healthy, certified seeds of the RNR 15048 variety that give strong and uniform crop growth"
+            ]
+          },
+          "day_2": {
+            "tasks": [
+              "Drain water and keep seeds in a wet cloth or bag for 1–2 days to sprout"
+            ]
+          },
+          "day_3": {
+            "tasks": [
+              "Mix sprouted seeds with a little fungicide to protect from diseases"
+            ],
+            "notes": [
+              "If there is blast disease, spray tricyclazole at 200 grams per acre (or 1 gram per liter of water) on the affected crop and repeat after 10–15 days if needed. Always follow label instructions and use clean water for spraying"
+            ]
+          },
+          "day_4": {
+            "tasks": [
+              "Prepare nursery beds (about 1/20th of your main field)",
+              "Mix in well-rotted cow dung (FYM) or compost",
+              "Sow the sprouted seeds evenly",
+              "Water the nursery lightly"
+            ],
+            "notes": [
+              "FYM – farm yard manure"
+            ]
+          },
+          "day_5_to_7": {
+            "tasks": [
+              "Water nursery as needed (keep moist, not flooded)",
+              "Start the first ploughing of the main field"
+            ]
+          }
+        }
+      },
+      "week_2": {
+        "title": "Nursery and Field Preparation",
+        "day_range": "Days 8–14",
+        "days": {
+          "day_8_to_10": {
+            "tasks": [
+              "Check the nursery for pests or diseases",
+              "Do the second ploughing of the main field"
+            ]
+          },
+          "day_11_to_12": {
+            "tasks": [
+              "Remove weeds from the nursery, if present",
+              "Level the main field after ploughing"
+            ]
+          },
+          "day_13_to_14": {
+            "tasks": [
+              "Repair bunds (field borders) and make water channels",
+              "Keep the nursery moist"
+            ]
+          }
+        }
+      },
+      "week_3": {
+        "title": "Nursery Care and Field Puddling",
+        "day_range": "Days 15–21",
+        "days": {
+          "day_15_to_17": {
+            "tasks": [
+              "Continue nursery care",
+              "Flood the main field and puddle (churn) the soil to make it soft"
+            ]
+          },
+          "day_18_to_19": {
+            "tasks": [
+              "Level the puddled field for even water"
+            ]
+          },
+          "day_20_to_21": {
+            "tasks": [
+              "Let the field settle",
+              "Give the last watering to the nursery before pulling the seedlings"
+            ]
+          }
+        }
+      },
+      "week_4": {
+        "title": "Transplanting",
+        "day_range": "Days 22–28",
+        "days": {
+          "day_22": {
+            "tasks": [
+              "Carefully pull 21–25 day-old seedlings from the nursery",
+              "Bundle and keep roots moist"
+            ]
+          },
+          "day_23_to_24": {
+            "tasks": [
+              "Transplant seedlings in the main field at 20 x 20 cm spacing, 2–3 seedlings per spot, 5 cm deep"
+            ]
+          },
+          "day_25_to_26": {
+            "tasks": [
+              "Apply half potassium and all phosphorus as basal fertilizer",
+              "Add organic manure or compost if not already done"
+            ],
+            "notes": [
+              "Basal fertilizer is the nutrient applied to the soil before or at planting to help young plants grow strong from the start"
+            ]
+          },
+          "day_27_to_28": {
+            "tasks": [
+              "After planting, keep a thin layer of water (about ankle deep) about 5 cm in the field so the seedlings can stand and grow well"
+            ]
+          }
+        }
+      },
+      "week_5_to_6": {
+        "title": "Early Growth and First Weeding",
+        "day_range": "Days 29–42",
+        "days": {
+          "day_29_to_31": {
+            "tasks": [
+              "Check that the seedlings are standing well",
+              "Keep water at 5–7 cm"
+            ]
+          },
+          "day_32_to_35": {
+            "tasks": [
+              "Do the first weeding by hand or weeder (20–30 days after transplanting)"
+            ]
+          },
+          "day_36_to_42": {
+            "tasks": [
+              "Observe for pests and diseases of the crop",
+              "Continue regular watering of the crop"
+            ]
+          }
+        }
+      },
+      "week_7_to_8": {
+        "title": "Tillering and Fertilizer",
+        "day_range": "Days 43–56",
+        "days": {
+          "day_43_to_45": {
+            "tasks": [
+              "Add the first split of nitrogen and the remaining potassium as top dressing (at tillering stage)"
+            ],
+            "notes": [
+              "Top-dressing is when the rice plant starts growing more new stems (around 25–30 days after transplanting), lightly sprinkle nitrogen and potassium fertilizer on the soil near the plants. This is called top dressing — it gives the crop extra nutrients to grow strong and produce more grains"
+            ]
+          },
+          "day_46_to_49": {
+            "tasks": [
+              "Do a second weeding if needed"
+            ]
+          },
+          "day_50_to_56": {
+            "tasks": [
+              "Watch for pests (stem borers, leaf folders) and treat if needed",
+              "Maintain water at 5–7 cm"
+            ]
+          }
+        }
+      },
+      "week_9_to_10": {
+        "title": "Panicle Initiation and Nutrient Check",
+        "day_range": "Days 57–70",
+        "days": {
+          "day_57_to_60": {
+            "tasks": [
+              "Add the second split of nitrogen (at the panicle initiation stage)"
+            ]
+          },
+          "day_61_to_65": {
+            "tasks": [
+              "Check for yellowing or stunted growth (zinc deficiency) and apply zinc if needed"
+            ]
+          },
+          "day_66_to_70": {
+            "tasks": [
+              "Continue regular irrigation"
+            ]
+          }
+        }
+      },
+      "week_11_to_13": {
+        "title": "Flowering and Grain Filling",
+        "day_range": "Days 71–91",
+        "days": {
+          "day_71_to_77": {
+            "tasks": [
+              "Keep water at 5–7 cm during flowering"
+            ]
+          },
+          "day_78_to_84": {
+            "tasks": [
+              "Watch for pests (brown plant hopper, blast disease)",
+              "Apply pesticides only if needed"
+            ]
+          },
+          "day_85_to_91": {
+            "tasks": [
+              "Avoid water stress; keep the field moist"
+            ]
+          }
+        }
+      },
+      "week_14_to_16": {
+        "title": "Ripening and Harvest Prep",
+        "day_range": "Days 92–112",
+        "days": {
+          "day_92_to_100": {
+            "tasks": [
+              "Reduce irrigation as crop matures"
+            ]
+          },
+          "day_101_to_105": {
+            "tasks": [
+              "Drain field 7–10 days before harvest"
+            ]
+          },
+          "day_106_to_112": {
+            "tasks": [
+              "Check if most grains are golden yellow and hard",
+              "Arrange for harvesting tools or labor"
+            ]
+          }
+        }
+      },
+      "week_17": {
+        "title": "Harvest and Post-Harvest",
+        "day_range": "Days 113–120",
+        "days": {
+          "day_113_to_115": {
+            "tasks": [
+              "Harvest crop by cutting plants close to ground"
+            ]
+          },
+          "day_116_to_117": {
+            "tasks": [
+              "Stack bundles upright for 1–2 days to dry"
+            ]
+          },
+          "day_118_to_119": {
+            "tasks": [
+              "Thresh (separate grains from straw) using a thresher or by beating"
+            ]
+          },
+          "day_120": {
+            "tasks": [
+              "Sun-dry grains until hard and dry (about 14% moisture-hard to bite, not soft)",
+              "Store in clean, dry, pest-free bags or bins"
+            ]
+          }
+        }
+      }
+    },
+    "conclusion": "This schedule ensures timely operations for each stage of Telangana Sona rice, from nursery preparation to post-harvest techniques, maximizing yield and grain quality. Adjustments may be made for local weather, field conditions, or direct seeding methods. Regular monitoring and timely management of water, nutrients, weeds, pests, and diseases are crucial throughout the crop cycle."
+  }
+}

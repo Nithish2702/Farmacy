@@ -1,0 +1,157 @@
+[
+  {
+    "code": "NA1325",
+    "name": "Cotton",
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton",
+        "variety": "Narasimha",
+        "description": "Narasimha (NA1325) is a non-Bt cotton variety that is well-suited for farmers in Telangana, especially those with black or red soils and good drainage. It's a reliable, medium-duration variety that gives stable yields, is naturally tolerant to some pests, and is a good choice for farmers who want to avoid genetically modified (Bt) cotton.",
+        "cultivation_overview": "Narasimha (NA1325) is a reliable, non-Bt cotton variety perfect for Telangana farmers. It's easy to grow, gives stable yields, and fits well in local conditions. The variety has good yield potential, superior fibre quality, and value as a parent line in breeding programs. It's also recognized as an elite variety that can be used by breeders to introduce desirable traits into other cotton lines.",
+        "cultivated_in": "Telangana"
+      },
+      {
+        "language": "te",
+        "name": "పత్తి",
+        "variety": "నరసింహ",
+        "description": "నరసింహ (NA1325) అనేది బిటియేతర పత్తి రకం, ఇది తెలంగాణలోని రైతులకు, ముఖ్యంగా నలుపు లేదా ఎరుపు నేలలు మరియు మంచి నీటి పారుదల ఉన్న రైతులకు బాగా సరిపోతుంది. ఇది నమ్మదగిన, మధ్యస్థ-కాలిక రకం, ఇది స్థిరమైన దిగుబడిని ఇస్తుంది, కొన్ని తెగుళ్ళను సహజంగా తట్టుకుంటుంది మరియు జన్యుపరంగా మార్పు చెందిన (బిటి) పత్తిని నివారించాలనుకునే రైతులకు ఇది మంచి ఎంపిక.",
+        "cultivation_overview": "నరసింహ (NA1325) అనేది తెలంగాణ రైతులకు అనువైన నమ్మకమైన, బిటి పత్తియేతర రకం. ఇది పెరగడం సులభం, స్థిరమైన దిగుబడిని ఇస్తుంది మరియు స్థానిక పరిస్థితులకు బాగా సరిపోతుంది. ఈ రకం మంచి దిగుబడి సామర్థ్యం, ఉన్నతమైన ఫైబర్ నాణ్యత మరియు సంతానోత్పత్తి కార్యక్రమాలలో మాతృ శ్రేణిగా విలువను కలిగి ఉంది. ఇది ఇతర పత్తి రకాల్లో కావాల్సిన లక్షణాలను పరిచయం చేయడానికి పెంపకందారులు ఉపయోగించగల ఎలైట్ రకంగా కూడా గుర్తించబడింది.",
+        "cultivated_in": "తెలంగాణ"
+      },
+      {
+        "language": "hi",
+        "name": "कपास",
+        "variety": "नरसिंह",
+        "description": "नरसिंह (NA1325) एक गैर-बीटी कपास किस्म है जो तेलंगाना के किसानों के लिए उपयुक्त है, खासकर उन किसानों के लिए जिनके पास काली या लाल मिट्टी और अच्छी जल निकासी है। यह एक विश्वसनीय, मध्यम अवधि की किस्म है जो स्थिर उपज देती है, कुछ कीटों के प्रति स्वाभाविक रूप से सहनशील है, और उन किसानों के लिए एक अच्छा विकल्प है जो आनुवंशिक रूप से संशोधित (बीटी) कपास से बचना चाहते हैं।",
+        "cultivation_overview": "नरसिंह (NA1325) तेलंगाना के किसानों के लिए एक विश्वसनीय, गैर-बीटी कपास किस्म है। इसे उगाना आसान है, स्थिर उपज देता है, और स्थानीय परिस्थितियों में अच्छी तरह से फिट बैठता है। इस किस्म में अच्छी उपज क्षमता, बेहतर फाइबर गुणवत्ता और प्रजनन कार्यक्रमों में मूल रेखा के रूप में मूल्य है। इसे एक उत्कृष्ट किस्म के रूप में भी मान्यता प्राप्त है जिसका उपयोग प्रजनकों द्वारा अन्य कपास लाइनों में वांछनीय गुणों को पेश करने के लिए किया जा सकता है।",
+        "cultivated_in": "तेलंगाना"
+      }
+    ]
+  },
+  {
+    "code": "NDLH-1755",
+    "name": "Cotton",
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton",
+        "variety": "Shivanandi",
+        "description": "Shivanandi (NDLH-1755) is a non-Bt cotton variety developed to give farmers a reliable and high-yielding option for their fields. This variety is especially suitable for areas that depend on rainfall, as it can produce stable yields even when irrigation is limited. It is an improved American cotton (Gossypium hirsutum) developed for rainfed conditions in India.",
+        "cultivation_overview": "Shivanandi cotton gives good-quality fibre, which is important for getting better prices from traders and the textile industry. The plants grow uniformly and are healthy when you use certified seeds and follow proper spacing, making them easier to manage and harvest. The crop typically matures in about 150–180 days after sowing, with harvesting done in 3–4 rounds as bolls open.",
+        "cultivated_in": "Telangana"
+      },
+      {
+        "language": "te",
+        "name": "పత్తి",
+        "variety": "శివనంది",
+        "description": "శివనంది (NDLH-1755) అనేది రైతులకు వారి పొలాలకు నమ్మకమైన మరియు అధిక దిగుబడినిచ్చే ఎంపికను అందించడానికి అభివృద్ధి చేయబడిన నాన్-బిటి పత్తి రకం. ఈ రకం ముఖ్యంగా వర్షపాతంపై ఆధారపడిన ప్రాంతాలకు అనుకూలంగా ఉంటుంది, ఎందుకంటే ఇది నీటిపారుదల పరిమితంగా ఉన్నప్పుడు కూడా స్థిరమైన దిగుబడిని ఇవ్వగలదు. ఇది భారతదేశంలో వర్షాధార పరిస్థితుల కోసం అభివృద్ధి చేయబడిన మెరుగైన అమెరికన్ పత్తి (గోసిపియం హిర్సుటం).",
+        "cultivation_overview": "శివనంది పత్తి మంచి నాణ్యత గల ఫైబర్‌ను ఇస్తుంది, ఇది వ్యాపారులు మరియు వస్త్ర పరిశ్రమ నుండి మంచి ధరలను పొందడానికి ముఖ్యమైనది. మీరు ధృవీకరించబడిన విత్తనాలను ఉపయోగించినప్పుడు మరియు సరైన అంతరాన్ని అనుసరించినప్పుడు మొక్కలు సమానంగా పెరుగుతాయి మరియు ఆరోగ్యంగా ఉంటాయి, వాటి నిర్వహణ మరియు కోత సులభం అవుతుంది. పంట సాధారణంగా విత్తిన 150–180 రోజుల్లో పరిపక్వం చెందుతుంది, కాయలు వికసించినప్పుడు 3–4 రౌండ్లలో కోత జరుగుతుంది.",
+        "cultivated_in": "తెలంగాణ"
+      },
+      {
+        "language": "hi",
+        "name": "कपास",
+        "variety": "Shivanandi",
+        "description": "शिवानंदी (NDLH-1755) एक गैर-बीटी कपास किस्म है जिसे किसानों को उनके खेतों के लिए एक विश्वसनीय और उच्च उपज देने वाला विकल्प देने के लिए विकसित किया गया है। यह किस्म विशेष रूप से वर्षा पर निर्भर क्षेत्रों के लिए उपयुक्त है, क्योंकि यह सिंचाई सीमित होने पर भी स्थिर उपज दे सकती है। यह भारत में वर्षा आधारित परिस्थितियों के लिए विकसित एक उन्नत अमेरिकी कपास (गोसिपियम हिर्सुटम) है।",
+        "cultivation_overview": "शिवानंदी कपास अच्छी गुणवत्ता वाला फाइबर देता है, जो व्यापारियों और कपड़ा उद्योग से बेहतर मूल्य प्राप्त करने के लिए महत्वपूर्ण है। जब आप प्रमाणित बीज का उपयोग करते हैं और उचित अंतराल का पालन करते हैं तो पौधे समान रूप से बढ़ते हैं और स्वस्थ होते हैं, जिससे उन्हें प्रबंधित करना और काटना आसान हो जाता है। फसल आमतौर पर बुवाई के लगभग 150-180 दिनों में पक जाती है, और 3-4 बार में कटाई की जाती है जब बीजकोष खुलते हैं।",
+        "cultivated_in": "तेलंगाना"
+      }
+    ]
+  },
+  {
+    "code": "NDLH-1938",
+    "name": "Cotton",
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton",
+        "variety": "Sri Rama",
+        "description": "Sri Rama (NDLH-1938) is a non-Bt American cotton (Gossypium hirsutum) variety developed by Acharya N.G. Ranga Agricultural University, Nandyal, and released in 2016. It is the result of a cross between NDLH-1797 and NDLH-1325. This variety matures in about 160 days and is suitable for both rainfed and irrigated conditions in southern and central India.",
+        "cultivation_overview": "Sri Rama is known for its medium plant height and spreading growth habit. It produces good quality fibre with a ginning outturn of around 33.4%, a fibre length of approximately 28 mm, and strong bundle strength, making it suitable for spinning and textile use. The average seed cotton yield is about 19.2 quintals per hectare under recommended management.",
+        "cultivated_in": "Southern and Central India"
+      },
+      {
+        "language": "te",
+        "name": "పత్తి",
+        "variety": "రాముడు",
+        "description": "శ్రీరామ (NDLH-1938) అనేది నంద్యాలలోని ఆచార్య NG రంగా వ్యవసాయ విశ్వవిద్యాలయం అభివృద్ధి చేసిన నాన్-బిటి అమెరికన్ పత్తి (గోసిపియం హిర్సుటం) రకం మరియు ఇది 2016లో విడుదల చేయబడింది. ఇది NDLH-1797 మరియు NDLH-1325 మధ్య సంకరం ఫలితంగా వచ్చింది. ఈ రకం దాదాపు 160 రోజుల్లో పరిపక్వం చెందుతుంది మరియు దక్షిణ మరియు మధ్య భారతదేశంలో వర్షాధార మరియు నీటిపారుదల పరిస్థితులకు అనుకూలంగా ఉంటుంది.",
+        "cultivation_overview": "శ్రీరామ మొక్క మధ్యస్థ మొక్కల ఎత్తు మరియు వ్యాప్తి చెందుతున్న పెరుగుదల అలవాటుకు ప్రసిద్ధి చెందింది. ఇది మంచి నాణ్యమైన ఫైబర్‌ను ఉత్పత్తి చేస్తుంది, ఇది దాదాపు 33.4% జిన్నింగ్ అవుట్‌టర్న్, సుమారు 28 మిమీ ఫైబర్ పొడవు మరియు బలమైన కట్ట బలాన్ని కలిగి ఉంటుంది, ఇది స్పిన్నింగ్ మరియు వస్త్ర వినియోగానికి అనుకూలంగా ఉంటుంది. సిఫార్సు చేయబడిన నిర్వహణలో సగటు విత్తన పత్తి దిగుబడి హెక్టారుకు 19.2 క్వింటాళ్లు.",
+        "cultivated_in": "దక్షిణ మరియు మధ్య భారతదేశం"
+      },
+      {
+        "language": "hi",
+        "name": "कपास",
+        "variety": "भगवान राम",
+        "description": "श्री राम (NDLH-1938) आचार्य एनजी रंगा कृषि विश्वविद्यालय, नंदयाल द्वारा विकसित एक गैर-बीटी अमेरिकी कपास (गोसिपियम हिर्सुटम) किस्म है, जिसे 2016 में जारी किया गया था। यह NDLH-1797 और NDLH-1325 के बीच क्रॉस का परिणाम है। यह किस्म लगभग 160 दिनों में पक जाती है और दक्षिणी और मध्य भारत में वर्षा आधारित और सिंचित दोनों स्थितियों के लिए उपयुक्त है।",
+        "cultivation_overview": "श्री रामा अपने मध्यम पौधे की ऊंचाई और फैलने वाली वृद्धि की आदत के लिए जाना जाता है। यह लगभग 33.4% की ओटने की क्षमता, लगभग 28 मिमी की फाइबर लंबाई और मजबूत बंडल ताकत के साथ अच्छी गुणवत्ता वाले फाइबर का उत्पादन करता है, जो इसे कताई और कपड़ा उपयोग के लिए उपयुक्त बनाता है। अनुशंसित प्रबंधन के तहत औसत बीज कपास की उपज लगभग 19.2 क्विंटल प्रति हेक्टेयर है।",
+        "cultivated_in": "दक्षिणी और मध्य भारत"
+      }
+    ]
+  },
+  {
+    "code": "ADB-542",
+    "name": "Cotton",
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton",
+        "variety": "Adilabad Kapas-1",
+        "description": "Adilabad Kapas-1 (ADB-542) is a non-Bt cotton variety developed by the Agricultural Research Station in Adilabad, Telangana. It is particularly suited for rainfed conditions and is known for its compact plant type, large bolls, and resistance to major diseases and pests.",
+        "cultivation_overview": "This medium-duration variety takes 150-170 days to mature and produces large bolls weighing 4.1-6.0 grams each. It offers excellent fiber quality with a staple length of 27.3-32 mm and fiber strength of 20.6 g/tex, making it highly suitable for spinning and textile use.",
+        "cultivated_in": "Telangana"
+      },
+      {
+        "language": "te",
+        "name": "పత్తి",
+        "variety": "Adilabad Kapas-1",
+        "description": "ఆదిలాబాద్ కపాస్-1 (ADB-542) అనేది తెలంగాణలోని ఆదిలాబాద్‌లోని వ్యవసాయ పరిశోధనా కేంద్రం అభివృద్ధి చేసిన నాన్-బిటి పత్తి రకం. ఇది వర్షాధార పరిస్థితులకు ప్రత్యేకంగా అనుకూలంగా ఉంటుంది మరియు దాని కాంపాక్ట్ మొక్కల రకం, పెద్ద కాయలు మరియు ప్రధాన వ్యాధులు మరియు తెగుళ్ళకు నిరోధకతకు ప్రసిద్ధి చెందింది.",
+        "cultivation_overview": "ఈ మధ్యస్థ-కాలిక రకం పరిపక్వతకు 150-170 రోజులు పడుతుంది మరియు ఒక్కొక్కటి 4.1-6.0 గ్రాముల బరువున్న పెద్ద కాయలను ఉత్పత్తి చేస్తుంది. ఇది 27.3-32 మిమీ ప్రధాన పొడవు మరియు 20.6 గ్రా/టెక్స్ ఫైబర్ బలంతో అద్భుతమైన ఫైబర్ నాణ్యతను అందిస్తుంది, ఇది స్పిన్నింగ్ మరియు వస్త్ర వినియోగానికి అత్యంత అనుకూలంగా ఉంటుంది.",
+        "cultivated_in": "తెలంగాణ"
+      },
+      {
+        "language": "hi",
+        "name": "कपास",
+        "variety": "आदिलाबाद कपास-1",
+        "description": "आदिलाबाद कपास-1 (ADB-542) तेलंगाना के आदिलाबाद में कृषि अनुसंधान केंद्र द्वारा विकसित एक गैर-बीटी कपास किस्म है। यह विशेष रूप से वर्षा आधारित परिस्थितियों के लिए उपयुक्त है और अपने कॉम्पैक्ट पौधे के प्रकार, बड़े गुच्छों और प्रमुख रोगों और कीटों के प्रति प्रतिरोध के लिए जाना जाता है।",
+        "cultivation_overview": "यह मध्यम अवधि की किस्म 150-170 दिन में पक जाती है और प्रत्येक 4.1-6.0 ग्राम वजन वाले बड़े गोले बनाती है। यह 27.3-32 मिमी की स्टेपल लंबाई और 20.6 ग्राम/टेक्स की फाइबर ताकत के साथ उत्कृष्ट फाइबर गुणवत्ता प्रदान करता है, जो इसे कताई और कपड़ा उपयोग के लिए अत्यधिक उपयुक्त बनाता है।",
+        "cultivated_in": "तेलंगाना"
+      }
+    ]
+  },
+  {
+    "code": "WGCV-48",
+    "name": "Cotton",
+    "image_urls": [],
+    "translations": [
+      {
+        "language": "en",
+        "name": "Cotton",
+        "variety": "Warangal Cotton Variety-48",
+        "description": "WGCV-48 (Warangal Cotton Variety-48) is a non-Bt cotton variety developed for rainfed and irrigated conditions in Telangana. It is particularly known for its early maturity and high yield potential, making it a reliable choice for farmers seeking an early, high-yielding, non-Bt cotton option.",
+        "cultivation_overview": "This variety stands out for its early square initiation (41 days), early flowering (66 days), and early boll bursting (93 days), which helps farmers harvest sooner and reduce risks from late-season pests or weather. It performs exceptionally well under high-density planting systems.",
+        "cultivated_in": "Telangana"
+      },
+      {
+        "language": "te",
+        "name": "పత్తి",
+        "variety": "వరంగల్ కాటన్ వెరైటీ-48",
+        "description": "WGCV-48 (వరంగల్ కాటన్ వెరైటీ-48) అనేది తెలంగాణలో వర్షాధార మరియు నీటిపారుదల పరిస్థితుల కోసం అభివృద్ధి చేయబడిన నాన్-బిటి పత్తి రకం. ఇది ముఖ్యంగా దాని ప్రారంభ పరిపక్వత మరియు అధిక దిగుబడి సామర్థ్యానికి ప్రసిద్ధి చెందింది, ఇది ముందస్తు, అధిక దిగుబడినిచ్చే, నాన్-బిటి పత్తి ఎంపికను కోరుకునే రైతులకు నమ్మదగిన ఎంపికగా చేస్తుంది.",
+        "cultivation_overview": "ఈ రకం దాని ప్రారంభ చతురస్రాకార ప్రారంభం (41 రోజులు), ప్రారంభ పుష్పించేది (66 రోజులు) మరియు ప్రారంభ కాయ పగిలిపోవడం (93 రోజులు) ద్వారా ప్రత్యేకంగా నిలుస్తుంది, ఇది రైతులకు త్వరగా పంట కోయడానికి మరియు చివరి సీజన్ తెగుళ్లు లేదా వాతావరణం నుండి వచ్చే నష్టాలను తగ్గించడానికి సహాయపడుతుంది. ఇది అధిక సాంద్రత గల నాటడం వ్యవస్థలలో అసాధారణంగా బాగా పనిచేస్తుంది.",
+        "cultivated_in": "తెలంగాణ"
+      },
+      {
+        "language": "hi",
+        "name": "कपास",
+        "variety": "वारंगल कपास किस्म-48",
+        "description": "WGCV-48 (वारंगल कॉटन वैरायटी-48) तेलंगाना में वर्षा आधारित और सिंचित परिस्थितियों के लिए विकसित एक गैर-बीटी कपास किस्म है। यह विशेष रूप से अपनी जल्दी पकने वाली और उच्च उपज क्षमता के लिए जानी जाती है, जो इसे जल्दी पकने वाली, उच्च उपज वाली, गैर-बीटी कपास की तलाश करने वाले किसानों के लिए एक विश्वसनीय विकल्प बनाती है।",
+        "cultivation_overview": "यह किस्म अपनी शुरुआती वर्गाकार शुरुआत (41 दिन), शुरुआती फूल (66 दिन) और शुरुआती बॉल फूटने (93 दिन) के लिए जानी जाती है, जिससे किसानों को जल्दी फसल काटने में मदद मिलती है और देर से आने वाले कीटों या मौसम से होने वाले जोखिम को कम किया जा सकता है। यह उच्च घनत्व वाली रोपण प्रणालियों के तहत असाधारण रूप से अच्छा प्रदर्शन करता है।",
+        "cultivated_in": "तेलंगाना"
+      }
+    ]
+  }
+]
